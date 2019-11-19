@@ -1,0 +1,8 @@
+concept,name,concept_type
+year,År,time
+region,Region,entity_domain
+diagnos,Diagnos,entity_domain
+sex,Kön,entity_domain
+age,Ålder,entity_domain
+number_of_deaths,Antal döda,measure
+name,Name,string
