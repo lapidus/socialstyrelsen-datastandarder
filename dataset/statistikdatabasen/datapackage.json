@@ -1,0 +1,195 @@
+{
+    "name": "ddf--dodsorsaker--number_of_deaths",
+    "language": {
+        "id": "sv"
+    },
+    "created": "2019-11-11T13:30:00",
+    "resources": [
+        {
+            "path": "ddf--datapoints--number_of_deaths--by--year--region--diagnos--sex--age.csv",
+            "name": "ddf--datapoints--number_of_deaths--by--year--region--diagnos--sex--age",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "diagnos"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "number_of_deaths"
+                    }
+                ],
+                "primaryKey": [
+                    "year",
+					"region",
+					"diagnos",
+					"sex",
+                    "age"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--region.csv",
+            "name": "ddf--entities--region",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "region"
+            }
+        },
+        {
+            "path": "ddf--entities--diagnos.csv",
+            "name": "ddf--entities--diagnos",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "diagnos"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "diagnos"
+            }
+        },
+        {
+            "path": "ddf--entities--sex.csv",
+            "name": "ddf--entities--sex",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "sex"
+            }
+        },
+        {
+            "path": "ddf--entities--age.csv",
+            "name": "ddf--entities--age",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "age"
+            }
+        },
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        }
+    ],
+    "ddfSchema": {
+        "concepts": [
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "concept_type",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "primaryKey": [
+                    "region"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "diagnos"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--diagnos"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "sex"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--age"
+                ]
+            }
+        ],
+        "datapoints": [
+            {
+                "primaryKey": [
+                    "year",
+					"region",
+					"diagnos",
+					"sex",
+                    "age"
+                ],
+                "value": "number_of_deaths",
+                "resources": [
+                    "ddf--datapoints--number_of_deaths--by--year--region--diagnos--sex--age"
+                ]
+            }
+        ]
+    }
+}
