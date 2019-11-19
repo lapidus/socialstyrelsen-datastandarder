@@ -1,0 +1,8 @@
+IndelningTYP,IndelningETIKETT,IndelningKOD,Kod i patientregistret
+FOD,Sverige,1,SVERIGE
+FOD,Övriga Norden ,2,"NORGE, DANMARK, ISLAND, FINLAND"
+FOD,EU28 (exkl norden),3,"BELGIEN, BULGARIEN, CYPERN, ESTLAND, FRANKRIKE, GREKLAND, IRLAND, ITALIEN, KROATIEN, LETTLAND, LITAUEN, LUXEMBURG, MALTA, NEDERLŽNDERNA, POLEN, PORTUGAL, RUMŽNIEN, SLOVAKIEN, SLOVENIEN, SPANIEN, STORBRITANNIEN OCH NORDIRLAND, TJECKIEN, TYSKLAND, UNGERN, ÖSTERRIKE (OBS! andra varianter kan förekomma t ex äldre namn pÅ länderna)"
+FOD,EU28 (exkl. sverige),4,Se ovanför (IndelningKOD 2+3)
+FOD,Finland,5,FINLAND
+FOD,Övriga Norden exkl Finland ,6,"NORGE, DANMARK, ISLAND"
+FOD,Övriga världen (exkl EU28),7,Övriga länder än ovan
