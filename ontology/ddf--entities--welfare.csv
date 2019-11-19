@@ -1,0 +1,6 @@
+IndelningTYP,IndelningETIKETT,IndelningKOD,
+EKBIST,0 mÅnader under 3-årsperiod,0,
+EKBIST,1-9 mÅnader under 3-årsperiod,1,
+EKBIST,10 eller fler månader under 3-årsperiod,2,
+EKBIST,"Ja, mottagit under året",3,
+EKBIST,"Nej, inte mottagit under året",4,
