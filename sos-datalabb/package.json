@@ -1,0 +1,17 @@
+{
+  "name": "sos-datalabb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "ddf-validation": "^1.19.3",
+    "download-git-repo": "^3.0.2",
+    "next": "9.1.4",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}
