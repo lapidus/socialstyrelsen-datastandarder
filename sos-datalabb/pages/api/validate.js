@@ -2,12 +2,16 @@ const ddf = require("ddf-validation");
 const download = require("download-git-repo");
 
 export default (req, res) => {
-  download("lapidus/socialstyrelsen-datastandarder", "/tmp", function(err) {
+  console.log("testing download");
+
+  download("lapidus/socialstyrelsen-datastandarder", "/tmp/repo", function(
+    err
+  ) {
     console.log(err ? "Error" : "Success");
 
     const StreamValidator = ddf.StreamValidator;
 
-    const streamValidator = new StreamValidator("/tmp/ontology", {
+    const streamValidator = new StreamValidator("/tmp/repo/ontology", {
       isSummaryNeeded: true
     });
 

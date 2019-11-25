@@ -22,7 +22,7 @@ const Home = () => (
           <h3>Dokumentation</h3>
           <p>Lär dig mer om data på Sos</p>
         </a>
-        <a href="api/index" className="card">
+        <a href="api/validate" className="card">
           <h3>Validering</h3>
           <p>Här får du feedback på dataset</p>
         </a>
