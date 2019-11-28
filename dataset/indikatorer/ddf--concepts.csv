@@ -1,0 +1,18 @@
+concept,name,concept_type
+tidsperiod,Tidsperiod,time
+indikator,Indikator,entity_domain
+plats,Plats,entity_domain
+vardegrupp,Värdegrupp,entity_domain
+vardetyp,Värdetyp,entity_domain
+antal_fall,Antal fall,measure
+konfidensintervall_lag,Konfidensintervall låg,measure
+konfidensintervall_hog,Konfidensintervall hög,measure
+varde,Värde,measure
+ordning,Ordning,string
+decimaler,Decimaler,string
+kalla,Källa,string
+namn,Namn,string
+titel,Titel,string
+name,Name,string
+del_av_plats,Del av plats,string
+tecken,Tecken,string

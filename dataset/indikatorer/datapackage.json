@@ -1,0 +1,322 @@
+{
+  "name": "oj_hs_importfil",
+  "title": "ÖJ HS importfil OJ_HS_2019-03-12",
+  "description": "",
+  "version": "0.0.1",
+  "language": {
+    "id": "sv",
+    "name": "Svenska"
+  },
+  "translations": [],
+  "license": "",
+  "author": "",
+  "resources": [
+    {
+      "path": "ddf--concepts.csv",
+      "name": "ddf--concepts",
+      "schema": {
+        "fields": [
+          {
+            "name": "concept"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "concept_type"
+          }
+        ],
+        "primaryKey": "concept"
+      }
+    },
+    {
+      "path": "ddf--datapoints--antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp.csv",
+      "name": "antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp",
+      "schema": {
+        "fields": [
+          {
+            "name": "tidsperiod"
+          },
+          {
+            "name": "indikator"
+          },
+          {
+            "name": "plats"
+          },
+          {
+            "name": "vardegrupp"
+          },
+          {
+            "name": "vardetyp"
+          },
+          {
+            "name": "antal_fall"
+          },
+          {
+            "name": "konfidensintervall_lag"
+          },
+          {
+            "name": "konfidensintervall_hog"
+          },
+          {
+            "name": "varde"
+          }
+        ],
+        "primaryKey": [
+          "tidsperiod",
+          "indikator",
+          "plats",
+          "vardegrupp",
+          "vardetyp"
+        ]
+      }
+    },
+    {
+      "path": "ddf--entities--indikator.csv",
+      "name": "indikator",
+      "schema": {
+        "fields": [
+          {
+            "name": "indikator"
+          },
+          {
+            "name": "ordning"
+          },
+          {
+            "name": "decimaler"
+          },
+          {
+            "name": "kalla"
+          },
+          {
+            "name": "namn"
+          },
+          {
+            "name": "titel"
+          }
+        ],
+        "primaryKey": "indikator"
+      }
+    },
+    {
+      "path": "ddf--entities--plats.csv",
+      "name": "plats",
+      "schema": {
+        "fields": [
+          {
+            "name": "plats"
+          },
+          {
+            "name": "namn"
+          },
+          {
+            "name": "del_av_plats"
+          }
+        ],
+        "primaryKey": "plats"
+      }
+    },
+    {
+      "path": "ddf--entities--vardegrupp.csv",
+      "name": "vardegrupp",
+      "schema": {
+        "fields": [
+          {
+            "name": "vardegrupp"
+          },
+          {
+            "name": "namn"
+          }
+        ],
+        "primaryKey": "vardegrupp"
+      }
+    },
+    {
+      "path": "ddf--entities--vardetyp.csv",
+      "name": "vardetyp",
+      "schema": {
+        "fields": [
+          {
+            "name": "vardetyp"
+          },
+          {
+            "name": "namn"
+          },
+          {
+            "name": "tecken"
+          }
+        ],
+        "primaryKey": "vardetyp"
+      }
+    }
+  ],
+  "ddfSchema": {
+    "datapoints": [
+      {
+        "primaryKey": [
+          "indikator",
+          "plats",
+          "tidsperiod",
+          "vardegrupp",
+          "vardetyp"
+        ],
+        "value": "antal_fall",
+        "resources": [
+          "antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator",
+          "plats",
+          "tidsperiod",
+          "vardegrupp",
+          "vardetyp"
+        ],
+        "value": "konfidensintervall_hog",
+        "resources": [
+          "antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator",
+          "plats",
+          "tidsperiod",
+          "vardegrupp",
+          "vardetyp"
+        ],
+        "value": "konfidensintervall_lag",
+        "resources": [
+          "antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator",
+          "plats",
+          "tidsperiod",
+          "vardegrupp",
+          "vardetyp"
+        ],
+        "value": "varde",
+        "resources": [
+          "antal_fall--konfidensintervall_lag--konfidensintervall_hog--varde--by--tidsperiod--indikator--plats--vardegrupp--vardetyp"
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "primaryKey": [
+          "indikator"
+        ],
+        "value": "decimaler",
+        "resources": [
+          "indikator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator"
+        ],
+        "value": "kalla",
+        "resources": [
+          "indikator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator"
+        ],
+        "value": "namn",
+        "resources": [
+          "indikator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator"
+        ],
+        "value": "ordning",
+        "resources": [
+          "indikator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indikator"
+        ],
+        "value": "titel",
+        "resources": [
+          "indikator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "plats"
+        ],
+        "value": "del_av_plats",
+        "resources": [
+          "plats"
+        ]
+      },
+      {
+        "primaryKey": [
+          "plats"
+        ],
+        "value": "namn",
+        "resources": [
+          "plats"
+        ]
+      },
+      {
+        "primaryKey": [
+          "vardegrupp"
+        ],
+        "value": "namn",
+        "resources": [
+          "vardegrupp"
+        ]
+      },
+      {
+        "primaryKey": [
+          "vardetyp"
+        ],
+        "value": "namn",
+        "resources": [
+          "vardetyp"
+        ]
+      },
+      {
+        "primaryKey": [
+          "vardetyp"
+        ],
+        "value": "tecken",
+        "resources": [
+          "vardetyp"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "concept_type",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "name",
+        "resources": [
+          "ddf--concepts"
+        ]
+      }
+    ],
+    "synonyms": []
+  }
+}
