@@ -1,0 +1,7 @@
+{
+  "project": {
+    "name": "sos-datalabb",
+    "alias": ["sos-datalabb.now.sh", "sos-datalabb"],
+    "version": 2
+  }
+}

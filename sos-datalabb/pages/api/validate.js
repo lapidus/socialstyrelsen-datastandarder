@@ -2,7 +2,11 @@ const ddf = require("ddf-validation");
 const download = require("download-git-repo");
 
 export default (req, res) => {
-  console.log("testing download");
+  console.log("req", req.query);
+
+  if (!req.query.dataset) return res.end("No ?dataset provided");
+
+  const dataset = req.query.dataset;
 
   download("lapidus/socialstyrelsen-datastandarder", "/tmp/repo", function(
     err
@@ -11,7 +15,13 @@ export default (req, res) => {
 
     const StreamValidator = ddf.StreamValidator;
 
-    const streamValidator = new StreamValidator("/tmp/repo/ontology", {
+    let datasetPath = "/tmp/repo/ontology";
+
+    if (dataset !== "ontology") {
+      datasetPath = "/tmp/repo/dataset/" + dataset;
+    }
+
+    const streamValidator = new StreamValidator(datasetPath, {
       isSummaryNeeded: true
     });
 
@@ -22,7 +32,7 @@ export default (req, res) => {
     });
 
     streamValidator.on("finish", err => {
-      console.log("finished with issues", issues);
+      // console.log("finished with issues", issues);
 
       res.setHeader("Content-Type", "application/json");
       res.statusCode = 200;

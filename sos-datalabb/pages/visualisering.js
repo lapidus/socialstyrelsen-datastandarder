@@ -1,6 +1,11 @@
 import React from "react";
 import Head from "next/head";
 import Nav from "../components/nav";
+import LineChart from "../components/vis/LineChart";
+import BarChart from "../components/vis/BarChart";
+import ScatterChart from "../components/vis/ScatterChart";
+import SankeyChart from "../components/vis/Sankey";
+import Map from "../components/vis/Map";
 
 const Home = () => (
   <div>
@@ -8,46 +13,37 @@ const Home = () => (
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-
     <Nav />
-
     <div className="hero">
-      <h1 className="title">Sos Datalab</h1>
-      <p className="description">
-        Översikt över dataset, datastandarder och visualiseringskomponenter.
-      </p>
+      <h1 className="title">Visualisering</h1>
+      <p className="description">Byggstenar för Datavisualisering i React</p>
+    </div>
+    <div style={{ display: "flex" }}>
+      <div style={{ width: "50%", height: "400px" }}>
+        <LineChart />
+      </div>
 
-      <div className="row">
-        <a href="/" className="card">
-          <h3>Dokumentation</h3>
-          <p>Lär dig mer om data på Sos</p>
-        </a>
-        <div className="card">
-          <h3>Validering</h3>
-          <p>Här får du feedback på dataset</p>
-          <ul>
-            <li>
-              <a href="api/validate?dataset=ontology" target="_blank">
-                Validera ontologi
-              </a>
-            </li>
-            <li>
-              {" "}
-              <a href="api/validate?dataset=indikatorer" target="_blank">
-                Validera indikatorer
-              </a>
-            </li>
-          </ul>
-        </div>
-        {/* <a href="api/validate" className="card">
-          <h3>Validering</h3>
-          <p>Här får du feedback på dataset</p>
-        </a> */}
+      <div style={{ width: "50%", height: "400px" }}>
+        <BarChart />
+      </div>
+    </div>
 
-        <a href="/visualisering" className="card">
-          <h3>Datavisualisering</h3>
-          <p>Här utvecklar vi visualiseringskomponenter för Sos</p>
-        </a>
+    <div style={{ display: "flex" }}>
+      <div style={{ width: "50%", height: "400px" }}>
+        <SankeyChart />
+      </div>
+
+      <div style={{ width: "50%", height: "400px" }}>
+        <ScatterChart />
+      </div>
+    </div>
+
+    <div style={{ display: "flex" }}>
+      <div style={{ width: "50%", height: "400px" }}>
+        <Map />
+      </div>
+      <div style={{ width: "50%", height: "400px" }}>
+        <Map type="muni" />
       </div>
     </div>
 
