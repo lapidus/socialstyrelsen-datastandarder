@@ -1,0 +1,15 @@
+concept,concept_type,name
+age,entity_domain,Åldersgrupp
+sex,entity_domain,Kön
+birth_geo,entity_domain,Födelseland eller region
+unit,entity_domain,Enhet
+education_level,entity_domain,Utbildningsnivå
+diagnos,entity_domain,Diagnoskod
+region,entity_domain,Region
+indicator,entity_domain,Indikator
+decimals,string,Decimaler
+source,string,Källa
+name,string,Namn
+sign,string,Tecken
+sort_order,string,Ordning
+patient_registry_code,string,Kod i patientregistret

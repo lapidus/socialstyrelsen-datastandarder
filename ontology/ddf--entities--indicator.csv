@@ -43,7 +43,7 @@ indicator,sort_order,decimals,source,name
 343,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Upplevd väntetid till till besök och behandling på sjukhus
 344,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Upplevd telefontillgänglighet till 1177
 35,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Strukturjusterad hälso- och sjukvårdskostnad
-35A,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Extradiagram: Sjukvårdskostn per inv och verksamhet
+35a,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Extradiagram: Sjukvårdskostn per inv och verksamhet
 500,,0,"Läkemedelsregistret, Socialstyrelsen",XXXXXbortagenExtradiagram: Justerad läkemedelkostnad per invånare
 36,,0,"Sveriges Kommuner och Landsting, Statistiska centralbyrån samt Patientregistret, Socialstyrelsen",Kostnader per konsumerad DRG-poäng
 37,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per producerad DRG-poäng 
