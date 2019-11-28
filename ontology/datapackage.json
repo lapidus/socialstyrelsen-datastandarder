@@ -1,0 +1,311 @@
+{
+  "name": "ontology",
+  "title": "ontology",
+  "description": "",
+  "version": "0.0.1",
+  "language": {
+    "id": "en",
+    "name": "English"
+  },
+  "translations": [],
+  "license": "",
+  "author": "",
+  "resources": [
+    {
+      "path": "ddf--concepts.csv",
+      "name": "ddf--concepts",
+      "schema": {
+        "fields": [
+          {
+            "name": "concept"
+          },
+          {
+            "name": "concept_type"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "concept"
+      }
+    },
+    {
+      "path": "ddf--entities--age.csv",
+      "name": "age",
+      "schema": {
+        "fields": [
+          {
+            "name": "age"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "age"
+      }
+    },
+    {
+      "path": "ddf--entities--birth_geo.csv",
+      "name": "birth_geo",
+      "schema": {
+        "fields": [
+          {
+            "name": "name"
+          },
+          {
+            "name": "birth_geo"
+          },
+          {
+            "name": "patient_registry_code"
+          }
+        ],
+        "primaryKey": "birth_geo"
+      }
+    },
+    {
+      "path": "ddf--entities--diagnos.csv",
+      "name": "diagnos",
+      "schema": {
+        "fields": [
+          {
+            "name": "diagnos"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "diagnos"
+      }
+    },
+    {
+      "path": "ddf--entities--education_level.csv",
+      "name": "education_level",
+      "schema": {
+        "fields": [
+          {
+            "name": "education_level"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "education_level"
+      }
+    },
+    {
+      "path": "ddf--entities--indicator.csv",
+      "name": "indicator",
+      "schema": {
+        "fields": [
+          {
+            "name": "indicator"
+          },
+          {
+            "name": "sort_order"
+          },
+          {
+            "name": "decimals"
+          },
+          {
+            "name": "source"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "indicator"
+      }
+    },
+    {
+      "path": "ddf--entities--region.csv",
+      "name": "region",
+      "schema": {
+        "fields": [
+          {
+            "name": "region"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "region"
+      }
+    },
+    {
+      "path": "ddf--entities--sex.csv",
+      "name": "sex",
+      "schema": {
+        "fields": [
+          {
+            "name": "sex"
+          },
+          {
+            "name": "name"
+          }
+        ],
+        "primaryKey": "sex"
+      }
+    },
+    {
+      "path": "ddf--entities--unit.csv",
+      "name": "unit",
+      "schema": {
+        "fields": [
+          {
+            "name": "unit"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "sign"
+          }
+        ],
+        "primaryKey": "unit"
+      }
+    }
+  ],
+  "ddfSchema": {
+    "datapoints": [],
+    "entities": [
+      {
+        "primaryKey": [
+          "age"
+        ],
+        "value": "name",
+        "resources": [
+          "age"
+        ]
+      },
+      {
+        "primaryKey": [
+          "birth_geo"
+        ],
+        "value": "name",
+        "resources": [
+          "birth_geo"
+        ]
+      },
+      {
+        "primaryKey": [
+          "birth_geo"
+        ],
+        "value": "patient_registry_code",
+        "resources": [
+          "birth_geo"
+        ]
+      },
+      {
+        "primaryKey": [
+          "diagnos"
+        ],
+        "value": "name",
+        "resources": [
+          "diagnos"
+        ]
+      },
+      {
+        "primaryKey": [
+          "education_level"
+        ],
+        "value": "name",
+        "resources": [
+          "education_level"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indicator"
+        ],
+        "value": "decimals",
+        "resources": [
+          "indicator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indicator"
+        ],
+        "value": "name",
+        "resources": [
+          "indicator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indicator"
+        ],
+        "value": "sort_order",
+        "resources": [
+          "indicator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "indicator"
+        ],
+        "value": "source",
+        "resources": [
+          "indicator"
+        ]
+      },
+      {
+        "primaryKey": [
+          "region"
+        ],
+        "value": "name",
+        "resources": [
+          "region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "sex"
+        ],
+        "value": "name",
+        "resources": [
+          "sex"
+        ]
+      },
+      {
+        "primaryKey": [
+          "unit"
+        ],
+        "value": "name",
+        "resources": [
+          "unit"
+        ]
+      },
+      {
+        "primaryKey": [
+          "unit"
+        ],
+        "value": "sign",
+        "resources": [
+          "unit"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "concept_type",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "name",
+        "resources": [
+          "ddf--concepts"
+        ]
+      }
+    ],
+    "synonyms": []
+  }
+}

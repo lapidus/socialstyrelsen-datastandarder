@@ -1,0 +1,8 @@
+"name","birth_geo","patient_registry_code"
+"Sverige",1,"SVERIGE"
+"Övriga Norden ",2,"NORGE, DANMARK, ISLAND, FINLAND"
+"EU28 (exkl norden)",3,"BELGIEN, BULGARIEN, CYPERN, ESTLAND, FRANKRIKE, GREKLAND, IRLAND, ITALIEN, KROATIEN, LETTLAND, LITAUEN, LUXEMBURG, MALTA, NEDERLŽNDERNA, POLEN, PORTUGAL, RUMŽNIEN, SLOVAKIEN, SLOVENIEN, SPANIEN, STORBRITANNIEN OCH NORDIRLAND, TJECKIEN, TYSKLAND, UNGERN, ÖSTERRIKE (OBS! andra varianter kan förekomma t ex äldre namn pÅ länderna)"
+"EU28 (exkl. sverige)",4,"Se ovanför (IndelningKOD 2+3)"
+"Finland",5,"FINLAND"
+"Övriga Norden exkl Finland ",6,"NORGE, DANMARK, ISLAND"
+"Övriga världen (exkl EU28)",7,"Övriga länder än ovan"
