@@ -1,15 +1,15 @@
-Indelningstyper,IndelningTYP,
-Hemlän,HLAN,
-Region som är sjukvårdshuvudman (landsting/sekundärkommun och region gotland - produktion), REG
-Riket,RR ,
-Sjukhus/kliniker,SJH,
-Utbildningsgrupper ,UTB,
-Kommun (hem),HKOM,
-Födelseland ,FOD,
-Sjukvårdsregion (hem),HSREG,
-Civilstånd,CIV,
-Produktionslän,PLAN,
-Sjukvårdsregion (produktion),PSREG,
-Kommun (produktion),PKOM,
-Äldreboenden,SABO,
-Ekonomiskt bistånd,EKBIST,
+indelningtyp,indelningstyper
+hlan,Hemlän
+reg,Region som är sjukvårdshuvudman (landsting/sekundärkommun och region gotland - produktion)
+rr,Riket
+sjh,Sjukhus/kliniker
+utb,Utbildningsgrupper
+hkom,Kommun (hem)
+fod,Födelseland
+hsreg,Sjukvårdsregion (hem)
+civ,Civilstånd
+plan,Produktionslän
+psreg,Sjukvårdsregion (produktion)
+pkom,Kommun (produktion)
+sabo,Äldreboenden
+ekbist,Ekonomiskt bistånd
