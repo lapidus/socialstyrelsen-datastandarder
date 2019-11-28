@@ -1,561 +1,561 @@
-Indikator#	Ordning	Decimaler	Källa	Namn
-1		1	Befolkningsstatistik, Statistiska centralbyrån	Återstående medellivslängd
-2		1	Dödsorsaksregistret, Socialstyrelsen 	Hälsopolitiskt åtgärdbar dödlighet 
-3		1	Dödsorsaksregistret, Socialstyrelsen 	Sjukvårdsrelaterad åtgärdbar dödlighet
-4		1	Dödsorsaksregistret, Socialstyrelsen 	Åtgärdbar dödlighet i ischemisk hjärtsjukdom
-5		1	Dödsorsaksregistret, Socialstyrelsen 	Självmord i befolkningen inklusive dödsfall med oklar avsikt
-325		2	Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen	Överdödlighet i hjärt-kärlsjukdom vid diabetes
-99		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter förstagångsstroke
-85		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter hjärtinfarkt
-326		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter höftfraktur
-7		0	Patientregistret, Socialstyrelsen	Undvikbar slutenvård
-328		2	Sveriges Kommuner och Landsting	Överbeläggningar
-329		0	Sveriges Kommuner och Landsting 	Utskrivningsklara patienter på sjukhus
-330		1	Patientregistret, Socialstyrelsen	Oplanerad återinskrivning inom 30 dagar
-331		2	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Återkommande slutenvård i livets slutskede
-6		1	SoS Alarm	Responstid för ambulans
-11		1	Sveriges Kommuner och Landsting	Tycksår i sluten vård
-8		1	Sveriges Kommuner och Landsting	Vårdrelaterade infektioner
-332		1	NDR - Nationella Diabetesregistret	Rökning vid diabetes (primärvård)
-333		1	NDR - Nationella Diabetesregistret	Rökning vid diabetes, primärvård
-334		1	NDR - Nationella Diabetesregistret	Fysisk inaktivitet vid diabetes, primärvård
-335		1	SWEDEHEART - SEPHIA	Rökstopp efter hjärtinfarkt
-336		1	SWEDEHEART - SEPHIA	Fysisk träning inom specialiserad hjärtrehabilitering 12-14 månader efter hjärtinfarkt 
-337		1	Riksstroke - Nationella kvalitetsregistret för stroke	Slutat röka 3 månader efter insjuknandet av stroke
-338		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Levnadsvanor vid besök i primärvård  
-9		1	Folkhälsomyndigheten	MPR - vaccination av barn
-39		2	Medicinska födelseregistret, Socialstyrelsen	Tobaksvanor under graviditet
-40		1	Graviditetsregistret - Mödrahälsovård	Screening för riskbruk av alkohol under graviditet
-339		1	Svenska Höftprotesregistret	Artrosskola före höftprotesoperation
-25		0	Vårdbarometern, Sveriges Kommuner och Landsting	Tillgång till sjukvård
-340		1	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för hälso- och sjukvården
-26		0	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för vårdcentraler
-27		0	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för sjukhus
-341		1	Vårdbarometern, Sveriges Kommuner och Landsting	Befolkningens uppfattning om vård på lika villkor
-28		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Bemötande vid besök i primärvård
-29		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Information vid besök i primärvård
-30		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Delaktighet vid besök i primärvård
-31		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Läkarbesök inom sju dagar i primärvård
-32		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Primärvårdens  tillgänglighet per telefon
-33		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar i specialiserad vård 
-34		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar i specialiserad vård
-342		1	Vårdbarometern, Sveriges Kommuner och Landsting	Upplevd väntetid till vårdcentral
-343		1	Vårdbarometern, Sveriges Kommuner och Landsting	Upplevd väntetid till till besök och behandling på sjukhus
-344		1	Vårdbarometern, Sveriges Kommuner och Landsting	Upplevd telefontillgänglighet till 1177
-35		0	Sveriges Kommuner och Landsting och Statistiska centralbyrån	Strukturjusterad hälso- och sjukvårdskostnad
-35A		0	Sveriges Kommuner och Landsting och Statistiska centralbyrån	Extradiagram: Sjukvårdskostn per inv och verksamhet
-500		0	Läkemedelsregistret, Socialstyrelsen	XXXXXbortagenExtradiagram: Justerad läkemedelkostnad per invånare
-36		0	Sveriges Kommuner och Landsting, Statistiska centralbyrån samt Patientregistret, Socialstyrelsen	Kostnader per konsumerad DRG-poäng
-37		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per producerad DRG-poäng 
-38		0	Sveriges Kommuner och Landsting, Statistiska centralbyrån samt Patientregistret, Socialstyrelsen	Kostnad per vårdkontakt i primärvård
-345		1	Abortstatistik, Socialstyrelsen	Tidiga aborter
-41		2	Medicinska födelseregistret, Socialstyrelsen	Dödfödda barn
-42		2	Medicinska födelseregistret, Socialstyrelsen	Neonatal dödlighet 
-43		1	SNQ - Svenskt Neonatalt Kvalitetsregister	Vårdrelaterade infektioner hos barn i neonatalvård
-44		2	Medicinska födelseregistret, Socialstyrelsen	Låg Apgar-poäng hos nyfödda 
-45		2	Medicinska födelseregistret, Socialstyrelsen	Bristningar vid förlossning bland förstföderskor
-46		1	Medicinska födelseregistret, Socialstyrelsen	Kejsarsnitt bland förstföderskor
-47		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per vårdtillfälle vid förlossning
-346		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Besvarade enkäter efter operation
-347		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Läkarbedömning av enkätsvar efter operation
-48		2	Patientregistret, Socialstyrelsen	Oönskade händelser efter borttagande av livmoder
-49		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterade komplikationer efter borttagande av livmoder
-348		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Borttagande av livmoder med öppen teknik
-51		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterade komplikationer efter framfallsoperation
-52		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterad förekomst av framfallssymtom efter operation
-55		1	Patientregistret, Socialstyrelsen	Dagkirurgiska operationer vid livmoderframfall
-53		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterade komplikationer efter inkontinensoperation
-54		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterad kontinens efter inkontinensoperation
-349		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Patientrapporterade komplikationer efter adnexoperation
-350		1	Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret	Adnexoperation med laparoskopisk teknik
-56		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per vårdtillfälle vid borttagande av livmoder
-351		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar i kvinnosjukvård
-352		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar för framfall
-57		1	Svenska Knäprotesregistret	Implantatöverlevnad vid total knäprotesoperation
-58		1	Svenska Höftprotesregistret	Implantatöverlevnad vid total höftprotesoperation
-59		2	Svenska Höftprotesregistret	Omoperation efter total höftprotesoperation
-60		2	Patientregistret, Socialstyrelsen	Oönskade händelser efter knä- och total höftprotesoperation
-61		3	Svenska Höftprotesregistret	Patientrapporterat resultat av total höftprotesoperation
-62		1	Svenska Höftprotesregistret	Patienttillfredsställelse efter total höftprotesoperation
-63		1	RIKSHÖFT - Nationella höftfrakturregistret	Väntetid inför höftfrakturoperation
-64		1	Patientregistret, Socialstyrelsen	Protesopereration vid höftfraktur
-65		1	Svenska Höftprotesregistret	Implantatöverlevnad vid halvprotesoperation
-66		0	RIKSHÖFT - Nationella höftfrakturregistret	Åter till ursprungligt boende efter höftfraktur
-67		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Läkemedel mot benskörhet efter fraktur 
-353		0	Patientregistret, Socialstyrelsen	Återfraktur inom 3 år efter fragilitetsfraktur 
-68		1	SWESPINE - Svenska Ryggregistret	Patientrapporterad förbättring e op för spinal stenos
-69		1	SWESPINE - Svenska Ryggregistret	Patientrapporterad förbättring efter operation för diskbråck 
-71		2	Svenska korsbandsregistret	Utbytesoperation inom två år efter korsbandsoperation 
-354		1	Svenska korsbandsregistret	Resultat 2 år efter korsbandsoperation
-75		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per vårdtillfälle vid total höftprotesoperation
-76		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per vårdtillfälle vid total knäprotesoperation
-355		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar - ortopedi
-356		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar - knäprotes
-357		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar - höftprotes
-72		0	Svensk Reumatologis Kvalitetsregister	Biologiska läkemedel vid reumatoid artrit 
-73		1	Svensk Reumatologis Kvalitetsregister	Effekt vid första behandling med biologiskt läkemedel 
-74		1	Svensk Reumatologis Kvalitetsregister	Patientrapporterad hälsa vid behandling med biologiskt läkemedel (lägre värde är bättre)
-358		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar - reumatologisk sjukvård
-77		1	NDR - Nationella Diabetesregistret	Blodsockervärde, diabetes i primärvård
-79		1	NDR - Nationella Diabetesregistret	Blodtryckskontroll vid typ 2 diabetes
-359		1	NDR - Nationella Diabetesregistret	Högt blodtryck vid typ 2 diabetes
-81		1	NDR - Nationella Diabetesregistret	LDL-kolesterol vid typ 2 diabetes
-360		1	NDR - Nationella Diabetesregistret	Fotundersökning vid diabetes diabetes i primärvård
-361		1	NDR - Nationella Diabetesregistret	Ögonbottenundersökning vid diabetes i primärvård
-78		1	NDR - Nationella Diabetesregistret	Blodsockervärde vid typ 1-diabetes
-80		1	NDR - Nationella Diabetesregistret	Blodtryckskontroll vid typ 1 diabetes
-362		1	NDR - Nationella Diabetesregistret	Högt blodtryck vid typ 1 diabetes
-363		1	NDR - Nationella Diabetesregistret	Fotundersökning vid typ 1 diabetes
-364		1	NDR - Nationella Diabetesregistret	Ögonbottenundersökning vid typ 1 diabetes
-82		1	Nationella Diabetesregistret - SWEDIABKIDS	Blodsockervärde hos barn och unga vid typ 1 diabetes
-365		1	Nationella Diabetesregistret - SWEDIABKIDS	Ögonbottenundersökning för barn och unga vid typ 1-diabetes
-84		1	Svenskt register för hjärt-lungräddning	Överlevnad vid hjärtstopp utanför sjukhus
-86		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter sjukhusvårdad hjärtinfarkt 
-87		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Ny infarkt eller död i ischemisk hjärtsjukdom
-88		1	SWEDEHEART - RIKS-HIA	Reperfusionsbehandling vid ST-höjningsinfarkt
-89		1	SWEDEHEART - RIKS-HIA	Tid till reperfusionsbehandling vid ST-höjningsinfarkt
-90		1	SWEDEHEART - RIKS-HIA	Kranskärlsrönten vid icke ST-höjningsinfarkt och riskfaktor
-91		1	SWEDEHEART - RIKS-HIA	Blodproppshämmande behandling vid icke ST-höjningsinfarkt
-366		1	SWEDEHEART - RIKS-HIA	RAAS-hämmande behandling efter hjärtinfarkt
-93		2	SWEDEHEART - SCAAR	Dödlighet efter PCI vid instabil kranskärlssjukdom
-94		2	SWEDEHEART - SCAAR	Återförträngning av hjärtats kärl efter PCI
-92		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Blodfettssänkande behandling efter hjärtinfarkt 
-367		1	SWEDEHEART - SEPHIA	Måluppfyllelse för LDL-kolesterol
-368		1	SWEDEHEART - SEPHIA	Måluppfyllelse för blodtryck
-96		1	Makularegistret	163**Använd ej denna**
-95		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Död eller återinskrivning efter vård för hjärtsvikt 
-369		1	Makularegistret	163**Använd ej denna**
-97		2	ICD- och Pacemakerregistret	Komplikationer efter pacemakerinsättning
-98		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per vårdtillfälle för PCI vid hjärtinfarkt
-100		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter sjukhusvårdad förstagångsstroke
-370		1	Riksstroke - Nationella kvalitetsregistret för stroke	Direktintag på strokeenhet
-321		1	Riksstroke - Nationella kvalitetsregistret för stroke	Reperfusionsbehandling vid stroke
-371		0	Riksstroke - Nationella kvalitetsregistret för stroke	Mediantid till trombolysbehandling
-103		1	Riksstroke - Nationella kvalitetsregistret för stroke	Test av sväljförmåga vid akut stroke
-104		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Antikoagulantia vid förmaksflimmer efter stroke, 55-79 år
-105		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Blodfettssänkande behandling efter stroke
-372		1	Riksstroke - Nationella kvalitetsregistret för stroke	Blodtryckssänkande behandling efter stroke 
-106		1	Patientregistret, Socialstyrelsen	Återinsjuknande efter stroke 
-107		1	Riksstroke - Nationella kvalitetsregistret för stroke	Funktionsförmåga efter stroke
-373		1	Riksstroke - Nationella kvalitetsregistret för stroke	Fullt tillgodosett behov av stöd och hjälp 3 månader efter stroke
-109		1	Riksstroke - Nationella kvalitetsregistret för stroke	Tillgodosedda behov av rehabilitering efter stroke - efter 1 år
-10		1	Nationellt Kvalitetsregister för Cervixcancerprevention	Deltagandefrekvens gynekologiskt cellprov
-12		1	Svenska Palliativregistret	Smärtskattning i livets slutskede 
-15		1	Makularegistret	163**Använd ej denna**
-16		2	Makularegistret	163**Använd ej denna**
-17		1	Makularegistret	163**Använd ej denna**
-18		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling 
-19		1	Makularegistret	163**Använd ej denna**
-20		1	Makularegistret	163**Använd ej denna**
-21		1	Läkemedelsregistret, Socialstyrelsen 	Kombinationspreparat vid astma
-22		1	Läkemedelsregistret, Socialstyrelsen 	Uttagsföljsamhet vid blodtryckssänkande behandling
-24		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Fråga om andra läkemedel vid besök i primärvård 
-50		1	Nationella kvalitetsregistret inom gynekologisk kirurgi	Patienttillfredsställelse efter borttagande av livmoder
-70		0	Makularegistret	163**Använd ej denna**
-83		0	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Amputation vid diabetes
-101		1	Makularegistret	163**Använd ej denna**
-102		1	Makularegistret	163**Använd ej denna**
-108		1	Makularegistret	163**Använd ej denna**
-327		1	Cancerregistret, Socialstyrelsen	Överlevnad vid cancersjukdom
-390		1	Svenska Palliativregistret	Vidbehovsordination av ångestdämpande läkemedel
-391		1	Svenska Palliativregistret	Samtal om vårdens innehåll och riktning (brytpunktssamtal
-392		1	Patientregistret, Socialstyrelsen	Å^terkommande slutenvård i livets slutskede
-118		1	Cancerregistret, Socialstyrelsen	Överlevnad vid bröstcancer
-393		1	Nationella bröstcancerregistret	Multidisciplinära konferens
-394		1	Nationella bröstcancerregistret	Multidisciplinära konferens
-395		1	Nationella bröstcancerregistret	Fastställd diagns innan operation för bröstcancer
-396		1	Nationella bröstcancerregistret	Omoperation på grund av tumördata
-397		1	Nationella bröstcancerregistret	Operationer med bröstbevarande kirurgi
-398		1	Nationella bröstcancerregistret	Operationer med bröstbevarande kirurgi
-399		1	Nationella bröstcancerregistret	Operation med sentinel node-teknik vid invasiv bröstcancer
-400		2	Nationella bröstcancerregistret	Omoperation på grund av kompliktion
-401		1	Nationella bröstcancerregistret	Fullständigt strukturerat pad-svar efter operation
-402		1	Nationella bröstcancerregistret	Lokal strålbehandling efter operation av bröstcancer med lymfkörtelmetastaser
-403		1	Nationella bröstcancerregistret	Cytostatikabehandling med tillägg av trastuzumab
-404		1	Nationella bröstcancerregistret	Läkemedelsbehandling med tamoxifen och/eller aromatashämmare efter operation
-405		0	Nationella bröstcancerregistret	Väntetid från första besök hos specialist till start av behandling
-406		1	Cancerregistret, Socialstyrelsen	Överlevnads vid äggstockscancer
-407		1	Nationellt kvalitetsregister för ovarialcancer	Andel vävnadsprov som bedöms av refrenspatolog
-408		1	Nationellt kvalitetsregister för ovarialcancer	Erfaren tumörkiturg vid primäroperation
-409		1	Nationellt kvalitetsregister för ovarialcancer	Optimala kirurgiska stadieindelningsprocedurer vid operation av tidig äggsstockcancer
-410		1	Cancerregistret, Socialstyrelsen	Överlevnad vid njurcancer
-411		1	Nationella njurcancerregistret	Primär utredning med datortomografi av bröstkorgen före operation
-412		1	Nationella njurcancerregistret	Njursparande kirurgi vid små tumörer
-413		0	Nationella njurcancerregistret	Väntetid från remissbeslut till start av behandling
-414		1	Cancerregistret, Socialstyrelsen	Överlevnad vid blåscancer
-415		1	Nationellt kvalitetsregister för urinblåsecancer	Multidisciplinär konferens inför behandlingsstart
-416		1	Nationellt kvalitetsregister för urinblåsecancer	Intravesikal behandling av tumör i stadium T1
-417		1	Nationellt kvalitetsregister för urinblåsecancer	Kurativ syftande behandling av tumörer i stadium T2-T4
-418		1	Nationellt kvalitetsregister för urinblåsecancer	Sytotatikabehandling före radikal operation vid muskerinvasiv urinblåsecanser
-419		0	Nationellt kvalitetsregister för urinblåsecancer	Väntetid från remissbeslut till start av behandling vid blåscancer
-420		2	Nationella prostatacancerregistret	Skelettundersökning vid prostatacancer med låg risk
-421		1	Nationella prostatacancerregistret	Aktiv monitering vid prostatacancer med mycket låg risk
-422		1	Nationella prostatacancerregistret	Kuativ behandling vid lokaliserad prostatacancer med hög risk
-423		1	Nationella prostatacancerregistret	Strålbehandling i kombination med hormonbehandling vid lokalt avancerad prostatacancer med hög risk
-424		0	Nationella prostatacancerregistret	Väntetid från remissbeslut till start av behandling vid prostatacancer med intermediär risk och hög risk
-425		0	Nationella prostatacancerregistret	Väntetid från remissbeslut till start av behandling vid metastaserad prostatacancer
-112		1	Cancerregistret, Socialstyrelsen	Överlevnad vid tjocktarmscancer 
-426		1	Nationella Coloncancerregistret	Multidisciplinär konferens
-427		1	Nationella Coloncancerregistret	Multidisciplinär konferens efter operation
-428		1	Nationella Coloncancerregistret	Kartläggning inför operation vid nydiagnosticerad tjocktarmscancer
-113		1	Nationella Coloncancerregistret	Omoperation på grund av komplikation
-114		2	Nationella Coloncancerregistret	Avlidna inom 30 respektive 90 dagar efter operation
-429		1	Nationella Coloncancerregistret	Minst tolv lymfkörtlar undersökta i operationspreparat
-430		1	Nationella Coloncancerregistret	Mer än 11 dagars vårdtid efter operation
-431		1	Nationella Coloncancerregistret	Påbörjad cytostatikabehandling inom 8 veckor efter operation vid stadium II och III
-432		1	Nationella Coloncancerregistret	Deltagande i strukterad behandlingsstudie
-433		0	Nationella Coloncancerregistret	Väntetid från remissbeslut till start av behandling
-115		1	Cancerregistret, Socialstyrelsen	Överlevnad vid ändtarmscancer 
-434		1	Svenska Kolorektalcancerregistret	Multidisciplinär konferens
-435		1	Svenska Kolorektalcancerregistret	Multidisciplinär konferens
-436		1	Svenska Kolorektalcancerregistret	Kartläggning inför operation vid nydiagnosticerad ändtarmscancer
-116		1	Svenska Kolorektalcancerregistret	Omoperation på grund av komplikation
-117		2	Svenska Kolorektalcancerregistret	Avlidna inom 30 respektive 90 dagar efter operation
-437		1	Svenska Kolorektalcancerregistret	Minst tolv lymfkörtlar undersökta i operationspreparat
-438		1	Svenska Kolorektalcancerregistret	Mer än 15 dagars vårdtid efter operation
-439		2	Svenska Kolorektalcancerregistret	Anastomosinsuffciens efter operation
-440		2	Svenska Kolorektalcancerregistret	Återfall ac cancer i bäcknet inom fem år efter operation
-441		1	Svenska Kolorektalcancerregistret	Deltaganade i strukturerad behandlingsstudie
-442		0	Svenska Kolorektalcancerregistret	Väntetid från remissbeslut till start av behandling
-122		1	Cancerregistret, Socialstyrelsen	Överlevnad vid lungcancer 
-123		1	Nationella lungcancerregistret	Multidisciplinär konferens inför behandlingsstart
-443		1	Nationella lungcancerregistret	EGFR-analys vid icke småcellig lungcancer
-444		1	Patientregistret, läkemedelsregistret och dödorsaksregistret, Socialstyrelsen	Antikoagulantia till riskpatienter
-445		1	Nationella lungcancerregistret	Kurativ syftande behandling vid icke småcellig lungcancer i stadium I och II
-446		1	Nationella lungcancerregistret	Paliativt syftande kemoterapi vid obotlig lungcancer
-447		0	Nationella lungcancerregistret	Väntetid från remissankomst till behandlingsbeslut
-448		1	Cancerregistret, Socialstyrelsen	Överlevnad vid huvud- och halscancer
-449		1	Svenskt kvalitetsregister för huvud- och halscancer	Multidisciplinär konferens inför behandling
-127		0	Svenskt kvalitetsregister för huvud- och halscancer	Väntetid från remissankomst till start av behandling
-450		1	Cancerregistret, Socialstyrelsen	Överlevnad vid malignt hudmelanom
-451		1	Nationella hudmelanomregistret	Malignt hudmelanom med en yumörtjocklek på 1,0 milimeter eller mindre
-452		1	Nationella hudmelanomregistret	Portvaktskörtelbiopsi vid malignt melanom
-453		0	Nationella hudmelanomregistret	Väntetid från första läkarbesök till besked om diagnos
-119		1	Nationella bröstcancerregistret	Omoperation vid bröstcancer på grund av tumördata
-120		2	Nationella bröstcancerregistret	Omoperation vid bröstcancer på grund av komplikation
-121		0	Nationella bröstcancerregistret	Tid till operation vid bröstcancer
-124		0	Nationellt lungcancerregister/Nationella Lungcancerregistret	Tid till behandlingsbeslut vid lungcancer
-125		0	Makularegistret	163**Använd ej denna**
-126		1	Makularegistret	163**Använd ej denna**
-131		0	Patientregistret, Socialstyrelsen	Undvikbar somatisk slutenvård för personer med psykiatrisk diagnos
-132		1	Patientregistret, Socialstyrelsen	Återinskrivning inom 28 dagar efter vård för schizofreni
-133		1	Patientregistret, Socialstyrelsen	Återinskrivning inom 6 månader efter vård för schizofreni
-135		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 30 dagar - barn- och ungdomspsykiatri
-136		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar - vuxenpsykiatri
-139		1	Kvalitetsregister ECT och Patientregistret, Socialstyrelsen	ECT vid svår depression
-140		1	Kvalitetsregister ECT	Depressionsskattning vid ECT
-137		1	Rättspsyk - Nationellt kvalitetsregister för rättpsykiatrisk vård	Återfall i brottslig gärning vid rättspsykiatrisk vård
-138		1	Rättspsyk - Nationellt kvalitetsregister för rättpsykiatrisk vård	Fetma bland patienter i rättspsykiatrisk vård
-128		0	Läkemedelsregistret, Socialstyrelsen	Regelbunden behandling med sömnmedel eller lugnande medel
-129		2	Läkemedelsregistret, Socialstyrelsen	Tre eller fler psykofarmaka bland äldre 
-130		1	Läkemedelsregistret, Socialstyrelsen	Användning av lämpliga sömnmedel till äldre 
-134		1	Läkemedelsregistret, Socialstyrelsen	Följsamhet till litiumbehandling vid bipolär sjukdom 
-141		1	Svenskt Bråckregister	Omoperation vid ljumskbråck 
-142		1	Patientregistret, Socialstyrelsen	Dagkirurgiska operationer vid ljumskbråck 
-143		1	Makularegistret	143**Använd ej denna**
-144		1	Scandinavian Obesity Surgery Register	Uppföljning av patienter efter obesitaskirurgi
-145		1	Scandinavian Obesity Surgery Register	Minskning av övervikt efter obesitaskirurgi
-146		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per operation - obesitaskirurgi
-147		1	Gallriks - Svenskt kvalitetsregister för gallstenskirurgi	Miniinvasivt borttagande av gallblåsa
-148		1	Gallriks - Svenskt kvalitetsregister för gallstenskirurgi	Kirurgiska komplikationer efter borttagande av gallblåsa
-149		1	Gallriks - Svenskt kvalitetsregister för gallstenskirurgi	Antibiotika vid borttagande av gallblåsa
-150		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per DRG-poäng  vid galloperation
-151		1	Swedvasc - Svenska Kärlregistret	Tid till operation vid förträngning av halspulsåder
-152		1	Swedvasc - Svenska Kärlregistret	Död eller amputation efter operation av kärlförträngning i ben
-153		1	Swedvasc - Svenska Kärlregistret	Död efter planerad operation för aortaaneurysm
-154		0	KPP-databasen, Sveriges Kommuner och Landsting	Kostnad per operation av kärlförträngning i ben
-374		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar - allmän kirurgi
-375		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar - magsäck, tarm vid övervikt
-376		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar för ljumskbråck
-155		1	Svenskt Kvalitetsregister för Öron-, Näs- och Halssjukvård	Patientrapporterat resultat av septumplastik 
-156		1	Svenskt Kvalitetsregister för Öron-, Näs- och Halssjukvård	Patientrapporterad symtomfrihet efter tonsillektomi
-157		2	SIR - Svenska Intensivvårdsregistret	Riskjusterad dödlighet efter vård på IVA
-158		2	SIR - Svenska Intensivvårdsregistret	Utskrivning nattetid från IVA
-159		2	SIR - Svenska Intensivvårdsregistret	Oplanerad återinskrivning till IVA
-160		1	Nationella Kataraktregistret	Synfel vid tidpunkt för kataraktoperation
-161		1	Nationella Kataraktregistret	Självskattad nytta av kataraktoperation
-162		1	Makularegistret	Förbättring efter behandling vid makuladegeneration
-377		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Besök inom 90 dagar - ögonsjukvård
-378		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Operation inom 90 dagar för gråstarr
-13		1	Svenska Palliativregistret	Vidbehovsordination av opioider i livets slutskede
-14		1	Svenska Palliativregistret	Brytpunktssamtal i livets slutskede
-379		1	Svenska Palliativregistret	Munhälsobedömning under sista levnadsveckan
-380		1	Svenska Palliativregistret	Trycksår vid tidpunkt för dödsfall
-381		1	Svenska Palliativregistret	Vidbehovsordination av ångestdämpande läkemedel
-110		1	Svenska MS-registret	Bromsmedicin vid skovvis förlöpande MS 
-111		1	Svenska MS-registret	Bromsmedicin vid sekundärprogressiv MS
-382		1	CPUP	Andel barn med god sträckningsförmåga i knäled vid CP
-383		1	CPUP	Andel barn bedömda av fysioterapeut vid CP
-23		1	InfCare HIV	God viruskontroll vid HIV
-163		0	Makularegistret	163**Använd ej denna**
-164		0	Makularegistret	164**Använd ej denna**
-165		0	Makularegistret	skräp 165**Använd ej denna**
-166		0	Makularegistret	166**Använd ej denna**
-167		0	Makularegistret	167**Använd ej denna**
-168		0	Makularegistret	168**Använd ej denna**
-169		0	Makularegistret	169**Använd ej denna**
-170		0	Folkhälsoinstitutet (FHI)	Förtroende för sjukvården
-171		0	Folkhälsoinstitutet (FHI)	Avstått från att söka sjukvård trots upplevt behov
-172		0	Folkhälsoinstitutet (FHI)	Avstått besök hos tandläkare trots upplevt behov
-173		0	Folkhälsoinstitutet (FHI)	Ohälsosamma levnadsvanor
-174		0	Sveriges Kommuner och Landsting	Diskussion om levnadsvanor med vårdpersonal
-175		0	Sveriges Kommuner och Landsting	Förändring av levnadsvanor med stöd via internet
-176		0	Sveriges Kommuner och Landsting	Förändring av levnadsvanor som alternativ till läkemedelsbehandling
-177		0	Sveriges Kommuner och Landsting	Patienter som diskuterat tobaksvanor med vårdpersonal i primärvården
-178		0	Sveriges Kommuner och Landsting	Patienter som diskuterat tobaksvanor med vårdpersonal i öppen- och slutenvård
-179		0	Sveriges Kommuner och Landsting	Patienter som diskuterat tobaksvanor med vårdpersonal inom psykiatrisk öppenvård
-180		0	Sveriges Kommuner och Landsting	Patienter som diskuterat alkoholvanor med vårdpersonal i primärvården
-181		0	Sveriges Kommuner och Landsting	Patienter som diskuterat alkoholvanor med vårdpersonal i öppen- och slutenvård
-182		0	Sveriges Kommuner och Landsting	Patienter som diskuterat alkoholvanor med vårdpersonal inom psykiatrisk öppenvård
-183		0	Sveriges Kommuner och Landsting	Patienter som diskuterat motionsvanor med vårdpersonal i primärvården
-184		0	Sveriges Kommuner och Landsting	Patienter som diskuterat motionsvanor med vårdpersonal i öppen- och slutenvård
-185		0	Sveriges Kommuner och Landsting	Patienter som diskuterat motionsvanor med vårdpersonal inom psykiatrisk öppenvård
-186		0	Sveriges Kommuner och Landsting	Patienter som diskuterat matvanor med vårdpersonal i primärvården
-187		0	Sveriges Kommuner och Landsting	Patienter som diskuterat matvanor med vårdpersonal i öppen- och slutenvård
-188		0	Sveriges Kommuner och Landsting	Patienter som diskuterat matvanor med vårdpersonal inom psykiatrisk öppenvård
-189		0	NDR - Nationella Diabetesregistret	Vuxna patienter med diabetes med BMI över 30 kg/m2
-190		0	NDR - Nationella Diabetesregistret	Rökning hos vuxna patienter med diabetes
-191		0	NDR - Nationella Diabetesregistret	Fysisk inaktivitet hos vuxna patienter med diabetes
-192		1	Barn- och ungdomsdiabetes (SWEDIAKIDS)	Fysisk aktivitet hos barn med diabetes
-193		0	Barn- och ungdomsdiabetes (SWEDIAKIDS)	Blodsockernivån hos barn och ungdomar med diabetes
-194		0	Medicinska födelseregistret, Socialstyrelsen	Rökning i barns hemmiljö vid 0-4 veckor
-195		0	Medicinska födelseregistret, Socialstyrelsen	Rökning i barns hemmiljö vid 8 månader
-196		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Allmänt hälsotillstånd tre månader efter stroke
-197		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Allmänt hälsotillstånd tolv månader efter stroke
-198		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Tillgodosedda behov av rehabilitering efter stroke 2011
-199		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Nöjdhet med information om stroke
-200		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Rökstopp efter stroke vid tremånadersuppföljning
-201		1	Nationella kvalitetsregistret för stroke, Riks-Stroke	Rökstopp efter stroke vid tolvmånadersuppföljning
-202		0	Socialstyrelsen	Kariesfria barn 3 och 6 år
-203		0	Socialstyrelsen	Kariesfria barn och ungdomar 12 och 19 år
-204		2	SWESPINE - Svenska Ryggregistret	Patientrapporterad förbättring efter operation av spinal stenos
-205		2	SWESPINE - Svenska Ryggregistret	Patientrapporterad förbättring efter operation av diskbråck
-206		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Frågan om patienten använder andra läkemedel
-207		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Information om förskrivet läkemedel
-208		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Information om biverkningar
-209		1	Läkemedelsregistret, Socialstyrelsen	Tio eller fler läkemedel samtidigt 
-210		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel 
-211		1	Läkemedelsregistret, Socialstyrelsen	Äldre med läkemedel som bör undvikas
-212		2	Läkemedelsregistret, Socialstyrelsen	Användning av antiinflammatoriska läkemedel hos äldre (75 år och äldre)
-213		1	Läkemedelsregistret, Socialstyrelsen	Användning av antipsykotiska läkemedel hos äldre (75 år och äldre)
-214		2	Läkemedelsregistret, Socialstyrelsen	Användning av demensläkemedel hos äldre (65 år och äldre - åldersstandardiserat)
-215		1	Läkemedelsregistret, Socialstyrelsen	Regelbunden behandling med vissa sömnmedel och lugnande medel 
-216		1	Läkemedelsregistret, Socialstyrelsen	Följsamhet till behandling med läkemedel mot depression
-217		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård
-218		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med antibiotika som vanligen används vid luftvägsinfektion
-219		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V som andel av all antibiotika
-220		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på antibiotika för urinvägsinfektion
-221		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Läkemedelsbehandling 0-6 månader efter sjukhusvårdad hjärtsvikt
-222		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Läkemedelsbehandling 12-18 månader efter sjukhusvårdad hjärtsvikt
-223		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Blodproppshämmande behandling 12-18 månader efter akut hjärtinfarkt
-224		0	Riksstroke - Nationella kvalitetsregistret för stroke	Tidsfördröjning mellan ankomst till sjukhus och start av trobolysbehandling
-225		1	Nationellt kvalitetsregister för koloncancer	Adjuvant cytostatikabehandling efter operation vid tjocktarmscancer stadium II och III 
-226		0	Xxänvänd ej denna	XXXYY används ej
-227		0	Xxänvänd ej denna	XXXYY används ej
-228		0	Xxänvänd ej denna	XXXYY används ej
-229		0	Xxänvänd ej denna	XXXYY används ej
-230		0	Läkemedelsregistret, Socialstyrelsen	 Justerad läkemedelkostnad per invånare
-231		0	Vårdbarometern, Sveriges Kommuner och Landsting	Antibiotikaanvändning och viljan att avstå när så är möjligt 
-232		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Behandling med antipsykotiska läkemedel vid schizofreni och schizofreniliknande tillstånd, 0-6 månader efter utskrivning från sjukhus
-233		0	Xxänvänd ej denna	XXXYY används ej
-234		1	Xxänvänd ej denna	XXXYY används ej
-235		2	Xxänvänd ej denna	XXXYY används ej
-236		3	Xxänvänd ej denna	XXXYY används ej
-237		4	Xxänvänd ej denna	XXXYY används ej
-238		5	Xxänvänd ej denna	XXXYY används ej
-239		6	Xxänvänd ej denna	XXXYY används ej
-240		0	Patientregistret, Socialstyrelsen	Total antal vårddagar
-241		0	Patientregistret, Socialstyrelsen	Total antal Vårdtillfällen
-242		2	Patientregistret, Socialstyrelsen	Medelvårdtid för vårdtillfälle vid slutenvård, totalt
-243		1	Patientregistret, Socialstyrelsen	Antal operationer i dagkirurgi av totalt antal operationer
-244		0	Kolada	Antal vårdplatser, totalt
-245		1	Socialstyrelsens statistikdatabas och Kolada	Beläggningsgrad
-246		0	Patientregistret, Socialstyrelsen	Hysterektomi - Antal operationer
-247		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid hysterektomi
-248		0	Patientregistret, Socialstyrelsen	Framfall - Antal operationer 
-249		0	Patientregistret, Socialstyrelsen	Urininkontinens - Antal operationer
-250		0	Patientregistret, Socialstyrelsen	Skrapning - Antal operationer
-251		0	Patientregistret, Socialstyrelsen	Artroskopi - Antal operationer 
-252		0	Patientregistret, Socialstyrelsen	Knäprotes - Antal operationer 
-253		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid knäprotesoperation
-254		0	Patientregistret, Socialstyrelsen	Höftprotes - Antal operationer 
-255		2	Patientregistret, Socialstyrelsen	Medelvårdtider vid höftprotesoperation
-256		0	Patientregistret, Socialstyrelsen	Höftfraktur - Antal vårdtillfällen grundad på vårdepisodsdata 
-257		1	Patientregistret, Socialstyrelsen	Medelvårdtid för vårdepisod vid höftfraktur
-258		0	Patientregistret, Socialstyrelsen	Hjärtsvikt- Antal vårdtillfällen 
-259		1	Patientregistret, Socialstyrelsen	Hjärtsvikt, antal vårddagar per patient
-260		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid hjärtsvikt
-261		0	Patientregistret, Socialstyrelsen	Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)- Antal vårdtillfällen
-262		2	Patientregistret, Socialstyrelsen	Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)- Antal vårddagar per patient
-263		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)
-264		0	Patientregistret, Socialstyrelsen	Angina pectoris (DRG E66C och E66E) - Antal vårdtillfällen 
-265		2	Patientregistret, Socialstyrelsen	Angina pectoris (DRG E66C och E66E) - Antal vårddagar per patient
-266		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid Angina pectoris (DRG E66C och E66E)
-267		0	Patientregistret, Socialstyrelsen	Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård) - Antal operationer 
-268		2	Patientregistret, Socialstyrelsen	Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård) - Antal vårddagar
-269		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård)
-270		1	Patientregistret, Socialstyrelsen	Kranskärlsoperationer - Antal operationer
-271		0	Patientregistret, Socialstyrelsen	Pacemakerimplantat (DRG: slutenvård E26A, E26C och E26E öppenvård E28O) - Antal operationer
-272		1	Patientregistret, Socialstyrelsen	Medelvårdtid vid stroke
-273		0	Patientregistret, Socialstyrelsen	Schizofreni - Antal vårdtillfällen per 100 000 invånare
-274		0	Kataraktregistret	Katarakt - Antal operationer för 65+
-275		0	Patientregistret, Socialstyrelsen	Prostataförstoring - Antal operationer
-276		0	Patientregistret, Socialstyrelsen	Ljumskbråckoperationer - Antal operationer 
-277		0	Patientregistret, Socialstyrelsen	Kolecystektomi-Antal operationer
-278		1	Patientregistret, Socialstyrelsen	Septumplastik - Antal operationer
-279		0	Patientregistret, Socialstyrelsen	Tonsillektomi - Antal operationer
-280		0	Patientregistret, Socialstyrelsen	Obesitasoperationer - Antal operationer
-281		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid obesitaskirurgi
-282		1	Patientregistret, Socialstyrelsen	Blödande magsår - Antal vårdtillfällen
-283		2	Patientregistret, Socialstyrelsen	Medelvårdtid vid blödande magsår
-480		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2015 Q1
-284		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2015 Q2
-302		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2015 Q3
-316		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2015 Q4
-460		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2016 Q1
-470		0	Läkemedelsregistret, Socialstyrelsen	Förekomst av antibiotikabehandling i öppenvård, 2016 Q2
-481		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q1
-285		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q2
-301		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q3
-315		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q4
-461		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2016 Q1
-471		1	Läkemedelsregistret, Socialstyrelsen	Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2016 Q2
-293		1	Xxänvänd ej denna	XXXYY används ej
-294		1	Xxänvänd ej denna	XXXYY används ej
-295		1	Xxänvänd ej denna	XXXYY används ej
-482		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q1.
-286		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q2.
-300		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q3.
-314		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q4.
-462		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2016 Q1.
-472		1	Läkemedelsregistret, Socialstyrelsen	Andel penicilin V av alla uthämtade antibiotikarecept, 2016 Q2.
-296		1	Xxänvänd ej denna	XXXYY används ej
-297		1	Xxänvänd ej denna	XXXYY används ej
-298		1	Xxänvänd ej denna	XXXYY används ej
-299		1	Xxänvänd ej denna	XXXYY används ej
-483		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q1.
-287		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q2.
-303		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q3.
-317		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q4.
-463		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2016 Q1.
-473		1	Läkemedelsregistret, Socialstyrelsen	Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2016 Q2.
-484		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q1.
-288		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q2.
-304		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q3.
-309		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q4.
-464		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2016 Q1.
-474		1	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2016 Q2.
-485		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q1.
-289		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q2.
-305		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q3.
-310		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q4.
-465		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2016 Q1.
-475		2	Läkemedelsregistret, Socialstyrelsen	Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2016 Q2.
-486		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q1.
-290		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q2.
-306		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q3.
-311		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q4.
-466		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2016 Q1.
-476		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2016 Q2.
-487		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q1.
-291		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q2.
-307		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q3.
-312		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q4.
-467		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2016 Q1.
-477		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2016 Q2.
-488		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q1. 
-292		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q2. 
-308		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q3. 
-313		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q4. 
-468		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2016 Q1. 
-478		2	Läkemedelsregistret, Socialstyrelsen	Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2016 Q2. 
-318		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Behandling med antipsykotiska läkemedel vid schizofreni och schizofreniliknande tillstånd, 12-18 månader efter utskrivning från sjukhus
-319		1	Läkemedelsregistret, Socialstyrelsen	Antibiotika förskrivet av tandläkare
-320		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Antikoagulantia vid förmaksflimmer och riskfaktor för stroke
-322		0	Riksstroke - Nationella kvalitetsregistret för stroke	Mediantid från ankomst till behandlingsstart trombolys
-323		0	Svensk Reumatologis Kvalitetsregister	Biologiska läkemedel vid reumatoid artrit 
-324		1	Svensk Reumatologis Kvalitetsregister	Effekt vid behandlingsstart med  biologiskt läkemedel 
-510		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Fråga om andra läkemedel vid besök i specialiserad somatisk öppenvård
-511		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Läkarens förklaring om läkemedel vid besök i specialiserad somatisk öppenvård
-512		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Information om eventuell biverkning vid besök i specialiserad somatisk öppenvård
-513		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Fråga om andra läkemedel vid besök i somatisk slutenvård
-514		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Läkarens förklaring om läkemedel vid besök i somatisk slutenvård
-515		0	Nationell Patientenkät, Sveriges Kommuner och Landsting	Information om eventuell biverkning vid besök i somatisk slutenvård
-516		1	Läkemedelsregistret och Patientregistret, Socialstyrelsen	Basbehandling vid hjärtsvikt (inom 5 år)
-517		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Antikoagulantia vid förmaksflimmer efter stroke, 18-79 år
-518		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Blodfettssänkande behandling 12-18 månader efter stroke, 18-79 år
-519		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Blodfettssänkande behandling 12-18 månader efter stroke, 18 år och äldre
-520		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Blodfettssänkande behandling 12-18 månader efter stroke, 80 år och äldre
-521		1	SWEDEHEART - SEPHIA	Reperfusionsbehandling vid stroke
-522		0	Vårdbarometern, Sveriges Kommuner och Landsting	Tillgång till hälso- och sjukvård vid långvarig sjukdom
-523		0	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för hälso- och sjukvården vid långvarig sjukdom
-524		0	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för sjukhus vid långvarig sjukdom
-525		0	Vårdbarometern, Sveriges Kommuner och Landsting	Förtroende för vårdcentraler vid långvarig sjukdom
-526		0	Patientregistret, Socialstyrelsen	Slutenvård vid hjärtsvikt, diabetes, astma eller KOL 
-527		0	Patientregistret, Socialstyrelsen	Slutenvård vid hjärtsvikt
-528		1	Dödsorsaksregistret, Socialstyrelsen	Dödlighet i stroke i befolkningen 1–79 år
-529		1	Patientregistret, Socialstyrelsen	Slutenvård vid diabetes
-530		0	Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen	Dödlighet i hjärt-kärlsjukdom vid diabetes
-532		1	Patientregistret, Socialstyrelsen	Slutenvård vid astma
-533		1	Dödsorsaksregistret, Socialstyrelsen	Dödlighet i KOL i befolkningen 1–79 år
-534		0	Patientregistret, Socialstyrelsen	Slutenvård vid KOL
-535		1	Patientregistret, Socialstyrelsen	Återinskrivning i sluten vård vid KOL
-536		0	Patientregistret, Socialstyrelsen	Fallskador bland äldre (65 år eller äldre sluten vård eller läkarbesök i specialiserad vård)
-537		1	Svensk Reumatologis Kvalitetsregister	Patienter med RA som fått diagnos inom 20 veckor
-538		2	Läkemedelsregistret, Socialstyrelsen	Behandling med antipsykosmedel bland äldre
-539		2	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Överdödlighet för vuxna patienter med bipolär sjukdom
-540		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Återfallsförebyggande behandling vid bipolär sjukdom
-541		2	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Överdödlighet för vuxna patienter med schizofreni
-542		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Antipsykotisk läkemedelsbehandling vid schizofreni
-543		1	Medicinska födelseregistret, Socialstyrelsen	BMI vid inskrivning till mödrahälsovården
-544		1	Tandhälsoregistret, Socialstyrelsen	Tandvårdsundersökning de senaste två åren
-545		1	NDR - Nationella Diabetesregistret	Fysisk inaktivitet vid diabetes (alla diabetestyper)
-546		1	NDR - Nationella Diabetesregistret	Rökning vid diabetes (alla diabetestyper)
-547		2	Graviditetsregistret	Extra Stöd till Förlossningsrädsla
-548		1	Nationella bröstcancerregistret	Screeningupptäckta bröstcancerfall
-549		1	Nationella bröstcancerregistret	Omoperation av bröstbevarande 
-550		1	Cancerregistret, Socialstyrelsen	Överlevnad vid prostatacancer
-551		1	Väntetider i Vården, Sveriges Kommuner och Landsting	Utredning/behandling inom 30 dagar - barn- och ungdomspsykiatri
-596		1	NDR - Nationella Diabetesregistret	Blodsockervärde, diabetes typ-2 (över 70 mmol/mol)
-569		0	Hälsa på lika villkor, Folkhälsomyndigheten	Daglig rökning
-573		1	Nationell Patientenkät, Sveriges Kommuner och Landsting	Delaktighet och involvering i  primärvård
-568		1	Nationell Patientenkät, Sveriges Kommuner och Landsting	Delaktighet och involvering i  specialiserad öppenvård
-565		1	Svenska Kolorektalcancerregistret	Deltagande i behandlingsstudier vid tjock- eller ändtarmcancer
-552		1	Patientregistret och Dödsorsaksregistret, Socialstyrelsen	Dödlighet efter stroke (inom 90 dagar)
-571		1	Cancerregistret, Socialstyrelsen	Femårsöverlevnad cancer (exkl bröst-, prostata- och annan hudcancer än malignt melanom)
-567		1	Nationell Patientenkät, Sveriges Kommuner och Landsting	Kontinuitet och koordinering i specialiserad öppenvård
-572		1	Nationell Patientenkät, Sveriges Kommuner och Landsting	Kontinuitet och koordinering primärvård
-566		1	Kvalitetsregistren och hälsodataregister, Socialstyrelsen	Rapportering till kvalitetsregister – fyra folksjukdomar
-563		1	Sveriges Kommuner och Landsting	Sjukfrånvaro bland landstingsanställda
-562		0	Folkhälsomyndigheten	Självskattad god tandhälsa
-561		0	Folkhälsomyndigheten	Självskattat allmänt hälsotillstånd
-597		0	Patientregistret, Socialstyrelsen	Undvikbar slutenvård, äldre personer
-582		0	Svenska Kolorektalcancerregistret	Väntetid från diagnos till behandling vid tjocktarmscancer
-591		1	Kommun och landstingsdatabasen, Rådet för kommunala analyser	Väntetid till särskilt boende
-570		1	Sveriges Kommuner och Landsting	Överbeläggningar och utlokaliserade patienter
-553		0	Sveriges Kommuner och Landsting och Statistiska centralbyrån	Landstingens hälso- och sjukvårdskostnad
-555		1	"Swedvasc, Nationella kvalitetsregistret för kärlkirurgi. Patientregistret och dödsorsaksregistret, Socialstyrelsen.
-"	Allvarlig hjärt-kärlhändelse hos patienter med benartärsjukdom
-556		1	Swedvasc, Nationella kvalitetsregistret för kärlkirurgi. Patientregistret, läkemedelsregistret, Socialstyrelsen	Läkemedelsterapi efter kärlkirurgiskt ingrepp för benartärsjukdom
-559		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen	Monoterapi med kalcium och D-vitamin efter fragilitetsfraktur
-564		1	Medicinska födelseregistret, Patientregistret 	Gravida kvinnor med övervikt (BMI ≥ 25)
-574		1	Sveriges Kommuner och Landsting	Utlokaliserade patienter
-575		1	Senior Alert	Riskförebyggande åtgärder
-576		1	Medicinska födelseregistret, Patientregistret 	Mödrar som återinlagts på vårdavdelning inom 30 dagar
-577		2	Medicinska födelseregistret, Patientregistret 	Antal levandefödda barn med födelsevikt ≥2000 g 
-579		1	Sveriges Kommuner och Landsting	Andel med korrekta hygienrutiner och klädregler
-580		1	Swedvasc - Svenska Kärlregistret och läkemedelregistret, Socialstyrelsen	Läkemedelsterapi efter kärlkirurgiskt ingrepp för benartärsjukdom
-581		1	Svenska ICD- och pacemakerregistret och patientregistret, Socialstyrelsen	Komplikation efter pacemakerinsättning
-583		2	NDR - Nationella Diabetesregistret	Riskmotorn, förhöjd 5-årsrisk för hjärtkärlsjukdom hos personer med diabetes typ 1
-584		1	NDR - Nationella Diabetesregistret	Riskmotorn, förhöjd 5-årsrisk för hjärtkärlsjukdom hos personer med diabetes typ 2
-585		0	Swedheart	Tid till angio vid NSTEMI – icke ST-höjningsinfarkt Median
-587		1	Swedheart	Koronarangio och PCI endast via handled 
-588		1	Svenska Knäprotesregistret. Patientregistret, Socialstyrelsen	Oönskade händelser efter knäprotesoperation
-589		1	Svenska Höftprotesregistret. Patientregistret, Socialstyrelsen	Oönskade händelser efter höftprotesoperation 
-590		1	Sveriges Kommuner och Landsting	Trycksår i sluten vård (grad 1-4)
-592		1	Markörbaserad journalgranskning, SKL	Vårdtillfällen med vårdskador inom somatisk slutenvård
-593		1	Punktprevalensmätningar (PPM), SKL	Andel med korrekta hygienrutiner och klädregler
-594		1	Patientregistret och Läkemedelsregistret, Socialstyrelsen, Svensk Reumatologis Kvalitetsregister	Biologiska läkemedel vid reumatoid artrit   
-595		1	NDR - Nationella Diabetesregistret	Blodsockervärde, diabetes i primärvård (under 70 mmol/mol)
-599		2	Medicinska födelseregistret, Socialstyrelsen	Andel mödrar som återinlagts på vårdavdelning inom 30 dagar 
-600		1	Cancerregistret, Socialstyrelsen	Överlevnad vid prostatacancer
+indicator,sort_order,decimals,source,name
+1,,1,"Befolkningsstatistik, Statistiska centralbyrån",Återstående medellivslängd
+2,,1,"Dödsorsaksregistret, Socialstyrelsen ",Hälsopolitiskt åtgärdbar dödlighet 
+3,,1,"Dödsorsaksregistret, Socialstyrelsen ",Sjukvårdsrelaterad åtgärdbar dödlighet
+4,,1,"Dödsorsaksregistret, Socialstyrelsen ",Åtgärdbar dödlighet i ischemisk hjärtsjukdom
+5,,1,"Dödsorsaksregistret, Socialstyrelsen ",Självmord i befolkningen inklusive dödsfall med oklar avsikt
+325,,2,"Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",Överdödlighet i hjärt-kärlsjukdom vid diabetes
+99,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter förstagångsstroke
+85,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter hjärtinfarkt
+326,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter höftfraktur
+7,,0,"Patientregistret, Socialstyrelsen",Undvikbar slutenvård
+328,,2,Sveriges Kommuner och Landsting,Överbeläggningar
+329,,0,Sveriges Kommuner och Landsting ,Utskrivningsklara patienter på sjukhus
+330,,1,"Patientregistret, Socialstyrelsen",Oplanerad återinskrivning inom 30 dagar
+331,,2,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Återkommande slutenvård i livets slutskede
+6,,1,SoS Alarm,Responstid för ambulans
+11,,1,Sveriges Kommuner och Landsting,Tycksår i sluten vård
+8,,1,Sveriges Kommuner och Landsting,Vårdrelaterade infektioner
+332,,1,NDR - Nationella Diabetesregistret,Rökning vid diabetes (primärvård)
+333,,1,NDR - Nationella Diabetesregistret,"Rökning vid diabetes, primärvård"
+334,,1,NDR - Nationella Diabetesregistret,"Fysisk inaktivitet vid diabetes, primärvård"
+335,,1,SWEDEHEART - SEPHIA,Rökstopp efter hjärtinfarkt
+336,,1,SWEDEHEART - SEPHIA,Fysisk träning inom specialiserad hjärtrehabilitering 12-14 månader efter hjärtinfarkt 
+337,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Slutat röka 3 månader efter insjuknandet av stroke
+338,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Levnadsvanor vid besök i primärvård  
+9,,1,Folkhälsomyndigheten,MPR - vaccination av barn
+39,,2,"Medicinska födelseregistret, Socialstyrelsen",Tobaksvanor under graviditet
+40,,1,Graviditetsregistret - Mödrahälsovård,Screening för riskbruk av alkohol under graviditet
+339,,1,Svenska Höftprotesregistret,Artrosskola före höftprotesoperation
+25,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Tillgång till sjukvård
+340,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för hälso- och sjukvården
+26,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för vårdcentraler
+27,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för sjukhus
+341,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Befolkningens uppfattning om vård på lika villkor
+28,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Bemötande vid besök i primärvård
+29,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Information vid besök i primärvård
+30,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Delaktighet vid besök i primärvård
+31,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Läkarbesök inom sju dagar i primärvård
+32,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Primärvårdens  tillgänglighet per telefon
+33,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar i specialiserad vård 
+34,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar i specialiserad vård
+342,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Upplevd väntetid till vårdcentral
+343,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Upplevd väntetid till till besök och behandling på sjukhus
+344,,1,"Vårdbarometern, Sveriges Kommuner och Landsting",Upplevd telefontillgänglighet till 1177
+35,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Strukturjusterad hälso- och sjukvårdskostnad
+35A,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Extradiagram: Sjukvårdskostn per inv och verksamhet
+500,,0,"Läkemedelsregistret, Socialstyrelsen",XXXXXbortagenExtradiagram: Justerad läkemedelkostnad per invånare
+36,,0,"Sveriges Kommuner och Landsting, Statistiska centralbyrån samt Patientregistret, Socialstyrelsen",Kostnader per konsumerad DRG-poäng
+37,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per producerad DRG-poäng 
+38,,0,"Sveriges Kommuner och Landsting, Statistiska centralbyrån samt Patientregistret, Socialstyrelsen",Kostnad per vårdkontakt i primärvård
+345,,1,"Abortstatistik, Socialstyrelsen",Tidiga aborter
+41,,2,"Medicinska födelseregistret, Socialstyrelsen",Dödfödda barn
+42,,2,"Medicinska födelseregistret, Socialstyrelsen",Neonatal dödlighet 
+43,,1,SNQ - Svenskt Neonatalt Kvalitetsregister,Vårdrelaterade infektioner hos barn i neonatalvård
+44,,2,"Medicinska födelseregistret, Socialstyrelsen",Låg Apgar-poäng hos nyfödda 
+45,,2,"Medicinska födelseregistret, Socialstyrelsen",Bristningar vid förlossning bland förstföderskor
+46,,1,"Medicinska födelseregistret, Socialstyrelsen",Kejsarsnitt bland förstföderskor
+47,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per vårdtillfälle vid förlossning
+346,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Besvarade enkäter efter operation
+347,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Läkarbedömning av enkätsvar efter operation
+48,,2,"Patientregistret, Socialstyrelsen",Oönskade händelser efter borttagande av livmoder
+49,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterade komplikationer efter borttagande av livmoder
+348,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Borttagande av livmoder med öppen teknik
+51,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterade komplikationer efter framfallsoperation
+52,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterad förekomst av framfallssymtom efter operation
+55,,1,"Patientregistret, Socialstyrelsen",Dagkirurgiska operationer vid livmoderframfall
+53,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterade komplikationer efter inkontinensoperation
+54,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterad kontinens efter inkontinensoperation
+349,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Patientrapporterade komplikationer efter adnexoperation
+350,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi samt Gyn-KvalitetsRegistret,Adnexoperation med laparoskopisk teknik
+56,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per vårdtillfälle vid borttagande av livmoder
+351,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar i kvinnosjukvård
+352,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar för framfall
+57,,1,Svenska Knäprotesregistret,Implantatöverlevnad vid total knäprotesoperation
+58,,1,Svenska Höftprotesregistret,Implantatöverlevnad vid total höftprotesoperation
+59,,2,Svenska Höftprotesregistret,Omoperation efter total höftprotesoperation
+60,,2,"Patientregistret, Socialstyrelsen",Oönskade händelser efter knä- och total höftprotesoperation
+61,,3,Svenska Höftprotesregistret,Patientrapporterat resultat av total höftprotesoperation
+62,,1,Svenska Höftprotesregistret,Patienttillfredsställelse efter total höftprotesoperation
+63,,1,RIKSHÖFT - Nationella höftfrakturregistret,Väntetid inför höftfrakturoperation
+64,,1,"Patientregistret, Socialstyrelsen",Protesopereration vid höftfraktur
+65,,1,Svenska Höftprotesregistret,Implantatöverlevnad vid halvprotesoperation
+66,,0,RIKSHÖFT - Nationella höftfrakturregistret,Åter till ursprungligt boende efter höftfraktur
+67,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Läkemedel mot benskörhet efter fraktur 
+353,,0,"Patientregistret, Socialstyrelsen",Återfraktur inom 3 år efter fragilitetsfraktur 
+68,,1,SWESPINE - Svenska Ryggregistret,Patientrapporterad förbättring e op för spinal stenos
+69,,1,SWESPINE - Svenska Ryggregistret,Patientrapporterad förbättring efter operation för diskbråck 
+71,,2,Svenska korsbandsregistret,Utbytesoperation inom två år efter korsbandsoperation 
+354,,1,Svenska korsbandsregistret,Resultat 2 år efter korsbandsoperation
+75,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per vårdtillfälle vid total höftprotesoperation
+76,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per vårdtillfälle vid total knäprotesoperation
+355,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar - ortopedi
+356,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar - knäprotes
+357,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar - höftprotes
+72,,0,Svensk Reumatologis Kvalitetsregister,Biologiska läkemedel vid reumatoid artrit 
+73,,1,Svensk Reumatologis Kvalitetsregister,Effekt vid första behandling med biologiskt läkemedel 
+74,,1,Svensk Reumatologis Kvalitetsregister,Patientrapporterad hälsa vid behandling med biologiskt läkemedel (lägre värde är bättre)
+358,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar - reumatologisk sjukvård
+77,,1,NDR - Nationella Diabetesregistret,"Blodsockervärde, diabetes i primärvård"
+79,,1,NDR - Nationella Diabetesregistret,Blodtryckskontroll vid typ 2 diabetes
+359,,1,NDR - Nationella Diabetesregistret,Högt blodtryck vid typ 2 diabetes
+81,,1,NDR - Nationella Diabetesregistret,LDL-kolesterol vid typ 2 diabetes
+360,,1,NDR - Nationella Diabetesregistret,Fotundersökning vid diabetes diabetes i primärvård
+361,,1,NDR - Nationella Diabetesregistret,Ögonbottenundersökning vid diabetes i primärvård
+78,,1,NDR - Nationella Diabetesregistret,Blodsockervärde vid typ 1-diabetes
+80,,1,NDR - Nationella Diabetesregistret,Blodtryckskontroll vid typ 1 diabetes
+362,,1,NDR - Nationella Diabetesregistret,Högt blodtryck vid typ 1 diabetes
+363,,1,NDR - Nationella Diabetesregistret,Fotundersökning vid typ 1 diabetes
+364,,1,NDR - Nationella Diabetesregistret,Ögonbottenundersökning vid typ 1 diabetes
+82,,1,Nationella Diabetesregistret - SWEDIABKIDS,Blodsockervärde hos barn och unga vid typ 1 diabetes
+365,,1,Nationella Diabetesregistret - SWEDIABKIDS,Ögonbottenundersökning för barn och unga vid typ 1-diabetes
+84,,1,Svenskt register för hjärt-lungräddning,Överlevnad vid hjärtstopp utanför sjukhus
+86,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter sjukhusvårdad hjärtinfarkt 
+87,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Ny infarkt eller död i ischemisk hjärtsjukdom
+88,,1,SWEDEHEART - RIKS-HIA,Reperfusionsbehandling vid ST-höjningsinfarkt
+89,,1,SWEDEHEART - RIKS-HIA,Tid till reperfusionsbehandling vid ST-höjningsinfarkt
+90,,1,SWEDEHEART - RIKS-HIA,Kranskärlsrönten vid icke ST-höjningsinfarkt och riskfaktor
+91,,1,SWEDEHEART - RIKS-HIA,Blodproppshämmande behandling vid icke ST-höjningsinfarkt
+366,,1,SWEDEHEART - RIKS-HIA,RAAS-hämmande behandling efter hjärtinfarkt
+93,,2,SWEDEHEART - SCAAR,Dödlighet efter PCI vid instabil kranskärlssjukdom
+94,,2,SWEDEHEART - SCAAR,Återförträngning av hjärtats kärl efter PCI
+92,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen",Blodfettssänkande behandling efter hjärtinfarkt 
+367,,1,SWEDEHEART - SEPHIA,Måluppfyllelse för LDL-kolesterol
+368,,1,SWEDEHEART - SEPHIA,Måluppfyllelse för blodtryck
+96,,1,Makularegistret,163**Använd ej denna**
+95,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Död eller återinskrivning efter vård för hjärtsvikt 
+369,,1,Makularegistret,163**Använd ej denna**
+97,,2,ICD- och Pacemakerregistret,Komplikationer efter pacemakerinsättning
+98,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per vårdtillfälle för PCI vid hjärtinfarkt
+100,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter sjukhusvårdad förstagångsstroke
+370,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Direktintag på strokeenhet
+321,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Reperfusionsbehandling vid stroke
+371,,0,Riksstroke - Nationella kvalitetsregistret för stroke,Mediantid till trombolysbehandling
+103,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Test av sväljförmåga vid akut stroke
+104,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen","Antikoagulantia vid förmaksflimmer efter stroke, 55-79 år"
+105,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen",Blodfettssänkande behandling efter stroke
+372,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Blodtryckssänkande behandling efter stroke 
+106,,1,"Patientregistret, Socialstyrelsen",Återinsjuknande efter stroke 
+107,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Funktionsförmåga efter stroke
+373,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Fullt tillgodosett behov av stöd och hjälp 3 månader efter stroke
+109,,1,Riksstroke - Nationella kvalitetsregistret för stroke,Tillgodosedda behov av rehabilitering efter stroke - efter 1 år
+10,,1,Nationellt Kvalitetsregister för Cervixcancerprevention,Deltagandefrekvens gynekologiskt cellprov
+12,,1,Svenska Palliativregistret,Smärtskattning i livets slutskede 
+15,,1,Makularegistret,163**Använd ej denna**
+16,,2,Makularegistret,163**Använd ej denna**
+17,,1,Makularegistret,163**Använd ej denna**
+18,,0,"Läkemedelsregistret, Socialstyrelsen",Förekomst av antibiotikabehandling 
+19,,1,Makularegistret,163**Använd ej denna**
+20,,1,Makularegistret,163**Använd ej denna**
+21,,1,"Läkemedelsregistret, Socialstyrelsen ",Kombinationspreparat vid astma
+22,,1,"Läkemedelsregistret, Socialstyrelsen ",Uttagsföljsamhet vid blodtryckssänkande behandling
+24,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Fråga om andra läkemedel vid besök i primärvård 
+50,,1,Nationella kvalitetsregistret inom gynekologisk kirurgi,Patienttillfredsställelse efter borttagande av livmoder
+70,,0,Makularegistret,163**Använd ej denna**
+83,,0,"Patientregistret och Läkemedelsregistret, Socialstyrelsen",Amputation vid diabetes
+101,,1,Makularegistret,163**Använd ej denna**
+102,,1,Makularegistret,163**Använd ej denna**
+108,,1,Makularegistret,163**Använd ej denna**
+327,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid cancersjukdom
+390,,1,Svenska Palliativregistret,Vidbehovsordination av ångestdämpande läkemedel
+391,,1,Svenska Palliativregistret,Samtal om vårdens innehåll och riktning (brytpunktssamtal
+392,,1,"Patientregistret, Socialstyrelsen",Å^terkommande slutenvård i livets slutskede
+118,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid bröstcancer
+393,,1,Nationella bröstcancerregistret,Multidisciplinära konferens
+394,,1,Nationella bröstcancerregistret,Multidisciplinära konferens
+395,,1,Nationella bröstcancerregistret,Fastställd diagns innan operation för bröstcancer
+396,,1,Nationella bröstcancerregistret,Omoperation på grund av tumördata
+397,,1,Nationella bröstcancerregistret,Operationer med bröstbevarande kirurgi
+398,,1,Nationella bröstcancerregistret,Operationer med bröstbevarande kirurgi
+399,,1,Nationella bröstcancerregistret,Operation med sentinel node-teknik vid invasiv bröstcancer
+400,,2,Nationella bröstcancerregistret,Omoperation på grund av kompliktion
+401,,1,Nationella bröstcancerregistret,Fullständigt strukturerat pad-svar efter operation
+402,,1,Nationella bröstcancerregistret,Lokal strålbehandling efter operation av bröstcancer med lymfkörtelmetastaser
+403,,1,Nationella bröstcancerregistret,Cytostatikabehandling med tillägg av trastuzumab
+404,,1,Nationella bröstcancerregistret,Läkemedelsbehandling med tamoxifen och/eller aromatashämmare efter operation
+405,,0,Nationella bröstcancerregistret,Väntetid från första besök hos specialist till start av behandling
+406,,1,"Cancerregistret, Socialstyrelsen",Överlevnads vid äggstockscancer
+407,,1,Nationellt kvalitetsregister för ovarialcancer,Andel vävnadsprov som bedöms av refrenspatolog
+408,,1,Nationellt kvalitetsregister för ovarialcancer,Erfaren tumörkiturg vid primäroperation
+409,,1,Nationellt kvalitetsregister för ovarialcancer,Optimala kirurgiska stadieindelningsprocedurer vid operation av tidig äggsstockcancer
+410,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid njurcancer
+411,,1,Nationella njurcancerregistret,Primär utredning med datortomografi av bröstkorgen före operation
+412,,1,Nationella njurcancerregistret,Njursparande kirurgi vid små tumörer
+413,,0,Nationella njurcancerregistret,Väntetid från remissbeslut till start av behandling
+414,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid blåscancer
+415,,1,Nationellt kvalitetsregister för urinblåsecancer,Multidisciplinär konferens inför behandlingsstart
+416,,1,Nationellt kvalitetsregister för urinblåsecancer,Intravesikal behandling av tumör i stadium T1
+417,,1,Nationellt kvalitetsregister för urinblåsecancer,Kurativ syftande behandling av tumörer i stadium T2-T4
+418,,1,Nationellt kvalitetsregister för urinblåsecancer,Sytotatikabehandling före radikal operation vid muskerinvasiv urinblåsecanser
+419,,0,Nationellt kvalitetsregister för urinblåsecancer,Väntetid från remissbeslut till start av behandling vid blåscancer
+420,,2,Nationella prostatacancerregistret,Skelettundersökning vid prostatacancer med låg risk
+421,,1,Nationella prostatacancerregistret,Aktiv monitering vid prostatacancer med mycket låg risk
+422,,1,Nationella prostatacancerregistret,Kuativ behandling vid lokaliserad prostatacancer med hög risk
+423,,1,Nationella prostatacancerregistret,Strålbehandling i kombination med hormonbehandling vid lokalt avancerad prostatacancer med hög risk
+424,,0,Nationella prostatacancerregistret,Väntetid från remissbeslut till start av behandling vid prostatacancer med intermediär risk och hög risk
+425,,0,Nationella prostatacancerregistret,Väntetid från remissbeslut till start av behandling vid metastaserad prostatacancer
+112,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid tjocktarmscancer 
+426,,1,Nationella Coloncancerregistret,Multidisciplinär konferens
+427,,1,Nationella Coloncancerregistret,Multidisciplinär konferens efter operation
+428,,1,Nationella Coloncancerregistret,Kartläggning inför operation vid nydiagnosticerad tjocktarmscancer
+113,,1,Nationella Coloncancerregistret,Omoperation på grund av komplikation
+114,,2,Nationella Coloncancerregistret,Avlidna inom 30 respektive 90 dagar efter operation
+429,,1,Nationella Coloncancerregistret,Minst tolv lymfkörtlar undersökta i operationspreparat
+430,,1,Nationella Coloncancerregistret,Mer än 11 dagars vårdtid efter operation
+431,,1,Nationella Coloncancerregistret,Påbörjad cytostatikabehandling inom 8 veckor efter operation vid stadium II och III
+432,,1,Nationella Coloncancerregistret,Deltagande i strukterad behandlingsstudie
+433,,0,Nationella Coloncancerregistret,Väntetid från remissbeslut till start av behandling
+115,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid ändtarmscancer 
+434,,1,Svenska Kolorektalcancerregistret,Multidisciplinär konferens
+435,,1,Svenska Kolorektalcancerregistret,Multidisciplinär konferens
+436,,1,Svenska Kolorektalcancerregistret,Kartläggning inför operation vid nydiagnosticerad ändtarmscancer
+116,,1,Svenska Kolorektalcancerregistret,Omoperation på grund av komplikation
+117,,2,Svenska Kolorektalcancerregistret,Avlidna inom 30 respektive 90 dagar efter operation
+437,,1,Svenska Kolorektalcancerregistret,Minst tolv lymfkörtlar undersökta i operationspreparat
+438,,1,Svenska Kolorektalcancerregistret,Mer än 15 dagars vårdtid efter operation
+439,,2,Svenska Kolorektalcancerregistret,Anastomosinsuffciens efter operation
+440,,2,Svenska Kolorektalcancerregistret,Återfall ac cancer i bäcknet inom fem år efter operation
+441,,1,Svenska Kolorektalcancerregistret,Deltaganade i strukturerad behandlingsstudie
+442,,0,Svenska Kolorektalcancerregistret,Väntetid från remissbeslut till start av behandling
+122,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid lungcancer 
+123,,1,Nationella lungcancerregistret,Multidisciplinär konferens inför behandlingsstart
+443,,1,Nationella lungcancerregistret,EGFR-analys vid icke småcellig lungcancer
+444,,1,"Patientregistret, läkemedelsregistret och dödorsaksregistret, Socialstyrelsen",Antikoagulantia till riskpatienter
+445,,1,Nationella lungcancerregistret,Kurativ syftande behandling vid icke småcellig lungcancer i stadium I och II
+446,,1,Nationella lungcancerregistret,Paliativt syftande kemoterapi vid obotlig lungcancer
+447,,0,Nationella lungcancerregistret,Väntetid från remissankomst till behandlingsbeslut
+448,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid huvud- och halscancer
+449,,1,Svenskt kvalitetsregister för huvud- och halscancer,Multidisciplinär konferens inför behandling
+127,,0,Svenskt kvalitetsregister för huvud- och halscancer,Väntetid från remissankomst till start av behandling
+450,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid malignt hudmelanom
+451,,1,Nationella hudmelanomregistret,"Malignt hudmelanom med en yumörtjocklek på 1,0 milimeter eller mindre"
+452,,1,Nationella hudmelanomregistret,Portvaktskörtelbiopsi vid malignt melanom
+453,,0,Nationella hudmelanomregistret,Väntetid från första läkarbesök till besked om diagnos
+119,,1,Nationella bröstcancerregistret,Omoperation vid bröstcancer på grund av tumördata
+120,,2,Nationella bröstcancerregistret,Omoperation vid bröstcancer på grund av komplikation
+121,,0,Nationella bröstcancerregistret,Tid till operation vid bröstcancer
+124,,0,Nationellt lungcancerregister/Nationella Lungcancerregistret,Tid till behandlingsbeslut vid lungcancer
+125,,0,Makularegistret,163**Använd ej denna**
+126,,1,Makularegistret,163**Använd ej denna**
+131,,0,"Patientregistret, Socialstyrelsen",Undvikbar somatisk slutenvård för personer med psykiatrisk diagnos
+132,,1,"Patientregistret, Socialstyrelsen",Återinskrivning inom 28 dagar efter vård för schizofreni
+133,,1,"Patientregistret, Socialstyrelsen",Återinskrivning inom 6 månader efter vård för schizofreni
+135,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 30 dagar - barn- och ungdomspsykiatri
+136,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar - vuxenpsykiatri
+139,,1,"Kvalitetsregister ECT och Patientregistret, Socialstyrelsen",ECT vid svår depression
+140,,1,Kvalitetsregister ECT,Depressionsskattning vid ECT
+137,,1,Rättspsyk - Nationellt kvalitetsregister för rättpsykiatrisk vård,Återfall i brottslig gärning vid rättspsykiatrisk vård
+138,,1,Rättspsyk - Nationellt kvalitetsregister för rättpsykiatrisk vård,Fetma bland patienter i rättspsykiatrisk vård
+128,,0,"Läkemedelsregistret, Socialstyrelsen",Regelbunden behandling med sömnmedel eller lugnande medel
+129,,2,"Läkemedelsregistret, Socialstyrelsen",Tre eller fler psykofarmaka bland äldre 
+130,,1,"Läkemedelsregistret, Socialstyrelsen",Användning av lämpliga sömnmedel till äldre 
+134,,1,"Läkemedelsregistret, Socialstyrelsen",Följsamhet till litiumbehandling vid bipolär sjukdom 
+141,,1,Svenskt Bråckregister,Omoperation vid ljumskbråck 
+142,,1,"Patientregistret, Socialstyrelsen",Dagkirurgiska operationer vid ljumskbråck 
+143,,1,Makularegistret,143**Använd ej denna**
+144,,1,Scandinavian Obesity Surgery Register,Uppföljning av patienter efter obesitaskirurgi
+145,,1,Scandinavian Obesity Surgery Register,Minskning av övervikt efter obesitaskirurgi
+146,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per operation - obesitaskirurgi
+147,,1,Gallriks - Svenskt kvalitetsregister för gallstenskirurgi,Miniinvasivt borttagande av gallblåsa
+148,,1,Gallriks - Svenskt kvalitetsregister för gallstenskirurgi,Kirurgiska komplikationer efter borttagande av gallblåsa
+149,,1,Gallriks - Svenskt kvalitetsregister för gallstenskirurgi,Antibiotika vid borttagande av gallblåsa
+150,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per DRG-poäng  vid galloperation
+151,,1,Swedvasc - Svenska Kärlregistret,Tid till operation vid förträngning av halspulsåder
+152,,1,Swedvasc - Svenska Kärlregistret,Död eller amputation efter operation av kärlförträngning i ben
+153,,1,Swedvasc - Svenska Kärlregistret,Död efter planerad operation för aortaaneurysm
+154,,0,"KPP-databasen, Sveriges Kommuner och Landsting",Kostnad per operation av kärlförträngning i ben
+374,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar - allmän kirurgi
+375,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting","Operation inom 90 dagar - magsäck, tarm vid övervikt"
+376,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar för ljumskbråck
+155,,1,"Svenskt Kvalitetsregister för Öron-, Näs- och Halssjukvård",Patientrapporterat resultat av septumplastik 
+156,,1,"Svenskt Kvalitetsregister för Öron-, Näs- och Halssjukvård",Patientrapporterad symtomfrihet efter tonsillektomi
+157,,2,SIR - Svenska Intensivvårdsregistret,Riskjusterad dödlighet efter vård på IVA
+158,,2,SIR - Svenska Intensivvårdsregistret,Utskrivning nattetid från IVA
+159,,2,SIR - Svenska Intensivvårdsregistret,Oplanerad återinskrivning till IVA
+160,,1,Nationella Kataraktregistret,Synfel vid tidpunkt för kataraktoperation
+161,,1,Nationella Kataraktregistret,Självskattad nytta av kataraktoperation
+162,,1,Makularegistret,Förbättring efter behandling vid makuladegeneration
+377,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Besök inom 90 dagar - ögonsjukvård
+378,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Operation inom 90 dagar för gråstarr
+13,,1,Svenska Palliativregistret,Vidbehovsordination av opioider i livets slutskede
+14,,1,Svenska Palliativregistret,Brytpunktssamtal i livets slutskede
+379,,1,Svenska Palliativregistret,Munhälsobedömning under sista levnadsveckan
+380,,1,Svenska Palliativregistret,Trycksår vid tidpunkt för dödsfall
+381,,1,Svenska Palliativregistret,Vidbehovsordination av ångestdämpande läkemedel
+110,,1,Svenska MS-registret,Bromsmedicin vid skovvis förlöpande MS 
+111,,1,Svenska MS-registret,Bromsmedicin vid sekundärprogressiv MS
+382,,1,CPUP,Andel barn med god sträckningsförmåga i knäled vid CP
+383,,1,CPUP,Andel barn bedömda av fysioterapeut vid CP
+23,,1,InfCare HIV,God viruskontroll vid HIV
+163,,0,Makularegistret,163**Använd ej denna**
+164,,0,Makularegistret,164**Använd ej denna**
+165,,0,Makularegistret,skräp 165**Använd ej denna**
+166,,0,Makularegistret,166**Använd ej denna**
+167,,0,Makularegistret,167**Använd ej denna**
+168,,0,Makularegistret,168**Använd ej denna**
+169,,0,Makularegistret,169**Använd ej denna**
+170,,0,Folkhälsoinstitutet (FHI),Förtroende för sjukvården
+171,,0,Folkhälsoinstitutet (FHI),Avstått från att söka sjukvård trots upplevt behov
+172,,0,Folkhälsoinstitutet (FHI),Avstått besök hos tandläkare trots upplevt behov
+173,,0,Folkhälsoinstitutet (FHI),Ohälsosamma levnadsvanor
+174,,0,Sveriges Kommuner och Landsting,Diskussion om levnadsvanor med vårdpersonal
+175,,0,Sveriges Kommuner och Landsting,Förändring av levnadsvanor med stöd via internet
+176,,0,Sveriges Kommuner och Landsting,Förändring av levnadsvanor som alternativ till läkemedelsbehandling
+177,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat tobaksvanor med vårdpersonal i primärvården
+178,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat tobaksvanor med vårdpersonal i öppen- och slutenvård
+179,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat tobaksvanor med vårdpersonal inom psykiatrisk öppenvård
+180,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat alkoholvanor med vårdpersonal i primärvården
+181,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat alkoholvanor med vårdpersonal i öppen- och slutenvård
+182,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat alkoholvanor med vårdpersonal inom psykiatrisk öppenvård
+183,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat motionsvanor med vårdpersonal i primärvården
+184,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat motionsvanor med vårdpersonal i öppen- och slutenvård
+185,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat motionsvanor med vårdpersonal inom psykiatrisk öppenvård
+186,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat matvanor med vårdpersonal i primärvården
+187,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat matvanor med vårdpersonal i öppen- och slutenvård
+188,,0,Sveriges Kommuner och Landsting,Patienter som diskuterat matvanor med vårdpersonal inom psykiatrisk öppenvård
+189,,0,NDR - Nationella Diabetesregistret,Vuxna patienter med diabetes med BMI över 30 kg/m2
+190,,0,NDR - Nationella Diabetesregistret,Rökning hos vuxna patienter med diabetes
+191,,0,NDR - Nationella Diabetesregistret,Fysisk inaktivitet hos vuxna patienter med diabetes
+192,,1,Barn- och ungdomsdiabetes (SWEDIAKIDS),Fysisk aktivitet hos barn med diabetes
+193,,0,Barn- och ungdomsdiabetes (SWEDIAKIDS),Blodsockernivån hos barn och ungdomar med diabetes
+194,,0,"Medicinska födelseregistret, Socialstyrelsen",Rökning i barns hemmiljö vid 0-4 veckor
+195,,0,"Medicinska födelseregistret, Socialstyrelsen",Rökning i barns hemmiljö vid 8 månader
+196,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Allmänt hälsotillstånd tre månader efter stroke
+197,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Allmänt hälsotillstånd tolv månader efter stroke
+198,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Tillgodosedda behov av rehabilitering efter stroke 2011
+199,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Nöjdhet med information om stroke
+200,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Rökstopp efter stroke vid tremånadersuppföljning
+201,,1,"Nationella kvalitetsregistret för stroke, Riks-Stroke",Rökstopp efter stroke vid tolvmånadersuppföljning
+202,,0,Socialstyrelsen,Kariesfria barn 3 och 6 år
+203,,0,Socialstyrelsen,Kariesfria barn och ungdomar 12 och 19 år
+204,,2,SWESPINE - Svenska Ryggregistret,Patientrapporterad förbättring efter operation av spinal stenos
+205,,2,SWESPINE - Svenska Ryggregistret,Patientrapporterad förbättring efter operation av diskbråck
+206,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Frågan om patienten använder andra läkemedel
+207,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Information om förskrivet läkemedel
+208,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Information om biverkningar
+209,,1,"Läkemedelsregistret, Socialstyrelsen",Tio eller fler läkemedel samtidigt 
+210,,2,"Läkemedelsregistret, Socialstyrelsen",Medelantal läkemedel 
+211,,1,"Läkemedelsregistret, Socialstyrelsen",Äldre med läkemedel som bör undvikas
+212,,2,"Läkemedelsregistret, Socialstyrelsen",Användning av antiinflammatoriska läkemedel hos äldre (75 år och äldre)
+213,,1,"Läkemedelsregistret, Socialstyrelsen",Användning av antipsykotiska läkemedel hos äldre (75 år och äldre)
+214,,2,"Läkemedelsregistret, Socialstyrelsen",Användning av demensläkemedel hos äldre (65 år och äldre - åldersstandardiserat)
+215,,1,"Läkemedelsregistret, Socialstyrelsen",Regelbunden behandling med vissa sömnmedel och lugnande medel 
+216,,1,"Läkemedelsregistret, Socialstyrelsen",Följsamhet till behandling med läkemedel mot depression
+217,,0,"Läkemedelsregistret, Socialstyrelsen",Förekomst av antibiotikabehandling i öppenvård
+218,,1,"Läkemedelsregistret, Socialstyrelsen",Penicillin V vid behandling av barn med antibiotika som vanligen används vid luftvägsinfektion
+219,,1,"Läkemedelsregistret, Socialstyrelsen",Penicillin V som andel av all antibiotika
+220,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på antibiotika för urinvägsinfektion
+221,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Läkemedelsbehandling 0-6 månader efter sjukhusvårdad hjärtsvikt
+222,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Läkemedelsbehandling 12-18 månader efter sjukhusvårdad hjärtsvikt
+223,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Blodproppshämmande behandling 12-18 månader efter akut hjärtinfarkt
+224,,0,Riksstroke - Nationella kvalitetsregistret för stroke,Tidsfördröjning mellan ankomst till sjukhus och start av trobolysbehandling
+225,,1,Nationellt kvalitetsregister för koloncancer,Adjuvant cytostatikabehandling efter operation vid tjocktarmscancer stadium II och III 
+226,,0,Xxänvänd ej denna,XXXYY används ej
+227,,0,Xxänvänd ej denna,XXXYY används ej
+228,,0,Xxänvänd ej denna,XXXYY används ej
+229,,0,Xxänvänd ej denna,XXXYY används ej
+230,,0,"Läkemedelsregistret, Socialstyrelsen", Justerad läkemedelkostnad per invånare
+231,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Antibiotikaanvändning och viljan att avstå när så är möjligt 
+232,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen","Behandling med antipsykotiska läkemedel vid schizofreni och schizofreniliknande tillstånd, 0-6 månader efter utskrivning från sjukhus"
+233,,0,Xxänvänd ej denna,XXXYY används ej
+234,,1,Xxänvänd ej denna,XXXYY används ej
+235,,2,Xxänvänd ej denna,XXXYY används ej
+236,,3,Xxänvänd ej denna,XXXYY används ej
+237,,4,Xxänvänd ej denna,XXXYY används ej
+238,,5,Xxänvänd ej denna,XXXYY används ej
+239,,6,Xxänvänd ej denna,XXXYY används ej
+240,,0,"Patientregistret, Socialstyrelsen",Total antal vårddagar
+241,,0,"Patientregistret, Socialstyrelsen",Total antal Vårdtillfällen
+242,,2,"Patientregistret, Socialstyrelsen","Medelvårdtid för vårdtillfälle vid slutenvård, totalt"
+243,,1,"Patientregistret, Socialstyrelsen",Antal operationer i dagkirurgi av totalt antal operationer
+244,,0,Kolada,"Antal vårdplatser, totalt"
+245,,1,Socialstyrelsens statistikdatabas och Kolada,Beläggningsgrad
+246,,0,"Patientregistret, Socialstyrelsen",Hysterektomi - Antal operationer
+247,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid hysterektomi
+248,,0,"Patientregistret, Socialstyrelsen",Framfall - Antal operationer 
+249,,0,"Patientregistret, Socialstyrelsen",Urininkontinens - Antal operationer
+250,,0,"Patientregistret, Socialstyrelsen",Skrapning - Antal operationer
+251,,0,"Patientregistret, Socialstyrelsen",Artroskopi - Antal operationer 
+252,,0,"Patientregistret, Socialstyrelsen",Knäprotes - Antal operationer 
+253,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid knäprotesoperation
+254,,0,"Patientregistret, Socialstyrelsen",Höftprotes - Antal operationer 
+255,,2,"Patientregistret, Socialstyrelsen",Medelvårdtider vid höftprotesoperation
+256,,0,"Patientregistret, Socialstyrelsen",Höftfraktur - Antal vårdtillfällen grundad på vårdepisodsdata 
+257,,1,"Patientregistret, Socialstyrelsen",Medelvårdtid för vårdepisod vid höftfraktur
+258,,0,"Patientregistret, Socialstyrelsen",Hjärtsvikt- Antal vårdtillfällen 
+259,,1,"Patientregistret, Socialstyrelsen","Hjärtsvikt, antal vårddagar per patient"
+260,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid hjärtsvikt
+261,,0,"Patientregistret, Socialstyrelsen",Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)- Antal vårdtillfällen
+262,,2,"Patientregistret, Socialstyrelsen",Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)- Antal vårddagar per patient
+263,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid Hjärtarytmi och överledningsstörningar (DRG E65E och E65C)
+264,,0,"Patientregistret, Socialstyrelsen",Angina pectoris (DRG E66C och E66E) - Antal vårdtillfällen 
+265,,2,"Patientregistret, Socialstyrelsen",Angina pectoris (DRG E66C och E66E) - Antal vårddagar per patient
+266,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid Angina pectoris (DRG E66C och E66E)
+267,,0,"Patientregistret, Socialstyrelsen",Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård) - Antal operationer 
+268,,2,"Patientregistret, Socialstyrelsen",Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård) - Antal vårddagar
+269,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid Planerad PCI vid kranskärlsförträngning (DRG: E19N för slutenvård och E19O för öppenvård)
+270,,1,"Patientregistret, Socialstyrelsen",Kranskärlsoperationer - Antal operationer
+271,,0,"Patientregistret, Socialstyrelsen","Pacemakerimplantat (DRG: slutenvård E26A, E26C och E26E öppenvård E28O) - Antal operationer"
+272,,1,"Patientregistret, Socialstyrelsen",Medelvårdtid vid stroke
+273,,0,"Patientregistret, Socialstyrelsen",Schizofreni - Antal vårdtillfällen per 100 000 invånare
+274,,0,Kataraktregistret,Katarakt - Antal operationer för 65+
+275,,0,"Patientregistret, Socialstyrelsen",Prostataförstoring - Antal operationer
+276,,0,"Patientregistret, Socialstyrelsen",Ljumskbråckoperationer - Antal operationer 
+277,,0,"Patientregistret, Socialstyrelsen",Kolecystektomi-Antal operationer
+278,,1,"Patientregistret, Socialstyrelsen",Septumplastik - Antal operationer
+279,,0,"Patientregistret, Socialstyrelsen",Tonsillektomi - Antal operationer
+280,,0,"Patientregistret, Socialstyrelsen",Obesitasoperationer - Antal operationer
+281,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid obesitaskirurgi
+282,,1,"Patientregistret, Socialstyrelsen",Blödande magsår - Antal vårdtillfällen
+283,,2,"Patientregistret, Socialstyrelsen",Medelvårdtid vid blödande magsår
+480,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2015 Q1"
+284,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2015 Q2"
+302,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2015 Q3"
+316,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2015 Q4"
+460,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2016 Q1"
+470,,0,"Läkemedelsregistret, Socialstyrelsen","Förekomst av antibiotikabehandling i öppenvård, 2016 Q2"
+481,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q1
+285,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q2
+301,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q3
+315,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2015 Q4
+461,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2016 Q1
+471,,1,"Läkemedelsregistret, Socialstyrelsen",Andel kinoloner av alla uthämtade recept på urinvägsantibiotika. Avser personer 18-79 år. 2016 Q2
+293,,1,Xxänvänd ej denna,XXXYY används ej
+294,,1,Xxänvänd ej denna,XXXYY används ej
+295,,1,Xxänvänd ej denna,XXXYY används ej
+482,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q1."
+286,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q2."
+300,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q3."
+314,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2015 Q4."
+462,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2016 Q1."
+472,,1,"Läkemedelsregistret, Socialstyrelsen","Andel penicilin V av alla uthämtade antibiotikarecept, 2016 Q2."
+296,,1,Xxänvänd ej denna,XXXYY används ej
+297,,1,Xxänvänd ej denna,XXXYY används ej
+298,,1,Xxänvänd ej denna,XXXYY används ej
+299,,1,Xxänvänd ej denna,XXXYY används ej
+483,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q1."
+287,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q2."
+303,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q3."
+317,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2015 Q4."
+463,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2016 Q1."
+473,,1,"Läkemedelsregistret, Socialstyrelsen","Penicillin V vid behandling av barn med luftvägsantibiotika, avser barn 0-6 år. 2016 Q2."
+484,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q1.
+288,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q2.
+304,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q3.
+309,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2015 Q4.
+464,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2016 Q1.
+474,,1,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med tio eller fler läkemedel samtidigt. Avser personer 75 år och äldre. 2016 Q2.
+485,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q1."
+289,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q2."
+305,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q3."
+310,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2015 Q4."
+465,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2016 Q1."
+475,,2,"Läkemedelsregistret, Socialstyrelsen","Medelantal läkemedel hos äldre. Avser personer 75 år och äldre, 2016 Q2."
+486,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q1.
+290,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q2.
+306,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q3.
+311,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2015 Q4.
+466,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2016 Q1.
+476,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen med minst ett av fyra läkemedel som bör undvikas till äldre. Avser personer 75 år och äldre. 2016 Q2.
+487,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q1.
+291,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q2.
+307,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q3.
+312,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2015 Q4.
+467,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2016 Q1.
+477,,2,"Läkemedelsregistret, Socialstyrelsen",Andel äldre i befolkningen som behandlas med NSAID. Avser personer 75 år och äldre. 2016 Q2.
+488,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q1. "
+292,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q2. "
+308,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q3. "
+313,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2015 Q4. "
+468,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2016 Q1. "
+478,,2,"Läkemedelsregistret, Socialstyrelsen","Andel äldre som använder antipsykotika, Avser personer 75 år och äldre. 2016 Q2. "
+318,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen","Behandling med antipsykotiska läkemedel vid schizofreni och schizofreniliknande tillstånd, 12-18 månader efter utskrivning från sjukhus"
+319,,1,"Läkemedelsregistret, Socialstyrelsen",Antibiotika förskrivet av tandläkare
+320,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Antikoagulantia vid förmaksflimmer och riskfaktor för stroke
+322,,0,Riksstroke - Nationella kvalitetsregistret för stroke,Mediantid från ankomst till behandlingsstart trombolys
+323,,0,Svensk Reumatologis Kvalitetsregister,Biologiska läkemedel vid reumatoid artrit 
+324,,1,Svensk Reumatologis Kvalitetsregister,Effekt vid behandlingsstart med  biologiskt läkemedel 
+510,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Fråga om andra läkemedel vid besök i specialiserad somatisk öppenvård
+511,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Läkarens förklaring om läkemedel vid besök i specialiserad somatisk öppenvård
+512,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Information om eventuell biverkning vid besök i specialiserad somatisk öppenvård
+513,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Fråga om andra läkemedel vid besök i somatisk slutenvård
+514,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Läkarens förklaring om läkemedel vid besök i somatisk slutenvård
+515,,0,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Information om eventuell biverkning vid besök i somatisk slutenvård
+516,,1,"Läkemedelsregistret och Patientregistret, Socialstyrelsen",Basbehandling vid hjärtsvikt (inom 5 år)
+517,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen","Antikoagulantia vid förmaksflimmer efter stroke, 18-79 år"
+518,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen","Blodfettssänkande behandling 12-18 månader efter stroke, 18-79 år"
+519,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen","Blodfettssänkande behandling 12-18 månader efter stroke, 18 år och äldre"
+520,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen","Blodfettssänkande behandling 12-18 månader efter stroke, 80 år och äldre"
+521,,1,SWEDEHEART - SEPHIA,Reperfusionsbehandling vid stroke
+522,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Tillgång till hälso- och sjukvård vid långvarig sjukdom
+523,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för hälso- och sjukvården vid långvarig sjukdom
+524,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för sjukhus vid långvarig sjukdom
+525,,0,"Vårdbarometern, Sveriges Kommuner och Landsting",Förtroende för vårdcentraler vid långvarig sjukdom
+526,,0,"Patientregistret, Socialstyrelsen","Slutenvård vid hjärtsvikt, diabetes, astma eller KOL "
+527,,0,"Patientregistret, Socialstyrelsen",Slutenvård vid hjärtsvikt
+528,,1,"Dödsorsaksregistret, Socialstyrelsen",Dödlighet i stroke i befolkningen 1–79 år
+529,,1,"Patientregistret, Socialstyrelsen",Slutenvård vid diabetes
+530,,0,"Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",Dödlighet i hjärt-kärlsjukdom vid diabetes
+532,,1,"Patientregistret, Socialstyrelsen",Slutenvård vid astma
+533,,1,"Dödsorsaksregistret, Socialstyrelsen",Dödlighet i KOL i befolkningen 1–79 år
+534,,0,"Patientregistret, Socialstyrelsen",Slutenvård vid KOL
+535,,1,"Patientregistret, Socialstyrelsen",Återinskrivning i sluten vård vid KOL
+536,,0,"Patientregistret, Socialstyrelsen",Fallskador bland äldre (65 år eller äldre sluten vård eller läkarbesök i specialiserad vård)
+537,,1,Svensk Reumatologis Kvalitetsregister,Patienter med RA som fått diagnos inom 20 veckor
+538,,2,"Läkemedelsregistret, Socialstyrelsen",Behandling med antipsykosmedel bland äldre
+539,,2,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Överdödlighet för vuxna patienter med bipolär sjukdom
+540,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Återfallsförebyggande behandling vid bipolär sjukdom
+541,,2,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Överdödlighet för vuxna patienter med schizofreni
+542,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Antipsykotisk läkemedelsbehandling vid schizofreni
+543,,1,"Medicinska födelseregistret, Socialstyrelsen",BMI vid inskrivning till mödrahälsovården
+544,,1,"Tandhälsoregistret, Socialstyrelsen",Tandvårdsundersökning de senaste två åren
+545,,1,NDR - Nationella Diabetesregistret,Fysisk inaktivitet vid diabetes (alla diabetestyper)
+546,,1,NDR - Nationella Diabetesregistret,Rökning vid diabetes (alla diabetestyper)
+547,,2,Graviditetsregistret,Extra Stöd till Förlossningsrädsla
+548,,1,Nationella bröstcancerregistret,Screeningupptäckta bröstcancerfall
+549,,1,Nationella bröstcancerregistret,Omoperation av bröstbevarande 
+550,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid prostatacancer
+551,,1,"Väntetider i Vården, Sveriges Kommuner och Landsting",Utredning/behandling inom 30 dagar - barn- och ungdomspsykiatri
+596,,1,NDR - Nationella Diabetesregistret,"Blodsockervärde, diabetes typ-2 (över 70 mmol/mol)"
+569,,0,"Hälsa på lika villkor, Folkhälsomyndigheten",Daglig rökning
+573,,1,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Delaktighet och involvering i  primärvård
+568,,1,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Delaktighet och involvering i  specialiserad öppenvård
+565,,1,Svenska Kolorektalcancerregistret,Deltagande i behandlingsstudier vid tjock- eller ändtarmcancer
+552,,1,"Patientregistret och Dödsorsaksregistret, Socialstyrelsen",Dödlighet efter stroke (inom 90 dagar)
+571,,1,"Cancerregistret, Socialstyrelsen","Femårsöverlevnad cancer (exkl bröst-, prostata- och annan hudcancer än malignt melanom)"
+567,,1,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Kontinuitet och koordinering i specialiserad öppenvård
+572,,1,"Nationell Patientenkät, Sveriges Kommuner och Landsting",Kontinuitet och koordinering primärvård
+566,,1,"Kvalitetsregistren och hälsodataregister, Socialstyrelsen",Rapportering till kvalitetsregister – fyra folksjukdomar
+563,,1,Sveriges Kommuner och Landsting,Sjukfrånvaro bland landstingsanställda
+562,,0,Folkhälsomyndigheten,Självskattad god tandhälsa
+561,,0,Folkhälsomyndigheten,Självskattat allmänt hälsotillstånd
+597,,0,"Patientregistret, Socialstyrelsen","Undvikbar slutenvård, äldre personer"
+582,,0,Svenska Kolorektalcancerregistret,Väntetid från diagnos till behandling vid tjocktarmscancer
+591,,1,"Kommun och landstingsdatabasen, Rådet för kommunala analyser",Väntetid till särskilt boende
+570,,1,Sveriges Kommuner och Landsting,Överbeläggningar och utlokaliserade patienter
+553,,0,Sveriges Kommuner och Landsting och Statistiska centralbyrån,Landstingens hälso- och sjukvårdskostnad
+555,,1,"Swedvasc, Nationella kvalitetsregistret för kärlkirurgi. Patientregistret och dödsorsaksregistret, Socialstyrelsen.
+",Allvarlig hjärt-kärlhändelse hos patienter med benartärsjukdom
+556,,1,"Swedvasc, Nationella kvalitetsregistret för kärlkirurgi. Patientregistret, läkemedelsregistret, Socialstyrelsen",Läkemedelsterapi efter kärlkirurgiskt ingrepp för benartärsjukdom
+559,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen",Monoterapi med kalcium och D-vitamin efter fragilitetsfraktur
+564,,1,"Medicinska födelseregistret, Patientregistret ",Gravida kvinnor med övervikt (BMI ≥ 25)
+574,,1,Sveriges Kommuner och Landsting,Utlokaliserade patienter
+575,,1,Senior Alert,Riskförebyggande åtgärder
+576,,1,"Medicinska födelseregistret, Patientregistret ",Mödrar som återinlagts på vårdavdelning inom 30 dagar
+577,,2,"Medicinska födelseregistret, Patientregistret ",Antal levandefödda barn med födelsevikt ≥2000 g 
+579,,1,Sveriges Kommuner och Landsting,Andel med korrekta hygienrutiner och klädregler
+580,,1,"Swedvasc - Svenska Kärlregistret och läkemedelregistret, Socialstyrelsen",Läkemedelsterapi efter kärlkirurgiskt ingrepp för benartärsjukdom
+581,,1,"Svenska ICD- och pacemakerregistret och patientregistret, Socialstyrelsen",Komplikation efter pacemakerinsättning
+583,,2,NDR - Nationella Diabetesregistret,"Riskmotorn, förhöjd 5-årsrisk för hjärtkärlsjukdom hos personer med diabetes typ 1"
+584,,1,NDR - Nationella Diabetesregistret,"Riskmotorn, förhöjd 5-årsrisk för hjärtkärlsjukdom hos personer med diabetes typ 2"
+585,,0,Swedheart,Tid till angio vid NSTEMI – icke ST-höjningsinfarkt Median
+587,,1,Swedheart,Koronarangio och PCI endast via handled 
+588,,1,"Svenska Knäprotesregistret. Patientregistret, Socialstyrelsen",Oönskade händelser efter knäprotesoperation
+589,,1,"Svenska Höftprotesregistret. Patientregistret, Socialstyrelsen",Oönskade händelser efter höftprotesoperation 
+590,,1,Sveriges Kommuner och Landsting,Trycksår i sluten vård (grad 1-4)
+592,,1,"Markörbaserad journalgranskning, SKL",Vårdtillfällen med vårdskador inom somatisk slutenvård
+593,,1,"Punktprevalensmätningar (PPM), SKL",Andel med korrekta hygienrutiner och klädregler
+594,,1,"Patientregistret och Läkemedelsregistret, Socialstyrelsen, Svensk Reumatologis Kvalitetsregister",Biologiska läkemedel vid reumatoid artrit   
+595,,1,NDR - Nationella Diabetesregistret,"Blodsockervärde, diabetes i primärvård (under 70 mmol/mol)"
+599,,2,"Medicinska födelseregistret, Socialstyrelsen",Andel mödrar som återinlagts på vårdavdelning inom 30 dagar 
+600,,1,"Cancerregistret, Socialstyrelsen",Överlevnad vid prostatacancer
