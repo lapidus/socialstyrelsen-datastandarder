@@ -1,0 +1,523 @@
+plats,namn,del_av_plats
+46,"Riket",
+01,"Stockholm",46
+03,"Uppsala",46
+04,"Sörmland",46
+05,"Östergötland",46
+06,"Jönköping",46
+07,"Kronoberg",46
+08,"Kalmar",46
+09,"Gotland",46
+10,"Blekinge",46
+12,"Skåne",46
+13,"Halland",46
+14,"Västra Götaland",46
+17,"Värmland",46
+18,"Örebro",46
+19,"Västmanland",46
+20,"Dalarna",46
+21,"Gävleborg",46
+22,"Västernorrland",46
+23,"Jämtland",46
+24,"Västerbotten",46
+25,"Norrbotten",46
+10011,"S:t Görans sjukhus, Stockholm",01
+10012,"S:t Eriks Ögonsjukhus",01
+10013,"Södersjukhuset, Stockholm",01
+10301,"Blackebergs sjukhus",01
+10303,"Sabbatsbergs sjukhem",01
+10349,"Dalens sjukhus",01
+10351,"Serafens Specialistmottagning",01
+10461,"Medocular Strandvägskliniken",01
+10468,"Capio Artro Clinic, Stockholm",01
+10481,"Ersta sjukhus, Stockholm",01
+10483,"Sophiahemmet, Stockholm",01
+10484,"Sabbatsberg närsjukhus",01
+10486,"Ortopediska huset Stockholm",01
+10490,"Europakliniken, Stockholm",01
+10493,"Järva Närsjukhus",01
+10497,"Stockholm Spine Center",01
+10502,"Beckomberga sjukhus",01
+10701,"Capio Artro Clinic, Stockholm",01
+10702,"Citymottagningen",01
+10703,"Novius, Stockholm",01
+10704,"Stockholms Specialistvård AB",01
+10705,"Handens specialistvård",01
+10706,"Ortoped-kirurgiskt centrum, Vallentuna",01
+10707,"Ortopedi- och Fotkliniken, Stockholm",01
+11001,"Karolinska Universitetssjukhuset Solna",01
+11002,"Karolinska Universitetssjukhuset Huddinge",01
+11010,"Danderyds sjukhus",01
+11011,"Södertälje sjukhus",01
+11012,"Norrtälje sjukhus",01
+11013,"Löwenströmska sjukhuset",01
+11014,"Nacka Närsjukhus ",01
+11330,"Saltsjöbadens sjukhus",01
+11334,"Nynäshamns sjukhus",01
+11335,"Handens Närsjukhus",01
+11337,"ÖNH-center, Jakobsberg",01
+104020,"Fruängens Läkarhus",01
+104831,"Stockholms ögonklinik, Sophiahemmet",01
+510131,"Ortho Center IFK-kliniken, Göteborg",01
+1000_p,"RPV Stockholm",01
+1000_s,"Serafens Specialistmottagning",01
+1000_x2,"Säters sjukhus",01
+10011a,"S:t Göran BSE",01
+10011b,"S:t Göran HIA",01
+10011p,"Stockholm St Göran PCI",01
+10011u,"Stockholm St Göran Uppföljning",01
+10013a,"Södersjukhuset IVA",01
+10013b,"Södersjukhuset Venhälsan",01
+10013c,"Sachsska barnsjukhuset",01
+10013d,"Södersjukhuset MIVA",01
+10013i,"Södersjukhuset IVA",01
+10013p,"Stockholm SöS PCI",01
+10013u,"Stockholm SöS Uppföljning",01
+10013v,"VENHÄLSAN, Södersjukhuset",01
+1009a,"Stockholm Capio Medocular",01
+1043a,"GynStockholm, S:t Göran sjukhus ",01
+10463ay,"Globen Ögonklinik, Stockholm",01
+10483a,"Bariatric Center Sophiahemmet",01
+1048a,"Ögonläkargruppen Odenplan, Stockholm",01
+10999b,"Stockholm Tumba ögonklinik",01
+1100_x,"Ultragyn Stockholm",01
+11000_x,"Stora Sköndals sjukhem",01
+11001bb,"Karolinska, Solna Barn",01
+11001bi,"Karolinska, Solna BIVA",01
+11001ci,"Karolinska, Solna CIVA",01
+11001d,"Karolinska Solna njurmedicin",01
+11001g,"Astrid Lindgrens barnsjukhus, Stockholm",01
+11001n,"Solna-K njur med",01
+11001ni,"Karolinska, Solna NIVA",01
+11001p,"Stockholm KS Solna PCI",01
+11001th,"Karolinska Solna THIVA",01
+11001ti,"Karolinska, Solna TIVA",01
+11001u,"Stockholm KS Solna Uppföljning",01
+11002bb,"Huddinge barnklinik",01
+11002c,"Karolinska Universitetssjukhuset Huddinge",01
+11002g,"Karolinska universitetssjukhuset",01
+11002iv,"Karolinska, Huddinge IVA",01
+11002n,"Karolinska Huddinge njurmedicin",01
+11002p,"Stockholm KS Huddinge PCI",01
+11002u,"Stockholm KS Huddinge Uppföljn",01
+1100ab,"BB Stockholm, Danderyd",01
+1100b,"Aleris Specialistvård Sabbatsberg",01
+1100c,"Aleris, Stockholm",01
+1100d,"Astrid Lindgrens barnsjukhus, Huddinge",01
+1100e,"Brommageriatriken",01
+1100f,"Capio Geriatrik Dalens sjukhus",01
+1100g,"Danderydsgeriatriken",01
+1100h,"Handens geriatriska klinik",01
+1100i,"Jakobsbergsgeriatriken",01
+1100j,"Löwetgeriatriken",01
+1100k,"Nackageriatriken",01
+1100l,"Nynäshamns geriatrik",01
+1100m,"Ortho Center Stockholm",01
+1100n,"Proxima Stockholm",01
+1100o,"Rättspsykiatriska vårdsektionen Stockholm",01
+1100q,"Stockholm Europakliniken",01
+1100r,"Stockholm Globen ögonklinik",01
+1100s,"Stockholm Novius ögonklinik",01
+1100t,"Stockholm Proxima AB",01
+1100v,"Stockholms sjukhem",01
+1100w,"Stockholmsgeriatriken",01
+1100x,"RP Ytterö",01
+11010p,"Stockholm Danderyd PCI",01
+11010u,"Stockholm Danderyd Uppföljning",01
+11012a,"Norrtälje/ Tiohundra AB",01
+11013a,"Artro center Löwenströmska",01
+1101a,"Nacka närsjukhus Proxima",01
+1101b,"Tumba Ögonklinik",01
+1101c,"Capio Axess Akuten, Solna",01
+1109a,"Täby Närsjukhus",01
+1109b,"Täby Medilab",01
+11400o,"Stockholm Vårda ögonklinik",01
+1149a,"Citydiabetes, Stockholm",01
+154on,"Skärholmens ÖNH-centrum, Stockholm",01
+114gc,"GynStockholm Cevita Care AB",01
+154onh,"ÖNH-kliniken Södermalms läkarhus, Stockholm",01
+11001ec,"Karolinska, Solna ECMO",01
+104047,"Privat vårdgivare",01
+11003,"Nya Karolinska",01
+104x31,"104X31",01
+12001,"Akademiska sjukhuset, Uppsala",03
+12010,"Lasarettet i Enköping",03
+12481,"Elisabethsjukhuset, Uppsala ",03
+12001a,"Neur akademiska uppsala",03
+12001ae,"Uppsala (Enköping ingår)",03
+12001b,"RPE Uppsala",03
+12001bb,"Uppsala sjukhus, barnklinik",03
+12001be,"Uppsala (Kortvårdskirurgi) (Enköping ingår)",03
+12001bi,"Akademiska sjukhuset BIVA, Uppsala",03
+12001c,"Akademiska UAS",03
+12001cb,"Uppsala PCI",03
+12001ih,"UPPSALA / inf och hud",03
+12001m,"Uppsala, med",03
+12001n,"Akademiska sjukhuset Neurologi, Uppsala",03
+12001o,"Akademiska sjukhuset Ortopedi, Uppsala",03
+12001ti,"Uppsala TIVA",03
+1200c,"Rättspsykiatriska enheten Uppsala",03
+1200ci,"Akademiska sjukhuset CIVA, Uppsala",03
+1200d,"Uppsala Capio Medocular",03
+1200ti,"Akademiska sjukhuset, Uppsala TIVA",03
+1209a,"Capio Medocular, Uppsala",03
+1209b,"Elisabethsjukhuset, Uppsala",03
+1209c,"Samariterhemmet, Uppsala",03
+13010,"Mälarsjukhuset, Eskilstuna",04
+13011,"Nyköpings sjukhus",04
+13012,"Katrineholms sjukhus",04
+13480,"Strängnäs",04
+1300a,"Eskilstuna lasarett",04
+1300aa,"Mälargården",04
+1300ab,"Eskilstuna sjukhus, Barnklinik",04
+1300ap,"Eskilstuna PCI",04
+1300b,"Regionsjukhuset Karsudden",04
+1300c,"Strängnäs Ryggkirurgiska",04
+13011a,"ÖNH-kliniken Sörmland",04
+13011b,"Nyköping sjukhus, barnklinik",04
+130mk,"Mälarsjukhuset/Kullbergska",04
+13480r,"Ryggkirurgiska kliniken, Strängnäs",04
+21001,"Universitetssjukhuset i Linköping",05
+21011,"Finspångs lasarett",05
+21013,"Vrinnevisjukhuset i Norrköping",05
+21014,"Lasarettet i Motala",05
+21001bb,"Linköpings sjukhus, barnklinik",05
+21001br,"Universitetssjukhuset i Linköping, BRIVA",05
+21001iv,"Universitetssjukhuset i Linköping IVA",05
+21001ln,"Univsjuk Linköping/Vrinnevisjk, Norrköping",05
+21001ma,"Linköping MAVA",05
+21001ni,"Universitetssjukhuset i Linköping NIVA",05
+21001p,"Linköping PCI",05
+21001ti,"Universitetssjukhuset i Linköping TIVA",05
+2100a,"Proxima Motala",05
+2100b,"RPR Vadstena",05
+2100br,"Universitetssjukhuset i Linköping, BRIVA",05
+2100c,"Universitetssjukhuset i Linköping BRIVA",05
+21013bb,"Norrköpings sjukhus, barnklinik",05
+21013iv,"Norrköping IVA",05
+2109b,"Sergelkliniken i Linköping",05
+2140a,"Aleris Specialistvård Motala",05
+2109ln,"Univsjuk Linköping/Vrinnevisjk, Norrköping",05
+22010,"Länssjukhuset Ryhov, Jönköping",06
+22011,"Höglandssjukhuset, Eksjö",06
+22012,"Värnamo sjukhus",06
+22405,"Art Clinic, Jönköping ",06
+2200a,"RPV Jönköping",06
+22010bb,"Länssjukhuset Ryhov, barnklinik",06
+2240e," Eye Clinic Scandinavia, Värnamo",06
+22010k,"Jönköpings län, Kärlkirurgi ",06
+22010p,"Jönköping PCI",06
+23010,"Centrallasarettet i Växjö",07
+23011,"Ljungby lasarett",07
+2300a,"RPK Landstinget Kronoberg",07
+2300b,"St Sigfrid, Växjö",07
+23010bb,"Växjö sjukhus, barnklinik",07
+24010,"Västerviks sjukhus",08
+25010,"Länssjukhuset i Kalmar",08
+25011,"Oskarshamns sjukhus",08
+24010bb,"Västerviks sjukhus, barnklinik",08
+2500a,"RPA Västervik",08
+25010b,"Kalmar sjukhus, barnklinik",08
+25010p,"Kalmar PCI",08
+26010,"Visby lasarett",09
+26010bb,"Visby sjukhus, barnklinik",09
+27010,"Blekingesjukhuset, Karlskrona",10
+27011,"Blekingesjukhuset, Karlshamn",10
+27012,"Blekinge sjukhuset",10
+2700iv,"Blekingesjukhuset, Karlskrona IVA",10
+27010bb,"Karlskrona sjukhus, barnklinik",10
+27010iv,"Karlskrona IVA",10
+27010p,"Karlskrona PCI",10
+28010,"Kristianstads sjukhus",12
+28011,"Ängelholms sjukhus",12
+28012,"Hässleholms sjukhus",12
+28013,"Simrishamns sjukhus",12
+30001,"Skånes universitetssjukhus, Malmö",12
+30410,"Värnhems sjukhus",12
+41001,"Universitetssjukhuset i Lund",12
+41010,"Lasarettet i Landskrona",12
+41011,"Trelleborgs lasarett",12
+41012,"Helsingborgs lasarett",12
+41013,"Lasarettet i Ystad",12
+4100r,"Globen Ögonklinik, Malmö",12
+28011bb,"Ängelholms sjukhus, barnklinik",12
+2809a,"Citykliniken, Kristianstad",12
+2809b,"Carema Närsjukvård Simrishamn",12
+2809bb,"Kristianstads sjukhus, barnklinik",12
+2809c,"Kirurgin Österlen Simrishamn",12
+2809d,"Ängelholm-Helsingborg",12
+2809e,"Kristianstad-Hässleholm",12
+2809f,"Centralsjukhuset Kristianstad",12
+2809ff,"Hässleholm-Kristianstad",12
+2809fp,"Kristianstad PCI",12
+2841a,"Österlenkirurgin, Simrishamn",12
+30001_r,"Rättspsykiatrin i Skåne",12
+30001bb,"MAS, barnklinik",12
+30001c,"Malmö (Trelleborg ingår)",12
+30001d,"Malmö, Heleneholm",12
+30001ek,"Kärlkliniken Malmö Lund",12
+30001f,"Universitetssjukhuset MAS Inf",12
+30001iv,"Skånes universitetssjukhus, Malmö IVA",12
+30001l,"Malmö Inf",12
+30001n,"Skånes universitetssjukhus, njurmedicin",12
+30001p,"Malmö PCI",12
+3000a,"Heleneholms dialys, Malmö",12
+3000b,"Skånes universitetssjukhus",12
+3000d,"Regionsjukhuset Lund, barnklinik",12
+3000d1,"Skånes universitetssjukhus, Lund, dialys",12
+3000d2,"Skånes universitetssjukhus, Lund, dialys",12
+3000dd,"Skånes universitetssjukhus, Lund, dialys",12
+3000dd2,"Skånes universitetssjukhus, Lund, dialys",12
+3000div,"Skånes universitetssjukhus, Lund IVA",12
+3000dp,"Lund PCI",12
+3000j,"Skånes universitetssjukhus, Malmö Inf",12
+3000l,"Ängelholm Aleris speciallistvård",12
+3009a,"Capio Medocular, Malmö",12
+3041a,"Axess Medica, Malmö",12
+3042a,"Vårda Ögonklinik, Malmö",12
+3042c,"Capio Citykliniken, Lund",12
+41002,"  Skåne universitetssjukhus",12
+41001bi,"Skånes universitetssjukhus, Lund BIVA",12
+41001d,"Skånes universitetssjukhus, Lund, dialys",12
+41001d2,"Skånes universitetssjukhus, Lund, dialys",12
+41001e,"Lund-Landskrona lasarett",12
+41001iv,"Universitetssjukhuset i Lund IVA",12
+41010iv,"Blekingesjukhuset IVA, Karlskrona",12
+41012bb,"Helsingborgs sjukhus, barnklinik",12
+41012p,"Helsingborg PCI",12
+41013bb,"Ystads sjukhus, barnklinik",12
+4109a,"Carema Specialistvård, Lund",12
+4109b,"Ystad-Simrishamn",12
+4109c,"Landskrona-Lund",12
+4109d,"Landskrona-Malmö",12
+4109e,"Carema Specialistvård, Eslöv",12
+4141a,"Aleris Skåne",12
+4141b,"Bariatric Centre Skåne",12
+42010,"Länssjukhuset i Halmstad",13
+42020,"Halland sjukhus, Halmstad ",13
+42011,"Sjukhuset i Varberg",13
+42043,"Movement, Halmstad ",13
+42301,"Kungsbacka sjukhus",13
+42314,"Falkenbergs sjukhus",13
+42401,"Ögoncentrum i Varberg",13
+42403,"Movement, Halmstad",13
+42420,"Spenshults reumatikersjukhus",13
+4200a,"RPV Halland",13
+42010bb,"Halmstad sjukhus, barnklinik",13
+42010p,"Halmstad PCI",13
+42011k,"Varberg/Kungsbacka",13
+4201aa,"Halmstad Vårda ögonklinik",13
+4209a,"Varbergs sjukhus-Kungsbacka",13
+4209b,"Capio Citykliniken, Halmstad",13
+42301bb,"Kungsbacka sjukhus, barnklinik",13
+42314a,"Specialistsjukvården Falkenberg",13
+4241a,"Ögoncentum i Varberg",13
+50001,"Sahlgrenska universitetssjukhuset",14
+51010,"Uddevalla sjukhus",14
+52011,"Borås lasarett",14
+53011,"Sjukhuset i Lidköping",14
+53013,"Skaraborgs sjukhus, Skövde",14
+50070,"Lundby sjukhus, Göteborg",14
+50071,"Västra Frölunda sjukhus",14
+50409,"Läkarhuset",14
+50427,"Järnhälsan",14
+51001,"Sahlgrenska universitetssjukhuset",14
+51012,"Kungälvs sjukhus",14
+51013,"NU-sjukvården",14
+51014,"SÄ-sjukvården",14
+52012,"Alingsås lasarett",14
+53014,"Skaraborgs sjukhus",14
+4230a,"Kungsbacka närsjukhus",14
+5009a,"ArtClinic Göteborg",14
+5009b,"Capio Medocular, Göteborg",14
+5009c,"Gothenburg Medical Center",14
+5009d,"OrthoCenter",14
+5009e,"Capio Lundby Sjukhus, Göteborg",14
+5009f,"Carlanderska, Göteborg",14
+5009g,"Guldhedskliniken, Göteborg",14
+5041a,"Angereds Närsjukhus",14
+51001a,"Mölndal Sahlgrenska Universitetssjukhuset",14
+51001b,"SU Sahlgrenska, Göteborg",14
+51001bi,"Sahlgrenska universitetssjukhuset BIVA",14
+51001bn,"Sahlgrenska, Njurmedicin",14
+51001bni,"Sahlgrenska universitetssjukhuset NIVA",14
+51001bp,"Göteborg SU Sahlgr PCI",14
+51001bs,"SAHLGRENSKA/Östra",14
+51001bti,"Sahlgrenska universitetssjukhuset TIVA",14
+51001c,"Sahlgrenska Universitetssjukhuset Östra",14
+51001ca,"SU Östra, Göteborg ",14
+51001ci,"Sahlgrenska universitetssjukhuset CIVA",14
+51001cp,"Göteborg SU Östra PCI",14
+51001d,"Drottning Silvias barnsjukhus, Göteborg",14
+51001e,"SU Östra, mott 305",14
+51001h,"SAHLGRENSKA hud",14
+51001hi,"Sahlgrenska HIA",14
+51001ma,"Sahlgrenska MAVA",14
+51013a,"NU-sjukvården, NÄL/Uddevalla",14
+51013abb,"NÄL, Trollhättan, barnklinik",14
+51013an,"Norra Älvsborgs Länssjukhus (NÄL)",14
+51013ap,"Trollhättan NU-sjukvården PCI",14
+51013at,"Trollhättan NU-sjukvården",14
+51013b,"NU-sjukvården, Uddevalla",14
+51013bbb,"Uddevalla sjukhus, barnmottagning",14
+51013c,"NU-sjukvården, Trollhättan/Uddevalla",14
+51014a,"Borås lasatrett",14
+51014ab,"Borås sjukhus, barnklinik",14
+51014ap,"Borås PCI",14
+51014as,"Borås Södra Älvsborgs sjukhus",14
+51014b,"Södra Älvsborgs sjukhus Skene",14
+5101a,"Frölunda Specialistsjukhus, Göteborg",14
+5109a,"Rubes Ögonklinik, Trollhättan",14
+5109b,"Uddevalla sjukhus",14
+5109c,"NU-sjukvården, Strömstad",14
+5300a,"Capio Lundby sjukhus",14
+5300b,"Göteborg Guldhedskliniken",14
+5300c,"Göteborg Scanloc Ögon",14
+5300d,"Göteborg Spinecenter",14
+5300e,"Göteborg Vårda ögonklinik",14
+5300g,"Läkarhuset Göteborg",14
+5300h,"Dalslands sjukhus",14
+5300i,"Sjukhuset i Falköping",14
+5300j,"RPV Göteborg",14
+5300jb,"RPV Borås",14
+5300k,"RPV Vänersborg",14
+5300l,"Skaraborgs sjukhus, Mariestad",14
+5300m,"Göteborg Capio Medocular",14
+5300mo,"Trollhättan Ögonpraktiken",14
+5300mt,"Trollhättan Rubes ögonklinik",14
+5300x,"Södra Älvsborgs sjukhus",14
+53014a,"Skaraborgs sjukhus, Skövde",14
+53014ab,"Kärnsjukhuset Skövde, barnklinik",14
+53014ap,"Skövde PCI",14
+53014b,"Skaraborgs sjukhus, Falköping",14
+53014c,"Sjukhuset i Lidköping",14
+53014cb,"Lidköpings sjukhus, barnklinik",14
+53014d,"Skaraborgs sjukhus, Mariestad ",14
+53014e,"Skövde (Falköping ingår)",14
+53014f,"Skövde (Falköping och Mariestad ingår)",14
+5341ly,"NU-sjukvården, Lysekil",14
+5341nu,"NU-sjukvården, Lysekil ",14
+5341st,"NU-sjukvården, Strömstad ",14
+54010,"Centralsjukhuset i Karlstad",17
+54011,"Kristinehamns sjukhus",17
+54012,"Arvika sjukhus",17
+54013,"Säffle sjukhus",17
+54014,"Sjukhuset i Torsby",17
+54010b,"Karlstads sjukhus, barnklinik",17
+54011b,"RPE Kristinehamn",17
+54010p,"Karlstad PCI",17
+5401a,"Otima Private Care, Karlstad",17
+55010,"Universitetssjukhuset i Örebro",18
+55011,"Karlskoga lasarett",18
+55012,"Lindesbergs lasarett",18
+5500a,"RPK Örebro",18
+5500b,"Örebro Capio Läkargruppen",18
+55010iv,"Universitetssjukhuset Örebro IVA",18
+55010p,"Örebro PCI",18
+55010ti,"Universitetssjukhuset Örebro TIVA",18
+55012a,"Örebro/Lindesberg",18
+5509a,"Läkargruppen, Örebro",18
+5509b,"Capio Läkargruppen",18
+5509c,"Capio Läkargruppen, Örebro",18
+56010,"Centrallasarettet i Västerås",19
+56011,"Sala lasarett",19
+56012,"Köpings lasarett",19
+5600a,"Bergslagssjukhuset",19
+5600b,"Rättspsykiatri Västmanland",19
+5600c,"Sala Närsjukhus",19
+56010bb,"Västerås sjukhus, barnklinik",19
+56010p,"Västerås PCI",19
+56011a,"Västmanlands sjukhus, Sala",19
+5609a,"Fagersta lasarett",19
+5609b,"Västerås-Sala",19
+5640c,"Capio Medocular, Västerås",19
+5609c,"Bergslagssjukvården",19
+57010,"Falun lasarettet",20
+57011,"Mora lasarett",20
+57012,"Ludvika lasarett",20
+57013,"Avesta lasarett",20
+5700a,"Borlänge sjukhus",20
+5700b,"RPK Säter",20
+57010b,"Falun sjukhus, barnklinik",20
+57010p,"Falun PCI",20
+5701a,"Dalarnas sjukhus",20
+5709a,"Borlänge",20
+5741a,"Capio Medocular, Falun",20
+61010,"Gävle sjukhus",21
+61011,"Bollnäs sjukhus",21
+61012,"Hudiksvalls sjukhus",21
+61045,"Söderhamn",21
+6100a,"LRV-enheten Gävleborg",21
+6100b,"Sandvikens sjukhus",21
+6100c,"Sjukhuset i Söderhamn",21
+61010b,"Gävle sjukhus, barnklinik",21
+61010p,"Gävle PCI",21
+61012b,"Hudiksvalls sjukhus,barnklinik",21
+61045a,"Närsjukhuset i Söderhamn",21
+6109as,"Bollnäs/Söderhamn",21
+6109b,"Citykirurgen, Gävle",21
+6109c,"Gävle/Sandviken",21
+6109d,"Hudiksvall-Ljusdal",21
+6109e,"Sandviken",21
+6109ea,"Närsjukhuset i Sandviken",21
+61401o,"Hudiksvall Ögoncentrum",21
+62010,"Sundsvall Länssjukhuset",22
+62011,"Örnsköldsviks sjukhus",22
+62012,"Härnösands sjukhus",22
+62013,"Sollefteå sjukhus",22
+6200a,"RPK Sundsvall",22
+62010b,"Sundsvalls sjukhus, barnklinik",22
+62010p,"Sundsvall PCI",22
+62011bb,"Örnsköldsviks sjukhus, barnklinik",22
+62013b,"Sollefteå sjukhus, barnklinik",22
+6209a,"Sundsvall/Härnösand ",22
+62410c,"Capio Medocular, Sundsvall",22
+6241a,"Capio Medocular, Örnsköldsvik",22
+63010,"Östersunds sjukhus",23
+63010bb,"Östersunds sjukhus, barnklinik",23
+6301as,"Dorotea sjukhem",23
+6309a,"Strömsund",23
+64001,"Norrlands Universitetssjukhus, Umeå",24
+64010,"Skellefteå lasarett",24
+64011,"Lycksele lasarett",24
+64308,"Malå sjukhem",24
+64311,"Sorsele sjukhem",24
+64318,"Storumans sjukhem",24
+64001bb,"Umeå sjukhus, barnklinik",24
+64001iv,"Norrlands Universitetssjukhus, Umeå IVA",24
+64001p,"Umeå PCI",24
+6400a,"Länskliniken ÖNH, Västerbotten",24
+6400c,"Umeå Rättspsykiatri",24
+6400b,"RPE Kristinehamn",24
+64010bb,"Skellefteå sjukhus, barnklinik",24
+65012,"Gällivare lasarett",25
+65013,"Piteå Älvdals sjukhus",25
+65014,"Kalix lasarett",25
+65015,"Kiruna lasarett",25
+65016,"Sunderbyns sjukhus",25
+65303,"Haparanda sjukhem",25
+65305,"Arjeplogs sjukhem",25
+65306,"Jokkmokks sjukhem",25
+65307,"Pajala sjukhem",25
+65309,"Överkalix sjukhem",25
+65310,"Övertorneå sjukhem",25
+6500a,"Piteå Rättspsykiatri",25
+65012a,"Arvidsjaurs sjukhem",25
+65012b,"Gällivare sjukhus, barnklinik",25
+65016b,"Sunderbyn, Barnklinik",25
+65016p,"Sunderbyn PCI",25
+6501a,"Länskliniken ÖNH, Norrbotten",25
+5140ao,"Göteborg Aveny Ögonklinik",14
+4240h,"Hjärthuset, Varberg",13
+3041go,"Malmö Globen Ögonklinik",12
+3041vo,"Malmö Vårda Ögonklinik",12
+5140su,"SU Östra Angered, Göteborg",14
+2741og,"Ögonkirurgi i Karlshamn",10
+5440og,"Ögonsjukvården i Värmland, Karlstad",17
+4140og,"Ögonspecialistkliniken, Lund",12
+5601x,"Västmanlands sjukhus",19
+5701x,"Dalarnas sjukhus",20
+10498,"Privat klinik",01
+10321,"Stockholms sjukhem",01
+12850,"Närvårdsavdelningen i Uppsala",03
+61404,"Aleris Specialistvård Bollnäs",21
