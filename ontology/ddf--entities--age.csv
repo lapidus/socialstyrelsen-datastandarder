@@ -1,262 +1,60 @@
-age,name,name_english,sdb_kod,sdb_amne,comments,sdb_typ,sdb_titel
-21,-19 år,-19 years,1,Aborter,,AGI,Ålder
-22,20-24 år,20-24 years,2,Aborter,,AGI,Ålder
-23,25-29 år,25-29 years,3,Aborter,,AGI,Ålder
-24,30-34 år,30-34 years,4,Aborter,,AGI,Ålder
-25,35-39 år,35-39 years,5,Aborter,,AGI,Ålder
-26,40+ år,40+ years,6,Aborter,,AGI,Ålder
-29,Okänd,Unknown,99,Aborter,,AGI,Ålder
-1,0-4,,1,Cancer,,ALDERSGRUPPER,Ålder
-10,45-49,,10,Cancer,,ALDERSGRUPPER,Ålder
-11,50-54,,11,Cancer,,ALDERSGRUPPER,Ålder
-12,55-59,,12,Cancer,,ALDERSGRUPPER,Ålder
-13,60-64,,13,Cancer,,ALDERSGRUPPER,Ålder
-14,65-69,,14,Cancer,,ALDERSGRUPPER,Ålder
-15,70-74,,15,Cancer,,ALDERSGRUPPER,Ålder
-16,75-79,,16,Cancer,,ALDERSGRUPPER,Ålder
-17,80-84,,17,Cancer,,ALDERSGRUPPER,Ålder
-18,85+,,18,Cancer,,ALDERSGRUPPER,Ålder
-2,5-9,,2,Cancer,,ALDERSGRUPPER,Ålder
-3,10-14,,3,Cancer,,ALDERSGRUPPER,Ålder
-4,15-19,,4,Cancer,,ALDERSGRUPPER,Ålder
-5,20-24,,5,Cancer,,ALDERSGRUPPER,Ålder
-6,25-29,,6,Cancer,,ALDERSGRUPPER,Ålder
-7,30-34,,7,Cancer,,ALDERSGRUPPER,Ålder
-8,35-39,,8,Cancer,,ALDERSGRUPPER,Ålder
-9,40-44,,9,Cancer,,ALDERSGRUPPER,Ålder
-1,0-4,,1,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-10,45-49,,10,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-11,50-54,,11,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-12,55-59,,12,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-13,60-64,,13,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-14,65-69,,14,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-15,70-74,,15,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-16,75-79,,16,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-17,80-84,,17,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-18,85+,,18,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-2,5-9,,2,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-3,10-14,,3,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-4,15-19,,4,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-5,20-24,,5,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-6,25-29,,6,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-7,30-34,,7,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-8,35-39,,8,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-9,40-44,,9,Diagnoser i sluten vård,,ALDERSGRUPPER,Ålder
-1,0-4,,1,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-10,45-49,,10,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-11,50-54,,11,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-12,55-59,,12,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-13,60-64,,13,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-14,65-69,,14,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-15,70-74,,15,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-16,75-79,,16,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-17,80-84,,17,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-18,85+,,18,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-2,5-9,,2,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-3,10-14,,3,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-4,15-19,,4,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-5,20-24,,5,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-6,25-29,,6,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-7,30-34,,7,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-8,35-39,,8,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-9,40-44,,9,Diagnoser i specialiserad öppen vård,,ALDERSGRUPPER,Ålder
-1,0-4,,1,Dödsorsaker,,ALDERSGRUPPER,Ålder
-10,45-49,,10,Dödsorsaker,,ALDERSGRUPPER,Ålder
-11,50-54,,11,Dödsorsaker,,ALDERSGRUPPER,Ålder
-12,55-59,,12,Dödsorsaker,,ALDERSGRUPPER,Ålder
-13,60-64,,13,Dödsorsaker,,ALDERSGRUPPER,Ålder
-14,65-69,,14,Dödsorsaker,,ALDERSGRUPPER,Ålder
-15,70-74,,15,Dödsorsaker,,ALDERSGRUPPER,Ålder
-16,75-79,,16,Dödsorsaker,,ALDERSGRUPPER,Ålder
-17,80-84,,17,Dödsorsaker,,ALDERSGRUPPER,Ålder
-18,85+,,18,Dödsorsaker,,ALDERSGRUPPER,Ålder
-2,5-9,,2,Dödsorsaker,,ALDERSGRUPPER,Ålder
-3,10-14,,3,Dödsorsaker,,ALDERSGRUPPER,Ålder
-4,15-19,,4,Dödsorsaker,,ALDERSGRUPPER,Ålder
-5,20-24,,5,Dödsorsaker,,ALDERSGRUPPER,Ålder
-6,25-29,,6,Dödsorsaker,,ALDERSGRUPPER,Ålder
-7,30-34,,7,Dödsorsaker,,ALDERSGRUPPER,Ålder
-8,35-39,,8,Dödsorsaker,,ALDERSGRUPPER,Ålder
-9,40-44,,9,Dödsorsaker,,ALDERSGRUPPER,Ålder
-31,0-17,,1,EKB_BIST,,002_AGI_Bist,Ålder
-10,45-49,,10,EKB_BIST,,002_AGI_Bist,Ålder
-11,50-54,,11,EKB_BIST,,002_AGI_Bist,Ålder
-12,55-59,,12,EKB_BIST,,002_AGI_Bist,Ålder
-13,60-64,,13,EKB_BIST,,002_AGI_Bist,Ålder
-44,65-,,14,EKB_BIST,,002_AGI_Bist,Ålder
-34,18-19,,4,EKB_BIST,,002_AGI_Bist,Ålder
-5,20-24,,5,EKB_BIST,,002_AGI_Bist,Ålder
-6,25-29,,6,EKB_BIST,,002_AGI_Bist,Ålder
-7,30-34,,7,EKB_BIST,,002_AGI_Bist,Ålder
-8,35-39,,8,EKB_BIST,,002_AGI_Bist,Ålder
-9,40-44,,9,EKB_BIST,,002_AGI_Bist,Ålder
-51,0-90+,,1,EKB_HUSH,,002_AGI_Hush,Ålder
-60,Alla åldrar,,0,Graviditeter_förlossningar_nyfödda,,008_AGI,Ålder
-61,-24 år,,11,Graviditeter_förlossningar_nyfödda,,008_AGI,Ålder
-62,25-29 år,,22,Graviditeter_förlossningar_nyfödda,,008_AGI,Ålder
-63,30-34 år,,33,Graviditeter_förlossningar_nyfödda,,008_AGI,Ålder
-64,35+ år,,44,Graviditeter_förlossningar_nyfödda,,008_AGI,Ålder
-10,45-49,,10,Hjärtinfarkter,,AGI,Ålder
-11,50-54,,11,Hjärtinfarkter,,AGI,Ålder
-12,55-59,,12,Hjärtinfarkter,,AGI,Ålder
-13,60-64,,13,Hjärtinfarkter,,AGI,Ålder
-14,65-69,,14,Hjärtinfarkter,,AGI,Ålder
-15,70-74,,15,Hjärtinfarkter,,AGI,Ålder
-16,75-79,,16,Hjärtinfarkter,,AGI,Ålder
-17,80-84,,17,Hjärtinfarkter,,AGI,Ålder
-18,85-,,18,Hjärtinfarkter,,AGI,Ålder
-5,20-24,,5,Hjärtinfarkter,,AGI,Ålder
-6,25-29,,6,Hjärtinfarkter,,AGI,Ålder
-7,30-34,,7,Hjärtinfarkter,,AGI,Ålder
-8,35-39,,8,Hjärtinfarkter,,AGI,Ålder
-9,40-44,,9,Hjärtinfarkter,,AGI,Ålder
-80,45-49 år,45-49 years,10,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-81,50-54 år,50-54 years,11,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-82,55-59 år,55-59 years,12,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-83,60-64 år,60-64 years,13,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-84,65-69 år,65-69 years,14,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-85,70-w år,70-w years,15,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-76,<30 år,<30 years,6,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-77,30-34 år,30-34 years,7,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-78,35-39 år,35-39 years,8,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-79,40-44 år,40-44 years,9,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-88,Okänd,Unknown,98,Hälso- och sjukvårdspersonal,,AGI_002,Ålder
-1,0-4,,1,Läkemedel,,002_AGI,Ålder
-10,45-49,,10,Läkemedel,,002_AGI,Ålder
-11,50-54,,11,Läkemedel,,002_AGI,Ålder
-12,55-59,,12,Läkemedel,,002_AGI,Ålder
-13,60-64,,13,Läkemedel,,002_AGI,Ålder
-14,65-69,,14,Läkemedel,,002_AGI,Ålder
-15,70-74,,15,Läkemedel,,002_AGI,Ålder
-16,75-79,,16,Läkemedel,,002_AGI,Ålder
-17,80-84,,17,Läkemedel,,002_AGI,Ålder
-18,85+,,18,Läkemedel,,002_AGI,Ålder
-2,5-9,,2,Läkemedel,,002_AGI,Ålder
-3,10-14,,3,Läkemedel,,002_AGI,Ålder
-91,0-17,,31,Läkemedel,,002_AGI,Ålder
-4,15-19,,4,Läkemedel,,002_AGI,Ålder
-5,20-24,,5,Läkemedel,,002_AGI,Ålder
-6,25-29,,6,Läkemedel,,002_AGI,Ålder
-7,30-34,,7,Läkemedel,,002_AGI,Ålder
-8,35-39,,8,Läkemedel,,002_AGI,Ålder
-9,40-44,,9,Läkemedel,,002_AGI,Ålder
-1,0-4,,1,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-10,45-49,,10,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-11,50-54,,11,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-12,55-59,,12,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-13,60-64,,13,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-14,65-69,,14,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-15,70-74,,15,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-16,75-79,,16,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-17,80-84,,17,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-18,85+,,18,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-2,5-9,,2,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-3,10-14,,3,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-4,15-19,,4,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-5,20-24,,5,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-6,25-29,,6,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-7,30-34,,7,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-8,35-39,,8,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-9,40-44,,9,Operationer i sluten vård,,ALDERSGRUPPER,Ålder
-1,0-4,,1,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-10,45-49,,10,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-11,50-54,,11,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-12,55-59,,12,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-13,60-64,,13,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-14,65-69,,14,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-15,70-74,,15,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-16,75-79,,16,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-17,80-84,,17,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-18,85+,,18,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-2,5-9,,2,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-3,10-14,,3,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-4,15-19,,4,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-5,20-24,,5,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-6,25-29,,6,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-7,30-34,,7,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-8,35-39,,8,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-9,40-44,,9,Operationer i specialiserad öppen vård (dagkirurgi),,ALDERSGRUPPER,Ålder
-101,0-17,,1,Psykiatrisk tvångsvård,,AGI,Ålder
-102,18-24,,2,Psykiatrisk tvångsvård,,AGI,Ålder
-103,25-34,,3,Psykiatrisk tvångsvård,,AGI,Ålder
-104,35-44,,4,Psykiatrisk tvångsvård,,AGI,Ålder
-105,45-54,,5,Psykiatrisk tvångsvård,,AGI,Ålder
-106,55-64,,6,Psykiatrisk tvångsvård,,AGI,Ålder
-107,65-74,,7,Psykiatrisk tvångsvård,,AGI,Ålder
-108,75+,,8,Psykiatrisk tvångsvård,,AGI,Ålder
-111,0-14,,1,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-112,15-24,,2,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-113,25-44,,3,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-114,45-64,,4,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-115,65-79,,5,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-116,80+,,6,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-119,Alla åldrar,,9,Skador och skadehändelser i Sveriges kommuner och län,,KOMMUN_AGI,Ålder
-10,45-49,,10,Stroke,,AGI,Ålder
-121,20-54,,11,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-11,50-54,,11,Stroke,,AGI,Ålder
-12,55-59,,12,Stroke,,AGI,Ålder
-122,55-64,,12,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-13,60-64,,13,Stroke,,AGI,Ålder
-123,65-74,,13,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-16,75-79,,14,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-14,65-69,,14,Stroke,,AGI,Ålder
-15,70-74,,15,Stroke,,AGI,Ålder
-17,80-84,,15,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-16,75-79,,16,Stroke,,AGI,Ålder
-126,85-,,16,Stroke,,AGI_ALDLET,Ålder, åldersstandardiserad letalitet
-17,80-84,,17,Stroke,,AGI,Ålder
-128,85-,,18,Stroke,,AGI,Ålder
-5,20-24,,5,Stroke,,AGI,Ålder
-6,25-29,,6,Stroke,,AGI,Ålder
-7,30-34,,7,Stroke,,AGI,Ålder
-8,35-39,,8,Stroke,,AGI,Ålder
-9,40-44,,9,Stroke,,AGI,Ålder
-130,23 år och äldre,,0,Tandhälsa,,002_AGI,Ålder
-131,23-29,,1,Tandhälsa,,002_AGI,Ålder
-14,65-69,,10,Tandhälsa,,002_AGI,Ålder
-15,70-74,,11,Tandhälsa,,002_AGI,Ålder
-16,75-79,,12,Tandhälsa,,002_AGI,Ålder
-17,80-84,,13,Tandhälsa,,002_AGI,Ålder
-144,85-89,,14,Tandhälsa,,002_AGI,Ålder
-145,90-,,15,Tandhälsa,,002_AGI,Ålder
-7,30-34,,3,Tandhälsa,,002_AGI,Ålder
-8,35-39,,4,Tandhälsa,,002_AGI,Ålder
-9,40-44,,5,Tandhälsa,,002_AGI,Ålder
-10,45-49,,6,Tandhälsa,,002_AGI,Ålder
-11,50-54,,7,Tandhälsa,,002_AGI,Ålder
-12,55-59,,8,Tandhälsa,,002_AGI,Ålder
-13,60-64,,9,Tandhälsa,,002_AGI,Ålder
-151,19-34,,1,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-152,35-49,,2,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-153,50-64,,3,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-154,65-79,,4,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-155,19-79,,5,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-156,80+,,6,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-157,19+,,7,Väntetider och besök vid sjukhusbundna akutmottagningar,,MANAD_AGI,Ålder
-161,0-2,,1,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-1,0-4,,1,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-10,45-49,,10,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-11,50-54,,11,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-12,55-59,,12,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-13,60-64,,13,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-14,65-69,,14,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-15,70-74,,15,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-16,75-79,,16,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-17,80-84,,17,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-18,85+,,18,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-2,5-9,,2,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-162,3-5,,2,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-163,6-8,,3,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-3,10-14,,3,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-164,9-11,,4,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-4,15-19,,4,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-165,12-14,,5,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-5,20-24,,5,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-166,15-17,,6,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-6,25-29,,6,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-7,30-34,,7,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-8,35-39,,8,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-9,40-44,,9,Yttre orsaker till skador och förgiftningar,,LAN_AGI,Ålder
-171,65-79,,1,Äldreomsorg,,2007_AGI,Ålder
-172,80+,,2,Äldreomsorg,,2007_AGI,Ålder
-173,65+,,3,Äldreomsorg,,2007_AGI,Ålder
+age,name,name_english,sdb_kod,sdb_amne
+1,0-4,,1,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Yttre orsaker till skador och förgiftningar
+10,45-49,,6|10,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+102,18-24,,2,Psykiatrisk tvångsvård
+103,25-34,,3,Psykiatrisk tvångsvård
+104,35-44,,4,Psykiatrisk tvångsvård
+105,45-54,,5,Psykiatrisk tvångsvård
+106,55-64,,6|12,Psykiatrisk tvångsvård|Stroke
+107,65-74,,7|13,Psykiatrisk tvångsvård|Stroke
+108,75+,,8,Psykiatrisk tvångsvård
+11,50-54,,7|11,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+111,0-14,,1,Skador och skadehändelser i Sveriges kommuner och län
+112,15-24,,2,Skador och skadehändelser i Sveriges kommuner och län
+113,25-44,,3,Skador och skadehändelser i Sveriges kommuner och län
+114,45-64,,4,Skador och skadehändelser i Sveriges kommuner och län
+115,65-79,,1|4|5,Skador och skadehändelser i Sveriges kommuner och län|Väntetider och besök vid sjukhusbundna akutmottagningar|Äldreomsorg
+116,80+,,2|6,Skador och skadehändelser i Sveriges kommuner och län|Väntetider och besök vid sjukhusbundna akutmottagningar|Äldreomsorg
+12,55-59,,8|12,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+121,20-54,,11,Stroke
+13,60-64,,9|13,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+130,23 år och äldre,,0,Tandhälsa
+131,23-29,,1,Tandhälsa
+14,65-69,,10|14,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+144,85-89,,14,Tandhälsa
+145,90-,,15,Tandhälsa
+15,70-74,,11|15,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+151,19-34,,1,Väntetider och besök vid sjukhusbundna akutmottagningar
+152,35-49,,2,Väntetider och besök vid sjukhusbundna akutmottagningar
+153,50-64,,3,Väntetider och besök vid sjukhusbundna akutmottagningar
+155,19-79,,5,Väntetider och besök vid sjukhusbundna akutmottagningar
+157,19+,,7,Väntetider och besök vid sjukhusbundna akutmottagningar
+16,75-79,,12|14|16,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+161,0-2,,1,Yttre orsaker till skador och förgiftningar
+162,3-5,,2,Yttre orsaker till skador och förgiftningar
+163,6-8,,3,Yttre orsaker till skador och förgiftningar
+164,9-11,,4,Yttre orsaker till skador och förgiftningar
+165,12-14,,5,Yttre orsaker till skador och förgiftningar
+166,15-17,,6,Yttre orsaker till skador och förgiftningar
+17,80-84,,13|15|17,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+173,65+,,3,Äldreomsorg
+18,85+,,16|18,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Stroke|Yttre orsaker till skador och förgiftningar
+2,5-9,,2,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Yttre orsaker till skador och förgiftningar
+21,-19,,1,Aborter
+26,40+,,6,Aborter
+3,10-14,,3,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Yttre orsaker till skador och förgiftningar
+31,0-17,,1|31,EKB_BIST|Läkemedel|Psykiatrisk tvångsvård
+34,18-19,,4,EKB_BIST
+4,15-19,,4,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Yttre orsaker till skador och förgiftningar
+44,65-,,14,EKB_BIST
+5,20-24,,2|5,Aborter|Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Yttre orsaker till skador och förgiftningar
+6,25-29,,3|6|22,Aborter|Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Graviditeter_förlossningar_nyfödda|Hjärtinfarkter|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Yttre orsaker till skador och förgiftningar
+60,Alla åldrar,,0|9,Graviditeter_förlossningar_nyfödda|Skador och skadehändelser i Sveriges kommuner och län
+61,-24 år,,11,Graviditeter_förlossningar_nyfödda
+64,35+,,44,Graviditeter_förlossningar_nyfödda
+7,30-34,,3|4|7|33,Aborter|Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Graviditeter_förlossningar_nyfödda|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+76,<30,,6,Hälso- och sjukvårdspersonal
+8,35-39,,4|5|8,Aborter|Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+85,70-w,,15,Hälso- och sjukvårdspersonal
+9,40-44,,9,Cancer|Diagnoser i sluten vård|Diagnoser i specialiserad öppen vård|Dödsorsaker|EKB_BIST|Hjärtinfarkter|Hälso- och sjukvårdspersonal|Läkemedel|Operationer i sluten vård|Operationer i specialiserad öppen vård (dagkirurgi)|Stroke|Tandhälsa|Yttre orsaker till skador och förgiftningar
+98,Okänd,Unknown,98|99,Aborter|Hälso- och sjukvårdspersonal
