@@ -1,0 +1,34 @@
+﻿indikator,name,sdb_amne,sdb_titel
+1,Personer som besökt tandvården någon gång under det senaste året,Tandhälsa,Indikator
+2,Personer som besökt tandvården någon gång under de två senaste åren,Tandhälsa,Indikator
+3,Personer som besökt tandvården någon gång under de tre senaste åren,Tandhälsa,Indikator
+4,Personer som gjort en basundersökning någon gång under det senaste året,Tandhälsa,Indikator
+5,Personer som gjort en basundersökning någon gång under de två senaste åren,Tandhälsa,Indikator
+6,Personer som gjort en basundersökning någon gång under de tre senaste åren,Tandhälsa,Indikator
+7,Personer som endast besökt tandvården akut under det senaste året,Tandhälsa,Indikator
+8,Personer som endast besökt tandvården akut under de två senaste åren,Tandhälsa,Indikator
+9,Personer som endast besökt tandvården akut under de tre senaste åren,Tandhälsa,Indikator
+11,Medianen av kvarvarande tänder,Tandhälsa,Indikator
+12,Medianen av intakta tänder,Tandhälsa,Indikator
+13,Medianen av ej intakta tänder,Tandhälsa,Indikator
+91,Besök i tandvården,Tandhälsa,Indikator
+92,Åtgärd,Tandhälsa,Indikator
+93,Tillstånd,Tandhälsa,Indikator
+94,Tandhälsa,Tandhälsa,Indikator
+95,Besök oavsett åtgärd,Tandhälsa,Indikator
+96,Basundersökningar,Tandhälsa,Indikator
+97,Akutbesök,Tandhälsa,Indikator
+101,"100-199 Undersökning, riskbedömning och hälsofrämjande åtgärder",Tandhälsa,Indikator
+102,200-299 Sjukdomsförebyggande åtgärder,Tandhälsa,Indikator
+103,300-399 Sjukdomsbehandlande åtgärder,Tandhälsa,Indikator
+104,400-499 Kirurgiska åtgärder,Tandhälsa,Indikator
+105,500-599 Rotbehandlingsåtgärder,Tandhälsa,Indikator
+106,600-699 Bettfysiologiska åtgärder,Tandhälsa,Indikator
+107,700-799 Reparativa åtgärder,Tandhälsa,Indikator
+108,800-899 Protetiska åtgärder,Tandhälsa,Indikator
+109,900-999 Tandreglering och utbytesåtgärder,Tandhälsa,Indikator
+201,1000-1999 Undersökningar och utredningar,Tandhälsa,Indikator
+202,2000-2999 Hälsofrämjande insatser,Tandhälsa,Indikator
+203,3000-3999 Behandlingar av sjukdoms- och smärttillstånd,Tandhälsa,Indikator
+204,4000-4999 Reparativ vård,Tandhälsa,Indikator
+205,5000-5999 Rehabiliterande och habiliterande vård,Tandhälsa,Indikator

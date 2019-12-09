@@ -1,0 +1,214 @@
+﻿tumordiagnoser,name,name_english,icd7b_ref,sdb_amne,sdb_titel
+999,Samtliga tumörer,All sites,0,Cancer,Tumördiagnoser
+140,Läpp,Lip,0,Cancer,Tumördiagnoser
+1400,Överläpp,Upper Lip,140,Cancer,Tumördiagnoser
+1401,Underläpp,Lower Lip,140,Cancer,Tumördiagnoser
+1408,"Läpp, flera lokalisationer",Multiple Parts,140,Cancer,Tumördiagnoser
+1409,"Läpp, ospecificerat ställe",Lip Unspecified,140,Cancer,Tumördiagnoser
+141,Tunga,Tongue,0,Cancer,Tumördiagnoser
+1410,Tungbasen,Base Of Tongue,141,Cancer,Tumördiagnoser
+1417,Tunga,Other Specified Part,141,Cancer,Tumördiagnoser
+1418,"Tunga, flera lokalisationer",Multiple Parts,141,Cancer,Tumördiagnoser
+1419,"Tunga, ospecificerat ställe",Part Unspecified,141,Cancer,Tumördiagnoser
+142,Spottkörtel,Salivary Glands,0,Cancer,Tumördiagnoser
+1420,Öronspottkörtel,Parotid,142,Cancer,Tumördiagnoser
+1425,Sublingualiskörtel,Sublingual,142,Cancer,Tumördiagnoser
+1426,Submandibulariskörtel,Submandibular,142,Cancer,Tumördiagnoser
+1428,"Spottkörtel, flera lokalisationer",Multiple Glands,142,Cancer,Tumördiagnoser
+1429,"Spottkörtel, ospecificerat ställe",Gland Unspecified,142,Cancer,Tumördiagnoser
+143,Munbotten,Floor Of Mouth,0,Cancer,Tumördiagnoser
+144,"Munnen, annan eller ospecificerad del","Mouth, Other Parts And Unspecified",0,Cancer,Tumördiagnoser
+145,Mellansvalget,Mesopharynx,0,Cancer,Tumördiagnoser
+146,Näs-svalgrummet,Nasopharynx,0,Cancer,Tumördiagnoser
+147,Svalget bakom struphuvudet,Hypopharynx,0,Cancer,Tumördiagnoser
+148,"Svalget, ospecificerat ställe","Pharynx, Part Unspecified",0,Cancer,Tumördiagnoser
+150,Matstrupe,Oesophagus,0,Cancer,Tumördiagnoser
+1500,Matstrupe specificerad del,"Oesophagus, Specified Part",150,Cancer,Tumördiagnoser
+1508,"Matstrupe, flera lokalisationer",Multiple Parts,150,Cancer,Tumördiagnoser
+1509,"Matstrupe, ospecifierat",Part Unspecified,150,Cancer,Tumördiagnoser
+151,Magsäck,Stomach,0,Cancer,Tumördiagnoser
+1511,Övre magmunnen,Cardia,151,Cancer,Tumördiagnoser
+1519,"Magsäck, ospecifierat",Part Unspecified,151,Cancer,Tumördiagnoser
+152,Tunntarm,Small Intestine,0,Cancer,Tumördiagnoser
+1520,Tolvfingertarmen,Duodenum,152,Cancer,Tumördiagnoser
+1527,Tunntarm övriga delar,Other Specified Part,152,Cancer,Tumördiagnoser
+1528,"Tunntarm, flera lokalisationer",Multiple Parts,152,Cancer,Tumördiagnoser
+1529,"Tunntarm, ospecificerat ställe",Part Unspecified,152,Cancer,Tumördiagnoser
+153,Tjocktarm,Colon,0,Cancer,Tumördiagnoser
+1530,Tjocktarm (caecum eller ascendens),Coecum And Ascendens,153,Cancer,Tumördiagnoser
+1531,Tjocktarm (transversum eller flexur),Transverse And Flexures,153,Cancer,Tumördiagnoser
+1532,Tjocktarm (descendens),Descendens,153,Cancer,Tumördiagnoser
+1533,Tjocktarm (sigmoideum),Sigmoid,153,Cancer,Tumördiagnoser
+1534,Blindtarm,Appendix,153,Cancer,Tumördiagnoser
+1538,"Tjocktarm, flera lokalisationer",Multiple Parts,153,Cancer,Tumördiagnoser
+1539,"Tjocktarm, ospecificerat ställe",Part Unspecified,153,Cancer,Tumördiagnoser
+154,Ändtarm och anus,Rectum And Anus,0,Cancer,Tumördiagnoser
+1540,Ändtarm,Mucosal Part,154,Cancer,Tumördiagnoser
+1541,Anus,Squamous Part,154,Cancer,Tumördiagnoser
+1548,"Ändtarm och anus, flera lokalisationer",Multiple Parts,154,Cancer,Tumördiagnoser
+155,Lever och gallvägar,"Biliary Passages And Liver, Primary",0,Cancer,Tumördiagnoser
+1550,"Levercancer, primär","Liver, Primary",155,Cancer,Tumördiagnoser
+1551,Gallblåsa,Gall Bladder,155,Cancer,Tumördiagnoser
+1552,Gallvägar utanför levern,Extrahepatic Bile Ducts,155,Cancer,Tumördiagnoser
+1553,Gallvägsmynningen,Ampulla Of Vater,155,Cancer,Tumördiagnoser
+1558,"Gallvägar, flera lokalisationer",Multiple Parts,155,Cancer,Tumördiagnoser
+1559,"Gallvägar, ospecificerat ställe",Unspecified Bile Passages,155,Cancer,Tumördiagnoser
+156,"Levercancer, ospecificerat","Liver, Not Specified As Primary",0,Cancer,Tumördiagnoser
+157,Bukspottkörtel,Pancreas,0,Cancer,Tumördiagnoser
+158,Bukhinna,Peritoneum,0,Cancer,Tumördiagnoser
+160,"Mellanöra, näshåla och bihålor",Nose And Nasal Sinuses,0,Cancer,Tumördiagnoser
+1600,Näsans insida och hålrum,Nose (Internal) And Nasal Cavities,160,Cancer,Tumördiagnoser
+1601,Örontrumpeten,Eustachian Tube And Middle Ear,160,Cancer,Tumördiagnoser
+1602,Överkäkshålan (sinus maxillaris),Maxillary Sinus,160,Cancer,Tumördiagnoser
+1607,Bihåla övriga delar,Other Specified Sinus,160,Cancer,Tumördiagnoser
+1608,"Mellanöra, näshåla och bihålor, flera lokalisationer",Multiple Parts,160,Cancer,Tumördiagnoser
+1609,"Mellanöra, näshåla och bihålor, ospecificerat ställe",Part Unspecified,160,Cancer,Tumördiagnoser
+161,Struphuvud och stämband,Larynx,0,Cancer,Tumördiagnoser
+162,"Lunga, luftstrupe och bronker","Trachea, Bronchus, Lung And Pleura, Primary",0,Cancer,Tumördiagnoser
+1620,Luftstrupe,Trachea,162,Cancer,Tumördiagnoser
+1621,"Lungcancer, primär inkl bronker","Bronchus And Lung, Primary",162,Cancer,Tumördiagnoser
+1622,Lungsäck (pleura),Pleura,162,Cancer,Tumördiagnoser
+163,"Lungcancer, ospecificerad","Lung, Not Specified As Primary",0,Cancer,Tumördiagnoser
+164,Bindvävsrum mellan lungorna (mediastinum),Mediastinum,0,Cancer,Tumördiagnoser
+170,Bröst,Breast,0,Cancer,Tumördiagnoser
+1701,Höger bröst,Right,170,Cancer,Tumördiagnoser
+1702,Vänster bröst,Left,170,Cancer,Tumördiagnoser
+1707,"Höger bröst, flera lokalisationer","Multiple Parts, Right Breast",170,Cancer,Tumördiagnoser
+1708,"Vänster bröst, flera lokalisationer","Multiple Parts, Left Breast",170,Cancer,Tumördiagnoser
+1709,"Bröst, sidangivelse saknas",Side Unknown,170,Cancer,Tumördiagnoser
+171,Livmoderhals (cervix uteri),Carcinoma In Situ Of Uterine,0,Cancer,Tumördiagnoser
+172,Livmoderkropp (corpus uteri),Corpus Uteri,0,Cancer,Tumördiagnoser
+173,Moderkaka (placenta),Chorionepithelioma Of Uterus,0,Cancer,Tumördiagnoser
+174,"Livmoder, ospecificerat ställe","Uterus, Part Unspecified",0,Cancer,Tumördiagnoser
+175,"Äggstock, äggledare och breda livmoderbanden","Ovary, Tube And Broad Ligament",0,Cancer,Tumördiagnoser
+1750,Äggstock (ovarium),Ovary,175,Cancer,Tumördiagnoser
+1751,Äggledare och breda livmoderbanden,Fallopian Tube,175,Cancer,Tumördiagnoser
+1758,"Äggledare och breda livmoderbanden, flera lokalisationer",Multiple Parts,175,Cancer,Tumördiagnoser
+1759,"Äggledare och breda livmoderbanden, ospecificerat ställe",Part Unspecified,175,Cancer,Tumördiagnoser
+176,Kvinnligt könsorgan,Other Female Genital Organs,0,Cancer,Tumördiagnoser
+1760,Vulva,Vulva,176,Cancer,Tumördiagnoser
+1761,Vagina,Vagina,176,Cancer,Tumördiagnoser
+1767,"Kvinnligt könsorgan, annan specificerad del",Other Specified Parts,176,Cancer,Tumördiagnoser
+1768,"Kvinnligt könsorgan, flera lokalisationer",Multiple Parts,176,Cancer,Tumördiagnoser
+1769,"Kvinnligt könsorgan, ospecificerat ställe",Part Unspecified,176,Cancer,Tumördiagnoser
+177,Prostata (blåshalskörtel),Prostate,0,Cancer,Tumördiagnoser
+178,Testikel,Testis,0,Cancer,Tumördiagnoser
+179,Manligt könsorgan,Other Male Genital Organs,0,Cancer,Tumördiagnoser
+1790,Penis,Penis,179,Cancer,Tumördiagnoser
+1791,Pungen (scrotum),Scrotum,179,Cancer,Tumördiagnoser
+1797,"Manligt könsorgan, annan specificerad del",Other Specified Part,179,Cancer,Tumördiagnoser
+1798,"Manligt könsorgan, flera lokalisationer",Multiple Parts,179,Cancer,Tumördiagnoser
+1799,"Manligt könsorgan, ospecificerat ställe",Part Unspecified,179,Cancer,Tumördiagnoser
+180,Njure och njurbäcken,Kidney,0,Cancer,Tumördiagnoser
+1801,Njurbäcken,Renal Pelvis,180,Cancer,Tumördiagnoser
+1809,"Njure, ospecificerat ställe inkl njurvävnaden",Part Unspecified,180,Cancer,Tumördiagnoser
+181,Urinvägar utom njure,Urinary Organs (Excl. Kidney),0,Cancer,Tumördiagnoser
+1810,Urinblåsa,Urinary Bladder,181,Cancer,Tumördiagnoser
+1811,Urinledare,Ureter,181,Cancer,Tumördiagnoser
+1812,Urinröret,Urethra,181,Cancer,Tumördiagnoser
+1816,Urachus,Urachus,181,Cancer,Tumördiagnoser
+1817,"Urinvägar, annan specificerad del",Other Specified Parts,181,Cancer,Tumördiagnoser
+1818,"Urinvägar, flera lokalisationer",Multiple Parts,181,Cancer,Tumördiagnoser
+1819,"Urinvägar, ospecificerat ställe",Part Unspecified,181,Cancer,Tumördiagnoser
+190,Malignt melanom i huden,Malignant Melanoma Of Skin,0,Cancer,Tumördiagnoser
+1901,"Melanom på ögonlock, i ögonvinkel","Eyelids, Including Canthi",190,Cancer,Tumördiagnoser
+1902,"Melanom på öra, i yttre hörselgång",Ear And External Auricular Canal,190,Cancer,Tumördiagnoser
+1903,"Melanom, annan specificerad del i ansiktet",Other And Unspecified Part Of Face,190,Cancer,Tumördiagnoser
+1904,Melanom i hårbotten och på halsen,Scalp And Neck,190,Cancer,Tumördiagnoser
+1905,Melanom på bålen och pungen,Trunk,190,Cancer,Tumördiagnoser
+1906,Melanom på övre extremitet och axill,Upper Limbs,190,Cancer,Tumördiagnoser
+1907,Melanom på nedre extremitet och ljumske,Lower Limbs,190,Cancer,Tumördiagnoser
+1908,"Melanom i huden, flera lokalisationer",Multiple Parts,190,Cancer,Tumördiagnoser
+1909,"Melanom i huden, ospecificerat ställe",Part Unspecified,190,Cancer,Tumördiagnoser
+191,"Tumör i huden, ej malignt melanom",Skin (Melanoma Excluded),0,Cancer,Tumördiagnoser
+1911,"Hudtumör på ögonlock, i ögonvinkel","Eyelids, Including Canthi",191,Cancer,Tumördiagnoser
+1912,"Hudtumör på öra, i yttre hörselgång",Ear And External Auricular Canal,191,Cancer,Tumördiagnoser
+1913,"Hudtumör, annan specificerad del i ansiktet",Other And Unspecified Parts Of Face,191,Cancer,Tumördiagnoser
+1914,Hudtumör i hårbotten och på halsen,Scalp And Neck,191,Cancer,Tumördiagnoser
+1915,Hudtumör på bålen och pungen,Trunk,191,Cancer,Tumördiagnoser
+1916,Hudtumör på övre extremitet och axill,Upper Limbs,191,Cancer,Tumördiagnoser
+1917,Hudtumör på nedre extremitet och ljumske,Lower Limbs,191,Cancer,Tumördiagnoser
+1918,"Tumör i huden, flera lokalisationer",Multiple Parts,191,Cancer,Tumördiagnoser
+1919,"Tumör i huden, ospecificerat ställe",Part Unspecified,191,Cancer,Tumördiagnoser
+192,"Öga, ögonhåla och tårkörtel",Eye,0,Cancer,Tumördiagnoser
+1920,Öga,Bulb,192,Cancer,Tumördiagnoser
+1921,Synnerv,Optic Nerve,192,Cancer,Tumördiagnoser
+1922,Ögonhåla,Orbital Cavity,192,Cancer,Tumördiagnoser
+1923,Ögats bindehinna,Conjunctiva,192,Cancer,Tumördiagnoser
+1927,"Öga, annan specificerad lokalisation",Other Specified Part,192,Cancer,Tumördiagnoser
+1928,"Öga, flera lokalisationer",Multiple Parts,192,Cancer,Tumördiagnoser
+1929,"Öga, ospecificerat ställe",Part Unspecified,192,Cancer,Tumördiagnoser
+193,Hjärna och övriga nervsystemet,Nervous System,0,Cancer,Tumördiagnoser
+1930,"Hjärna, hjärnnerver och hjärnhinna",Brain (Incl. Meninges),193,Cancer,Tumördiagnoser
+1931,"Ryggmärg, ryggmärgshinna",Intraspinal,193,Cancer,Tumördiagnoser
+1933,Perifera nerver,Peripheral Nerves,193,Cancer,Tumördiagnoser
+1938,"Perifera nerver, flera lokalisationer",Multiple Parts,193,Cancer,Tumördiagnoser
+1939,"Perifera nerver, ospecificerat ställe",Part Unspecified,193,Cancer,Tumördiagnoser
+194,Sköldkörtel,Thyroid Gland,0,Cancer,Tumördiagnoser
+195,Endokrin körtel,Endocrine Glands,0,Cancer,Tumördiagnoser
+1950,Binjure,Adrenal,195,Cancer,Tumördiagnoser
+1951,Bisköldkörtel,Parathyroid,195,Cancer,Tumördiagnoser
+1952,Brässen (thymus),Thymus,195,Cancer,Tumördiagnoser
+1953,Hypofys,Pituitary,195,Cancer,Tumördiagnoser
+1955,Endokrin körtelvävnad i bukspottkörtel,Insuloma Of Pancreas,195,Cancer,Tumördiagnoser
+1957,Annan specificerad endokrin körtelvävnad,Other Endocrine Glands,195,Cancer,Tumördiagnoser
+1958,"Endokrin körtelvävnad, flera lokalisationer",Multiple Endocrine Glands,195,Cancer,Tumördiagnoser
+1959,"Endokrin körtelvävnad, ospecificerad körtel eller lokalisation",Unspecified Endocrine Glands,195,Cancer,Tumördiagnoser
+196,Skelettet,Bone,0,Cancer,Tumördiagnoser
+1960,"Skalle, ansiktes ben och överkäksben",Bones Of The Skull And Face (Excl. Lower Jaw Bone),196,Cancer,Tumördiagnoser
+1961,Underkäksben,Lower Jaw Bone,196,Cancer,Tumördiagnoser
+1962,Ryggrad,Vertebral Column (Excl. Sacrum And Coccyx),196,Cancer,Tumördiagnoser
+1963,"Revben, bröstben och nyckelben","Ribs, Sternum And Clavicle",196,Cancer,Tumördiagnoser
+1964,Överarmsben och skulderblad,"Upper Limbs, Long Bones (Hume-Rus, Radius, Ulna And Scapula)",196,Cancer,Tumördiagnoser
+1965,"Handlovsben, mellanhandsben och fingerben","Upper Limbs, Short Bones (Car-Pus,Metacarpus, Digital Bones)",196,Cancer,Tumördiagnoser
+1966,"Höftben, korsben och svansben","Pelvic Bones, Sacrum And Coccyx",196,Cancer,Tumördiagnoser
+1967,Nedre extremitetens långa ben,"Lower Limbs, Long Bones (Femur, Tibia,Fibula)",196,Cancer,Tumördiagnoser
+1968,Nedre extremitetens korta ben,"Lower Limbs, Short Bones (Tar-Sus,Metatarsus, Digital Bones)",196,Cancer,Tumördiagnoser
+1969,"Skelett, flera lokalisationer eller ospecificerat ställe",Multiple And Un-Specified Parts,196,Cancer,Tumördiagnoser
+197,Bindväv och annan mjuk vävnad,"Connective Tissue, Muscle",0,Cancer,Tumördiagnoser
+1970,Huvud inkl ansikte och hals,"Head, Face And Neck",197,Cancer,Tumördiagnoser
+1971,Bål och rygg,Trunk,197,Cancer,Tumördiagnoser
+1972,Övre extremitet och skuldra,Upper Limbs (Including Shoulder),197,Cancer,Tumördiagnoser
+1973,"Nedre extremitet, höft och säte",Lower Limbs (Including Hip),197,Cancer,Tumördiagnoser
+1974,Retroperitoneala rummet,Retroperitoneum,197,Cancer,Tumördiagnoser
+1975,Hjärta,Heart,197,Cancer,Tumördiagnoser
+1977,"Bindväv, annan mjuk vävnad, annan specificerad lokalisation",Other Specified Parts,197,Cancer,Tumördiagnoser
+1978,"Bindväv och annan mjuk vävnad, flera lokalisationer",Multiple Parts,197,Cancer,Tumördiagnoser
+1979,"Bindväv och annan mjuk vävnad, ospecificerat ställe",Part Unspecified,197,Cancer,Tumördiagnoser
+199,Ospecificerad lokalisation,Other And Unspecified Sites,0,Cancer,Tumördiagnoser
+1991,"Ospecificerat ställe i huvud, ansikte och hals","Head, face and neck",199,Cancer,Tumördiagnoser
+1992,Ospecificerat ställe i bröstet (thorax),Thorax,199,Cancer,Tumördiagnoser
+1993,Ospecificerat ställe i buken och matsmältningskanalen,Abdomen,199,Cancer,Tumördiagnoser
+1994,Ospecificerat ställe i lilla bäckenet,Pelvis,199,Cancer,Tumördiagnoser
+1995,Ospecificerat ställe i extremiteterna,Arm and leg,199,Cancer,Tumördiagnoser
+1999,Ospecificerat ställe,Site unknown,199,Cancer,Tumördiagnoser
+200,Lymfatisk och blodbildande vävnad,Malignant Non-Hodgkin Lymphoma,0,Cancer,Tumördiagnoser
+2001,"Malignt lymfom av non-Hodgkintyp, lymfocytärt",Lymphocytic,200,Cancer,Tumördiagnoser
+2002,Malignt lymfom utan närmare specifikation,Malignant Lymphoma Nos,200,Cancer,Tumördiagnoser
+2003,"Malignt lymfom av non-Hodgkintyp, Waldenströms sjukdom",Waldenstr+M'S Disease,200,Cancer,Tumördiagnoser
+201,Hodgkins sjukdom,Hodgkin'S Disease,0,Cancer,Tumördiagnoser
+202,Tumör i lymfatisk vävnad,Reticulosis And Related Forms,0,Cancer,Tumördiagnoser
+2021,"Tumör i lymfatisk vävnad, ospecificerad","Reticulosis, Unspecified",202,Cancer,Tumördiagnoser
+2022,"Tumör i lymfatisk vävnad, mycosis fungoides",Mycosis Fungoides,202,Cancer,Tumördiagnoser
+2024,Hårcellsleukemi,Hairy-Cell Leukemia,202,Cancer,Tumördiagnoser
+203,"Multipelt myelom, plasmocytom",Multiple Myeloma Plasmocytoma,0,Cancer,Tumördiagnoser
+204,Lymfatisk leukemi,Lymphatic Leukemia,0,Cancer,Tumördiagnoser
+2040,Akut lymfatisk leukemi,Acute,204,Cancer,Tumördiagnoser
+2041,Kronisk lymfatisk leukemi,Chronic,204,Cancer,Tumördiagnoser
+2049,"Lymfatisk leukemi, ospecificerad",Unspecified,204,Cancer,Tumördiagnoser
+205,Myeloisk leukemi,Myeloid Leukemia,0,Cancer,Tumördiagnoser
+2050,Akut myeloisk leukemi,Acute,205,Cancer,Tumördiagnoser
+2051,Kronisk myeloisk leukemi,Chronic,205,Cancer,Tumördiagnoser
+2059,"Myeloisk leukemi, ospecificerad",Unspecified,205,Cancer,Tumördiagnoser
+206,Monocytleukemi,Monocytic Leukemia,0,Cancer,Tumördiagnoser
+2060,Akut monocytleukemi,Acute,206,Cancer,Tumördiagnoser
+2061,Kronisk monocyleukemi,Chronic,206,Cancer,Tumördiagnoser
+2069,"Monocytleukemi, ospecificerad",Unspecified,206,Cancer,Tumördiagnoser
+207,Annan leukemi och ospecificerad,Other And Un-Specified Leukemia,0,Cancer,Tumördiagnoser
+2070,"Akut leukemi, ospecificerad",Acute,207,Cancer,Tumördiagnoser
+2071,"Kronisk leukemi, ospecificerad",Chronic,207,Cancer,Tumördiagnoser
+2072,Akut erytrocytleukemi,Acute Erythraemia,207,Cancer,Tumördiagnoser
+2073,Megakaryocytleukemi,Megakaryocytic,207,Cancer,Tumördiagnoser
+2079,"Leukemi, ospecificerad",Unspecified,207,Cancer,Tumördiagnoser
+208,Polycytemia vera,Polycythaemia Vera,0,Cancer,Tumördiagnoser
+209,Myelofibros,Myelofibrosis,0,Cancer,Tumördiagnoser

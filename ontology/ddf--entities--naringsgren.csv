@@ -1,0 +1,19 @@
+﻿naringsgren,grp,name,name_english,sdb_amne,sdb_titel
+0,-1,Alla näringsgrenar,All industrial classifications,Hälso- och sjukvårdspersonal,Näringsgren
+5,0,Sex största näringsgrenarna,The six largest industrial classifications,Hälso- och sjukvårdspersonal,Näringsgren
+86,5,86 Hälso- och sjukvård,86 - Human health activities,Hälso- och sjukvårdspersonal,Näringsgren
+87,5,87 Vård och omsorg med boende,87 - Residential care activities,Hälso- och sjukvårdspersonal,Näringsgren
+88,5,88 Öppna sociala insatser,88 - Social work activities without accommodation,Hälso- och sjukvårdspersonal,Näringsgren
+464,5,464 Partihandel med hushållsvaror,46.4 - Wholesale of household goods,Hälso- och sjukvårdspersonal,Näringsgren
+477,5,477 Övrig specialiserad butikshandel med hushållsvaror,47.7 - Retail sale in non-specialised stores,Hälso- och sjukvårdspersonal,Näringsgren
+841,5,841 Administration av hälso- och sjukvård,84.1 - Administration of the State and the economic and social policy of the community,Hälso- och sjukvårdspersonal,Näringsgren
+854,5,854 Eftergymnasial utbildning,85.4 - Higher education,Hälso- och sjukvårdspersonal,Näringsgren
+861,86,861 Sluten sjukvård,86.1 - Hospital activities,Hälso- och sjukvårdspersonal,Näringsgren
+862,86,"862 Öppen hälso- och sjukvård, tandvård",86.2 - Medical and dental practice activities,Hälso- och sjukvårdspersonal,Näringsgren
+869,86,869 Annan hälso- och sjukvård,86.9 - Other human health activities,Hälso- och sjukvårdspersonal,Näringsgren
+871,87,871 Boende med sjuksköterskevård,87.1 - Residential nursing care activities,Hälso- och sjukvårdspersonal,Näringsgren
+872,87,"872 Boende med särskild service för personer med utvecklingsstörning, psykiska funktionshinder eller missbruksproblem","87.2 - Residential care activities for mental retardation, mental health and substance abuse",Hälso- och sjukvårdspersonal,Näringsgren
+873,87,873 Vård och omsorg i särskilda boendeformer för äldre och funktionshindrade personer,87.3 - Residential care activities for the elderly and disabled,Hälso- och sjukvårdspersonal,Näringsgren
+879,87,879 Annan vård och omsorg med boende,87.9 - Other residential care activities,Hälso- och sjukvårdspersonal,Näringsgren
+881,88,881 Öppna sociala insatser för äldre och funktionshindrade personer,88.1 - Social work activities without accommodation for the elderly and disabled,Hälso- och sjukvårdspersonal,Näringsgren
+889,88,889 Andra öppna sociala insatser,88.9 - Other social work activities without accommodation,Hälso- och sjukvårdspersonal,Näringsgren

@@ -1,0 +1,5 @@
+﻿inrikes_eller_utrikesfodda_hushall,name,comments,sdb_amne,sdb_titel
+0,Inrikes födda,,Ekonomiskt bistånd|Ekonomiskt bistånd - månadsstatistik,Inrikes- eller utrikesfödda hushåll
+1,En av sökande/sambo utrikesfödd,ordet sökande avänds i ekonomiskt bistånds årsuppgifter medans registerledare används för månadsuppgifterna,Ekonomiskt bistånd|Ekonomiskt bistånd - månadsstatistik,Inrikes- eller utrikesfödda hushåll
+2,Både sökande/sambo utrikesfödda,ordet sökande avänds i ekonomiskt bistånds årsuppgifter medans registerledare används för månadsuppgifterna,Ekonomiskt bistånd|Ekonomiskt bistånd - månadsstatistik,Inrikes- eller utrikesfödda hushåll
+99,Okänt,avänds i ekonomiskt bistånds årsuppgifter,Ekonomiskt bistånd,Inrikes- eller utrikesfödda hushåll

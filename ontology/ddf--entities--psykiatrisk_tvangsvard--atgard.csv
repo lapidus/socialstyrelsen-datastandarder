@@ -1,0 +1,19 @@
+﻿atgard,name,sdb_amne,sdb_titel
+0,"Fastspänning, samtliga kategorier",Psykiatrisk tvångsvård,Åtgärd
+1,Fastspänning upp till och med 4 timmar,Psykiatrisk tvångsvård,Åtgärd
+2,Fastspänning i mer än 4 timmar men mindre än 72 timmar,Psykiatrisk tvångsvård,Åtgärd
+3,Fastspänning i 72 timmar eller mer,Psykiatrisk tvångsvård,Åtgärd
+4,"Avskiljande, samtliga kategorier",Psykiatrisk tvångsvård,Åtgärd
+5,Avskiljande upp till och med 8 timmar,Psykiatrisk tvångsvård,Åtgärd
+6,Avskiljande i mer än 8 timmar men mindra än 72 timmar,Psykiatrisk tvångsvård,Åtgärd
+7,Avskiljande i mer än 72 timmar (Utgick 2016-12-31),Psykiatrisk tvångsvård,Åtgärd
+8,Avskiljande i minst 72 timmar men mindre än 15 dagar,Psykiatrisk tvångsvård,Åtgärd
+9,Avkiljande i minst 15 dagar men mindre än 30 dagar,Psykiatrisk tvångsvård,Åtgärd
+10,Avskljande som pågått i 30 dagar,Psykiatrisk tvångsvård,Åtgärd
+11,Läkemedelstillförsel utförd under fastspänning eller fasthållande,Psykiatrisk tvångsvård,Åtgärd
+12,Inskränkning av elektronisk kommunikation,Psykiatrisk tvångsvård,Åtgärd
+13,Övervakning av försändelser,Psykiatrisk tvångsvård,Åtgärd
+14,Kroppsvisitation,Psykiatrisk tvångsvård,Åtgärd
+15,Ytlig kroppsbesiktning,Psykiatrisk tvångsvård,Åtgärd
+16,Vårdplan eller samordnad vårdplan vid tvångsvård,Psykiatrisk tvångsvård,Åtgärd
+17,Uppföljningssamtal efter tvångsåtgärd,Psykiatrisk tvångsvård,Åtgärd

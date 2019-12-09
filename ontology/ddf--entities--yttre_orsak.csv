@@ -1,0 +1,287 @@
+﻿yttre_orsak,code,grp,name,sdb_amne,sdb_typ,sdb_titel
+99,,0,Samtliga rapporterade yttre orsaker,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VXY1,V01-X59,0,Olycksfall,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY12,V01-V99,VXY1,Transportolyckor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX08a,V01-V79,VY12,Vägtransportolyckor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX01,V01-V09,VY12,Fotgängare skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V01,V01,VX01,Fotgängare skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V02,V02,VX01,Fotgängare skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V03,V03,VX01,Fotgängare skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V04,V04,VX01,Fotgängare skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V05,V05,VX01,Fotgängare skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V06,V06,VX01,Fotgängare skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V09,V09,VX01,"Fotgängare skadad i transportolycka, kollisionstyp ej angiven",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX02,V10-V19,VY12,Cyklist (förare eller passagerare) skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V10,V10,VX02,Cyklist skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V11,V11,VX02,Cyklist skadad i kollision med annan cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V12,V12,VX02,Cyklist skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V13,V13,VX02,Cyklist skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V14,V14,VX02,Cyklist skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V15,V15,VX02,Cyklist skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V16,V16,VX02,Cyklist skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V17,V17,VX02,Cyklist skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V18,V18,VX02,"Cyklist i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V19,V19,VX02,Cyklist skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX03,V20-V29,VY12,Motorcyklist (förare eller passagerare) skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V20,V20,VX03,Motorcyklist skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V21,V21,VX03,Motorcyklist skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V22,V22,VX03,Motorcyklist skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V23,V23,VX03,Motorcyklist skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V24,V24,VX03,Motorcyklist skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V25,V25,VX03,Motorcyklist skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V26,V26,VX03,Motorcyklist skadad i kollision med annat ej motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V27,V27,VX03,Motorcyklist skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V28,V28,VX03,"Motorcyklist skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V29,V29,VX03,Motorcyklist skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX04,V30-V39,VY12,Förare av eller passagerare i trehjuligt motorfordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V30,V30,VX04,Förare av eller passagerare i trehjuligt motorfordon i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V31,V31,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V32,V32,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med annat två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V33,V33,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V34,V34,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V35,V35,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V36,V36,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V37,V37,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V38,V38,VX04,"Förare av eller passagerare i trehjuligt motorfordon skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V39,V39,VX04,Förare av eller passagerare i trehjuligt motorfordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX05,V40-V49,VY12,Förare av eller passagerare i personbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V40,V40,VX05,Förare av eller passagerare i personbil skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V41,V41,VX05,"Förare av eller passagerare i personbil skadad i kollision med cykel,",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V42,V42,VX05,Förare av eller passagerare i personbil skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V43,V43,VX05,Förare av eller passagerare i personbil skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V44,V44,VX05,Förare av eller passagerare i personbil skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V45,V45,VX05,Förare av eller passagerare i personbil skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V46,V46,VX05,Förare av eller passagerare i personbil skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V47,V47,VX05,Förare av eller passagerare i personbil skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V48,V48,VX05,"Förare av eller passagerare i personbil skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V49,V49,VX05,Förare av eller passagerare i personbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX06,V50-V59,VY12,Förare av eller passagerare i lätt lastbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V50,V50,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V51,V51,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V52,V52,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V53,V53,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V54,V54,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V55,V55,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V56,V56,VX06,Förare av eller passagerare i lätt lastbil skadad  i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V57,V57,VX06,Förare av eller passagerare i lätt lastbil skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V58,V58,VX06,"Förare av eller passagerare i lätt lastbil skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V59,V59,VX06,Förare av eller passagerare i lätt lastbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX07,V60-V69,VY12,Förare av eller passagerare i tung lastbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V60,V60,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V61,V61,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V62,V62,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V63,V63,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V64,V64,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V65,V65,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V66,V66,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V67,V67,VX07,Förare av eller passagerare i tung lastbil skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V68,V68,VX07,"Förare av eller passagerare i tung lastbil skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V69,V69,VX07,Förare av eller passagerare i tung lastbil skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX08,V70-V79,VY12,Förare av eller passagerare i buss skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V70,V70,VX08,Förare av eller passagerare i buss skadad i kollision med fotgängare eller djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V71,V71,VX08,Förare av eller passagerare i buss skadad i kollision med cykel,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V72,V72,VX08,Förare av eller passagerare i buss skadad i kollision med två- eller trehjuligt motorfordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V73,V73,VX08,Förare av eller passagerare i buss skadad i kollison med personbil eller lätt lastbil,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V74,V74,VX08,Förare av eller passagerare i buss skadad i kollision med tung lastbil eller buss,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V75,V75,VX08,Förare av eller passagerare i buss skadad i kollision med tåg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V76,V76,VX08,Förare av eller passagerare i buss skadad i kollision med annat icke motordrivet fordon,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V77,V77,VX08,Förare av eller passagerare i buss skadad i kollision med fast eller stillastående föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V78,V78,VX08,"Förare av eller passagerare i buss skadad i transportolycka, ej kollision",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V79,V79,VX08,Förare av eller passagerare i buss skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX09,V80-V89,VY12,Andra transportolyckor på land,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V80,V80,VX09,Ryttare eller person i åkdon draget av djur skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V81,V81,VX09,Tågförare eller tågpassagerare skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V82,V82,VX09,Spårvagnsförare eller spårvagnspassagerare skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V83,V83,VX09,Förare av eller passagerare i eller på industrifordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V84,V84,VX09,Förare eller passagerare i eller på jordbruksfordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V85,V85,VX09,Förare eller passagerare i eller på specialfordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V86,V86,VX09,Förare eller passagerare i terrängfordon skadad i transportolycka,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V87,V87,VX09,Trafikolycka där olyckstypen är specificerad men där olycksoffrets transportsätt är okänt,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V88,V88,VX09,"Olycka, ej trafik, där olyckstypen är specificerad men där olycksoffrets transportsätt är okänt",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V89,V89,VX09,"Olycka med motorfordon eller ej motordrivet fordon, fordonstyp ej specificerad",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX10,V90-V94,VY12,Transportolyckor på vatten,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V90,V90,VX10,Olycka med vattenfarkost som orsak till drunkning eller drunkningstillbud,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V91,V91,VX10,Olycka med vattenfarkost som leder till annan skada,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V92,V92,VX10,"Drunkning, drunkningstillbud vid transport på vatten utan att vattenfarkost är direkt engagerad i olyckan",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V93,V93,VX10,"Annan olycka än drunkning, drunkningstillbud som ej kan karakteriseras som olycka med vattenfarkost",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V94,V94,VX10,Andra och icke specificerade transportolyckor på vatten,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX11,V95-V97,VY12,Transportolyckor i luften och rymden,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V95,V95,VX11,Olycka med motordriven luftfarkost med skada på ombordvarande,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V96,V96,VX11,Olycka med ej motordriven luftfarkost med skada på ombordvarande,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V97,V97,VX11,Andra specificerade olyckor vid lufttransport,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VX12,V98-V99,VY12,Andra och icke specificerade transportolyckor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V98,V98,VX12,Andra specificerade tramnsportolyckor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+V99,V99,VX12,"Transportolycka, ospecificerad",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY13,W00-W19,VXY1,Fallolyckor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W00,W00,VY13,Fall i samma plan i samband med is eller snö,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W01,W01,VY13,"Fall i samma plan genom halkning, snavning eller snubbling",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W02,W02,VY13,"Fall i samband med användning av skridskor, skidor, rullskridskor, skateboard (rullbräda) eller snowboard",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W03,W03,VY13,Annat fall i samma plan genom kollision med eller knuff av annan person,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W04,W04,VY13,Fall när man blir buren eller får stöd av andra personer,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W05,W05,VY13,Fall från rullstol,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W06,W06,VY13,Fall från säng,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W07,W07,VY13,Fall från stol,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W08,W08,VY13,Fall från andra möbler,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W09,W09,VY13,Fall från lekredskap på lekplats,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W10,W10,VY13,Fall i eller från trappa eller trappsteg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W11,W11,VY13,Fall på eller från stege,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W12,W12,VY13,Fall på eller från byggnadsställning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W13,W13,VY13,"Fall ut ur, från eller genom byggnad eller byggnadskonstruktion",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W14,W14,VY13,Fall från träd,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W15,W15,VY13,Fall från stup,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W16,W16,VY13,Dykning eller hopp i vatten med annan skada än drunkning eller drunkningstillbud,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W17,W17,VY13,Annat fall från ett plan till ett annat,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W18,W18,VY13,Annat fall i samma plan,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W19,W19,VY13,"Fall, ospecificerat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY14,W20-W49,VXY1,Exponering för icke levande mekaniska krafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W20,W20,VY14,Träffad av kastat eller fallande föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W21,W21,VY14,Slagit sig mot eller träffad av sportredskap,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W22,W22,VY14,Slagit sig mot eller träffad av andra föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W23,W23,VY14,"Fångad av, klämd eller pressad i eller mellan föremål",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W24,W24,VY14,Kontakt med utrustning för kraftöverföring eller lyft som ej klassificeras annorstädes,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W25,W25,VY14,Kontakt med vasst glasföremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W26,W26,VY14,Kontakt med andra vassa föremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W27,W27,VY14,Kontakt med ej motordrivet handverktyg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W28,W28,VY14,Kontakt med motordriven gräsklippare,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W29,W29,VY14,Kontakt med annat motordrivet handverktyg eller hushållsmaskin,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W30,W30,VY14,Kontakt med jordbruksmaskin,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W31,W31,VY14,Kontakt med annan eller icke specificerad maskin,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W32,W32,VY14,Skott från pistol eller revolver,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W33,W33,VY14,"Skott från gevär, hagelbössa eller tyngre skjutvapen",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W34,W34,VY14,Skott från andra eller icke specificerade skjutvapen,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W35,W35,VY14,Explosion i ångpanna,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W36,W36,VY14,Explosion av gascylinder,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W37,W37,VY14,"Explosion av däck, rör eller slang (under övertryck)",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W38,W38,VY14,Explosion av andra specificerade föremål under övertryck,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W39,W39,VY14,Explosion av fyrverkeripjäs,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W40,W40,VY14,Explosion av andra sprängämnen,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W41,W41,VY14,Exponering för högtrycksstråle,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W42,W42,VY14,Exponering för buller,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W43,W43,VY14,Exponering för vibrationer,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W44,W44,VY14,Främmande kropp som trängt in i eller genom öga eller naturlig kroppsöppning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W45,W45,VY14,Främmande kropp som trängt in genom huden,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W46,W46,VY14,Kontakt med injektionsnål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W49,W49,VY14,Exponerad för andra eller icke specificerade icke levande mekaniska krafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY15,W50-W64,VXY1,Exponering för levande mekaniska krafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W50,W50,VY15,"Slagen, sparkad, biten eller riven av annan person",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W51,W51,VY15,Slagit sig mot eller törnat emot annan person,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W52,W52,VY15,"Klämd, knuffad eller nedtrampad av folkmassa",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W53,W53,VY15,Biten av råtta,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W54,W54,VY15,Biten eller angripen av hund,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W55,W55,VY15,Biten eller angripen av annat däggdjur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W56,W56,VY15,Biten eller angripen av vattendjur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W57,W57,VY15,Bett eller stick av icke giftig insekt eller andra icke giftiga leddjur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W58,W58,VY15,Biten eller angripen av krokodil eller alligator,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W59,W59,VY15,Biten eller angripen av andra kräldjur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W60,W60,VY15,Kontakt med törnen eller taggar på växter samt vassa blad,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W64,W64,VY15,Exponering för andra eller icke specificerade levande mekaniska krafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY16,W65-W74,VXY1,Drunkning och drunkningstillbud genom olyckshändelse,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W65,W65,VY16,Drunkning eller drunkningstillbud i badkar,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W66,W66,VY16,Drunkning eller drunkningstillbud efter fall ned i badkar,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W67,W67,VY16,Drunkning eller drunkningstillbud i simbassäng,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W68,W68,VY16,Drunkning eller drunkningstillbud efter fall ned i simbassäng,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W69,W69,VY16,"Drunkning eller drunkningstillbud i hav, sjö eller vattendrag",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W70,W70,VY16,"Drunkning eller drunkningstillbud efter fall i hav, sjö eller vattendrag",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W73,W73,VY16,Annan specificerad drunkning eller annat specificerat drunkningstillbud,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W74,W74,VY16,"Drunkning eller drunkningstillbud, ospecificerat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY17,W75-W84,VXY1,Annan kvävning och annat kvävningstillbud genom olyckshändelse,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W75,W75,VY17,"Kvävning, kvävningstillbud eller strypning i sängen",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W76,W76,VY17,Annan strypning eller hängning genom olyckshändelse,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W77,W77,VY17,Kvävning eller kvävningstillbud av jord- eller sandmassor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W78,W78,VY17,Inhalation av maginnehåll,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W79,W79,VY17,Inhalation eller nedsväljning av föda som orsakat andningshinder,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W80,W80,VY17,Inhalation eller nedsväljning av andra föremål eller ämnen som orsakat andningshinder,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W81,W81,VY17,Instängd eller fångad i utrymme med låg syrgashalt,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W83,W83,VY17,Annan specificerad kvävning eller annat specificerat kvävningstillbud,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W84,W84,VY17,"Kvävning eller kvävningstillbud, ospecificerat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY18,W85-W99,VXY1,"Exponering för elektrisk ström, strålning, extrem lufttemperatur och extremt lufttryck i omgivningen",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W85,W85,VY18,Exponering för kraftledningar,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W86,W86,VY18,Exponering för annan specificerad elektrisk ström,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W87,W87,VY18,Exponering för icke specificerad elektrisk ström,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W88,W88,VY18,Exponering för joniserande strålning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W89,W89,VY18,Exponering för av människa framställt synligt eller ultraviolett ljus,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W90,W90,VY18,Exponering för annan icke joniserande strålning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W91,W91,VY18,Exponering för icke specificerad strålning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W92,W92,VY18,Exponering för av människa framställd extrem hetta,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W93,W93,VY18,Exponering för av människa framställd extrem kyla,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W94,W94,VY18,Exponering för högt eller lågt lufttryck eller för ändringar i lufttryck,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+W99,W99,VY18,"Exponering för andra eller icke specificerade, av människa orsakade miljöfaktorer",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY19,X00-X09,VXY1,Exponering för rök och öppen eld,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X00,X00,VY19,Exponering för okontrollerad eld i byggnad eller byggnadskonstruktion,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X01,X01,VY19,Exponering för icke kontrollerad eld med undantag för eld i byggnad eller byggnadskonstruktion,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X02,X02,VY19,Exponering för kontrollerad eld i byggnad eller byggnadskonstruktion,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X03,X03,VY19,"Exponering för kontrollerad eld, med undantag för eld i byggnad eller byggnadskonstruktion",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X04,X04,VY19,Exponering för plötslig antändning av mycket eldfängt material eller ämne,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X05,X05,VY19,Antändning av nattdräkter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X06,X06,VY19,Antändning av andra klädesplagg,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X08,X08,VY19,Exponering för annan specificerad rök eller öppen eld,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X09,X09,VY19,Exponering för icke specificerad rök eller öppen eld,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY20,X10-X19,VXY1,Kontakt med heta föremål och heta ämnen,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X10,X10,VY20,"Kontakt med het dryck, föda, fett eller matolja",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X11,X11,VY20,Kontakt med hett kranvatten,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X12,X12,VY20,Kontakt med andra heta vätskor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X13,X13,VY20,Kontakt med vattenånga eller andra heta ångor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X14,X14,VY20,Kontakt med het luft eller heta gaser,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X15,X15,VY20,Kontakt med heta hushållsredskap,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X16,X16,VY20,"Kontakt med utrustning för uppvärmning av byggnad, heta värmeelement eller rörledningar",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X17,X17,VY20,"Kontakt med heta motorer, maskiner eller verktyg",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X18,X18,VY20,Kontakt med andra heta metallföremål,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X19,X19,VY20,Kontakt med andra eller icke specificerade heta föremål eller heta ämnen,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY21,X20-X29,VXY1,Kontakt med giftiga djur och växter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X20,X20,VY21,Kontakt med giftiga ormar eller ödlor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X21,X21,VY21,Kontakt med giftiga spindlar,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X22,X22,VY21,Kontakt med skorpioner,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X23,X23,VY21,"Kontakt med bålgetingar, getingar eller bin",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X24,X24,VY21,Kontakt med giftiga tusenfotingar (tropiska),Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X25,X25,VY21,Kontakt med andra giftiga leddjur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X26,X26,VY21,Kontakt med giftiga vattendjur eller vattenväxter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X27,X27,VY21,Kontakt med andra specificerade giftiga djur,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X28,X28,VY21,Kontakt med andra specificerade giftiga växter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X29,X29,VY21,"Kontakt med giftigt djur eller giftig växt, ospecificerat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY22,X30-X39,VXY1,Exponering för naturkrafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X30,X30,VY22,Exponering för extrem naturlig värme,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X31,X31,VY22,Exponering för extrem naturlig köld,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X32,X32,VY22,Exponering för solljus,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X33,X33,VY22,Blixtnedslag,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X34,X34,VY22,Jordbävning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X35,X35,VY22,Vulkanutbrott,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X36,X36,VY22,"Snöskred, lavin, jordskred eller andra rörelser i jordytan",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X37,X37,VY22,Katastrofartat oväder,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X38,X38,VY22,Översvämning,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X39,X39,VY22,Exponering för andra eller icke specificerade naturkrafter,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY23,X40-X49,VXY1,Förgiftningsolyckor och exponering för skadliga ämnen genom olyckshändelse,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X40,X40,VY23,"Oavsiktlig förgiftning med eller exponering för smärtstillande läkemedel av icke opiodkaraktär, febernedsättande medel eller medel mot reumatism",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X41,X41,VY23,"Oavsiktlig förgiftning med eller exponering för antiepileptika, lugnande läkemedel eller sömnmedel, medel mot parkinsonism samt psykotropa medel som ej klassificeras annorstädes",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X42,X42,VY23,Oavsiktlig förgiftning med eller exponering för narkotiska medel eller hallucinogener som ej klassificeras annorstädes,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X43,X43,VY23,Oavsiktlig förgiftning med eller exponering för andra läkemedel som påverkar det autonoma nervsystemet,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X44,X44,VY23,"Oavsiktlig förgiftning med eller exponering för andra eller icke specificerade droger, läkemedel eller biologiska substanser",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X45,X45,VY23,Oavsiktlig förgiftning med eller exponering för alkoholer,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X46,X46,VY23,Oavsiktlig förgiftning med eller exponering för organiska lösningsmedel eller halogenerade kolväten eller deras ångor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X47,X47,VY23,Oavsiktlig förgiftning med eller exponering för andra gaser eller ångor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X48,X48,VY23,Oavsiktlig förgiftning med eller exponering för pesticider,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X49,X49,VY23,Oavsiktlig förgiftning med eller exponering för andra eller icke specificerade kemiska ämnen eller skadliga substanser,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY24,X50-X57,VXY1,Överansträngning och umbäranden,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X50,X50,VY24,Överansträngning eller påfrestande eller upprepade rörelser,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X51,X51,VY24,Resor eller förflyttningar med överansträngning eller umbäranden,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X52,X52,VY24,Utdragen vistelse i tyngdlös miljö,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X53,X53,VY24,Brist på föda,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X54,X54,VY24,Brist på vatten,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X57,X57,VY24,"Umbäranden, ospecificerade",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY25,X58-X59,VXY1,Exponering genom olyckshändelse för andra och icke specificerade faktorer,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X58,X58,VY25,Exponering för andra specificerade faktorer,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+X59,X59,VY25,Exponering för icke specificerad faktor,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VXY2,X60-X84,0,Avsiktligt självdestruktiv handling,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY26a,X60-X69,VXY2,"Avsiktligt självdestruktiv handling, förgiftning",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY26b,X70-X84,VXY2,"Avsiktligt självdestruktiv handling, annat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VXY4,Y10-Y34,0,Skadehändelser med oklar avsikt,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY28a,Y10-Y19,VXY4,"Skadehändelser med oklar avsikt, förgiftning",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY28b,Y20-Y34,VXY4,"Skadehändelser med oklar avsikt, annat",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY27,X85-Y09,0,Övergrepp av annan person,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VXY5,Y35-Y36,0,Polisingripande och krigshandling,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VXY6,Y40-Y84,0,Komplikationer vid medicinsk vård eller kirurgiska åtgärder ,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY30,Y40-Y59,VXY6,"Ogynnsam effekt av droger, läkemedel och biologiska substanser i terapeutiskt bruk",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY31,Y60-Y69,VXY6,Missöden som inträffat med patienter under kirurgisk och medicinsk vård,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY32,Y70-Y82,VXY6,Missöden orsakade av medicinska instrument i diagnostiskt och terapeutiskt bruk,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY33,Y83-Y84,VXY6,Kirurgiska och andra medicinska åtgärder som orsak till onormal reaktion eller sen komplikation hos patient utan anknytning till missöde vid operations- eller behandlingstillfället,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY34,Y85-Y89,0,Sena effekter av yttre orsaker till sjukdom och död,Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker
+VY35,Y90-Y98,0,"Bidragande faktorer som har samband med yttre orsaker till sjukdom och död, vilka klassificeras annorstädes",Yttre orsaker till skador och förgiftningar,LAN_EKOD,Yttre orsaker

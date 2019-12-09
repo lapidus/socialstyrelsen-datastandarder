@@ -1,5 +1,5 @@
-sex,name
-1,Män
-2,Kvinnor
-9,Totalt
-3,okänt/annat
+sex,name,name_english,sdb_kod,commnets,sdb_titel
+1,Män,Males,1,,Kön
+2,Kvinnor,Females,2,,Kön
+9,Båda könen,Both sexes,3,Åtgärder inom psykiatrin (Totalt),Kön
+98,Okänd,Unknown,98|99,Hälso- och sjukvårdspersonal|Ekonomiskt bistånd (99,Okänt kön),Kön

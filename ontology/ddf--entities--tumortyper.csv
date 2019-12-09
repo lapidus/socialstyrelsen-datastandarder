@@ -1,0 +1,80 @@
+﻿tumortyper,code,name,name_english,sdb_amne,sdb_titel
+26,026,Plexuscarcinom,Plexus carcinoma,Cancer,Tumörtyper
+46,046,Elakartad blandsvulst,Malignant mixed tumor,Cancer,Tumörtyper
+56,056,Adenoidcystisk cancer / sarcoma phyllodes / granulosacellstumör,Adenocystic carcinoma / malignant phyllodes tumor / granulosa cell tumor,Cancer,Tumörtyper
+66,066,Acinic-cellscancer / levercellscancer / seminom,Acinic cell carcinoma / hepatic cell carcinoma / seminoma,Cancer,Tumörtyper
+76,076,Mucoepidermoid / kolangiocellulär / alveolarcellscancer,Mucoepidermoid carcinoma / cholangiocellular carcinoma / alveolar cell carinoma,Cancer,Tumörtyper
+86,086,Carcinoid,Carcinoid,Cancer,Tumörtyper
+91,091,Adenom,Adenoma,Cancer,Tumörtyper
+96,096,Adenocarcinom,Adenocarcinoma,Cancer,Tumörtyper
+111,111,Blåspapillom,Papilloma of urinary bladder ,Cancer,Tumörtyper
+113,113,Urotelial atypi,Atypical urothelial cells ,Cancer,Tumörtyper
+114,114,Övergångsepitelcancer in situ,Transitional cell carcinoma in situ,Cancer,Tumörtyper
+116,116,Övergångsepitelcancer alt. papillär cancer,Transitional (urothelial) cell carcinoma / papillary carcinoma,Cancer,Tumörtyper
+126,126,Basalcellscancer "type mixed",Basal cell carcinoma ”type mixed”,Cancer,Tumörtyper
+144,144,Precanceröst alt. Morbus Bowen alt. senil keratos,"Squamous precancerous (in situ) change, Bowen´s disease, Bowenoid acfinic kerotosis",Cancer,Tumörtyper
+146,146,Skivepitelcancer,Squamous carcinoma,Cancer,Tumörtyper
+176,176,Malignt melanom,Malignant melanoma,Cancer,Tumörtyper
+186,186,Elakartad epitelial tumör,Malignant epithelial tumor,Cancer,Tumörtyper
+196,196,Odifferentierad cancer,Undifferentiated carcinoma,Cancer,Tumörtyper
+206,206,Lymfatisk leukemi,Lymphatic (lymphocytic) leukemia,Cancer,Tumörtyper
+216,216,Myelofibros alt. myeloscleros,Myelofibrosis / myelosclerosis,Cancer,Tumörtyper
+226,226,Myeloisk leukemi,"Myelocytic leukemia, myelogenous leukemia",Cancer,Tumörtyper
+256,256,Monocytleukemi,Monocytic leukemia,Cancer,Tumörtyper
+276,276,PCV alt. polycytemia rubra vera,Polycythemia rubra vera,Cancer,Tumörtyper
+286,286,Akut erytremi,Acute erythremia,Cancer,Tumörtyper
+296,296,"Leukemi, ospecificerat","Leukemia, unspecified",Cancer,Tumörtyper
+306,306,Lymfosarkom,Lymphocytic lymphoma (lymphosarcoma),Cancer,Tumörtyper
+316,316,Retikelcellssarkom,Reticulum cell sarcoma,Cancer,Tumörtyper
+326,326,Morbus Hodgkin,Hodgkin´s disease,Cancer,Tumörtyper
+336,336,Myelomatos,Myeloma / myelomatosis,Cancer,Tumörtyper
+356,356,Mycosis Fungoides,Mycosis fungoides,Cancer,Tumörtyper
+386,386,"Lymfom, annat specificerat","Lymphoma, other specified",Cancer,Tumörtyper
+396,396,"Lymfom, ospecificerat","Lymphoma, unspecified",Cancer,Tumörtyper
+406,406,"Ganglioneurom, malignt","Ganglioneuroma, malignant",Cancer,Tumörtyper
+416,416,Neuroblastom,Neuroblastoma,Cancer,Tumörtyper
+426,426,Elakartad neuroepitelial tumör,Malignant neuroepithelial tumor,Cancer,Tumörtyper
+436,436,Retinoblastom alt. medulloblastom,"Retinoblastoma, alt. medulloblastoma",Cancer,Tumörtyper
+441,441,Paragangliom,Paraganglioma,Cancer,Tumörtyper
+446,446,Feokromocytom alt. elakartat paragangliom,"Phaeochromocytoma, alt. malignant paraganglioma",Cancer,Tumörtyper
+451,451,Neurinom,Neurinoma,Cancer,Tumörtyper
+456,456,Elakartat neurinom alt. neurofibrosarkom,"Malignant neurionoma, alt. neurofibrosarcoma",Cancer,Tumörtyper
+461,461,Meningiom,Meningioma,Cancer,Tumörtyper
+466,466,Elakartat meningiom,Malignant meningioma,Cancer,Tumörtyper
+475,475,"Astrocytom I-II alt. gliom, godartat",Astrocytoma grade I-II,Cancer,Tumörtyper
+476,476,"Astrocytom III-IV alt. glioblastom, elakartat",Astrocytoma grade III-IV and malignant glioma (glioblastoma),Cancer,Tumörtyper
+485,485,Ependymom,Ependymoma,Cancer,Tumörtyper
+486,486,Elakartat ependymom,Malignant ependymoma,Cancer,Tumörtyper
+501,501,Hemangiom,Hemangioma,Cancer,Tumörtyper
+506,506,Hemangiosarkom alt. hemangioendoteliom,"Hemangiosarcoma, alt. hemangioendothelioma",Cancer,Tumörtyper
+511,511,Hemangioblastom,Hemangioblastoma,Cancer,Tumörtyper
+536,536,Hemangiopericytom,Hemangiopericytoma,Cancer,Tumörtyper
+546,546,Lymfangiosarkom,Lymfangiosarcoma,Cancer,Tumörtyper
+566,566,Kaposis sarkom,Kaposi´s sarcoma,Cancer,Tumörtyper
+666,666,Leiomyosarkom,Leiomyosarcoma,Cancer,Tumörtyper
+676,676,Rhabdomyosarkom,Rhabdomyosarcoma,Cancer,Tumörtyper
+686,686,Alveolärt mjukdelssarkom,Alveolar soft part sarcoma,Cancer,Tumörtyper
+696,696,Myogent sarkom,"Myogenic tumor, malignant",Cancer,Tumörtyper
+706,706,Fibrosarkom,Fibrosarcoma,Cancer,Tumörtyper
+715,715,Infiltrerande myxom,Myxoma,Cancer,Tumörtyper
+716,716,Myxosarkom,Myxosarcoma,Cancer,Tumörtyper
+726,726,Liposarkom,Liposarcoma,Cancer,Tumörtyper
+736,736,Kondrosarkom,Chondrosarcoma,Cancer,Tumörtyper
+746,746,Elakartad jättecelltumör alt. osteoblastom,"Malignant giant cell tumor of bone, alt. osteoplastoma",Cancer,Tumörtyper
+756,756,Ewing's sarkom,Ewing´s sarcoma,Cancer,Tumörtyper
+766,766,Osteogent sarkom,Osteogenic sarcoma,Cancer,Tumörtyper
+776,776,Mesotheliom alt. elakartat synovialom,"Mesothelioma, alt. malignant synovialoma (synovial sarcoma)",Cancer,Tumörtyper
+796,796,Mesenkymal tumör alt. odifferentierat sarkom,"Malignant mesenchymal tumor, alt. undifferentiated sarcoma",Cancer,Tumörtyper
+806,806,Koriocarcinom,Choriocarcinoma,Cancer,Tumörtyper
+826,826,Embryonal cancer alt. elakartat teratom alt. elakartad dermoidcysta,"Embryonal carcinoma, alt. malignant teratoma, alt. malignant dermoid cyst",Cancer,Tumörtyper
+841,841,Thymom,Thymoma,Cancer,Tumörtyper
+846,846,Elakartat thymom,Malignant thymoma,Cancer,Tumörtyper
+866,866,Elakartat ameloblastom alt. adamantinom,"Malignant ameloblastoma, alt. adamantionoma",Cancer,Tumörtyper
+876,876,Stromacellssarkom alt. elakartat mesenkymom,"Stroma cell sarcoma, alt. malignant mesenchymoma",Cancer,Tumörtyper
+881,881,Kraniofaryngiom,Craniopharyngioma,Cancer,Tumörtyper
+886,886,Wilm's tumör alt. hepatoblastom,"Wilm´s tumor, alt. hepatoblastoma",Cancer,Tumörtyper
+896,896,Carcinosarkom alt. mesodermalt sarkom,"Carcinosarcoma, alt. mesodermal sarcoma",Cancer,Tumörtyper
+986,986,Elakartat pinealom,Malignant pinealoma,Cancer,Tumörtyper
+991,991,"PAD saknas, godartad tumör","Pathoanatomical diagnosis lacking, clinically benign tumor",Cancer,Tumörtyper
+993,993,"PAD saknas, suspekt elakartad tumör","Pathoanatomical diagnosis lacking, suspicion of malignancy clinically",Cancer,Tumörtyper
+996,996,"PAD saknas, elakartad tumör","Pathoanatomical diagnosis lacking, clinically malignant tumor",Cancer,Tumörtyper

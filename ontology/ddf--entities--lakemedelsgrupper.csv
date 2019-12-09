@@ -1,0 +1,77 @@
+﻿lakemedelsgrupper,name,sdb_amne,sdb_titel
+GRP101,Avsvällande och övriga medel för lokal behandling vid nässjukdomar,Läkemedel,Läkemedelsgrupper
+GRP102,Hypofysbaklobens hormoner,Läkemedel,Läkemedelsgrupper
+GRP103,Immunsuppressiva medel,Läkemedel,Läkemedelsgrupper
+GRP104,Kortikosteroider för systemiskt bruk,Läkemedel,Läkemedelsgrupper
+GRP105,Kortisonsalvor,Läkemedel,Läkemedelsgrupper
+GRP106,Litium,Läkemedel,Läkemedelsgrupper
+GRP107,Mjukgörande salvor,Läkemedel,Läkemedelsgrupper
+GRP108,Tillväxthormon,Läkemedel,Läkemedelsgrupper
+GRP109,Vaccin mot rotavirusdiarré,Läkemedel,Läkemedelsgrupper
+GRP110,"Vitamin A och D, inkl. kombinationer av de två",Läkemedel,Läkemedelsgrupper
+GRP111,Vitamin B12 och folsyra,Läkemedel,Läkemedelsgrupper
+GRP001,ACE-hämmare inkl. kombinationer,Läkemedel,Läkemedelsgrupper
+GRP002,Adhd-läkemedel,Läkemedel,Läkemedelsgrupper
+GRP003,Adhd-läkemedel – centralstimulantia,Läkemedel,Läkemedelsgrupper
+GRP004,Adhd-läkemedel – icke-centralstimulantia,Läkemedel,Läkemedelsgrupper
+GRP005,Adrenergika för systemiskt bruk,Läkemedel,Läkemedelsgrupper
+GRP006,Adrenergika och övriga medel vid obstruktiva luftvägssjukdomar inkl. kombinationer,Läkemedel,Läkemedelsgrupper
+GRP007,Aknemedel,Läkemedel,Läkemedelsgrupper
+GRP008,Allergimedel,Läkemedel,Läkemedelsgrupper
+GRP009,Antibiotika,Läkemedel,Läkemedelsgrupper
+GRP010,Antidepressiva,Läkemedel,Läkemedelsgrupper
+GRP011,Antidepressiva – SSRI,Läkemedel,Läkemedelsgrupper
+GRP012,Antiepileptika,Läkemedel,Läkemedelsgrupper
+GRP013,Antihistaminer för systemiskt bruk (mot allergi och klåda),Läkemedel,Läkemedelsgrupper
+GRP014,Antikolinergika (luftrörsvidgande),Läkemedel,Läkemedelsgrupper
+GRP015,Antipsykotika exkl. litium,Läkemedel,Läkemedelsgrupper
+GRP016,ARB inkl. kombinationer,Läkemedel,Läkemedelsgrupper
+GRP017,Astma- och KOL-medel,Läkemedel,Läkemedelsgrupper
+GRP018,Beta-receptorblockerande medel,Läkemedel,Läkemedelsgrupper
+GRP019,Blodfettsänkande medel,Läkemedel,Läkemedelsgrupper
+GRP020,Blodförtunnande läkemedel,Läkemedel,Läkemedelsgrupper
+GRP021,Blodförtunnande läkemedel – DOAK,Läkemedel,Läkemedelsgrupper
+GRP022,"Blodglukossänkande medel, exkl. insuliner",Läkemedel,Läkemedelsgrupper
+GRP023,Demensmedel,Läkemedel,Läkemedelsgrupper
+GRP024,Demensmedel – kolinesterashämmare,Läkemedel,Läkemedelsgrupper
+GRP025,Demensmedel – memantin,Läkemedel,Läkemedelsgrupper
+GRP026,Diabetesmedel,Läkemedel,Läkemedelsgrupper
+GRP027,Glukokortikoider (mot inflammation i luftvägarna),Läkemedel,Läkemedelsgrupper
+GRP028,Hormonsubstitution vid östrogenbristsymtom – endast lokalt verkande,Läkemedel,Läkemedelsgrupper
+GRP029,Hormonsubstitution vid östrogenbristsymtom – endast systemiskt verkande,Läkemedel,Läkemedelsgrupper
+GRP030,Inkontinensmedel,Läkemedel,Läkemedelsgrupper
+GRP031,Insuliner och analoger,Läkemedel,Läkemedelsgrupper
+GRP032,Kalciumantagonister,Läkemedel,Läkemedelsgrupper
+GRP033,Loop-diuretika,Läkemedel,Läkemedelsgrupper
+GRP034,Lugnande och ångestdämpande medel,Läkemedel,Läkemedelsgrupper
+GRP035,Läkemedel mot benskörhet,Läkemedel,Läkemedelsgrupper
+GRP036,"Läkemedel mot fetma, exkl. dietprodukter",Läkemedel,Läkemedelsgrupper
+GRP037,Läkemedel mot högt blodtryck,Läkemedel,Läkemedelsgrupper
+GRP038,Magsyremedel,Läkemedel,Läkemedelsgrupper
+GRP039,Malariamedel,Läkemedel,Läkemedelsgrupper
+GRP040,Medel mot svampinfektioner för systemiskt bruk,Läkemedel,Läkemedelsgrupper
+GRP041,Medel som påverkar renin-angiotensinsystemet,Läkemedel,Läkemedelsgrupper
+GRP042,Medel vid alkoholberoende,Läkemedel,Läkemedelsgrupper
+GRP043,Medel vid alkoholberoende – disulfiram,Läkemedel,Läkemedelsgrupper
+GRP044,Medel vid förstoppning,Läkemedel,Läkemedelsgrupper
+GRP045,Medel vid glaukom samt miotika,Läkemedel,Läkemedelsgrupper
+GRP046,Medel vid godartad prostataförstoring,Läkemedel,Läkemedelsgrupper
+GRP047,Medel vid Hepatit C,Läkemedel,Läkemedelsgrupper
+GRP048,Medel vid hjärtsjukdomar,Läkemedel,Läkemedelsgrupper
+GRP049,Medel vid opioidberoende ,Läkemedel,Läkemedelsgrupper
+GRP050,Medel vid parkinsonism,Läkemedel,Läkemedelsgrupper
+GRP051,Melatonin,Läkemedel,Läkemedelsgrupper
+GRP052,Opioider,Läkemedel,Läkemedelsgrupper
+GRP053,Potensmedel,Läkemedel,Läkemedelsgrupper
+GRP054,"Preventivmedel – p-piller, vaginalring och p-spruta",Läkemedel,Läkemedelsgrupper
+GRP055,Preventivmedel – hormonspiral och p-stav,Läkemedel,Läkemedelsgrupper
+GRP056,Selektiva beta-2-stimulerande medel (luftrörsvidgande läkemedel),Läkemedel,Läkemedelsgrupper
+GRP057,Sköldkörtelhormon,Läkemedel,Läkemedelsgrupper
+GRP058,"Smärtstillande medel, inkluderar ej opioider",Läkemedel,Läkemedelsgrupper
+GRP059,Statiner inkl. kombinationer,Läkemedel,Läkemedelsgrupper
+GRP060,Sömnmedel och lugnande medel ,Läkemedel,Läkemedelsgrupper
+GRP061,"Sömnmedel och lugnande medel, exkl. melatonin",Läkemedel,Läkemedelsgrupper
+GRP062,Tiazider inkl. kombinationer,Läkemedel,Läkemedelsgrupper
+GRP063,Triptaner mot migrän,Läkemedel,Läkemedelsgrupper
+GRP064,Virushämmande medel för systemiskt bruk,Läkemedel,Läkemedelsgrupper
+GRP065,Övriga systemiska medel för obstruktiva lungsjukdomar,Läkemedel,Läkemedelsgrupper

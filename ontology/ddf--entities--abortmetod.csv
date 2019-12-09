@@ -1,0 +1,7 @@
+﻿abortmetod,name,name_english,sdb_amne,sdb_titel
+2,Medicinsk, avslutad på sjukhus,Medical, completed in hospital,Aborter,Abortmetod
+3,Medicinsk, avslutad i hemmet,Medical, completed in the home,Aborter,Abortmetod
+1,Kirurgisk,Surgical,Aborter,Abortmetod
+4,Medicinsk,Medical,Aborter,Abortmetod
+5,Tvåstegsabort,Two-stage abortion,Aborter,Abortmetod
+99,Okänd,Unknown,Aborter,Abortmetod

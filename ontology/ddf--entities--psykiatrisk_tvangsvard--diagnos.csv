@@ -1,0 +1,93 @@
+﻿diagnos,grp,name,sdb_amne
+0,78,F00 Demens vid Alzheimers sjukdom,Psykiatrisk tvångsvård
+1,78,F01 Vaskulär demens,Psykiatrisk tvångsvård
+10,79,F11 Psykiska störningar och beteendestörningar orsakade av opioider,Psykiatrisk tvångsvård
+11,79,F12 Psykiska störningar och beteendestörningar orsakade av cannabis,Psykiatrisk tvångsvård
+12,79,F13 Psykiska störningar och beteendestörningar orsakade av sedativa och hypnotika,Psykiatrisk tvångsvård
+13,79,F14 Psykiska störningar och beteendestörningar orsakade av kokain,Psykiatrisk tvångsvård
+14,79,"F15 Psykiska störningar och beteendestörningar orsakade av andra stimulantia, däribland koffein",Psykiatrisk tvångsvård
+15,79,F16 Psykiska störningar och beteendestörningar orsakade av hallucinogener,Psykiatrisk tvångsvård
+16,79,F17 Psykiska störningar och beteendestörningar orsakade av tobak,Psykiatrisk tvångsvård
+17,79,F18 Psykiska störningar och beteendestörningar orsakade av flyktiga lösningsmedel,Psykiatrisk tvångsvård
+18,79,F19 Psykiska störningar och beteendestörningar orsakade av flera droger i kombination och av andra psykoaktiva substanser,Psykiatrisk tvångsvård
+19,80,F20 Schizofreni,Psykiatrisk tvångsvård
+2,78,F02 Demens vid andra sjukdomar som klassificeras annorstädes,Psykiatrisk tvångsvård
+20,80,F21 Schizotyp störning,Psykiatrisk tvångsvård
+21,80,F22 Kroniska vanföreställningssyndrom,Psykiatrisk tvångsvård
+22,80,F23 Akuta och övergående psykotiska syndrom,Psykiatrisk tvångsvård
+23,80,F24 Inducerat vanföreställningssyndrom,Psykiatrisk tvångsvård
+24,80,F25 Schizoaffektiva syndrom,Psykiatrisk tvångsvård
+25,80,F28 Andra icke organiska psykotiska störningar,Psykiatrisk tvångsvård
+26,80,F29 Ospecificerad icke organisk psykos,Psykiatrisk tvångsvård
+27,81,F30 Manisk episod,Psykiatrisk tvångsvård
+28,81,F31 Bipolär sjukdom,Psykiatrisk tvångsvård
+29,81,F32 Depressiv episod,Psykiatrisk tvångsvård
+3,78,F03 Ospecificerad demens,Psykiatrisk tvångsvård
+30,81,F33 Recidiverande depressioner,Psykiatrisk tvångsvård
+31,81,F34 Kroniska förstämningssyndrom,Psykiatrisk tvångsvård
+32,81,F38 Andra förstämningssyndrom,Psykiatrisk tvångsvård
+33,81,F39 Ospecificerat förstämningssyndrom,Psykiatrisk tvångsvård
+34,82,F40 Fobiska syndrom,Psykiatrisk tvångsvård
+35,82,F41 Andra ångestsyndrom,Psykiatrisk tvångsvård
+36,82,F42 Tvångssyndrom,Psykiatrisk tvångsvård
+37,82,F43 Anpassningsstörningar och reaktion på svår stress,Psykiatrisk tvångsvård
+38,82,F44 Dissociativa syndrom,Psykiatrisk tvångsvård
+39,82,F45 Somatoforma syndrom,Psykiatrisk tvångsvård
+4,78,F04 Organiska amnesisyndrom ej framkallade av alkohol eller andra psykoaktiva substanser,Psykiatrisk tvångsvård
+40,82,F48 Andra neurotiska syndrom,Psykiatrisk tvångsvård
+41,83,F50 Ätstörningar,Psykiatrisk tvångsvård
+42,83,F51 Icke organiska sömnstörningar,Psykiatrisk tvångsvård
+43,83,"F52 Sexuell dysfunktion, ej orsakad av organisk störning eller sjukdom",Psykiatrisk tvångsvård
+44,83,"F53 Psykiska störningar och beteendestörningar sammanhängande med barnsängstiden, vilka ej klassificeras annorstädes",Psykiatrisk tvångsvård
+45,83,F54 Psykologiska faktorer och beteendefaktorer med betydelse för störningar eller sjukdomar som klassificeras annorstädes,Psykiatrisk tvångsvård
+46,83,F55 Missbruk av substanser som ej är beroendeframkallande,Psykiatrisk tvångsvård
+47,83,F59 Ospecificerade beteendesyndrom förenade med fysiologiska störningar och fysiska faktorer,Psykiatrisk tvångsvård
+48,84,F60 Specifika personlighetsstörningar,Psykiatrisk tvångsvård
+49,84,F61 Personlighetsstörningar av blandtyp och andra personlighetsstörningar,Psykiatrisk tvångsvård
+5,78,F05 Delirium ej framkallat av alkohol eller andra psykoaktiva substanser,Psykiatrisk tvångsvård
+50,84,F62 Kroniska personlighetsförändringar ej orsakade av hjärnskada eller hjärnsjukdom,Psykiatrisk tvångsvård
+51,84,F63 Impulskontrollstörningar,Psykiatrisk tvångsvård
+52,84,F64 Könsidentitetsstörningar,Psykiatrisk tvångsvård
+53,84,F65 Störningar av sexuell preferens,Psykiatrisk tvångsvård
+54,84,F66 Psykiska störningar och beteendestörningar sammanhängande med sexuell utveckling och orientering,Psykiatrisk tvångsvård
+55,84,F68 Andra störningar av personlighet och beteende hos vuxna,Psykiatrisk tvångsvård
+56,84,F69 Ospecificerad störning av personlighet och beteende hos vuxna,Psykiatrisk tvångsvård
+57,85,F70 Lindrig psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+58,85,F71 Medelsvår psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+59,85,F72 Svår psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+6,78,"F06 Andra psykiska störningar orsakade av hjärnskada, cerebral dysfunktion eller kroppslig sjukdom",Psykiatrisk tvångsvård
+60,85,F73 Grav psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+61,85,F78 Annan psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+62,85,F79 Ospecificerad psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+63,86,F80 Specifika störningar av tal- och språkutvecklingen,Psykiatrisk tvångsvård
+64,86,F81 Specifika utvecklingsstörningar av inlärningsfärdigheter,Psykiatrisk tvångsvård
+65,86,F82 Specifik motorisk utvecklingsstörning,Psykiatrisk tvångsvård
+66,86,F83 Blandade specifika utvecklingsstörningar,Psykiatrisk tvångsvård
+67,86,F84 Genomgripande utvecklingsstörningar,Psykiatrisk tvångsvård
+68,86,F88 Andra specificerade störningar av psykisk utveckling,Psykiatrisk tvångsvård
+69,86,F89 Ospecificerad störning av psykisk utveckling,Psykiatrisk tvångsvård
+7,78,"F07 Personlighets- och beteendestörningar orsakade av hjärnsjukdom, hjärnskada eller cerebral dysfunktion",Psykiatrisk tvångsvård
+70,87,F90 Hyperaktivitetsstörningar,Psykiatrisk tvångsvård
+71,87,F91 Beteendestörningar av utagerande slag,Psykiatrisk tvångsvård
+72,87,F92 Blandade störningar av beteende och känsloliv,Psykiatrisk tvångsvård
+73,87,F93 Emotionella störningar med debut särskilt under barndomen,Psykiatrisk tvångsvård
+74,87,F94 Störningar av social funktion med debut särskilt under barndom och ungdomstid,Psykiatrisk tvångsvård
+75,87,F95 Tics,Psykiatrisk tvångsvård
+76,87,F98 Andra beteendestörningar och emotionella störningar med debut vanligen under barndom och ungdomstid,Psykiatrisk tvångsvård
+77,88,F99 Psykisk störning ej specificerad på annat sätt,Psykiatrisk tvångsvård
+78,0,"F00-F09 Organiska, inklusive symtomatiska, psykiska störningar",Psykiatrisk tvångsvård
+79,0,F10-F19 Psykiska störningar och beteendestörningar orsakade av psykoaktiva substanser,Psykiatrisk tvångsvård
+8,78,F09 Ospecificerad organisk eller symtomatisk psykisk störning,Psykiatrisk tvångsvård
+80,0,"F20-F29 Schizofreni, schizotypa störningar och vanföreställningssyndrom",Psykiatrisk tvångsvård
+81,0,F30-F39 Förstämningssyndrom,Psykiatrisk tvångsvård
+82,0,"F40-F48 Neurotiska, stressrelaterade och somatoforma syndrom",Psykiatrisk tvångsvård
+83,0,F50-F59 Beteendestörningar förenade med fysiologiska rubbningar och fysiska faktorer,Psykiatrisk tvångsvård
+84,0,F60-F69 Personlighetsstörningar och beteendestörningar hos vuxna,Psykiatrisk tvångsvård
+85,0,F70-F79 Psykisk utvecklingsstörning,Psykiatrisk tvångsvård
+86,0,F80-F89 Störningar av psykisk utveckling,Psykiatrisk tvångsvård
+87,0,F90-F98 Beteendestörningar och emotionella störningar med debut vanligen under barndom och ungdomstid,Psykiatrisk tvångsvård
+88,0,F99-F99 Ospecificerad psykisk störning,Psykiatrisk tvångsvård
+89,0,Z00-Z99 Faktorer av betydelse för hälsotillståndet och för kontakter med hälso- och sjukvården,Psykiatrisk tvångsvård
+9,79,F10 Psykiska störningar och beteendestörningar orsakade av alkohol,Psykiatrisk tvångsvård
+90,0,Övriga diagnoser ,Psykiatrisk tvångsvård
+91,0,Diagnos saknas ,Psykiatrisk tvångsvård

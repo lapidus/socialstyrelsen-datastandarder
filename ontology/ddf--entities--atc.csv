@@ -1,0 +1,2725 @@
+﻿atc,grp,code,name,sdb_amne,sdb_titel
+TOTALT,0,,Samtliga (A - V),Läkemedel,ATC-koder
+A,0,A,Matsmältningsorgan och ämnesomsättning,Läkemedel,ATC-koder
+A01,A,A01,Medel vid mun- och tandsjukdomar,Läkemedel,ATC-koder
+A01A,A01,A01A,Medel vid mun- och tandsjukdomar,Läkemedel,ATC-koder
+A01AA,A01A,A01AA,Medel mot karies,Läkemedel,ATC-koder
+A01AA01,A01AA,A01AA01,Natriumfluorid,Läkemedel,ATC-koder
+A01AA30,A01AA,A01AA30,Kombinationer,Läkemedel,ATC-koder
+A01AB,A01A,A01AB,Antiinfektiva och antiseptiska medel för lokal behandling i munhålan,Läkemedel,ATC-koder
+A01AB03,A01AB,A01AB03,Klorhexidin,Läkemedel,ATC-koder
+A01AB04,A01AB,A01AB04,Amfotericin B,Läkemedel,ATC-koder
+A01AB09,A01AB,A01AB09,Mikonazol,Läkemedel,ATC-koder
+A01AB11,A01AB,A01AB11,Övrigt,Läkemedel,ATC-koder
+A01AB17,A01AB,A01AB17,Metronidazol,Läkemedel,ATC-koder
+A01AB21,A01AB,A01AB21,Klortetracyklin,Läkemedel,ATC-koder
+A01AB22,A01AB,A01AB22,Doxycyklin,Läkemedel,ATC-koder
+A01AC,A01A,A01AC,Kortikosteroider för lokal behandling i munhålan,Läkemedel,ATC-koder
+A01AC01,A01AC,A01AC01,Triamcinolon,Läkemedel,ATC-koder
+A01AC03,A01AC,A01AC03,Hydrokortison,Läkemedel,ATC-koder
+A01AD,A01A,A01AD,Övriga medel för lokal behandling i munhålan,Läkemedel,ATC-koder
+A01AD01,A01AD,A01AD01,Adrenalin,Läkemedel,ATC-koder
+A01AD02,A01AD,A01AD02,Bensydamin,Läkemedel,ATC-koder
+A01AD11,A01AD,A01AD11,Övrigt,Läkemedel,ATC-koder
+A02,A,A02,Medel vid syrarelaterade symtom,Läkemedel,ATC-koder
+A02A,A02,A02A,Antacida,Läkemedel,ATC-koder
+A02AA,A02A,A02AA,Magnesiumföreningar,Läkemedel,ATC-koder
+A02AA04,A02AA,A02AA04,Magnesiumhydroxid,Läkemedel,ATC-koder
+A02AD,A02A,A02AD,"Kombinationer och komplex av aluminium-, kalcium- och magnesiumföreningar",Läkemedel,ATC-koder
+A02AD01,A02AD,A02AD01,"Aluminium-, kalcium- och magnesiumsalter",Läkemedel,ATC-koder
+A02AH,A02A,A02AH,Antacida med natriumvätekarbonat,Läkemedel,ATC-koder
+A02B,A02,A02B,Medel vid magsår och gastroesofageal refluxsjukdom,Läkemedel,ATC-koder
+A02BA,A02B,A02BA,Histamin-2-receptorantagonister,Läkemedel,ATC-koder
+A02BA01,A02BA,A02BA01,Cimetidin,Läkemedel,ATC-koder
+A02BA02,A02BA,A02BA02,Ranitidin,Läkemedel,ATC-koder
+A02BA03,A02BA,A02BA03,Famotidin,Läkemedel,ATC-koder
+A02BA53,A02BA,A02BA53,"Famotidin, kombinationer",Läkemedel,ATC-koder
+A02BB,A02B,A02BB,Prostaglandiner,Läkemedel,ATC-koder
+A02BB01,A02BB,A02BB01,Misoprostol,Läkemedel,ATC-koder
+A02BC,A02B,A02BC,Protonpumpshämmare,Läkemedel,ATC-koder
+A02BC01,A02BC,A02BC01,Omeprazol,Läkemedel,ATC-koder
+A02BC02,A02BC,A02BC02,Pantoprazol,Läkemedel,ATC-koder
+A02BC03,A02BC,A02BC03,Lansoprazol,Läkemedel,ATC-koder
+A02BC04,A02BC,A02BC04,Rabeprazol,Läkemedel,ATC-koder
+A02BC05,A02BC,A02BC05,Esomeprazol,Läkemedel,ATC-koder
+A02BD,A02B,A02BD,Kombinationer för eradikering av Helicobacter pylori,Läkemedel,ATC-koder
+A02BD06,A02BD,A02BD06,"Esomeprazol, amoxicillin och klaritromycin",Läkemedel,ATC-koder
+A02BX,A02B,A02BX,Övriga medel vid magsår och gastroesofageal refluxsjukdom,Läkemedel,ATC-koder
+A02BX02,A02BX,A02BX02,Sukralfat,Läkemedel,ATC-koder
+A02BX03,A02BX,A02BX03,Pirenzepin,Läkemedel,ATC-koder
+A02BX05,A02BX,A02BX05,Vismutsubcitrat,Läkemedel,ATC-koder
+A02BX13,A02BX,A02BX13,Alginsyra,Läkemedel,ATC-koder
+A03,A,A03,Medel vid funktionella mag-tarmsymtom,Läkemedel,ATC-koder
+A03A,A03,A03A,Medel vid funktionella mag-tarmsymtom,Läkemedel,ATC-koder
+A03AA,A03A,A03AA,"Syntetiska antikolinergika, estrar med tertiär aminogrupp",Läkemedel,ATC-koder
+A03AA04,A03AA,A03AA04,Mebeverin,Läkemedel,ATC-koder
+A03AA07,A03AA,A03AA07,Dicycloverin,Läkemedel,ATC-koder
+A03AB,A03A,A03AB,"Syntetiska antikolinergika, kvartära ammoniumföreningar",Läkemedel,ATC-koder
+A03AB02,A03AB,A03AB02,Glykopyrroniumbromid,Läkemedel,ATC-koder
+A03AB05,A03AB,A03AB05,Propantelin,Läkemedel,ATC-koder
+A03AB12,A03AB,A03AB12,Mepensolat,Läkemedel,ATC-koder
+A03AD,A03A,A03AD,Papaverin och derivat,Läkemedel,ATC-koder
+A03AD01,A03AD,A03AD01,Papaverin,Läkemedel,ATC-koder
+A03AX,A03A,A03AX,Övriga medel vid funktionella mag-tarmsymtom,Läkemedel,ATC-koder
+A03AX04,A03AX,A03AX04,Pinaverin,Läkemedel,ATC-koder
+A03AX12,A03AX,A03AX12,Floroglucinol,Läkemedel,ATC-koder
+A03AX13,A03AX,A03AX13,Silikoner,Läkemedel,ATC-koder
+A03B,A03,A03B,Belladonnaalkaloider och derivat,Läkemedel,ATC-koder
+A03BA,A03B,A03BA,Belladonnaalkaloider med tertiär aminogrupp,Läkemedel,ATC-koder
+A03BA01,A03BA,A03BA01,Atropin,Läkemedel,ATC-koder
+A03BA03,A03BA,A03BA03,Hyoscyamin,Läkemedel,ATC-koder
+A03BB,A03B,A03BB,"Semisyntetiska belladonnalkaloider, kvartära ammoniumföreningar",Läkemedel,ATC-koder
+A03BB01,A03BB,A03BB01,Butylskopolamin,Läkemedel,ATC-koder
+A03BB03,A03BB,A03BB03,Metylskopolamin,Läkemedel,ATC-koder
+A03C,A03,A03C,Spasmolytika i kombination med lugnande medel,Läkemedel,ATC-koder
+A03CA,A03C,A03CA,Syntetiska antikolinergika i kombination med lugnande medel,Läkemedel,ATC-koder
+A03CA02,A03CA,A03CA02,Klidinium och lugnande medel,Läkemedel,ATC-koder
+A03F,A03,A03F,Motilitetsstimulerande medel,Läkemedel,ATC-koder
+A03FA,A03F,A03FA,Motilitetsstimulerande medel,Läkemedel,ATC-koder
+A03FA01,A03FA,A03FA01,Metoklopramid,Läkemedel,ATC-koder
+A03FA02,A03FA,A03FA02,Cisaprid,Läkemedel,ATC-koder
+A03FA03,A03FA,A03FA03,Domperidon,Läkemedel,ATC-koder
+A04,A,A04,Antiemetika,Läkemedel,ATC-koder
+A04A,A04,A04A,Antiemetika,Läkemedel,ATC-koder
+A04AA,A04A,A04AA,Serotonin (5HT3) receptorantagonister,Läkemedel,ATC-koder
+A04AA01,A04AA,A04AA01,Ondansetron,Läkemedel,ATC-koder
+A04AA02,A04AA,A04AA02,Granisetron,Läkemedel,ATC-koder
+A04AA03,A04AA,A04AA03,Tropisetron,Läkemedel,ATC-koder
+A04AA05,A04AA,A04AA05,Palonosetron,Läkemedel,ATC-koder
+A04AA55,A04AA,A04AA55,"Palonosetron, kombinationer",Läkemedel,ATC-koder
+A04AD,A04A,A04AD,Övriga antiemetika,Läkemedel,ATC-koder
+A04AD01,A04AD,A04AD01,Skopolamin,Läkemedel,ATC-koder
+A04AD10,A04AD,A04AD10,Dronabinol,Läkemedel,ATC-koder
+A04AD12,A04AD,A04AD12,Aprepitant,Läkemedel,ATC-koder
+A04AD14,A04AD,A04AD14,Rolapitant,Läkemedel,ATC-koder
+A05,A,A05,Gall- och leverterapi,Läkemedel,ATC-koder
+A05A,A05,A05A,Gallterapi,Läkemedel,ATC-koder
+A05AA,A05A,A05AA,Gallsyror och derivat,Läkemedel,ATC-koder
+A05AA01,A05AA,A05AA01,Kenodeoxicholsyra,Läkemedel,ATC-koder
+A05AA02,A05AA,A05AA02,Ursodeoxicholsyra,Läkemedel,ATC-koder
+A05AA03,A05AA,A05AA03,Cholsyra,Läkemedel,ATC-koder
+A05AA04,A05AA,A05AA04,Obeticholsyra,Läkemedel,ATC-koder
+A05B,A05,A05B,"Leverterapi, lipotroper",Läkemedel,ATC-koder
+A05BA,A05B,A05BA,Leverterapi,Läkemedel,ATC-koder
+A06,A,A06,Medel vid förstoppning,Läkemedel,ATC-koder
+A06A,A06,A06A,Medel vid förstoppning,Läkemedel,ATC-koder
+A06AA,A06A,A06AA,"Mjukgörare, emulgeringsmedel",Läkemedel,ATC-koder
+A06AA01,A06AA,A06AA01,Flytande paraffin,Läkemedel,ATC-koder
+A06AB,A06A,A06AB,Tarmirriterande medel,Läkemedel,ATC-koder
+A06AB02,A06AB,A06AB02,Bisakodyl,Läkemedel,ATC-koder
+A06AB05,A06AB,A06AB05,Ricinolja,Läkemedel,ATC-koder
+A06AB06,A06AB,A06AB06,Sennaglykosider,Läkemedel,ATC-koder
+A06AB08,A06AB,A06AB08,Natriumpikosulfat,Läkemedel,ATC-koder
+A06AB56,A06AB,A06AB56,"Sennaglykosider, kombinationer",Läkemedel,ATC-koder
+A06AB57,A06AB,A06AB57,"Sagrada, bark med kombinationer",Läkemedel,ATC-koder
+A06AB58,A06AB,A06AB58,"Natriumpikosulfat, kombinationer",Läkemedel,ATC-koder
+A06AC,A06A,A06AC,Bulkbildande laxermedel,Läkemedel,ATC-koder
+A06AC01,A06AC,A06AC01,Loppfrö och vitt loppfrö,Läkemedel,ATC-koder
+A06AC03,A06AC,A06AC03,Sterkuliagummi,Läkemedel,ATC-koder
+A06AC07,A06AC,A06AC07,Kostfiber av vetefröskal,Läkemedel,ATC-koder
+A06AC51,A06AC,A06AC51,"Loppfrö och vitt loppfrö, kombinationer",Läkemedel,ATC-koder
+A06AD,A06A,A06AD,Osmotiskt aktiva laxermedel,Läkemedel,ATC-koder
+A06AD02,A06AD,A06AD02,Magnesiumoxid,Läkemedel,ATC-koder
+A06AD04,A06AD,A06AD04,Magnesiumsulfat,Läkemedel,ATC-koder
+A06AD10,A06AD,A06AD10,Mineralsalter i kombination,Läkemedel,ATC-koder
+A06AD11,A06AD,A06AD11,Laktulos,Läkemedel,ATC-koder
+A06AD12,A06AD,A06AD12,Laktitol,Läkemedel,ATC-koder
+A06AD13,A06AD,A06AD13,Natriumsulfat,Läkemedel,ATC-koder
+A06AD15,A06AD,A06AD15,Makrogol,Läkemedel,ATC-koder
+A06AD18,A06AD,A06AD18,Sorbitol,Läkemedel,ATC-koder
+A06AD65,A06AD,A06AD65,"Makrogol, kombinationer",Läkemedel,ATC-koder
+A06AG,A06A,A06AG,Klysma,Läkemedel,ATC-koder
+A06AG01,A06AG,A06AG01,Natriumfosfat,Läkemedel,ATC-koder
+A06AG02,A06AG,A06AG02,Bisakodyl,Läkemedel,ATC-koder
+A06AG07,A06AG,A06AG07,Sorbitol,Läkemedel,ATC-koder
+A06AG10,A06AG,A06AG10,"Dokusatnatrium, inkl. kombinationer",Läkemedel,ATC-koder
+A06AG11,A06AG,A06AG11,"Natriumlaurylsulfoacetat, inkl. kombinationer",Läkemedel,ATC-koder
+A06AH,A06A,A06AH,Perifera opioidreceptorantagonister,Läkemedel,ATC-koder
+A06AH01,A06AH,A06AH01,Metylnaltrexonbromid,Läkemedel,ATC-koder
+A06AH03,A06AH,A06AH03,Naloxegol,Läkemedel,ATC-koder
+A06AX,A06A,A06AX,Övriga medel vid förstoppning,Läkemedel,ATC-koder
+A06AX01,A06AX,A06AX01,Glycerol,Läkemedel,ATC-koder
+A06AX02,A06AX,A06AX02,Koldioxidutvecklande medel,Läkemedel,ATC-koder
+A06AX03,A06AX,A06AX03,Lubiproston,Läkemedel,ATC-koder
+A06AX04,A06AX,A06AX04,Linaklotid,Läkemedel,ATC-koder
+A06AX05,A06AX,A06AX05,Prukaloprid,Läkemedel,ATC-koder
+A06AX06,A06AX,A06AX06,Tegaserod,Läkemedel,ATC-koder
+A07,A,A07,"Antidiarroika, intestinala antiinflammatoriska och antiinfektiva medel",Läkemedel,ATC-koder
+A07A,A07,A07A,Medel vid tarminfektioner,Läkemedel,ATC-koder
+A07AA,A07A,A07AA,Antibiotika,Läkemedel,ATC-koder
+A07AA02,A07AA,A07AA02,Nystatin,Läkemedel,ATC-koder
+A07AA06,A07AA,A07AA06,Paromomycin,Läkemedel,ATC-koder
+A07AA09,A07AA,A07AA09,Vankomycin,Läkemedel,ATC-koder
+A07AA11,A07AA,A07AA11,Rifaximin,Läkemedel,ATC-koder
+A07AA12,A07AA,A07AA12,Fidaxomicin,Läkemedel,ATC-koder
+A07AX,A07A,A07AX,Övriga medel vid intestinala infektioner,Läkemedel,ATC-koder
+A07AX02,A07AX,A07AX02,Acetarsol,Läkemedel,ATC-koder
+A07B,A07,A07B,Antidiarroika,Läkemedel,ATC-koder
+A07BA,A07B,A07BA,Adsorberande medel,Läkemedel,ATC-koder
+A07BA01,A07BA,A07BA01,Medicinskt kol,Läkemedel,ATC-koder
+A07BB,A07B,A07BB,Vismutpreparat,Läkemedel,ATC-koder
+A07D,A07,A07D,Propulsionsdämpande medel,Läkemedel,ATC-koder
+A07DA,A07D,A07DA,Propulsionsdämpande medel,Läkemedel,ATC-koder
+A07DA01,A07DA,A07DA01,Difenoxylat,Läkemedel,ATC-koder
+A07DA02,A07DA,A07DA02,Opium,Läkemedel,ATC-koder
+A07DA03,A07DA,A07DA03,Loperamid,Läkemedel,ATC-koder
+A07DA05,A07DA,A07DA05,Loperamidoxid,Läkemedel,ATC-koder
+A07DA06,A07DA,A07DA06,Eluxadolin,Läkemedel,ATC-koder
+A07DA53,A07DA,A07DA53,"Loperamid, kombinationer",Läkemedel,ATC-koder
+A07E,A07,A07E,Medel vid intestinala inflammationer,Läkemedel,ATC-koder
+A07EA,A07E,A07EA,Kortikosteroider för lokal behandling,Läkemedel,ATC-koder
+A07EA01,A07EA,A07EA01,Prednisolon,Läkemedel,ATC-koder
+A07EA02,A07EA,A07EA02,Hydrokortison,Läkemedel,ATC-koder
+A07EA06,A07EA,A07EA06,Budesonid,Läkemedel,ATC-koder
+A07EB,A07E,A07EB,"Antiallergika, exkl. kortikosteroider",Läkemedel,ATC-koder
+A07EB01,A07EB,A07EB01,Natriumkromoglikat,Läkemedel,ATC-koder
+A07EC,A07E,A07EC,Aminosalicylsyra och liknande medel,Läkemedel,ATC-koder
+A07EC01,A07EC,A07EC01,Sulfasalazin,Läkemedel,ATC-koder
+A07EC02,A07EC,A07EC02,Mesalazin,Läkemedel,ATC-koder
+A07EC03,A07EC,A07EC03,Olsalazin,Läkemedel,ATC-koder
+A07EC04,A07EC,A07EC04,Balsalazid,Läkemedel,ATC-koder
+A07F,A07,A07F,"Antidiarroika, mikroorganismer",Läkemedel,ATC-koder
+A07FA,A07F,A07FA,"Antidiarroika, mikroorganismer",Läkemedel,ATC-koder
+A07FA02,A07FA,A07FA02,Saccharomyces boulardii,Läkemedel,ATC-koder
+A07X,A07,A07X,Övriga medel mot diarre,Läkemedel,ATC-koder
+A07XA,A07X,A07XA,Övriga medel mot diarre,Läkemedel,ATC-koder
+A07XA03,A07XA,A07XA03,Kalciumföreningar,Läkemedel,ATC-koder
+A07XA04,A07XA,A07XA04,Racekadotril,Läkemedel,ATC-koder
+A08,A,A08,"Antiobesitasmedel, exkl. dietprodukter",Läkemedel,ATC-koder
+A08A,A08,A08A,"Antiobesitasmedel, exkl. dietprodukter",Läkemedel,ATC-koder
+A08AA,A08A,A08AA,"Antiobesitasmedel, centralt verkande",Läkemedel,ATC-koder
+A08AA10,A08AA,A08AA10,Sibutramin,Läkemedel,ATC-koder
+A08AA62,A08AA,A08AA62,Bupropion och naltrexon,Läkemedel,ATC-koder
+A08AB,A08A,A08AB,"Antiobesitasmedel, perifert verkande",Läkemedel,ATC-koder
+A08AB01,A08AB,A08AB01,Orlistat,Läkemedel,ATC-koder
+A08AX,A08A,A08AX,Övriga antiobesitasmedel,Läkemedel,ATC-koder
+A08AX01,A08AX,A08AX01,Rimonabant,Läkemedel,ATC-koder
+A09,A,A09,"Digestionsmedel, inkl. enzymer",Läkemedel,ATC-koder
+A09A,A09,A09A,"Digestionsmedel, inkl. enzymer",Läkemedel,ATC-koder
+A09AA,A09A,A09AA,Digestionsenzymer,Läkemedel,ATC-koder
+A09AA02,A09AA,A09AA02,"Multienzymer (lipas, proteas m.fl.)",Läkemedel,ATC-koder
+A09AB,A09A,A09AB,Saltsyraersättningsmedel,Läkemedel,ATC-koder
+A09AB01,A09AB,A09AB01,Aciglumin,Läkemedel,ATC-koder
+A10,A,A10,Diabetesmedel,Läkemedel,ATC-koder
+A10A,A10,A10A,Insuliner och analoger,Läkemedel,ATC-koder
+A10AA,A10A,A10AA,Insuliner och analoger,Läkemedel,ATC-koder
+A10AB,A10A,A10AB,"Insuliner och analoger för injektion, snabbverkande",Läkemedel,ATC-koder
+A10AB01,A10AB,A10AB01,Insulin (humant),Läkemedel,ATC-koder
+A10AB04,A10AB,A10AB04,"Insulin, lispro",Läkemedel,ATC-koder
+A10AB05,A10AB,A10AB05,"Insulin, aspart",Läkemedel,ATC-koder
+A10AB06,A10AB,A10AB06,"Insulin, glulisin",Läkemedel,ATC-koder
+A10AC,A10A,A10AC,"Insuliner och analoger för injektion, medellångverkande",Läkemedel,ATC-koder
+A10AC01,A10AC,A10AC01,Insulin (humant),Läkemedel,ATC-koder
+A10AD,A10A,A10AD,"Insuliner och analoger för injektion, medellång- eller långverkande i kombination med snabbverkande",Läkemedel,ATC-koder
+A10AD01,A10AD,A10AD01,Insulin (humant),Läkemedel,ATC-koder
+A10AD04,A10AD,A10AD04,"Insulin, lispro",Läkemedel,ATC-koder
+A10AD05,A10AD,A10AD05,"Insulin, aspart",Läkemedel,ATC-koder
+A10AE,A10A,A10AE,"Insuliner och analoger för injektion, långverkande",Läkemedel,ATC-koder
+A10AE01,A10AE,A10AE01,Insulin (humant),Läkemedel,ATC-koder
+A10AE04,A10AE,A10AE04,"Insulin, glargin",Läkemedel,ATC-koder
+A10AE05,A10AE,A10AE05,"Insulin, detemir",Läkemedel,ATC-koder
+A10AE06,A10AE,A10AE06,"Insulin, degludek",Läkemedel,ATC-koder
+A10AE54,A10AE,A10AE54,"Insulin, glargin och lixisenatid",Läkemedel,ATC-koder
+A10AE56,A10AE,A10AE56,"Insulin, degludek och liraglutid",Läkemedel,ATC-koder
+A10AF,A10A,A10AF,Insuliner och analoger för inhalation,Läkemedel,ATC-koder
+A10AF01,A10AF,A10AF01,Insulin (humant),Läkemedel,ATC-koder
+A10B,A10,A10B,"Blodglukossänkande medel, exkl. insuliner",Läkemedel,ATC-koder
+A10BA,A10B,A10BA,Biguanidderivat,Läkemedel,ATC-koder
+A10BA02,A10BA,A10BA02,Metformin,Läkemedel,ATC-koder
+A10BB,A10B,A10BB,Sulfonylureaföreningar,Läkemedel,ATC-koder
+A10BB01,A10BB,A10BB01,Glibenklamid,Läkemedel,ATC-koder
+A10BB02,A10BB,A10BB02,Klorpropamid,Läkemedel,ATC-koder
+A10BB03,A10BB,A10BB03,Tolbutamid,Läkemedel,ATC-koder
+A10BB07,A10BB,A10BB07,Glipizid,Läkemedel,ATC-koder
+A10BB09,A10BB,A10BB09,Gliklazid,Läkemedel,ATC-koder
+A10BB12,A10BB,A10BB12,Glimepirid,Läkemedel,ATC-koder
+A10BD,A10B,A10BD,"Perorala blodglukossänkande medel, kombinationer",Läkemedel,ATC-koder
+A10BD03,A10BD,A10BD03,Metformin och rosiglitazon,Läkemedel,ATC-koder
+A10BD04,A10BD,A10BD04,Glimepirid och rosiglitazon,Läkemedel,ATC-koder
+A10BD05,A10BD,A10BD05,Metformin och pioglitazon,Läkemedel,ATC-koder
+A10BD07,A10BD,A10BD07,Metformin och sitagliptin,Läkemedel,ATC-koder
+A10BD08,A10BD,A10BD08,Metformin och vildagliptin,Läkemedel,ATC-koder
+A10BD10,A10BD,A10BD10,Metformin och saxagliptin,Läkemedel,ATC-koder
+A10BD11,A10BD,A10BD11,Metformin och linagliptin,Läkemedel,ATC-koder
+A10BD15,A10BD,A10BD15,Metformin och dapagliflozin,Läkemedel,ATC-koder
+A10BD16,A10BD,A10BD16,Metformin och kanagliflozin,Läkemedel,ATC-koder
+A10BD19,A10BD,A10BD19,Linagliptin och empagliflozin,Läkemedel,ATC-koder
+A10BD20,A10BD,A10BD20,Metformin och empagliflozin,Läkemedel,ATC-koder
+A10BD21,A10BD,A10BD21,Saxagliptin och dapagliflozin,Läkemedel,ATC-koder
+A10BD23,A10BD,A10BD23,Metformin och ertugliflozin,Läkemedel,ATC-koder
+A10BD24,A10BD,A10BD24,Sitagliptin och ertugliflozin,Läkemedel,ATC-koder
+A10BF,A10B,A10BF,Alfa-glukosidashämmare,Läkemedel,ATC-koder
+A10BF01,A10BF,A10BF01,Akarbos,Läkemedel,ATC-koder
+A10BG,A10B,A10BG,Tiazolidindioner,Läkemedel,ATC-koder
+A10BG02,A10BG,A10BG02,Rosiglitazon,Läkemedel,ATC-koder
+A10BG03,A10BG,A10BG03,Pioglitazon,Läkemedel,ATC-koder
+A10BH,A10B,A10BH,Dipeptidylpeptidas 4 (DPP-4) hämmare,Läkemedel,ATC-koder
+A10BH01,A10BH,A10BH01,Sitagliptin,Läkemedel,ATC-koder
+A10BH02,A10BH,A10BH02,Vildagliptin,Läkemedel,ATC-koder
+A10BH03,A10BH,A10BH03,Saxagliptin,Läkemedel,ATC-koder
+A10BH05,A10BH,A10BH05,Linagliptin,Läkemedel,ATC-koder
+A10BJ,A10B,A10BJ,Glukagonlikpeptid-1-receptor(Glp-1)analoger,Läkemedel,ATC-koder
+A10BJ01,A10BJ,A10BJ01,Exenatid,Läkemedel,ATC-koder
+A10BJ02,A10BJ,A10BJ02,Liraglutid,Läkemedel,ATC-koder
+A10BJ03,A10BJ,A10BJ03,Lixisenatid,Läkemedel,ATC-koder
+A10BJ05,A10BJ,A10BJ05,Dulaglutid,Läkemedel,ATC-koder
+A10BJ06,A10BJ,A10BJ06,Semaglutid,Läkemedel,ATC-koder
+A10BK,A10B,A10BK,Natriumglukossamtransportör 2(Sglt2)hämmare,Läkemedel,ATC-koder
+A10BK01,A10BK,A10BK01,Dapagliflozin,Läkemedel,ATC-koder
+A10BK02,A10BK,A10BK02,Kanagliflozin,Läkemedel,ATC-koder
+A10BK03,A10BK,A10BK03,Empagliflozin,Läkemedel,ATC-koder
+A10BK04,A10BK,A10BK04,Ertugliflozin,Läkemedel,ATC-koder
+A10BX,A10B,A10BX,"Övriga blodglukossänkande medel, exkl insuliner",Läkemedel,ATC-koder
+A10BX02,A10BX,A10BX02,Repaglinid,Läkemedel,ATC-koder
+A10BX03,A10BX,A10BX03,Nateglinid,Läkemedel,ATC-koder
+A11,A,A11,Vitaminer,Läkemedel,ATC-koder
+A11A,A11,A11A,"Multivitaminer, kombinationer",Läkemedel,ATC-koder
+A11AA,A11A,A11AA,Multivitaminer och mineralämnen,Läkemedel,ATC-koder
+A11AA01,A11AA,A11AA01,Multivitaminer och järn,Läkemedel,ATC-koder
+A11AB,A11A,A11AB,"Multivitaminer, övriga kombinationer",Läkemedel,ATC-koder
+A11B,A11,A11B,Multivitaminer,Läkemedel,ATC-koder
+A11BA,A11B,A11BA,Multivitaminer,Läkemedel,ATC-koder
+A11C,A11,A11C,"Vitamin A och D, inkl. kombinationer av de två",Läkemedel,ATC-koder
+A11CA,A11C,A11CA,Retinol (vitamin A),Läkemedel,ATC-koder
+A11CA01,A11CA,A11CA01,Retinol (vitamin A),Läkemedel,ATC-koder
+A11CA02,A11CA,A11CA02,Betakaroten,Läkemedel,ATC-koder
+A11CB,A11C,A11CB,Vitamin A och D i kombination,Läkemedel,ATC-koder
+A11CC,A11C,A11CC,Vitamin D och analoger,Läkemedel,ATC-koder
+A11CC01,A11CC,A11CC01,Ergokalciferol,Läkemedel,ATC-koder
+A11CC02,A11CC,A11CC02,Dihydrotakysterol,Läkemedel,ATC-koder
+A11CC03,A11CC,A11CC03,Alfakalcidol,Läkemedel,ATC-koder
+A11CC04,A11CC,A11CC04,Kalcitriol,Läkemedel,ATC-koder
+A11CC05,A11CC,A11CC05,Kolekalciferol,Läkemedel,ATC-koder
+A11CC20,A11CC,A11CC20,Kombinationer,Läkemedel,ATC-koder
+A11D,A11,A11D,"Vitamin B1, inkl. kombinationer med vitamin B6 och B12",Läkemedel,ATC-koder
+A11DA,A11D,A11DA,Tiamin (vitamin B1),Läkemedel,ATC-koder
+A11DA01,A11DA,A11DA01,Tiamin (vitamin B1),Läkemedel,ATC-koder
+A11DB,A11D,A11DB,Vitamin B1 i kombination med vitamin B6 och/eller vitamin B12,Läkemedel,ATC-koder
+A11E,A11,A11E,"Vitamin B-komplex, inkl. kombinationer",Läkemedel,ATC-koder
+A11EA,A11E,A11EA,Vitamin B-komplex,Läkemedel,ATC-koder
+A11EB,A11E,A11EB,Vitamin B-komplex med vitamin C,Läkemedel,ATC-koder
+A11EX,A11E,A11EX,"Vitamin B-komplex, övriga kombinationer",Läkemedel,ATC-koder
+A11G,A11,A11G,Askorbinsyra (vitamin C) inkl. kombinationer,Läkemedel,ATC-koder
+A11GA,A11G,A11GA,Askorbinsyra (vitamin C),Läkemedel,ATC-koder
+A11GA01,A11GA,A11GA01,Askorbinsyra (vitamin C),Läkemedel,ATC-koder
+A11H,A11,A11H,Övriga vitaminberedningar,Läkemedel,ATC-koder
+A11HA,A11H,A11HA,Övriga vitaminberedningar,Läkemedel,ATC-koder
+A11HA01,A11HA,A11HA01,Nikotinamid,Läkemedel,ATC-koder
+A11HA02,A11HA,A11HA02,Pyridoxin (vitamin B6),Läkemedel,ATC-koder
+A11HA03,A11HA,A11HA03,Tokoferol (vitamin E),Läkemedel,ATC-koder
+A11HA05,A11HA,A11HA05,Biotin,Läkemedel,ATC-koder
+A11HA08,A11HA,A11HA08,Tokofersolan,Läkemedel,ATC-koder
+A11J,A11,A11J,Övriga kombinationer med vitaminer,Läkemedel,ATC-koder
+A11JB,A11J,A11JB,Vitaminer med mineralämnen,Läkemedel,ATC-koder
+A11JC,A11J,A11JC,"Vitaminer, övriga kombinationer",Läkemedel,ATC-koder
+A12,A,A12,Mineralämnen,Läkemedel,ATC-koder
+A12A,A12,A12A,Kalcium,Läkemedel,ATC-koder
+A12AA,A12A,A12AA,Kalcium,Läkemedel,ATC-koder
+A12AA02,A12AA,A12AA02,Kalciumglubionat,Läkemedel,ATC-koder
+A12AA03,A12AA,A12AA03,Kalciumglukonat,Läkemedel,ATC-koder
+A12AA04,A12AA,A12AA04,Kalciumkarbonat,Läkemedel,ATC-koder
+A12AA05,A12AA,A12AA05,Kalciumlaktat,Läkemedel,ATC-koder
+A12AA06,A12AA,A12AA06,Kalciumlaktoglukonat,Läkemedel,ATC-koder
+A12AA07,A12AA,A12AA07,Kalciumklorid,Läkemedel,ATC-koder
+A12AX,A12A,A12AX,"Kalcium, kombinationer med vitamin D och/eller övriga läkemedel",Läkemedel,ATC-koder
+A12B,A12,A12B,Kalium,Läkemedel,ATC-koder
+A12BA,A12B,A12BA,Kalium,Läkemedel,ATC-koder
+A12BA01,A12BA,A12BA01,Kaliumklorid,Läkemedel,ATC-koder
+A12BA02,A12BA,A12BA02,Kaliumcitrat,Läkemedel,ATC-koder
+A12BA03,A12BA,A12BA03,Kaliumvätetartrat,Läkemedel,ATC-koder
+A12BA30,A12BA,A12BA30,Kalium (olika salter i kombination),Läkemedel,ATC-koder
+A12BA51,A12BA,A12BA51,"Kaliumklorid, kombinationer",Läkemedel,ATC-koder
+A12C,A12,A12C,Övriga mineralämnen,Läkemedel,ATC-koder
+A12CA,A12C,A12CA,Natrium,Läkemedel,ATC-koder
+A12CA01,A12CA,A12CA01,Natriumklorid,Läkemedel,ATC-koder
+A12CB,A12C,A12CB,Zink,Läkemedel,ATC-koder
+A12CB01,A12CB,A12CB01,Zinksulfat,Läkemedel,ATC-koder
+A12CC,A12C,A12CC,Magnesium,Läkemedel,ATC-koder
+A12CC02,A12CC,A12CC02,Magnesiumsulfat,Läkemedel,ATC-koder
+A12CC04,A12CC,A12CC04,Magnesiumcitrat,Läkemedel,ATC-koder
+A12CC30,A12CC,A12CC30,Magnesium (olika salter i kombination),Läkemedel,ATC-koder
+A12CE,A12C,A12CE,Selen,Läkemedel,ATC-koder
+A12CE01,A12CE,A12CE01,Natriumselenat,Läkemedel,ATC-koder
+A12CE02,A12CE,A12CE02,Natriumselenit,Läkemedel,ATC-koder
+A12CX,A12C,A12CX,Övriga mineralämnen,Läkemedel,ATC-koder
+A14,A,A14,Anabola steroider för systemiskt bruk,Läkemedel,ATC-koder
+A14A,A14,A14A,Anabola steroider,Läkemedel,ATC-koder
+A14AA,A14A,A14AA,Androstanderivat,Läkemedel,ATC-koder
+A14AA04,A14AA,A14AA04,Metenolon,Läkemedel,ATC-koder
+A14AA07,A14AA,A14AA07,Prasteron,Läkemedel,ATC-koder
+A14AA08,A14AA,A14AA08,Oxandrolon,Läkemedel,ATC-koder
+A14AB,A14A,A14AB,Östrenderivat,Läkemedel,ATC-koder
+A14AB01,A14AB,A14AB01,Nandrolon,Läkemedel,ATC-koder
+A16,A,A16,Övriga medel för matsmältning och ämnesomsättning,Läkemedel,ATC-koder
+A16A,A16,A16A,Övriga medel för matsmältning och ämnesomsättning,Läkemedel,ATC-koder
+A16AA,A16A,A16AA,Aminosyror och derivat,Läkemedel,ATC-koder
+A16AA01,A16AA,A16AA01,Levokarnitin,Läkemedel,ATC-koder
+A16AA02,A16AA,A16AA02,Ademetionin,Läkemedel,ATC-koder
+A16AA04,A16AA,A16AA04,Merkaptamin,Läkemedel,ATC-koder
+A16AA05,A16AA,A16AA05,Kargluminsyra,Läkemedel,ATC-koder
+A16AA06,A16AA,A16AA06,Betain,Läkemedel,ATC-koder
+A16AB,A16A,A16AB,Enzymer,Läkemedel,ATC-koder
+A16AB02,A16AB,A16AB02,Imiglukeras,Läkemedel,ATC-koder
+A16AB03,A16AB,A16AB03,Agalsidas alfa,Läkemedel,ATC-koder
+A16AB04,A16AB,A16AB04,Agalsidas beta,Läkemedel,ATC-koder
+A16AB05,A16AB,A16AB05,Laronidas,Läkemedel,ATC-koder
+A16AB06,A16AB,A16AB06,Sakrosidas,Läkemedel,ATC-koder
+A16AB07,A16AB,A16AB07,Alglukosidas alfa,Läkemedel,ATC-koder
+A16AB09,A16AB,A16AB09,Idursulfas,Läkemedel,ATC-koder
+A16AB10,A16AB,A16AB10,Velagluceras alfa,Läkemedel,ATC-koder
+A16AX,A16A,A16AX,Övriga medel för matsmältning och ämnesomsättning,Läkemedel,ATC-koder
+A16AX01,A16AX,A16AX01,Tioktinsyra,Läkemedel,ATC-koder
+A16AX03,A16AX,A16AX03,Natriumfenylbutyrat,Läkemedel,ATC-koder
+A16AX04,A16AX,A16AX04,Nitisinon,Läkemedel,ATC-koder
+A16AX05,A16AX,A16AX05,Zinkacetat,Läkemedel,ATC-koder
+A16AX06,A16AX,A16AX06,Miglustat,Läkemedel,ATC-koder
+A16AX07,A16AX,A16AX07,Sapropterin,Läkemedel,ATC-koder
+A16AX08,A16AX,A16AX08,Teduglutid,Läkemedel,ATC-koder
+A16AX09,A16AX,A16AX09,Glycerolfenylbutyrat,Läkemedel,ATC-koder
+A16AX14,A16AX,A16AX14,Migalastat,Läkemedel,ATC-koder
+A16AX15,A16AX,A16AX15,Telotristat,Läkemedel,ATC-koder
+A16Q,A16,A16Q,,Läkemedel,ATC-koder
+A16QA,A16Q,A16QA,,Läkemedel,ATC-koder
+A16QA01,A16QA,A16QA01,,Läkemedel,ATC-koder
+B,0,B,Blod och blodbildande organ,Läkemedel,ATC-koder
+B01,B,B01,Antikoagulantia,Läkemedel,ATC-koder
+B01A,B01,B01A,Antikoagulantia,Läkemedel,ATC-koder
+B01AA,B01A,B01AA,Vitamin K-antagonister,Läkemedel,ATC-koder
+B01AA03,B01AA,B01AA03,Warfarin,Läkemedel,ATC-koder
+B01AA04,B01AA,B01AA04,Fenprokumon,Läkemedel,ATC-koder
+B01AA07,B01AA,B01AA07,Acenokumarol,Läkemedel,ATC-koder
+B01AA12,B01AA,B01AA12,Fluindion,Läkemedel,ATC-koder
+B01AB,B01A,B01AB,Heparingruppen,Läkemedel,ATC-koder
+B01AB01,B01AB,B01AB01,Heparin,Läkemedel,ATC-koder
+B01AB02,B01AB,B01AB02,Antitrombin III,Läkemedel,ATC-koder
+B01AB04,B01AB,B01AB04,Dalteparin,Läkemedel,ATC-koder
+B01AB05,B01AB,B01AB05,Enoxaparin,Läkemedel,ATC-koder
+B01AB09,B01AB,B01AB09,Danaparoid,Läkemedel,ATC-koder
+B01AB10,B01AB,B01AB10,Tinzaparin,Läkemedel,ATC-koder
+B01AC,B01A,B01AC,"Trombocytaggregationshämmande medel, exkl. heparin",Läkemedel,ATC-koder
+B01AC04,B01AC,B01AC04,Klopidogrel,Läkemedel,ATC-koder
+B01AC05,B01AC,B01AC05,Tiklopidin,Läkemedel,ATC-koder
+B01AC06,B01AC,B01AC06,Acetylsalicylsyra,Läkemedel,ATC-koder
+B01AC07,B01AC,B01AC07,Dipyridamol,Läkemedel,ATC-koder
+B01AC09,B01AC,B01AC09,Epoprostenol,Läkemedel,ATC-koder
+B01AC11,B01AC,B01AC11,Iloprost,Läkemedel,ATC-koder
+B01AC21,B01AC,B01AC21,Treprostinil,Läkemedel,ATC-koder
+B01AC22,B01AC,B01AC22,Prasugrel,Läkemedel,ATC-koder
+B01AC23,B01AC,B01AC23,Cilostazol,Läkemedel,ATC-koder
+B01AC24,B01AC,B01AC24,Tikagrelor,Läkemedel,ATC-koder
+B01AC27,B01AC,B01AC27,Selexipag,Läkemedel,ATC-koder
+B01AC30,B01AC,B01AC30,Kombinationer,Läkemedel,ATC-koder
+B01AD,B01A,B01AD,Enzymer,Läkemedel,ATC-koder
+B01AD01,B01AD,B01AD01,Streptokinas,Läkemedel,ATC-koder
+B01AD02,B01AD,B01AD02,Alteplas,Läkemedel,ATC-koder
+B01AD10,B01AD,B01AD10,Drotrekogin alfa (aktiverat),Läkemedel,ATC-koder
+B01AE,B01A,B01AE,Direkt trombinhämmande medel,Läkemedel,ATC-koder
+B01AE02,B01AE,B01AE02,Lepirudin,Läkemedel,ATC-koder
+B01AE03,B01AE,B01AE03,Argatroban,Läkemedel,ATC-koder
+B01AE05,B01AE,B01AE05,Ximelagatran,Läkemedel,ATC-koder
+B01AE07,B01AE,B01AE07,Dabigatranetexilat,Läkemedel,ATC-koder
+B01AF,B01A,B01AF,Direktverkande faktor Xa-hämmare,Läkemedel,ATC-koder
+B01AF01,B01AF,B01AF01,Rivaroxaban,Läkemedel,ATC-koder
+B01AF02,B01AF,B01AF02,Apixaban,Läkemedel,ATC-koder
+B01AF03,B01AF,B01AF03,Edoxaban,Läkemedel,ATC-koder
+B01AX,B01A,B01AX,Övriga antitrombotiska medel,Läkemedel,ATC-koder
+B01AX05,B01AX,B01AX05,Fondaparinux,Läkemedel,ATC-koder
+B01AX07,B01AX,B01AX07,Kaplacizumab,Läkemedel,ATC-koder
+B02,B,B02,Hemostatika,Läkemedel,ATC-koder
+B02A,B02,B02A,Fibrinolyshämmande medel,Läkemedel,ATC-koder
+B02AA,B02A,B02AA,Aminosyror,Läkemedel,ATC-koder
+B02AA02,B02AA,B02AA02,Tranexamsyra,Läkemedel,ATC-koder
+B02AB,B02A,B02AB,Proteinashämmande medel,Läkemedel,ATC-koder
+B02AB01,B02AB,B02AB01,Aprotinin,Läkemedel,ATC-koder
+B02AB02,B02AB,B02AB02,Alfa-1-antitrypsin,Läkemedel,ATC-koder
+B02AB04,B02AB,B02AB04,Kamostat,Läkemedel,ATC-koder
+B02B,B02,B02B,Vitamin K och andra koagulationsfaktorer,Läkemedel,ATC-koder
+B02BA,B02B,B02BA,Vitamin K,Läkemedel,ATC-koder
+B02BA01,B02BA,B02BA01,Fytomenadion,Läkemedel,ATC-koder
+B02BB,B02B,B02BB,Fibrinogen,Läkemedel,ATC-koder
+B02BB01,B02BB,B02BB01,"Fibrinogen, humant",Läkemedel,ATC-koder
+B02BC,B02B,B02BC,Lokala hemostatika,Läkemedel,ATC-koder
+B02BC30,B02BC,B02BC30,Kombinationer,Läkemedel,ATC-koder
+B02BD,B02B,B02BD,Koagulationsfaktorer,Läkemedel,ATC-koder
+B02BD01,B02BD,B02BD01,"Koagulationsfaktor IX, II, VII och X i kombination",Läkemedel,ATC-koder
+B02BD02,B02BD,B02BD02,Koagulationsfaktor VIII,Läkemedel,ATC-koder
+B02BD03,B02BD,B02BD03,Aktiverat protrombinkomplex mot faktor VIII-antikroppar,Läkemedel,ATC-koder
+B02BD04,B02BD,B02BD04,Koagulationsfaktor IX,Läkemedel,ATC-koder
+B02BD06,B02BD,B02BD06,von Willebrandfaktor och koagulationsfaktor VIII i kombination,Läkemedel,ATC-koder
+B02BD07,B02BD,B02BD07,Koagulationsfaktor XIII,Läkemedel,ATC-koder
+B02BD08,B02BD,B02BD08,Koagulationsfaktor VIIa,Läkemedel,ATC-koder
+B02BD10,B02BD,B02BD10,von Willebrandfaktor,Läkemedel,ATC-koder
+B02BX,B02B,B02BX,Övriga hemostatika för systemiskt bruk,Läkemedel,ATC-koder
+B02BX04,B02BX,B02BX04,Romiplostim,Läkemedel,ATC-koder
+B02BX05,B02BX,B02BX05,Eltrombopag,Läkemedel,ATC-koder
+B02BX06,B02BX,B02BX06,Emicizumab,Läkemedel,ATC-koder
+B03,B,B03,Medel vid anemier,Läkemedel,ATC-koder
+B03A,B03,B03A,Medel vid järnbristanemier,Läkemedel,ATC-koder
+B03AA,B03A,B03AA,"Tvåvärt järn, perorala preparat",Läkemedel,ATC-koder
+B03AA01,B03AA,B03AA01,Järn(II)glycinsulfat,Läkemedel,ATC-koder
+B03AA02,B03AA,B03AA02,Järn(II)fumarat,Läkemedel,ATC-koder
+B03AA03,B03AA,B03AA03,Järn(II)glukonat,Läkemedel,ATC-koder
+B03AA06,B03AA,B03AA06,Ferrosuccinat,Läkemedel,ATC-koder
+B03AA07,B03AA,B03AA07,Ferrosulfat,Läkemedel,ATC-koder
+B03AB,B03A,B03AB,"Trevärt järn, perorala preparat",Läkemedel,ATC-koder
+B03AB09,B03AB,B03AB09,Järn(III)proteinsuccinylat,Läkemedel,ATC-koder
+B03AB10,B03AB,B03AB10,Järn(III)maltol,Läkemedel,ATC-koder
+B03AC,B03A,B03AC,"Järn, parenterala preparat",Läkemedel,ATC-koder
+B03AE,B03A,B03AE,"Järn, övriga kombinationer",Läkemedel,ATC-koder
+B03AE10,B03AE,B03AE10,Övriga kombinationer,Läkemedel,ATC-koder
+B03B,B03,B03B,Vitamin B12 och folsyra,Läkemedel,ATC-koder
+B03BA,B03B,B03BA,Vitamin B12 (cyanokobalamin och analoger),Läkemedel,ATC-koder
+B03BA01,B03BA,B03BA01,Cyanokobalamin,Läkemedel,ATC-koder
+B03BA02,B03BA,B03BA02,Cyanokobalamin-tanninkomplex,Läkemedel,ATC-koder
+B03BA03,B03BA,B03BA03,Hydroxokobalamin,Läkemedel,ATC-koder
+B03BB,B03B,B03BB,Folsyra och derivat,Läkemedel,ATC-koder
+B03BB01,B03BB,B03BB01,Folsyra,Läkemedel,ATC-koder
+B03X,B03,B03X,Övriga medel vid anemier,Läkemedel,ATC-koder
+B03XA,B03X,B03XA,Övriga medel vid anemier,Läkemedel,ATC-koder
+B03XA01,B03XA,B03XA01,Erytropoietin,Läkemedel,ATC-koder
+B03XA02,B03XA,B03XA02,Darbepoetin alfa,Läkemedel,ATC-koder
+B03XA03,B03XA,B03XA03,Metoxi-polyetylenglykol-epoetin beta,Läkemedel,ATC-koder
+B05,B,B05,Blodersättning och infusionsvätskor,Läkemedel,ATC-koder
+B05A,B05,B05A,Blod och relaterade produkter,Läkemedel,ATC-koder
+B05AA,B05A,B05AA,Blodersättning och plasmaproteiner,Läkemedel,ATC-koder
+B05AA01,B05AA,B05AA01,Albumin,Läkemedel,ATC-koder
+B05AA05,B05AA,B05AA05,Dextran,Läkemedel,ATC-koder
+B05AA06,B05AA,B05AA06,Gelatinpreparat,Läkemedel,ATC-koder
+B05AA07,B05AA,B05AA07,Polyhydroxietylstärkelse,Läkemedel,ATC-koder
+B05B,B05,B05B,Infusionsvätskor,Läkemedel,ATC-koder
+B05BA,B05B,B05BA,Lösningar för parenteral nutrition,Läkemedel,ATC-koder
+B05BA01,B05BA,B05BA01,Aminosyror,Läkemedel,ATC-koder
+B05BA02,B05BA,B05BA02,Fettemulsioner,Läkemedel,ATC-koder
+B05BA03,B05BA,B05BA03,Kolhydrater,Läkemedel,ATC-koder
+B05BA10,B05BA,B05BA10,Kombinationer,Läkemedel,ATC-koder
+B05BB,B05B,B05BB,Lösningar som påverkar elektrolytbalansen,Läkemedel,ATC-koder
+B05BB01,B05BB,B05BB01,Elektrolyter,Läkemedel,ATC-koder
+B05BB02,B05BB,B05BB02,Elektrolyter och kolhydrater,Läkemedel,ATC-koder
+B05BB03,B05BB,B05BB03,Trometamol,Läkemedel,ATC-koder
+B05BC,B05B,B05BC,Lösningar som framkallar osmotisk diures,Läkemedel,ATC-koder
+B05BC01,B05BC,B05BC01,Mannitol,Läkemedel,ATC-koder
+B05BC02,B05BC,B05BC02,Karbamid,Läkemedel,ATC-koder
+B05C,B05,B05C,Spolvätskor,Läkemedel,ATC-koder
+B05CB,B05C,B05CB,Saltlösningar,Läkemedel,ATC-koder
+B05CB01,B05CB,B05CB01,Natriumklorid,Läkemedel,ATC-koder
+B05CB10,B05CB,B05CB10,Kombinationer,Läkemedel,ATC-koder
+B05CX,B05C,B05CX,Övriga spolvätskor,Läkemedel,ATC-koder
+B05CX10,B05CX,B05CX10,Kombinationer,Läkemedel,ATC-koder
+B05D,B05,B05D,Peritonealdialysvätskor,Läkemedel,ATC-koder
+B05DA,B05D,B05DA,Isotona lösningar,Läkemedel,ATC-koder
+B05DB,B05D,B05DB,Hypertona lösningar,Läkemedel,ATC-koder
+B05X,B05,B05X,Infusionskoncentrat,Läkemedel,ATC-koder
+B05XA,B05X,B05XA,Elektrolytlösningar,Läkemedel,ATC-koder
+B05XA01,B05XA,B05XA01,Kaliumklorid,Läkemedel,ATC-koder
+B05XA03,B05XA,B05XA03,Natriumklorid,Läkemedel,ATC-koder
+B05XA04,B05XA,B05XA04,Ammoniumklorid,Läkemedel,ATC-koder
+B05XA05,B05XA,B05XA05,Magnesiumsulfat,Läkemedel,ATC-koder
+B05XA06,B05XA,B05XA06,"Kaliumfosfat, inkl. kombinationer med andra kaliumsalt",Läkemedel,ATC-koder
+B05XA07,B05XA,B05XA07,Kalciumklorid,Läkemedel,ATC-koder
+B05XA14,B05XA,B05XA14,Natriumglycerofosfat,Läkemedel,ATC-koder
+B05XA31,B05XA,B05XA31,Elektrolyter i kombination med andra medel,Läkemedel,ATC-koder
+B05XB,B05X,B05XB,Aminosyror,Läkemedel,ATC-koder
+B05XB01,B05XB,B05XB01,Argininhydroklorid,Läkemedel,ATC-koder
+B05XB02,B05XB,B05XB02,Alanylglutamin,Läkemedel,ATC-koder
+B05XC,B05X,B05XC,Vitaminer,Läkemedel,ATC-koder
+B05Z,B05,B05Z,Hemodialysvätskor och hemofiltrationsvätskor,Läkemedel,ATC-koder
+B05ZB,B05Z,B05ZB,Hemofiltrationsvätskor,Läkemedel,ATC-koder
+B06,B,B06,Övriga hematologiska medel,Läkemedel,ATC-koder
+B06A,B06,B06A,Övriga hematologiska medel,Läkemedel,ATC-koder
+B06AA,B06A,B06AA,Enzymer,Läkemedel,ATC-koder
+B06AA03,B06AA,B06AA03,Hyaluronidas,Läkemedel,ATC-koder
+B06AA55,B06AA,B06AA55,"Streptokinas, kombinationer",Läkemedel,ATC-koder
+B06AB,B06A,B06AB,Övriga hematologiska medel,Läkemedel,ATC-koder
+B06AB01,B06AB,B06AB01,Hematin,Läkemedel,ATC-koder
+B06AC,B06A,B06AC,Medel använda vid ärftligt angioödem,Läkemedel,ATC-koder
+B06AC01,B06AC,B06AC01,"c1-hämmare, plasmaderiverad",Läkemedel,ATC-koder
+B06AC02,B06AC,B06AC02,Ikatibant,Läkemedel,ATC-koder
+B06AC04,B06AC,B06AC04,Konestat alfa,Läkemedel,ATC-koder
+C,0,C,Hjärta och kretslopp,Läkemedel,ATC-koder
+C01,C,C01,Medel vid hjärtsjukdomar,Läkemedel,ATC-koder
+C01A,C01,C01A,Hjärtglykosider,Läkemedel,ATC-koder
+C01AA,C01A,C01AA,Digitalisglykosider,Läkemedel,ATC-koder
+C01AA04,C01AA,C01AA04,Digitoxin,Läkemedel,ATC-koder
+C01AA05,C01AA,C01AA05,Digoxin,Läkemedel,ATC-koder
+C01B,C01,C01B,"Antiarytmika, klass I och III",Läkemedel,ATC-koder
+C01BA,C01B,C01BA,Antiarytmika klass IA,Läkemedel,ATC-koder
+C01BA01,C01BA,C01BA01,Kinidin,Läkemedel,ATC-koder
+C01BA03,C01BA,C01BA03,Disopyramid,Läkemedel,ATC-koder
+C01BB,C01B,C01BB,Antiarytmika klass IB,Läkemedel,ATC-koder
+C01BB01,C01BB,C01BB01,Lidokain,Läkemedel,ATC-koder
+C01BB02,C01BB,C01BB02,Mexiletin,Läkemedel,ATC-koder
+C01BC,C01B,C01BC,Antiarytmika klass IC,Läkemedel,ATC-koder
+C01BC03,C01BC,C01BC03,Propafenon,Läkemedel,ATC-koder
+C01BC04,C01BC,C01BC04,Flekainid,Läkemedel,ATC-koder
+C01BD,C01B,C01BD,Antiarytmika klass III,Läkemedel,ATC-koder
+C01BD01,C01BD,C01BD01,Amiodaron,Läkemedel,ATC-koder
+C01BD05,C01BD,C01BD05,Ibutilid,Läkemedel,ATC-koder
+C01BD07,C01BD,C01BD07,Dronedaron,Läkemedel,ATC-koder
+C01C,C01,C01C,Hjärtstimulerande medel exkl. hjärtglykosider,Läkemedel,ATC-koder
+C01CA,C01C,C01CA,Adrenerga och dopaminerga medel,Läkemedel,ATC-koder
+C01CA01,C01CA,C01CA01,Etilefrin,Läkemedel,ATC-koder
+C01CA02,C01CA,C01CA02,Isoprenalin,Läkemedel,ATC-koder
+C01CA03,C01CA,C01CA03,Noradrenalin,Läkemedel,ATC-koder
+C01CA06,C01CA,C01CA06,Fenylefrin,Läkemedel,ATC-koder
+C01CA07,C01CA,C01CA07,Dobutamin,Läkemedel,ATC-koder
+C01CA17,C01CA,C01CA17,Midodrin,Läkemedel,ATC-koder
+C01CA24,C01CA,C01CA24,Adrenalin,Läkemedel,ATC-koder
+C01CX,C01C,C01CX,Övriga hjärtstimulerande medel,Läkemedel,ATC-koder
+C01CX08,C01CX,C01CX08,Levosimendan,Läkemedel,ATC-koder
+C01D,C01,C01D,Kärlvidgande medel vid hjärtsjukdomar,Läkemedel,ATC-koder
+C01DA,C01D,C01DA,Organiska nitrater,Läkemedel,ATC-koder
+C01DA02,C01DA,C01DA02,Glyceryltrinitrat,Läkemedel,ATC-koder
+C01DA08,C01DA,C01DA08,Isosorbiddinitrat,Läkemedel,ATC-koder
+C01DA14,C01DA,C01DA14,Isosorbidmononitrat,Läkemedel,ATC-koder
+C01DX,C01D,C01DX,Övriga kärlvidgande medel vid hjärtsjukdomar,Läkemedel,ATC-koder
+C01DX12,C01DX,C01DX12,Molsidomin,Läkemedel,ATC-koder
+C01DX16,C01DX,C01DX16,Nikorandil,Läkemedel,ATC-koder
+C01E,C01,C01E,Övriga medel vid hjärtsjukdomar,Läkemedel,ATC-koder
+C01EA,C01E,C01EA,Prostaglandiner,Läkemedel,ATC-koder
+C01EA01,C01EA,C01EA01,Alprostadil,Läkemedel,ATC-koder
+C01EB,C01E,C01EB,Övriga medel vid hjärtsjukdomar,Läkemedel,ATC-koder
+C01EB09,C01EB,C01EB09,Ubidekarenon,Läkemedel,ATC-koder
+C01EB10,C01EB,C01EB10,Adenosin,Läkemedel,ATC-koder
+C01EB15,C01EB,C01EB15,Trimetazidin,Läkemedel,ATC-koder
+C01EB17,C01EB,C01EB17,Ivabradin,Läkemedel,ATC-koder
+C02,C,C02,Antihypertensiva medel,Läkemedel,ATC-koder
+C02A,C02,C02A,Antiadrenerga preparat med central verkan,Läkemedel,ATC-koder
+C02AB,C02A,C02AB,Metyldopa,Läkemedel,ATC-koder
+C02AB01,C02AB,C02AB01,Metyldopa (L-form),Läkemedel,ATC-koder
+C02AC,C02A,C02AC,Imidazolinreceptoragonister,Läkemedel,ATC-koder
+C02AC01,C02AC,C02AC01,Klonidin,Läkemedel,ATC-koder
+C02AC02,C02AC,C02AC02,Guanfacin,Läkemedel,ATC-koder
+C02AC05,C02AC,C02AC05,Moxonidin,Läkemedel,ATC-koder
+C02C,C02,C02C,Antiadrenerga preparat med perifer verkan,Läkemedel,ATC-koder
+C02CA,C02C,C02CA,Alfa-adrenoreceptorantagonister,Läkemedel,ATC-koder
+C02CA01,C02CA,C02CA01,Prazosin,Läkemedel,ATC-koder
+C02CA04,C02CA,C02CA04,Doxazosin,Läkemedel,ATC-koder
+C02CA06,C02CA,C02CA06,Urapidil,Läkemedel,ATC-koder
+C02D,C02,C02D,Medel som påverkar glatt muskulatur i perifera kärl,Läkemedel,ATC-koder
+C02DB,C02D,C02DB,Hydrazinoftalazinderivat,Läkemedel,ATC-koder
+C02DB02,C02DB,C02DB02,Hydralazin,Läkemedel,ATC-koder
+C02DC,C02D,C02DC,Pyrimidinderivat,Läkemedel,ATC-koder
+C02DC01,C02DC,C02DC01,Minoxidil,Läkemedel,ATC-koder
+C02K,C02,C02K,Övriga antihypertensiva medel,Läkemedel,ATC-koder
+C02KD,C02K,C02KD,Serotoninantagonister,Läkemedel,ATC-koder
+C02KD01,C02KD,C02KD01,Ketanserin,Läkemedel,ATC-koder
+C02KX,C02K,C02KX,Antihypertensiva medel för pulmonell arteriell hypertension,Läkemedel,ATC-koder
+C02KX01,C02KX,C02KX01,Bosentan,Läkemedel,ATC-koder
+C02KX02,C02KX,C02KX02,Ambrisentan,Läkemedel,ATC-koder
+C02KX03,C02KX,C02KX03,Sitaxentan,Läkemedel,ATC-koder
+C02KX04,C02KX,C02KX04,Macitentan,Läkemedel,ATC-koder
+C02KX05,C02KX,C02KX05,Riociguat,Läkemedel,ATC-koder
+C03,C,C03,Diuretika,Läkemedel,ATC-koder
+C03A,C03,C03A,Tiazider,Läkemedel,ATC-koder
+C03AA,C03A,C03AA,Tiazider,Läkemedel,ATC-koder
+C03AA01,C03AA,C03AA01,Bendroflumetiazid,Läkemedel,ATC-koder
+C03AA03,C03AA,C03AA03,Hydroklortiazid,Läkemedel,ATC-koder
+C03AA04,C03AA,C03AA04,Klortiazid,Läkemedel,ATC-koder
+C03AB,C03A,C03AB,Tiazider i kombination med kalium,Läkemedel,ATC-koder
+C03AB01,C03AB,C03AB01,Bendroflumetiazid och kalium,Läkemedel,ATC-koder
+C03B,C03,C03B,Tiazidbesläktade diuretika,Läkemedel,ATC-koder
+C03BA,C03B,C03BA,Sulfonamidderivat,Läkemedel,ATC-koder
+C03BA04,C03BA,C03BA04,Klortalidon,Läkemedel,ATC-koder
+C03BA08,C03BA,C03BA08,Metolazon,Läkemedel,ATC-koder
+C03BA11,C03BA,C03BA11,Indapamid,Läkemedel,ATC-koder
+C03C,C03,C03C,Loop-diuretika,Läkemedel,ATC-koder
+C03CA,C03C,C03CA,Sulfonamider,Läkemedel,ATC-koder
+C03CA01,C03CA,C03CA01,Furosemid,Läkemedel,ATC-koder
+C03CA02,C03CA,C03CA02,Bumetanid,Läkemedel,ATC-koder
+C03CA04,C03CA,C03CA04,Torasemid,Läkemedel,ATC-koder
+C03CC,C03C,C03CC,Fenoxiättiksyraderivat,Läkemedel,ATC-koder
+C03CC01,C03CC,C03CC01,Etakrynsyra,Läkemedel,ATC-koder
+C03D,C03,C03D,Kaliumsparande diuretika,Läkemedel,ATC-koder
+C03DA,C03D,C03DA,Aldosteronantagonister,Läkemedel,ATC-koder
+C03DA01,C03DA,C03DA01,Spironolakton,Läkemedel,ATC-koder
+C03DA04,C03DA,C03DA04,Eplerenon,Läkemedel,ATC-koder
+C03DB,C03D,C03DB,Övriga kaliumsparande medel,Läkemedel,ATC-koder
+C03DB01,C03DB,C03DB01,Amilorid,Läkemedel,ATC-koder
+C03DB02,C03DB,C03DB02,Triamteren,Läkemedel,ATC-koder
+C03E,C03,C03E,Diuretika i kombination med kaliumsparande medel,Läkemedel,ATC-koder
+C03EA,C03E,C03EA,Tiazidbesläktad diuretika och kaliumsparande medel,Läkemedel,ATC-koder
+C03EA01,C03EA,C03EA01,Hydroklortiazid och kaliumsparande medel,Läkemedel,ATC-koder
+C03X,C03,C03X,Övriga diuretika,Läkemedel,ATC-koder
+C03XA,C03X,C03XA,Vasopressinantagonister,Läkemedel,ATC-koder
+C03XA01,C03XA,C03XA01,Tolvaptan,Läkemedel,ATC-koder
+C04,C,C04,Perifera vasodilatorer,Läkemedel,ATC-koder
+C04A,C04,C04A,Perifera vasodilatorer,Läkemedel,ATC-koder
+C04AB,C04A,C04AB,Imidazolinderivat,Läkemedel,ATC-koder
+C04AB01,C04AB,C04AB01,Fentolamin,Läkemedel,ATC-koder
+C04AD,C04A,C04AD,Purinderivat,Läkemedel,ATC-koder
+C04AD03,C04AD,C04AD03,Pentoxifyllin,Läkemedel,ATC-koder
+C04AE,C04A,C04AE,Mjöldrygealkaloider,Läkemedel,ATC-koder
+C04AE01,C04AE,C04AE01,Ergoloidmesylat,Läkemedel,ATC-koder
+C04AX,C04A,C04AX,Övriga perifera vasodilatorer,Läkemedel,ATC-koder
+C04AX02,C04AX,C04AX02,Fenoxybensamin,Läkemedel,ATC-koder
+C04AX21,C04AX,C04AX21,Naftidrofuryl,Läkemedel,ATC-koder
+C05,C,C05,Kärlskyddande medel,Läkemedel,ATC-koder
+C05A,C05,C05A,Utvärtes medel vid hemorrojder och analfissurer,Läkemedel,ATC-koder
+C05AA,C05A,C05AA,Kortikosteroider,Läkemedel,ATC-koder
+C05AA01,C05AA,C05AA01,Hydrokortison,Läkemedel,ATC-koder
+C05AA04,C05AA,C05AA04,Prednisolon,Läkemedel,ATC-koder
+C05AA08,C05AA,C05AA08,Fluokortolon,Läkemedel,ATC-koder
+C05AD,C05A,C05AD,Lokalanestetika,Läkemedel,ATC-koder
+C05AE,C05A,C05AE,Muskelavslappande medel,Läkemedel,ATC-koder
+C05AE01,C05AE,C05AE01,Glyceryltrinitrat,Läkemedel,ATC-koder
+C05AX,C05A,C05AX,Övriga utvärtes medel vid hemorrojder och analfissurer,Läkemedel,ATC-koder
+C05AX03,C05AX,C05AX03,"Övriga medel, kombinationer",Läkemedel,ATC-koder
+C05B,C05,C05B,Medel för varixbehandling,Läkemedel,ATC-koder
+C05BA,C05B,C05BA,Heparin eller heparinoida substanser för utvärtes bruk,Läkemedel,ATC-koder
+C05BA01,C05BA,C05BA01,Organiska heparinföreningar,Läkemedel,ATC-koder
+C05BA04,C05BA,C05BA04,Pentosanpolysulfatnatrium,Läkemedel,ATC-koder
+C05BB,C05B,C05BB,Medel för sklerosering för lokal injektion,Läkemedel,ATC-koder
+C05BB02,C05BB,C05BB02,Polidokanol,Läkemedel,ATC-koder
+C05BB04,C05BB,C05BB04,Natriumtetradecylsulfat,Läkemedel,ATC-koder
+C05C,C05,C05C,Kapillärstabiliserande medel,Läkemedel,ATC-koder
+C05CA,C05C,C05CA,Bioflavonoider,Läkemedel,ATC-koder
+C05CA01,C05CA,C05CA01,Rutosid,Läkemedel,ATC-koder
+C05CA03,C05CA,C05CA03,Diosmin,Läkemedel,ATC-koder
+C05CA04,C05CA,C05CA04,Troxerutin,Läkemedel,ATC-koder
+C05CA53,C05CA,C05CA53,"Diosmin, kombinationer",Läkemedel,ATC-koder
+C07,C,C07,Beta-receptorblockerande medel,Läkemedel,ATC-koder
+C07A,C07,C07A,Beta-receptorblockerande medel,Läkemedel,ATC-koder
+C07AA,C07A,C07AA,"Beta-receptorblockerande medel, icke-selektiva",Läkemedel,ATC-koder
+C07AA02,C07AA,C07AA02,Oxprenolol,Läkemedel,ATC-koder
+C07AA03,C07AA,C07AA03,Pindolol,Läkemedel,ATC-koder
+C07AA05,C07AA,C07AA05,Propranolol,Läkemedel,ATC-koder
+C07AA06,C07AA,C07AA06,Timolol,Läkemedel,ATC-koder
+C07AA07,C07AA,C07AA07,Sotalol,Läkemedel,ATC-koder
+C07AA12,C07AA,C07AA12,Nadolol,Läkemedel,ATC-koder
+C07AB,C07A,C07AB,"Beta-receptorblockerande medel, selektiva",Läkemedel,ATC-koder
+C07AB02,C07AB,C07AB02,Metoprolol,Läkemedel,ATC-koder
+C07AB03,C07AB,C07AB03,Atenolol,Läkemedel,ATC-koder
+C07AB04,C07AB,C07AB04,Acebutolol,Läkemedel,ATC-koder
+C07AB05,C07AB,C07AB05,Betaxolol,Läkemedel,ATC-koder
+C07AB07,C07AB,C07AB07,Bisoprolol,Läkemedel,ATC-koder
+C07AB08,C07AB,C07AB08,Celiprolol,Läkemedel,ATC-koder
+C07AB09,C07AB,C07AB09,Esmolol,Läkemedel,ATC-koder
+C07AB12,C07AB,C07AB12,Nebivolol,Läkemedel,ATC-koder
+C07AG,C07A,C07AG,Alfa- och beta-receptorblockerande medel,Läkemedel,ATC-koder
+C07AG01,C07AG,C07AG01,Labetalol,Läkemedel,ATC-koder
+C07AG02,C07AG,C07AG02,Karvedilol,Läkemedel,ATC-koder
+C07F,C07,C07F,"Beta-receptorblockerande medel, övriga kombinationer",Läkemedel,ATC-koder
+C07FB,C07F,C07FB,Beta-receptorblockerande medel och kalciumantagonister,Läkemedel,ATC-koder
+C07FB02,C07FB,C07FB02,Metoprolol och felodipin,Läkemedel,ATC-koder
+C08,C,C08,Kalciumantagonister,Läkemedel,ATC-koder
+C08C,C08,C08C,Kalciumantagonister med övervägande kärlselektiv effekt,Läkemedel,ATC-koder
+C08CA,C08C,C08CA,Dihydropyridinderivat,Läkemedel,ATC-koder
+C08CA01,C08CA,C08CA01,Amlodipin,Läkemedel,ATC-koder
+C08CA02,C08CA,C08CA02,Felodipin,Läkemedel,ATC-koder
+C08CA03,C08CA,C08CA03,Isradipin,Läkemedel,ATC-koder
+C08CA05,C08CA,C08CA05,Nifedipin,Läkemedel,ATC-koder
+C08CA06,C08CA,C08CA06,Nimodipin,Läkemedel,ATC-koder
+C08CA13,C08CA,C08CA13,Lerkanidipin,Läkemedel,ATC-koder
+C08D,C08,C08D,Kalciumantagonister med direkt hjärtselektiv effekt,Läkemedel,ATC-koder
+C08DA,C08D,C08DA,Fenylalkylaminderivat,Läkemedel,ATC-koder
+C08DA01,C08DA,C08DA01,Verapamil,Läkemedel,ATC-koder
+C08DB,C08D,C08DB,Bensotiazepinderivat,Läkemedel,ATC-koder
+C08DB01,C08DB,C08DB01,Diltiazem,Läkemedel,ATC-koder
+C09,C,C09,Medel som påverkar renin-angiotensinsystemet,Läkemedel,ATC-koder
+C09A,C09,C09A,ACE-hämmare,Läkemedel,ATC-koder
+C09AA,C09A,C09AA,ACE-hämmare,Läkemedel,ATC-koder
+C09AA01,C09AA,C09AA01,Kaptopril,Läkemedel,ATC-koder
+C09AA02,C09AA,C09AA02,Enalapril,Läkemedel,ATC-koder
+C09AA03,C09AA,C09AA03,Lisinopril,Läkemedel,ATC-koder
+C09AA04,C09AA,C09AA04,Perindopril,Läkemedel,ATC-koder
+C09AA05,C09AA,C09AA05,Ramipril,Läkemedel,ATC-koder
+C09AA06,C09AA,C09AA06,Kinapril,Läkemedel,ATC-koder
+C09AA08,C09AA,C09AA08,Cilazapril,Läkemedel,ATC-koder
+C09AA09,C09AA,C09AA09,Fosinopril,Läkemedel,ATC-koder
+C09AA10,C09AA,C09AA10,Trandolapril,Läkemedel,ATC-koder
+C09B,C09,C09B,"ACE-hämmare, kombinationer",Läkemedel,ATC-koder
+C09BA,C09B,C09BA,ACE-hämmare och diuretika,Läkemedel,ATC-koder
+C09BA02,C09BA,C09BA02,Enalapril och diuretika,Läkemedel,ATC-koder
+C09BA03,C09BA,C09BA03,Lisinopril och diuretika,Läkemedel,ATC-koder
+C09BA04,C09BA,C09BA04,Perindopril och diuretika,Läkemedel,ATC-koder
+C09BA05,C09BA,C09BA05,Ramipril och diuretika,Läkemedel,ATC-koder
+C09BA06,C09BA,C09BA06,Kinapril och diuretika,Läkemedel,ATC-koder
+C09BA08,C09BA,C09BA08,Cilazapril och diuretika,Läkemedel,ATC-koder
+C09BB,C09B,C09BB,ACE-hämmare och kalciumantagonister,Läkemedel,ATC-koder
+C09BB06,C09BB,C09BB06,Enalapril och nitrendipin,Läkemedel,ATC-koder
+C09BB10,C09BB,C09BB10,Trandolapril och verapamil,Läkemedel,ATC-koder
+C09C,C09,C09C,Angiotensin II receptorblockerare (ARBs),Läkemedel,ATC-koder
+C09CA,C09C,C09CA,Angiotensin II receptorblockerare (ARBs),Läkemedel,ATC-koder
+C09CA01,C09CA,C09CA01,Losartan,Läkemedel,ATC-koder
+C09CA02,C09CA,C09CA02,Eprosartan,Läkemedel,ATC-koder
+C09CA03,C09CA,C09CA03,Valsartan,Läkemedel,ATC-koder
+C09CA04,C09CA,C09CA04,Irbesartan,Läkemedel,ATC-koder
+C09CA06,C09CA,C09CA06,Kandesartan,Läkemedel,ATC-koder
+C09CA07,C09CA,C09CA07,Telmisartan,Läkemedel,ATC-koder
+C09CA08,C09CA,C09CA08,Olmesartanmedoxomil,Läkemedel,ATC-koder
+C09D,C09,C09D,"Angiotensin II receptorblockerare (ARBs), kombinationer",Läkemedel,ATC-koder
+C09DA,C09D,C09DA,Angiotensin II receptorblockerare (ARBs) och diuretika,Läkemedel,ATC-koder
+C09DA01,C09DA,C09DA01,Losartan och diuretika,Läkemedel,ATC-koder
+C09DA02,C09DA,C09DA02,Eprosartan och diuretika,Läkemedel,ATC-koder
+C09DA03,C09DA,C09DA03,Valsartan och diuretika,Läkemedel,ATC-koder
+C09DA04,C09DA,C09DA04,Irbesartan och diuretika,Läkemedel,ATC-koder
+C09DA06,C09DA,C09DA06,Kandesartan och diuretika,Läkemedel,ATC-koder
+C09DA07,C09DA,C09DA07,Telmisartan och diuretika,Läkemedel,ATC-koder
+C09DA08,C09DA,C09DA08,Olmesartanmedoxomil och diuretika,Läkemedel,ATC-koder
+C09DB,C09D,C09DB,Angiotensin II receptorblockerare (ARBs) och kalciumantagonister,Läkemedel,ATC-koder
+C09DB01,C09DB,C09DB01,Valsartan och amlodipin,Läkemedel,ATC-koder
+C09DX,C09D,C09DX,"Angiotensin II receptorblockerare (ARBs), övriga kombinationer",Läkemedel,ATC-koder
+C09DX04,C09DX,C09DX04,Valsartan och sakubitril,Läkemedel,ATC-koder
+C09X,C09,C09X,Övriga medel som påverkar renin-angiotensinsystemet,Läkemedel,ATC-koder
+C09XA,C09X,C09XA,Renin-hämmare,Läkemedel,ATC-koder
+C09XA02,C09XA,C09XA02,Aliskiren,Läkemedel,ATC-koder
+C10,C,C10,Medel som påverkar serumlipidnivåerna,Läkemedel,ATC-koder
+C10A,C10,C10A,Medel som påverkar serumlipidnivåerna,Läkemedel,ATC-koder
+C10AA,C10A,C10AA,HMG CoA reduktas-hämmare,Läkemedel,ATC-koder
+C10AA01,C10AA,C10AA01,Simvastatin,Läkemedel,ATC-koder
+C10AA02,C10AA,C10AA02,Lovastatin,Läkemedel,ATC-koder
+C10AA03,C10AA,C10AA03,Pravastatin,Läkemedel,ATC-koder
+C10AA04,C10AA,C10AA04,Fluvastatin,Läkemedel,ATC-koder
+C10AA05,C10AA,C10AA05,Atorvastatin,Läkemedel,ATC-koder
+C10AA07,C10AA,C10AA07,Rosuvastatin,Läkemedel,ATC-koder
+C10AA08,C10AA,C10AA08,Pitavastatin,Läkemedel,ATC-koder
+C10AB,C10A,C10AB,Fibrater,Läkemedel,ATC-koder
+C10AB02,C10AB,C10AB02,Bezafibrat,Läkemedel,ATC-koder
+C10AB04,C10AB,C10AB04,Gemfibrozil,Läkemedel,ATC-koder
+C10AB05,C10AB,C10AB05,Fenofibrat,Läkemedel,ATC-koder
+C10AC,C10A,C10AC,Resiner,Läkemedel,ATC-koder
+C10AC01,C10AC,C10AC01,Kolestyramin,Läkemedel,ATC-koder
+C10AC02,C10AC,C10AC02,Kolestipol,Läkemedel,ATC-koder
+C10AC04,C10AC,C10AC04,Kolesevelam,Läkemedel,ATC-koder
+C10AD,C10A,C10AD,Nikotinsyra och derivat,Läkemedel,ATC-koder
+C10AD02,C10AD,C10AD02,Nikotinsyra,Läkemedel,ATC-koder
+C10AD06,C10AD,C10AD06,Acipimox,Läkemedel,ATC-koder
+C10AD52,C10AD,C10AD52,"Nikotinsyra, kombinationer",Läkemedel,ATC-koder
+C10AX,C10A,C10AX,Övriga medel som påverkar serumlipidnivåerna,Läkemedel,ATC-koder
+C10AX06,C10AX,C10AX06,Omega-3-triglycerider inkl. övriga estrar och syror,Läkemedel,ATC-koder
+C10AX09,C10AX,C10AX09,Ezetimib,Läkemedel,ATC-koder
+C10AX12,C10AX,C10AX12,Lomitapid,Läkemedel,ATC-koder
+C10AX13,C10AX,C10AX13,Evolokumab,Läkemedel,ATC-koder
+C10AX14,C10AX,C10AX14,Alirokumab,Läkemedel,ATC-koder
+C10B,C10,C10B,"Medel som påverkar serumlipidnivåerna, kombinationer",Läkemedel,ATC-koder
+C10BA,C10B,C10BA,HMG CoA-reduktashämmare i kombination med andra medel som påverkar serumlipidnivåerna,Läkemedel,ATC-koder
+C10BA02,C10BA,C10BA02,Simvastatin och ezetimib,Läkemedel,ATC-koder
+C10BA05,C10BA,C10BA05,Atorvastatin och ezetimib,Läkemedel,ATC-koder
+D,0,D,Hudpreparat,Läkemedel,ATC-koder
+D01,D,D01,Svampmedel för utvärtes bruk,Läkemedel,ATC-koder
+D01A,D01,D01A,Svampmedel för utvärtes bruk,Läkemedel,ATC-koder
+D01AA,D01A,D01AA,Antibiotika,Läkemedel,ATC-koder
+D01AA01,D01AA,D01AA01,Nystatin,Läkemedel,ATC-koder
+D01AA08,D01AA,D01AA08,Griseofulvin,Läkemedel,ATC-koder
+D01AC,D01A,D01AC,Imidazol- och triazolderivat,Läkemedel,ATC-koder
+D01AC01,D01AC,D01AC01,Klotrimazol,Läkemedel,ATC-koder
+D01AC02,D01AC,D01AC02,Mikonazol,Läkemedel,ATC-koder
+D01AC03,D01AC,D01AC03,Ekonazol,Läkemedel,ATC-koder
+D01AC08,D01AC,D01AC08,Ketokonazol,Läkemedel,ATC-koder
+D01AC10,D01AC,D01AC10,Bifonazol,Läkemedel,ATC-koder
+D01AC20,D01AC,D01AC20,Imidazoler/triazoler i kombination med kortikosteroider,Läkemedel,ATC-koder
+D01AE,D01A,D01AE,Övriga utvärtes medel vid hudmykoser,Läkemedel,ATC-koder
+D01AE02,D01AE,D01AE02,Metylrosanilin,Läkemedel,ATC-koder
+D01AE14,D01AE,D01AE14,Ciklopirox,Läkemedel,ATC-koder
+D01AE15,D01AE,D01AE15,Terbinafin,Läkemedel,ATC-koder
+D01AE16,D01AE,D01AE16,Amorolfin,Läkemedel,ATC-koder
+D01B,D01,D01B,Svampmedel för systemiskt bruk,Läkemedel,ATC-koder
+D01BA,D01B,D01BA,Svampmedel för systemiskt bruk,Läkemedel,ATC-koder
+D01BA01,D01BA,D01BA01,Griseofulvin,Läkemedel,ATC-koder
+D01BA02,D01BA,D01BA02,Terbinafin,Läkemedel,ATC-koder
+D02,D,D02,Hudskyddande och uppmjukande medel,Läkemedel,ATC-koder
+D02A,D02,D02A,Hudskyddande och uppmjukande medel,Läkemedel,ATC-koder
+D02AA,D02A,D02AA,Silikonpreparat,Läkemedel,ATC-koder
+D02AB,D02A,D02AB,Zinkpreparat,Läkemedel,ATC-koder
+D02AC,D02A,D02AC,Mjukt paraffin och fettprodukter,Läkemedel,ATC-koder
+D02AE,D02A,D02AE,Karbamidpreparat,Läkemedel,ATC-koder
+D02AE01,D02AE,D02AE01,Karbamid,Läkemedel,ATC-koder
+D02AE51,D02AE,D02AE51,"Karbamid, kombinationer",Läkemedel,ATC-koder
+D02AF,D02A,D02AF,Salicylsyrapreparat,Läkemedel,ATC-koder
+D02AX,D02A,D02AX,Övriga hudskyddande och uppmjukande medel,Läkemedel,ATC-koder
+D02B,D02,D02B,Medel som skyddar mot UV-strålning,Läkemedel,ATC-koder
+D02BA,D02B,D02BA,"Medel som skyddar mot UV-strålning, utvärtes",Läkemedel,ATC-koder
+D02BA01,D02BA,D02BA01,Aminobensoesyra,Läkemedel,ATC-koder
+D02BB,D02B,D02BB,"Medel som skyddar mot UV-strålning, systemiska",Läkemedel,ATC-koder
+D02BB01,D02BB,D02BB01,Betakaroten,Läkemedel,ATC-koder
+D03,D,D03,Medel vid sår- och brännskador,Läkemedel,ATC-koder
+D03A,D03,D03A,Medel vid sår- och brännskador,Läkemedel,ATC-koder
+D03AX,D03A,D03AX,Övriga medel vid sår-och brännskador,Läkemedel,ATC-koder
+D03AX01,D03AX,D03AX01,Kadexomerjod,Läkemedel,ATC-koder
+D03AX03,D03AX,D03AX03,Dexapantenol,Läkemedel,ATC-koder
+D04,D,D04,"Klådstillande medel, inkl. antihistaminer, anestetika etc.",Läkemedel,ATC-koder
+D04A,D04,D04A,"Klådstillande medel, inkl. antihistaminer, anestetika etc.",Läkemedel,ATC-koder
+D04AA,D04A,D04AA,Antihistaminer för utvärtes bruk,Läkemedel,ATC-koder
+D04AA32,D04AA,D04AA32,Difenhydramin,Läkemedel,ATC-koder
+D04AB,D04A,D04AB,Lokalanestetika för utvärtes bruk,Läkemedel,ATC-koder
+D04AB01,D04AB,D04AB01,Lidokain,Läkemedel,ATC-koder
+D04AX,D04A,D04AX,Övriga klådstillande medel,Läkemedel,ATC-koder
+D05,D,D05,Medel vid psoriasis,Läkemedel,ATC-koder
+D05A,D05,D05A,Medel vid psoriasis för utvärtes bruk,Läkemedel,ATC-koder
+D05AA,D05A,D05AA,Tjäror,Läkemedel,ATC-koder
+D05AC,D05A,D05AC,Antracenderivat,Läkemedel,ATC-koder
+D05AC01,D05AC,D05AC01,Ditranol,Läkemedel,ATC-koder
+D05AD,D05A,D05AD,Psoralener för utvärtes bruk,Läkemedel,ATC-koder
+D05AD01,D05AD,D05AD01,Trioxisalen,Läkemedel,ATC-koder
+D05AX,D05A,D05AX,Övriga medel vid psoriasis för utvärtes bruk,Läkemedel,ATC-koder
+D05AX01,D05AX,D05AX01,Fumarsyra,Läkemedel,ATC-koder
+D05AX02,D05AX,D05AX02,Kalcipotriol,Läkemedel,ATC-koder
+D05AX03,D05AX,D05AX03,Kalcitriol,Läkemedel,ATC-koder
+D05AX05,D05AX,D05AX05,Tazaroten,Läkemedel,ATC-koder
+D05AX52,D05AX,D05AX52,"Kalcipotriol, kombinationer",Läkemedel,ATC-koder
+D05B,D,D05B,Medel vid psoriasis för systemiskt bruk,Läkemedel,ATC-koder
+D05BA,D05B,D05BA,Psoralener för systemiskt bruk,Läkemedel,ATC-koder
+D05BA02,D05BA,D05BA02,Metoxsalen,Läkemedel,ATC-koder
+D05BB,D05B,D05BB,Retinoider för behandling av psoriasis,Läkemedel,ATC-koder
+D05BB02,D05BB,D05BB02,Acitretin,Läkemedel,ATC-koder
+D05BX,D05B,D05BX,Övriga medel vid psoriasis för systemiskt bruk,Läkemedel,ATC-koder
+D05BX51,D05BX,D05BX51,Derivat av fumarsyra kombinationer,Läkemedel,ATC-koder
+D06,D,D06,Antibiotika och kemoterapeutika för utvärtes bruk,Läkemedel,ATC-koder
+D06A,D06,D06A,Antibiotika för topikal användning,Läkemedel,ATC-koder
+D06AA,D06A,D06AA,Tetracyklin och derivat,Läkemedel,ATC-koder
+D06AA03,D06AA,D06AA03,Oxitetracyklin,Läkemedel,ATC-koder
+D06AX,D06A,D06AX,Övriga antibiotika för topikal användning,Läkemedel,ATC-koder
+D06AX01,D06AX,D06AX01,Fusidinsyra,Läkemedel,ATC-koder
+D06AX04,D06AX,D06AX04,Neomycin,Läkemedel,ATC-koder
+D06AX07,D06AX,D06AX07,Gentamicin,Läkemedel,ATC-koder
+D06AX09,D06AX,D06AX09,Mupirocin,Läkemedel,ATC-koder
+D06AX13,D06AX,D06AX13,Retapamulin,Läkemedel,ATC-koder
+D06B,D06,D06B,Kemoterapeutika för topikal användning,Läkemedel,ATC-koder
+D06BA,D06B,D06BA,Sulfonamider,Läkemedel,ATC-koder
+D06BA01,D06BA,D06BA01,Silversulfadiazin,Läkemedel,ATC-koder
+D06BB,D06B,D06BB,Antivirala medel,Läkemedel,ATC-koder
+D06BB03,D06BB,D06BB03,Aciklovir,Läkemedel,ATC-koder
+D06BB04,D06BB,D06BB04,Podofyllotoxin,Läkemedel,ATC-koder
+D06BB06,D06BB,D06BB06,Penciklovir,Läkemedel,ATC-koder
+D06BB10,D06BB,D06BB10,Imikvimod,Läkemedel,ATC-koder
+D06BB11,D06BB,D06BB11,Docosanol,Läkemedel,ATC-koder
+D06BB12,D06BB,D06BB12,Sinekatekiner,Läkemedel,ATC-koder
+D06BB53,D06BB,D06BB53,"Aciklovir, kombinationer",Läkemedel,ATC-koder
+D06BX,D06B,D06BX,Övriga kemoterapeutika,Läkemedel,ATC-koder
+D06BX01,D06BX,D06BX01,Metronidazol,Läkemedel,ATC-koder
+D06BX02,D06BX,D06BX02,Ingenolmebutat,Läkemedel,ATC-koder
+D07,D,D07,Kortikosteroider för utvärtes bruk,Läkemedel,ATC-koder
+D07A,D07,D07A,Kortikosteroider,Läkemedel,ATC-koder
+D07AA,D07A,D07AA,"Kortikosteroider, milt verkande (grupp I)",Läkemedel,ATC-koder
+D07AA02,D07AA,D07AA02,Hydrokortison,Läkemedel,ATC-koder
+D07AB,D07A,D07AB,"Kortikosteroider, medelstarkt verkande (grupp II)",Läkemedel,ATC-koder
+D07AB01,D07AB,D07AB01,Klobetason,Läkemedel,ATC-koder
+D07AB02,D07AB,D07AB02,Hydrokortisonbutyrat,Läkemedel,ATC-koder
+D07AB09,D07AB,D07AB09,Triamcinolon,Läkemedel,ATC-koder
+D07AC,D07A,D07AC,"Kortikosteroider, starkt verkande (grupp III)",Läkemedel,ATC-koder
+D07AC01,D07AC,D07AC01,Betametason,Läkemedel,ATC-koder
+D07AC03,D07AC,D07AC03,Desoximetason,Läkemedel,ATC-koder
+D07AC04,D07AC,D07AC04,Fluocinolonacetonid,Läkemedel,ATC-koder
+D07AC13,D07AC,D07AC13,Mometason,Läkemedel,ATC-koder
+D07AC17,D07AC,D07AC17,Flutikason,Läkemedel,ATC-koder
+D07AD,D07A,D07AD,"Kortikosteroider, extra starkt verkande (grupp IV)",Läkemedel,ATC-koder
+D07AD01,D07AD,D07AD01,Klobetasol,Läkemedel,ATC-koder
+D07B,D07,D07B,Kortikosteroider i kombination med antiseptika,Läkemedel,ATC-koder
+D07BA,D07B,D07BA,"Kortikosteroider, milda, i kombination med antiseptika",Läkemedel,ATC-koder
+D07BA01,D07BA,D07BA01,Prednisolon och antiseptika,Läkemedel,ATC-koder
+D07BB,D07B,D07BB,"Kortikosteroider, medelstarka, i kombination med antiseptika",Läkemedel,ATC-koder
+D07BB03,D07BB,D07BB03,Triamcinolon och antiseptika,Läkemedel,ATC-koder
+D07BC,D07B,D07BC,"Kortikosteroider, starka, i kombination med antiseptika",Läkemedel,ATC-koder
+D07BC01,D07BC,D07BC01,Betametason och antiseptika,Läkemedel,ATC-koder
+D07C,D07,D07C,Kortikosteroider i kombination med antibiotika,Läkemedel,ATC-koder
+D07CA,D07C,D07CA,"Kortikosteroider, milda, i kombination med antibiotika",Läkemedel,ATC-koder
+D07CA01,D07CA,D07CA01,Hydrokortison och antibiotika,Läkemedel,ATC-koder
+D07CC,D07C,D07CC,"Kortikosteroider, starka, i kombination med antibiotika",Läkemedel,ATC-koder
+D07CC01,D07CC,D07CC01,Betametason och antibiotika,Läkemedel,ATC-koder
+D07X,D07,D07X,"Kortikosteroider, övriga kombinationer",Läkemedel,ATC-koder
+D07XA,D07X,D07XA,"Milda kortikosteroider, övriga kombinationer",Läkemedel,ATC-koder
+D07XA01,D07XA,D07XA01,Hydrokortison,Läkemedel,ATC-koder
+D07XB,D07X,D07XB,"Medelstarka kortikosteroider, övriga kombinationer",Läkemedel,ATC-koder
+D07XB02,D07XB,D07XB02,Triamcinolon,Läkemedel,ATC-koder
+D07XC,D07X,D07XC,"Starka kortikosteroider, övriga kombinationer",Läkemedel,ATC-koder
+D07XC01,D07XC,D07XC01,Betametason,Läkemedel,ATC-koder
+D07XC03,D07XC,D07XC03,Mometason,Läkemedel,ATC-koder
+D08,D,D08,Antiseptika och sårmedel,Läkemedel,ATC-koder
+D08A,D08,D08A,Antiseptika och sårmedel,Läkemedel,ATC-koder
+D08AA,D08A,D08AA,Akridinderivat,Läkemedel,ATC-koder
+D08AA03,D08AA,D08AA03,Euflavin,Läkemedel,ATC-koder
+D08AB,D08A,D08AB,Aluminiumföreningar,Läkemedel,ATC-koder
+D08AC,D08A,D08AC,Biguanider och amidiner,Läkemedel,ATC-koder
+D08AC02,D08AC,D08AC02,Klorhexidin,Läkemedel,ATC-koder
+D08AC52,D08AC,D08AC52,"Klorhexidin, kombinationer",Läkemedel,ATC-koder
+D08AD,D08A,D08AD,Borsyrapreparat,Läkemedel,ATC-koder
+D08AG,D08A,D08AG,Jodpreparat,Läkemedel,ATC-koder
+D08AG02,D08AG,D08AG02,"Povidon, joderad",Läkemedel,ATC-koder
+D08AJ,D08A,D08AJ,Kvartära ammoniumföreningar,Läkemedel,ATC-koder
+D08AJ01,D08AJ,D08AJ01,Bensalkonium,Läkemedel,ATC-koder
+D08AL,D08A,D08AL,Silverpreparat,Läkemedel,ATC-koder
+D08AL01,D08AL,D08AL01,Silvernitrat,Läkemedel,ATC-koder
+D08AX,D08A,D08AX,Övriga antiseptika och sårmedel,Läkemedel,ATC-koder
+D08AX01,D08AX,D08AX01,Väteperoxid,Läkemedel,ATC-koder
+D08AX06,D08AX,D08AX06,Kaliumpermanganat,Läkemedel,ATC-koder
+D08AX53,D08AX,D08AX53,"Propanol, kombinationer",Läkemedel,ATC-koder
+D09,D,D09,Medicinska förband,Läkemedel,ATC-koder
+D09A,D09,D09A,Medicinska förband,Läkemedel,ATC-koder
+D09AA,D09A,D09AA,Medicinska förband med antiinfektiva medel,Läkemedel,ATC-koder
+D09AA02,D09AA,D09AA02,Fusidinsyra,Läkemedel,ATC-koder
+D09AB,D09A,D09AB,Zinkbandage,Läkemedel,ATC-koder
+D09AB01,D09AB,D09AB01,Zinkbandage utan tillägg,Läkemedel,ATC-koder
+D10,D,D10,Medel mot akne,Läkemedel,ATC-koder
+D10A,D10,D10A,Medel mot akne för utvärtes bruk,Läkemedel,ATC-koder
+D10AB,D10A,D10AB,Medel innehållande svavel,Läkemedel,ATC-koder
+D10AB02,D10AB,D10AB02,Svavel,Läkemedel,ATC-koder
+D10AD,D10A,D10AD,Retinoider för utvärtes behandling mot akne,Läkemedel,ATC-koder
+D10AD01,D10AD,D10AD01,Tretinoin,Läkemedel,ATC-koder
+D10AD03,D10AD,D10AD03,Adapalen,Läkemedel,ATC-koder
+D10AD51,D10AD,D10AD51,"Tretinoin, kombinationer",Läkemedel,ATC-koder
+D10AD53,D10AD,D10AD53,"Adapalen, kombinationer",Läkemedel,ATC-koder
+D10AE,D10A,D10AE,Peroxider,Läkemedel,ATC-koder
+D10AE01,D10AE,D10AE01,Bensoylperoxid,Läkemedel,ATC-koder
+D10AF,D10A,D10AF,Antiinfektiva medel mot akne,Läkemedel,ATC-koder
+D10AF01,D10AF,D10AF01,Klindamycin,Läkemedel,ATC-koder
+D10AF51,D10AF,D10AF51,"Klindamycin, kombinationer",Läkemedel,ATC-koder
+D10AX,D10A,D10AX,Övriga medel mot akne för utvärtes bruk,Läkemedel,ATC-koder
+D10AX03,D10AX,D10AX03,Azelainsyra,Läkemedel,ATC-koder
+D10AX05,D10AX,D10AX05,Dapson,Läkemedel,ATC-koder
+D10B,D10,D10B,Medel mot akne för systemiskt bruk,Läkemedel,ATC-koder
+D10BA,D10B,D10BA,Retinoider mot akne,Läkemedel,ATC-koder
+D10BA01,D10BA,D10BA01,Isotretinoin,Läkemedel,ATC-koder
+D11,D,D11,Övriga dermatologiska medel,Läkemedel,ATC-koder
+D11A,D11,D11A,Övriga dermatologiska medel,Läkemedel,ATC-koder
+D11AC,D11A,D11AC,Medicinska schampon,Läkemedel,ATC-koder
+D11AC03,D11AC,D11AC03,Selensulfid,Läkemedel,ATC-koder
+D11AC08,D11AC,D11AC08,Svavelkombinationer,Läkemedel,ATC-koder
+D11AF,D11A,D11AF,Vårtmedel,Läkemedel,ATC-koder
+D11AH,D11A,D11AH,"Medel vid dermatit, exkl. kortikosteroider",Läkemedel,ATC-koder
+D11AH01,D11AH,D11AH01,Takrolimus,Läkemedel,ATC-koder
+D11AH02,D11AH,D11AH02,Pimekrolimus,Läkemedel,ATC-koder
+D11AH04,D11AH,D11AH04,Alitretinoin,Läkemedel,ATC-koder
+D11AH05,D11AH,D11AH05,Dupilumab,Läkemedel,ATC-koder
+D11AX,D11A,D11AX,Övriga dermatologiska medel,Läkemedel,ATC-koder
+D11AX00,D11AX,D11AX00,,Läkemedel,ATC-koder
+D11AX01,D11AX,D11AX01,Minoxidil,Läkemedel,ATC-koder
+D11AX10,D11AX,D11AX10,Finasterid,Läkemedel,ATC-koder
+D11AX11,D11AX,D11AX11,Hydrokinon,Läkemedel,ATC-koder
+D11AX16,D11AX,D11AX16,Eflornitin,Läkemedel,ATC-koder
+D11AX18,D11AX,D11AX18,Diklofenak,Läkemedel,ATC-koder
+D11AX21,D11AX,D11AX21,Brimonidin,Läkemedel,ATC-koder
+D11AX22,D11AX,D11AX22,Ivermektin,Läkemedel,ATC-koder
+G,0,G,Urin- och könsorgan samt könshormoner,Läkemedel,ATC-koder
+G01,G,G01,Antiinfektiva och antiseptiska medel för gynekologiskt bruk,Läkemedel,ATC-koder
+G01A,G01,G01A,"Antiinfektiva och antiseptiska medel, exkl. kombinationer med kortikosteroider",Läkemedel,ATC-koder
+G01AA,G01A,G01AA,Antibiotika,Läkemedel,ATC-koder
+G01AA01,G01AA,G01AA01,Nystatin,Läkemedel,ATC-koder
+G01AA03,G01AA,G01AA03,Amfotericin B,Läkemedel,ATC-koder
+G01AA10,G01AA,G01AA10,Klindamycin,Läkemedel,ATC-koder
+G01AC,G01A,G01AC,Kinolinderivat,Läkemedel,ATC-koder
+G01AC05,G01AC,G01AC05,Dekvalinium,Läkemedel,ATC-koder
+G01AF,G01A,G01AF,Imidazolderivat,Läkemedel,ATC-koder
+G01AF01,G01AF,G01AF01,Metronidazol,Läkemedel,ATC-koder
+G01AF02,G01AF,G01AF02,Klotrimazol,Läkemedel,ATC-koder
+G01AF05,G01AF,G01AF05,Ekonazol,Läkemedel,ATC-koder
+G01AX,G01A,G01AX,Övriga antiinfektiva och antiseptiska medel,Läkemedel,ATC-koder
+G01AX03,G01AX,G01AX03,Polikresulen,Läkemedel,ATC-koder
+G02,G,G02,Övriga medel för gynekologiskt bruk,Läkemedel,ATC-koder
+G02A,G02,G02A,Uteruskontraherande medel,Läkemedel,ATC-koder
+G02AB,G02A,G02AB,Mjöldrygealkaloider,Läkemedel,ATC-koder
+G02AB01,G02AB,G02AB01,Metylergometrin,Läkemedel,ATC-koder
+G02AD,G02A,G02AD,Prostaglandiner,Läkemedel,ATC-koder
+G02AD02,G02AD,G02AD02,Dinoproston,Läkemedel,ATC-koder
+G02AD03,G02AD,G02AD03,Gemeprost,Läkemedel,ATC-koder
+G02B,G02,G02B,Antikonceptionella medel för lokal användning,Läkemedel,ATC-koder
+G02BA,G02B,G02BA,Intrauterina preventivmedel,Läkemedel,ATC-koder
+G02BA03,G02BA,G02BA03,Plastiskt intrauterint preventivmedel med gestagen,Läkemedel,ATC-koder
+G02BB,G02B,G02BB,Intravaginala preventivmedel,Läkemedel,ATC-koder
+G02BB01,G02BB,G02BB01,Vaginalring med progestogen och östrogen,Läkemedel,ATC-koder
+G02C,G02,G02C,Övriga medel för gynekologiskt bruk,Läkemedel,ATC-koder
+G02CB,G02C,G02CB,Prolaktinhämmare,Läkemedel,ATC-koder
+G02CB01,G02CB,G02CB01,Bromokriptin,Läkemedel,ATC-koder
+G02CB03,G02CB,G02CB03,Kabergolin,Läkemedel,ATC-koder
+G02CB04,G02CB,G02CB04,Kinagolid,Läkemedel,ATC-koder
+G02CX,G02C,G02CX,Övriga medel för gynekologiskt bruk,Läkemedel,ATC-koder
+G02CX01,G02CX,G02CX01,Atosiban,Läkemedel,ATC-koder
+G02CX04,G02CX,G02CX04,"Läkesilverax, jordstam",Läkemedel,ATC-koder
+G03,G,G03,Könshormoner och modulatorer av könsorgan,Läkemedel,ATC-koder
+G03A,G03,G03A,Hormonella antikonceptionella medel för systemiskt bruk,Läkemedel,ATC-koder
+G03AA,G03A,G03AA,Gestagener och östrogener i fasta kombinationer,Läkemedel,ATC-koder
+G03AA03,G03AA,G03AA03,Lynestrenol och etinylestradiol,Läkemedel,ATC-koder
+G03AA05,G03AA,G03AA05,Noretisteron och etinylestradiol,Läkemedel,ATC-koder
+G03AA07,G03AA,G03AA07,Levonorgestrel och etinylestradiol,Läkemedel,ATC-koder
+G03AA09,G03AA,G03AA09,Desogestrel och etinylestradiol,Läkemedel,ATC-koder
+G03AA11,G03AA,G03AA11,Norgestimat och etinylestradiol,Läkemedel,ATC-koder
+G03AA12,G03AA,G03AA12,Drospirenon och etinylestradiol,Läkemedel,ATC-koder
+G03AA13,G03AA,G03AA13,Norelgestromin och etinylestradiol,Läkemedel,ATC-koder
+G03AA14,G03AA,G03AA14,Nomegestrol och estradiol,Läkemedel,ATC-koder
+G03AA16,G03AA,G03AA16,Dienogest och etinylestradiol,Läkemedel,ATC-koder
+G03AB,G03A,G03AB,"Gestagener och östrogener, sekvenspreparat",Läkemedel,ATC-koder
+G03AB02,G03AB,G03AB02,Lynestrenol och etinylestradiol,Läkemedel,ATC-koder
+G03AB03,G03AB,G03AB03,Levonorgestrel och etinylestradiol,Läkemedel,ATC-koder
+G03AB04,G03AB,G03AB04,Noretisteron och etinylestradiol,Läkemedel,ATC-koder
+G03AB05,G03AB,G03AB05,Desogestrel och etinylestradiol,Läkemedel,ATC-koder
+G03AB08,G03AB,G03AB08,Dienogest och estradiol,Läkemedel,ATC-koder
+G03AC,G03A,G03AC,Gestagener,Läkemedel,ATC-koder
+G03AC01,G03AC,G03AC01,Noretisteron,Läkemedel,ATC-koder
+G03AC02,G03AC,G03AC02,Lynestrenol,Läkemedel,ATC-koder
+G03AC03,G03AC,G03AC03,Levonorgestrel,Läkemedel,ATC-koder
+G03AC06,G03AC,G03AC06,Medroxiprogesteron,Läkemedel,ATC-koder
+G03AC08,G03AC,G03AC08,Etonogestrel,Läkemedel,ATC-koder
+G03AC09,G03AC,G03AC09,Desogestrel,Läkemedel,ATC-koder
+G03AD,G03A,G03AD,Akut preventivmedel,Läkemedel,ATC-koder
+G03AD01,G03AD,G03AD01,Levonorgestrel,Läkemedel,ATC-koder
+G03AD02,G03AD,G03AD02,Ulipristal,Läkemedel,ATC-koder
+G03B,G03,G03B,Androgener,Läkemedel,ATC-koder
+G03BA,G03B,G03BA,3-Oxandrostenderivat,Läkemedel,ATC-koder
+G03BA03,G03BA,G03BA03,Testosteron,Läkemedel,ATC-koder
+G03BB,G03B,G03BB,5-Androstanonderivat,Läkemedel,ATC-koder
+G03BB02,G03BB,G03BB02,Androstanolon,Läkemedel,ATC-koder
+G03C,G03,G03C,Östrogener,Läkemedel,ATC-koder
+G03CA,G03C,G03CA,Naturliga och halvsyntetiska estrogener,Läkemedel,ATC-koder
+G03CA01,G03CA,G03CA01,Etinylestradiol,Läkemedel,ATC-koder
+G03CA03,G03CA,G03CA03,Estradiol,Läkemedel,ATC-koder
+G03CA04,G03CA,G03CA04,Estriol,Läkemedel,ATC-koder
+G03CA57,G03CA,G03CA57,Konjugerade estrogener,Läkemedel,ATC-koder
+G03CC,G03C,G03CC,Östrogener i kombination med andra medel,Läkemedel,ATC-koder
+G03CC05,G03CC,G03CC05,Dietylstilbestrol,Läkemedel,ATC-koder
+G03CX,G03C,G03CX,Övriga estrogener,Läkemedel,ATC-koder
+G03CX01,G03CX,G03CX01,Tibolon,Läkemedel,ATC-koder
+G03D,G03,G03D,Gestagener,Läkemedel,ATC-koder
+G03DA,G03D,G03DA,Pregnenderivat,Läkemedel,ATC-koder
+G03DA02,G03DA,G03DA02,Medroxiprogesteron,Läkemedel,ATC-koder
+G03DA03,G03DA,G03DA03,Hydroxiprogesteron,Läkemedel,ATC-koder
+G03DA04,G03DA,G03DA04,Progesteron,Läkemedel,ATC-koder
+G03DB,G03D,G03DB,Pregnadienderivat,Läkemedel,ATC-koder
+G03DB01,G03DB,G03DB01,Dydrogesteron,Läkemedel,ATC-koder
+G03DB08,G03DB,G03DB08,Dienogest,Läkemedel,ATC-koder
+G03DC,G03D,G03DC,Östrenderivat,Läkemedel,ATC-koder
+G03DC02,G03DC,G03DC02,Noretisteron,Läkemedel,ATC-koder
+G03DC03,G03DC,G03DC03,Lynestrenol,Läkemedel,ATC-koder
+G03F,G03,G03F,Gestagener i kombination med östrogener,Läkemedel,ATC-koder
+G03FA,G03F,G03FA,Gestagener och östrogener i fasta kombinationer,Läkemedel,ATC-koder
+G03FA01,G03FA,G03FA01,Noretisteron och östrogen,Läkemedel,ATC-koder
+G03FA12,G03FA,G03FA12,Medroxiprogesteron och östrogen,Läkemedel,ATC-koder
+G03FA15,G03FA,G03FA15,Dienogest och östrogen,Läkemedel,ATC-koder
+G03FA17,G03FA,G03FA17,Drospirenon och östrogen,Läkemedel,ATC-koder
+G03FB,G03F,G03FB,"Gestagener och östrogener, sekvenspreparat",Läkemedel,ATC-koder
+G03FB05,G03FB,G03FB05,Noretisteron och östrogen,Läkemedel,ATC-koder
+G03FB06,G03FB,G03FB06,Medroxiprogesteron och östrogen,Läkemedel,ATC-koder
+G03FB07,G03FB,G03FB07,Medrogeston och östrogen,Läkemedel,ATC-koder
+G03FB09,G03FB,G03FB09,Levonorgestrel och östrogen,Läkemedel,ATC-koder
+G03G,G03,G03G,Gonadotropiner och andra ovulationsstimulerande medel,Läkemedel,ATC-koder
+G03GA,G03G,G03GA,Gonadotropiner,Läkemedel,ATC-koder
+G03GA01,G03GA,G03GA01,Koriongonadotropin,Läkemedel,ATC-koder
+G03GA02,G03GA,G03GA02,Menopausgonadotropin,Läkemedel,ATC-koder
+G03GA04,G03GA,G03GA04,Urofollitropin,Läkemedel,ATC-koder
+G03GA05,G03GA,G03GA05,Follitropin alfa,Läkemedel,ATC-koder
+G03GA06,G03GA,G03GA06,Follitropin beta,Läkemedel,ATC-koder
+G03GA07,G03GA,G03GA07,Lutropin alfa,Läkemedel,ATC-koder
+G03GA08,G03GA,G03GA08,Koriogonadotropin alfa,Läkemedel,ATC-koder
+G03GA09,G03GA,G03GA09,Korifollitropin alfa,Läkemedel,ATC-koder
+G03GA30,G03GA,G03GA30,Kombinationer,Läkemedel,ATC-koder
+G03GB,G03G,G03GB,Syntetiska ovulationsstimulerande medel,Läkemedel,ATC-koder
+G03GB02,G03GB,G03GB02,Klomifen,Läkemedel,ATC-koder
+G03H,G03,G03H,Antiandrogener,Läkemedel,ATC-koder
+G03HA,G03H,G03HA,Antiandrogener,Läkemedel,ATC-koder
+G03HA01,G03HA,G03HA01,Cyproteron,Läkemedel,ATC-koder
+G03HB,G03H,G03HB,Antiandrogener och östrogener,Läkemedel,ATC-koder
+G03HB01,G03HB,G03HB01,Cyproteron och östrogen,Läkemedel,ATC-koder
+G03X,G03,G03X,Övriga könshormoner och modulatorer av könsorgan,Läkemedel,ATC-koder
+G03XA,G03X,G03XA,Gonadotropinhämmare och liknande medel,Läkemedel,ATC-koder
+G03XA01,G03XA,G03XA01,Danazol,Läkemedel,ATC-koder
+G03XB,G03X,G03XB,Progesteronreceptormodulatorer,Läkemedel,ATC-koder
+G03XB01,G03XB,G03XB01,Mifepriston,Läkemedel,ATC-koder
+G03XB02,G03XB,G03XB02,Ulipristal,Läkemedel,ATC-koder
+G03XB51,G03XB,G03XB51,"Mifepriston, kombinationer",Läkemedel,ATC-koder
+G03XC,G03X,G03XC,Selektiva östrogenreceptormodulatorer,Läkemedel,ATC-koder
+G03XC01,G03XC,G03XC01,Raloxifen,Läkemedel,ATC-koder
+G04,G,G04,Urologiska medel,Läkemedel,ATC-koder
+G04B,G04,G04B,Urologiska medel,Läkemedel,ATC-koder
+G04BA,G04B,G04BA,Surgörande medel,Läkemedel,ATC-koder
+G04BA01,G04BA,G04BA01,Ammoniumklorid,Läkemedel,ATC-koder
+G04BC,G04B,G04BC,Medel för upplösning av urinsyrakonkrement,Läkemedel,ATC-koder
+G04BD,G04B,G04BD,Medel mot inkontinens och för kontroll av miktionsfrekvens,Läkemedel,ATC-koder
+G04BD01,G04BD,G04BD01,Emepron,Läkemedel,ATC-koder
+G04BD04,G04BD,G04BD04,Oxybutynin,Läkemedel,ATC-koder
+G04BD06,G04BD,G04BD06,Propiverin,Läkemedel,ATC-koder
+G04BD07,G04BD,G04BD07,Tolterodin,Läkemedel,ATC-koder
+G04BD08,G04BD,G04BD08,Solifenacin,Läkemedel,ATC-koder
+G04BD09,G04BD,G04BD09,Trospium,Läkemedel,ATC-koder
+G04BD10,G04BD,G04BD10,Darifenacin,Läkemedel,ATC-koder
+G04BD11,G04BD,G04BD11,Fesoterodin,Läkemedel,ATC-koder
+G04BD12,G04BD,G04BD12,Mirabegron,Läkemedel,ATC-koder
+G04BE,G04B,G04BE,Medel vid erektil dysfunktion,Läkemedel,ATC-koder
+G04BE01,G04BE,G04BE01,Alprostadil,Läkemedel,ATC-koder
+G04BE03,G04BE,G04BE03,Sildenafil,Läkemedel,ATC-koder
+G04BE04,G04BE,G04BE04,Yohimbin,Läkemedel,ATC-koder
+G04BE07,G04BE,G04BE07,Apomorfin,Läkemedel,ATC-koder
+G04BE08,G04BE,G04BE08,Tadalafil,Läkemedel,ATC-koder
+G04BE09,G04BE,G04BE09,Vardenafil,Läkemedel,ATC-koder
+G04BE10,G04BE,G04BE10,Avanafil,Läkemedel,ATC-koder
+G04BE30,G04BE,G04BE30,Kombinationer,Läkemedel,ATC-koder
+G04BX,G04B,G04BX,Övriga urologiska medel,Läkemedel,ATC-koder
+G04BX01,G04BX,G04BX01,Magnesiumhydroxid,Läkemedel,ATC-koder
+G04BX13,G04BX,G04BX13,Dimetylsulfoxid,Läkemedel,ATC-koder
+G04BX14,G04BX,G04BX14,Dapoxetin,Läkemedel,ATC-koder
+G04BX15,G04BX,G04BX15,Pentosanpolysulfatnatrium,Läkemedel,ATC-koder
+G04BX16,G04BX,G04BX16,Tiopronin,Läkemedel,ATC-koder
+G04C,G04,G04C,Medel vid benign prostatahyperplasi,Läkemedel,ATC-koder
+G04CA,G04C,G04CA,Alfa-adrenoreceptorantagonister,Läkemedel,ATC-koder
+G04CA01,G04CA,G04CA01,Alfuzosin,Läkemedel,ATC-koder
+G04CA02,G04CA,G04CA02,Tamsulosin,Läkemedel,ATC-koder
+G04CA03,G04CA,G04CA03,Terazosin,Läkemedel,ATC-koder
+G04CA53,G04CA,G04CA53,Tamsulosin och solifenacin,Läkemedel,ATC-koder
+G04CB,G04C,G04CB,Testosteron-5-alfa-reduktashämmare,Läkemedel,ATC-koder
+G04CB01,G04CB,G04CB01,Finasterid,Läkemedel,ATC-koder
+G04CB02,G04CB,G04CB02,Dutasterid,Läkemedel,ATC-koder
+G04CX,G04C,G04CX,Övriga medel vid benign prostatahyperplasi,Läkemedel,ATC-koder
+G04CX01,G04CX,G04CX01,"Pygeum africanum, bark",Läkemedel,ATC-koder
+G04CX02,G04CX,G04CX02,"Sågpalmetto, frukt",Läkemedel,ATC-koder
+H,0,H,"Systemiska hormonpreparat, exkl. könshormoner och insuliner",Läkemedel,ATC-koder
+H01,H,H01,Hypofys- och hypotalamushormoner och analoger,Läkemedel,ATC-koder
+H01A,H01,H01A,Hypofysframlobens hormoner samt analoger,Läkemedel,ATC-koder
+H01AA,H01A,H01AA,ACTH,Läkemedel,ATC-koder
+H01AA02,H01AA,H01AA02,Tetrakosaktid,Läkemedel,ATC-koder
+H01AB,H01A,H01AB,Tyrotropin,Läkemedel,ATC-koder
+H01AB01,H01AB,H01AB01,Tyrotropin alfa,Läkemedel,ATC-koder
+H01AC,H01A,H01AC,"Somatropin, samt somatropinagonister",Läkemedel,ATC-koder
+H01AC01,H01AC,H01AC01,Somatropin,Läkemedel,ATC-koder
+H01AC03,H01AC,H01AC03,Mekasermin,Läkemedel,ATC-koder
+H01AX,H01A,H01AX,Övriga hypofysframlobens hormoner samt analoger,Läkemedel,ATC-koder
+H01AX01,H01AX,H01AX01,Pegvisomant,Läkemedel,ATC-koder
+H01B,H01,H01B,Hypofysbaklobens hormoner,Läkemedel,ATC-koder
+H01BA,H01B,H01BA,Vasopressin och analoger,Läkemedel,ATC-koder
+H01BA01,H01BA,H01BA01,Vasopressin (argipressin),Läkemedel,ATC-koder
+H01BA02,H01BA,H01BA02,Desmopressin,Läkemedel,ATC-koder
+H01BB,H01B,H01BB,Oxytocin och analoger,Läkemedel,ATC-koder
+H01BB02,H01BB,H01BB02,Oxytocin,Läkemedel,ATC-koder
+H01C,H01,H01C,Hypotalamushormoner,Läkemedel,ATC-koder
+H01CA,H01C,H01CA,Gonadotropinfrisättande hormoner,Läkemedel,ATC-koder
+H01CA01,H01CA,H01CA01,Gonadorelin,Läkemedel,ATC-koder
+H01CA02,H01CA,H01CA02,Nafarelin,Läkemedel,ATC-koder
+H01CB,H01C,H01CB,Somatostatin och analoger,Läkemedel,ATC-koder
+H01CB02,H01CB,H01CB02,Oktreotid,Läkemedel,ATC-koder
+H01CB03,H01CB,H01CB03,Lanreotid,Läkemedel,ATC-koder
+H01CB05,H01CB,H01CB05,Pasireotid,Läkemedel,ATC-koder
+H01CC,H01C,H01CC,Gonadotropinantagonister,Läkemedel,ATC-koder
+H01CC01,H01CC,H01CC01,Ganirelix,Läkemedel,ATC-koder
+H01CC02,H01CC,H01CC02,Cetrorelix,Läkemedel,ATC-koder
+H02,H,H02,Kortikosteroider för systemiskt bruk,Läkemedel,ATC-koder
+H02A,H02,H02A,Kortikosteroider för systemiskt bruk,Läkemedel,ATC-koder
+H02AA,H02A,H02AA,Mineralkortikoider,Läkemedel,ATC-koder
+H02AA02,H02AA,H02AA02,Fludrokortison,Läkemedel,ATC-koder
+H02AB,H02A,H02AB,Glukokortikoider,Läkemedel,ATC-koder
+H02AB01,H02AB,H02AB01,Betametason,Läkemedel,ATC-koder
+H02AB02,H02AB,H02AB02,Dexametason,Läkemedel,ATC-koder
+H02AB04,H02AB,H02AB04,Metylprednisolon,Läkemedel,ATC-koder
+H02AB06,H02AB,H02AB06,Prednisolon,Läkemedel,ATC-koder
+H02AB07,H02AB,H02AB07,Prednison,Läkemedel,ATC-koder
+H02AB08,H02AB,H02AB08,Triamcinolon,Läkemedel,ATC-koder
+H02AB09,H02AB,H02AB09,Hydrokortison,Läkemedel,ATC-koder
+H02AB10,H02AB,H02AB10,Kortison,Läkemedel,ATC-koder
+H02AB13,H02AB,H02AB13,Deflazakort,Läkemedel,ATC-koder
+H03,H,H03,Tyreoideabehandling,Läkemedel,ATC-koder
+H03A,H03,H03A,Tyreoideapreparat,Läkemedel,ATC-koder
+H03AA,H03A,H03AA,Tyreoideahormoner,Läkemedel,ATC-koder
+H03AA01,H03AA,H03AA01,Levotyroxinnatrium,Läkemedel,ATC-koder
+H03AA02,H03AA,H03AA02,Liotyroninnatrium,Läkemedel,ATC-koder
+H03AA03,H03AA,H03AA03,Kombinationer av levotyroxin och liotyronin,Läkemedel,ATC-koder
+H03AA04,H03AA,H03AA04,Tiratrikol,Läkemedel,ATC-koder
+H03B,H03,H03B,"Antityreoida substanser, tyreostatika",Läkemedel,ATC-koder
+H03BA,H03B,H03BA,Tiouraciler,Läkemedel,ATC-koder
+H03BA02,H03BA,H03BA02,Propyltiouracil,Läkemedel,ATC-koder
+H03BB,H03B,H03BB,Svavelhaltiga imidazolderivat,Läkemedel,ATC-koder
+H03BB01,H03BB,H03BB01,Karbimazol,Läkemedel,ATC-koder
+H03BB02,H03BB,H03BB02,Tiamazol,Läkemedel,ATC-koder
+H04,H,H04,Pankreashormoner,Läkemedel,ATC-koder
+H04A,H04,H04A,Glukogenolytiskt hormon,Läkemedel,ATC-koder
+H04AA,H04A,H04AA,Glukogenolytiskt hormon,Läkemedel,ATC-koder
+H04AA01,H04AA,H04AA01,Glukagon,Läkemedel,ATC-koder
+H05,H,H05,Medel som reglerar kalciumomsättningen,Läkemedel,ATC-koder
+H05A,H05,H05A,Paratyreoideahormoner och analoger,Läkemedel,ATC-koder
+H05AA,H05A,H05AA,Paratyreoideahormoner och analoger,Läkemedel,ATC-koder
+H05AA02,H05AA,H05AA02,Teriparatid,Läkemedel,ATC-koder
+H05AA03,H05AA,H05AA03,Paratyroidhormon,Läkemedel,ATC-koder
+H05B,H05,H05B,Antiparatyreoideamedel,Läkemedel,ATC-koder
+H05BA,H05B,H05BA,Kalcitoninpreparat,Läkemedel,ATC-koder
+H05BA01,H05BA,H05BA01,"Kalcitonin, lax, syntetisk",Läkemedel,ATC-koder
+H05BX,H05B,H05BX,Övriga antiparatyreoideamedel,Läkemedel,ATC-koder
+H05BX01,H05BX,H05BX01,Cinakalcet,Läkemedel,ATC-koder
+H05BX02,H05BX,H05BX02,Parikalcitol,Läkemedel,ATC-koder
+H05BX04,H05BX,H05BX04,Etelkalcetid,Läkemedel,ATC-koder
+J,0,J,Antiinfektiva medel för systemiskt bruk,Läkemedel,ATC-koder
+J01,J,J01,Antibakteriella medel för systemiskt bruk,Läkemedel,ATC-koder
+J01A,J01,J01A,Tetracykliner,Läkemedel,ATC-koder
+J01AA,J01A,J01AA,Tetracykliner,Läkemedel,ATC-koder
+J01AA02,J01AA,J01AA02,Doxycyklin,Läkemedel,ATC-koder
+J01AA04,J01AA,J01AA04,Lymecyklin,Läkemedel,ATC-koder
+J01AA06,J01AA,J01AA06,Oxitetracyklin,Läkemedel,ATC-koder
+J01AA07,J01AA,J01AA07,Tetracyklin,Läkemedel,ATC-koder
+J01AA08,J01AA,J01AA08,Minocyklin,Läkemedel,ATC-koder
+J01AA12,J01AA,J01AA12,Tigecyklin,Läkemedel,ATC-koder
+J01B,J01,J01B,Amfenikoler,Läkemedel,ATC-koder
+J01BA,J01B,J01BA,Amfenikoler,Läkemedel,ATC-koder
+J01BA01,J01BA,J01BA01,Kloramfenikol,Läkemedel,ATC-koder
+J01C,J01,J01C,"Antibakteriella betalaktamer, penicilliner",Läkemedel,ATC-koder
+J01CA,J01C,J01CA,Penicilliner med utvidgat spektrum,Läkemedel,ATC-koder
+J01CA01,J01CA,J01CA01,Ampicillin,Läkemedel,ATC-koder
+J01CA02,J01CA,J01CA02,Pivampicillin,Läkemedel,ATC-koder
+J01CA04,J01CA,J01CA04,Amoxicillin,Läkemedel,ATC-koder
+J01CA08,J01CA,J01CA08,Pivmecillinam,Läkemedel,ATC-koder
+J01CA11,J01CA,J01CA11,Mecillinam,Läkemedel,ATC-koder
+J01CA12,J01CA,J01CA12,Piperacillin,Läkemedel,ATC-koder
+J01CA17,J01CA,J01CA17,Temocillin,Läkemedel,ATC-koder
+J01CE,J01C,J01CE,Betalaktamaskänsliga penicilliner,Läkemedel,ATC-koder
+J01CE01,J01CE,J01CE01,Bensylpenicillin,Läkemedel,ATC-koder
+J01CE02,J01CE,J01CE02,Fenoximetylpenicillin,Läkemedel,ATC-koder
+J01CE08,J01CE,J01CE08,Bensatin bensylpenicillin,Läkemedel,ATC-koder
+J01CF,J01C,J01CF,Betalaktamasresistenta penicilliner,Läkemedel,ATC-koder
+J01CF01,J01CF,J01CF01,Dikloxacillin,Läkemedel,ATC-koder
+J01CF02,J01CF,J01CF02,Kloxacillin,Läkemedel,ATC-koder
+J01CF05,J01CF,J01CF05,Flukloxacillin,Läkemedel,ATC-koder
+J01CR,J01C,J01CR,"Kombinationer av penicilliner, inkl. betalaktamashämmare",Läkemedel,ATC-koder
+J01CR02,J01CR,J01CR02,Amoxicillin och betalaktamashämmare,Läkemedel,ATC-koder
+J01CR05,J01CR,J01CR05,Piperacillin och betalaktamashämmare,Läkemedel,ATC-koder
+J01D,J01,J01D,Övriga antibakteriella betalaktamer,Läkemedel,ATC-koder
+J01DB,J01D,J01DB,"Cefalosporiner, första generationen",Läkemedel,ATC-koder
+J01DB01,J01DB,J01DB01,Cefalexin,Läkemedel,ATC-koder
+J01DB05,J01DB,J01DB05,Cefadroxil,Läkemedel,ATC-koder
+J01DC,J01D,J01DC,"Cefalosporiner, andra generationen",Läkemedel,ATC-koder
+J01DC01,J01DC,J01DC01,Cefoxitin,Läkemedel,ATC-koder
+J01DC02,J01DC,J01DC02,Cefuroxim,Läkemedel,ATC-koder
+J01DC04,J01DC,J01DC04,Cefaklor,Läkemedel,ATC-koder
+J01DC08,J01DC,J01DC08,Lorakarbef,Läkemedel,ATC-koder
+J01DD,J01D,J01DD,"Cefalosporiner, tredje generationen",Läkemedel,ATC-koder
+J01DD01,J01DD,J01DD01,Cefotaxim,Läkemedel,ATC-koder
+J01DD02,J01DD,J01DD02,Ceftazidim,Läkemedel,ATC-koder
+J01DD04,J01DD,J01DD04,Ceftriaxon,Läkemedel,ATC-koder
+J01DD08,J01DD,J01DD08,Cefixim,Läkemedel,ATC-koder
+J01DD13,J01DD,J01DD13,Cefpodoxim,Läkemedel,ATC-koder
+J01DD14,J01DD,J01DD14,Ceftibuten,Läkemedel,ATC-koder
+J01DD52,J01DD,J01DD52,Ceftazidim och betalaktamashämmare,Läkemedel,ATC-koder
+J01DD54,J01DD,J01DD54,"Ceftriaxon, kombinationer",Läkemedel,ATC-koder
+J01DE,J01D,J01DE,"Cefalosporiner, fjärde generationen",Läkemedel,ATC-koder
+J01DE01,J01DE,J01DE01,Cefepim,Läkemedel,ATC-koder
+J01DF,J01D,J01DF,Monobaktamer,Läkemedel,ATC-koder
+J01DF01,J01DF,J01DF01,Aztreonam,Läkemedel,ATC-koder
+J01DH,J01D,J01DH,Karbapenemer,Läkemedel,ATC-koder
+J01DH02,J01DH,J01DH02,Meropenem,Läkemedel,ATC-koder
+J01DH03,J01DH,J01DH03,Ertapenem,Läkemedel,ATC-koder
+J01DH51,J01DH,J01DH51,Imipenem och cilastatin,Läkemedel,ATC-koder
+J01E,J01,J01E,Sulfonamider och trimetoprim,Läkemedel,ATC-koder
+J01EA,J01E,J01EA,Trimetoprim och derivat,Läkemedel,ATC-koder
+J01EA01,J01EA,J01EA01,Trimetoprim,Läkemedel,ATC-koder
+J01EC,J01E,J01EC,Medellångverkande sulfonamider,Läkemedel,ATC-koder
+J01EC02,J01EC,J01EC02,Sulfadiazin,Läkemedel,ATC-koder
+J01EE,J01E,J01EE,"Kombinationer av sulfonamider och trimetoprim, inkl derivat",Läkemedel,ATC-koder
+J01EE01,J01EE,J01EE01,Sulfametoxazol och trimetoprim,Läkemedel,ATC-koder
+J01F,J01,J01F,"Makrolider, linkosamider och streptograminer",Läkemedel,ATC-koder
+J01FA,J01F,J01FA,Makrolider,Läkemedel,ATC-koder
+J01FA01,J01FA,J01FA01,Erytromycin,Läkemedel,ATC-koder
+J01FA02,J01FA,J01FA02,Spiramycin,Läkemedel,ATC-koder
+J01FA06,J01FA,J01FA06,Roxitromycin,Läkemedel,ATC-koder
+J01FA09,J01FA,J01FA09,Klaritromycin,Läkemedel,ATC-koder
+J01FA10,J01FA,J01FA10,Azitromycin,Läkemedel,ATC-koder
+J01FA15,J01FA,J01FA15,Telitromycin,Läkemedel,ATC-koder
+J01FF,J01F,J01FF,Linkosamider,Läkemedel,ATC-koder
+J01FF01,J01FF,J01FF01,Klindamycin,Läkemedel,ATC-koder
+J01FG,J01F,J01FG,Streptograminer,Läkemedel,ATC-koder
+J01FG01,J01FG,J01FG01,Pristinamycin,Läkemedel,ATC-koder
+J01G,J01,J01G,Antibakteriella aminoglykosider,Läkemedel,ATC-koder
+J01GB,J01G,J01GB,Övriga aminoglykosider,Läkemedel,ATC-koder
+J01GB01,J01GB,J01GB01,Tobramycin,Läkemedel,ATC-koder
+J01GB03,J01GB,J01GB03,Gentamicin,Läkemedel,ATC-koder
+J01GB06,J01GB,J01GB06,Amikacin,Läkemedel,ATC-koder
+J01GB07,J01GB,J01GB07,Netilmicin,Läkemedel,ATC-koder
+J01M,J01,J01M,Antibakteriella kinolonderivat,Läkemedel,ATC-koder
+J01MA,J01M,J01MA,Fluorokinoloner,Läkemedel,ATC-koder
+J01MA01,J01MA,J01MA01,Ofloxacin,Läkemedel,ATC-koder
+J01MA02,J01MA,J01MA02,Ciprofloxacin,Läkemedel,ATC-koder
+J01MA06,J01MA,J01MA06,Norfloxacin,Läkemedel,ATC-koder
+J01MA12,J01MA,J01MA12,Levofloxacin,Läkemedel,ATC-koder
+J01MA14,J01MA,J01MA14,Moxifloxacin,Läkemedel,ATC-koder
+J01X,J01,J01X,Övriga antibakteriella medel,Läkemedel,ATC-koder
+J01XA,J01X,J01XA,Antibakteriella glykopeptider,Läkemedel,ATC-koder
+J01XA01,J01XA,J01XA01,Vankomycin,Läkemedel,ATC-koder
+J01XA02,J01XA,J01XA02,Teikoplanin,Läkemedel,ATC-koder
+J01XA04,J01XA,J01XA04,Dalbavancin,Läkemedel,ATC-koder
+J01XB,J01X,J01XB,Polymyxiner,Läkemedel,ATC-koder
+J01XB01,J01XB,J01XB01,Kolistin,Läkemedel,ATC-koder
+J01XC,J01X,J01XC,Antibakteriella steroider,Läkemedel,ATC-koder
+J01XC01,J01XC,J01XC01,Fusidinsyra,Läkemedel,ATC-koder
+J01XD,J01X,J01XD,Imidazolderivat,Läkemedel,ATC-koder
+J01XD01,J01XD,J01XD01,Metronidazol,Läkemedel,ATC-koder
+J01XE,J01X,J01XE,Nitrofuranderivat,Läkemedel,ATC-koder
+J01XE01,J01XE,J01XE01,Nitrofurantoin,Läkemedel,ATC-koder
+J01XX,J01X,J01XX,Övriga antibakteriella medel,Läkemedel,ATC-koder
+J01XX01,J01XX,J01XX01,Fosfomycin,Läkemedel,ATC-koder
+J01XX04,J01XX,J01XX04,Spektinomycin,Läkemedel,ATC-koder
+J01XX05,J01XX,J01XX05,Metenamin,Läkemedel,ATC-koder
+J01XX08,J01XX,J01XX08,Linezolid,Läkemedel,ATC-koder
+J01XX09,J01XX,J01XX09,Daptomycin,Läkemedel,ATC-koder
+J01XX11,J01XX,J01XX11,Tedizolid,Läkemedel,ATC-koder
+J02,J,J02,Antimykotika för systemiskt bruk,Läkemedel,ATC-koder
+J02A,J02,J02A,Antimykotika för systemiskt bruk,Läkemedel,ATC-koder
+J02AA,J02A,J02AA,Antibiotika,Läkemedel,ATC-koder
+J02AA01,J02AA,J02AA01,Amfotericin B,Läkemedel,ATC-koder
+J02AB,J02A,J02AB,Imidazolderivat,Läkemedel,ATC-koder
+J02AB02,J02AB,J02AB02,Ketokonazol,Läkemedel,ATC-koder
+J02AC,J02A,J02AC,Triazolderivat,Läkemedel,ATC-koder
+J02AC01,J02AC,J02AC01,Flukonazol,Läkemedel,ATC-koder
+J02AC02,J02AC,J02AC02,Itrakonazol,Läkemedel,ATC-koder
+J02AC03,J02AC,J02AC03,Vorikonazol,Läkemedel,ATC-koder
+J02AC04,J02AC,J02AC04,Posakonazol,Läkemedel,ATC-koder
+J02AC05,J02AC,J02AC05,Isavukonazol,Läkemedel,ATC-koder
+J02AX,J02A,J02AX,Övriga antimykotika för systemiskt bruk,Läkemedel,ATC-koder
+J02AX01,J02AX,J02AX01,Flucytosin,Läkemedel,ATC-koder
+J02AX04,J02AX,J02AX04,Kaspofungin,Läkemedel,ATC-koder
+J02AX05,J02AX,J02AX05,Mikafungin,Läkemedel,ATC-koder
+J02AX06,J02AX,J02AX06,Anidulafungin,Läkemedel,ATC-koder
+J04,J,J04,Medel mot mykobakterier,Läkemedel,ATC-koder
+J04A,J04,J04A,Medel för behandling av tuberkulos,Läkemedel,ATC-koder
+J04AA,J04A,J04AA,Aminosalicylsyra och derivat,Läkemedel,ATC-koder
+J04AA01,J04AA,J04AA01,4-Aminosalicylsyra,Läkemedel,ATC-koder
+J04AB,J04A,J04AB,Antibiotika,Läkemedel,ATC-koder
+J04AB01,J04AB,J04AB01,Cykloserin,Läkemedel,ATC-koder
+J04AB02,J04AB,J04AB02,Rifampicin,Läkemedel,ATC-koder
+J04AB04,J04AB,J04AB04,Rifabutin,Läkemedel,ATC-koder
+J04AB05,J04AB,J04AB05,Rifapentin,Läkemedel,ATC-koder
+J04AC,J04A,J04AC,Hydrazider,Läkemedel,ATC-koder
+J04AC01,J04AC,J04AC01,Isoniazid,Läkemedel,ATC-koder
+J04AD,J04A,J04AD,Tiokarbamidderivat,Läkemedel,ATC-koder
+J04AD01,J04AD,J04AD01,Protionamid,Läkemedel,ATC-koder
+J04AD03,J04AD,J04AD03,Etionamid,Läkemedel,ATC-koder
+J04AK,J04A,J04AK,Övriga medel för behandling av tuberkulos,Läkemedel,ATC-koder
+J04AK01,J04AK,J04AK01,Pyrazinamid,Läkemedel,ATC-koder
+J04AK02,J04AK,J04AK02,Etambutol,Läkemedel,ATC-koder
+J04AK03,J04AK,J04AK03,Terizidon,Läkemedel,ATC-koder
+J04AK05,J04AK,J04AK05,Bedakilin,Läkemedel,ATC-koder
+J04AM,J04A,J04AM,"Medel mot tuberkulos, kombinationer",Läkemedel,ATC-koder
+J04AM02,J04AM,J04AM02,Rifampicin och isoniazid,Läkemedel,ATC-koder
+J04AM05,J04AM,J04AM05,"Rifampicin, pyrazinamid och isoniazid",Läkemedel,ATC-koder
+J04AM06,J04AM,J04AM06,"Rifampicin, pyrazinamid, etambutol och isoniazid",Läkemedel,ATC-koder
+J04B,J04,J04B,Medel för behandling av lepra,Läkemedel,ATC-koder
+J04BA,J04B,J04BA,Medel för behandling av lepra,Läkemedel,ATC-koder
+J04BA01,J04BA,J04BA01,Klofazimin,Läkemedel,ATC-koder
+J04BA02,J04BA,J04BA02,Dapson,Läkemedel,ATC-koder
+J05,J,J05,Virushämmande medel för systemiskt bruk,Läkemedel,ATC-koder
+J05A,J05,J05A,"Virushämmande medel, direktverkande",Läkemedel,ATC-koder
+J05AB,J05A,J05AB,"Nukleosider och nukleotider, exkl. hämmare av omvänt transkriptas",Läkemedel,ATC-koder
+J05AB01,J05AB,J05AB01,Aciklovir,Läkemedel,ATC-koder
+J05AB06,J05AB,J05AB06,Ganciklovir,Läkemedel,ATC-koder
+J05AB09,J05AB,J05AB09,Famciklovir,Läkemedel,ATC-koder
+J05AB11,J05AB,J05AB11,Valaciklovir,Läkemedel,ATC-koder
+J05AB12,J05AB,J05AB12,Cidofovir,Läkemedel,ATC-koder
+J05AB14,J05AB,J05AB14,Valganciklovir,Läkemedel,ATC-koder
+J05AD,J05A,J05AD,Fosfonsyraderivat,Läkemedel,ATC-koder
+J05AD01,J05AD,J05AD01,Foskarnet,Läkemedel,ATC-koder
+J05AE,J05A,J05AE,Proteashämmare,Läkemedel,ATC-koder
+J05AE01,J05AE,J05AE01,Sakvinavir,Läkemedel,ATC-koder
+J05AE02,J05AE,J05AE02,Indinavir,Läkemedel,ATC-koder
+J05AE03,J05AE,J05AE03,Ritonavir,Läkemedel,ATC-koder
+J05AE04,J05AE,J05AE04,Nelfinavir,Läkemedel,ATC-koder
+J05AE05,J05AE,J05AE05,Amprenavir,Läkemedel,ATC-koder
+J05AE07,J05AE,J05AE07,Fosamprenavir,Läkemedel,ATC-koder
+J05AE08,J05AE,J05AE08,Atazanavir,Läkemedel,ATC-koder
+J05AE09,J05AE,J05AE09,Tipranavir,Läkemedel,ATC-koder
+J05AE10,J05AE,J05AE10,Darunavir,Läkemedel,ATC-koder
+J05AF,J05A,J05AF,"Nukleosider och nukleotider, hämmare av omvänt transkriptas",Läkemedel,ATC-koder
+J05AF01,J05AF,J05AF01,Zidovudin,Läkemedel,ATC-koder
+J05AF02,J05AF,J05AF02,Didanosin,Läkemedel,ATC-koder
+J05AF04,J05AF,J05AF04,Stavudin,Läkemedel,ATC-koder
+J05AF05,J05AF,J05AF05,Lamivudin,Läkemedel,ATC-koder
+J05AF06,J05AF,J05AF06,Abakavir,Läkemedel,ATC-koder
+J05AF07,J05AF,J05AF07,Tenofovirdisoproxil,Läkemedel,ATC-koder
+J05AF08,J05AF,J05AF08,Adefovir dipivoxil,Läkemedel,ATC-koder
+J05AF09,J05AF,J05AF09,Emtricitabin,Läkemedel,ATC-koder
+J05AF10,J05AF,J05AF10,Entekavir,Läkemedel,ATC-koder
+J05AF11,J05AF,J05AF11,Telbivudin,Läkemedel,ATC-koder
+J05AF13,J05AF,J05AF13,Tenofoviralafenamid,Läkemedel,ATC-koder
+J05AG,J05A,J05AG,"Ickenukleosider, hämmare av omvänt transkriptas",Läkemedel,ATC-koder
+J05AG01,J05AG,J05AG01,Nevirapin,Läkemedel,ATC-koder
+J05AG03,J05AG,J05AG03,Efavirenz,Läkemedel,ATC-koder
+J05AG04,J05AG,J05AG04,Etravirin,Läkemedel,ATC-koder
+J05AG05,J05AG,J05AG05,Rilpivirin,Läkemedel,ATC-koder
+J05AH,J05A,J05AH,Neuraminidashämmare,Läkemedel,ATC-koder
+J05AH01,J05AH,J05AH01,Zanamivir,Läkemedel,ATC-koder
+J05AH02,J05AH,J05AH02,Oseltamivir,Läkemedel,ATC-koder
+J05AP,J05A,J05AP,Virushämmande medel mot HCV-infektioner,Läkemedel,ATC-koder
+J05AP01,J05AP,J05AP01,Ribavirin,Läkemedel,ATC-koder
+J05AP02,J05AP,J05AP02,Telaprevir,Läkemedel,ATC-koder
+J05AP03,J05AP,J05AP03,Boceprevir,Läkemedel,ATC-koder
+J05AP05,J05AP,J05AP05,Simeprevir,Läkemedel,ATC-koder
+J05AP07,J05AP,J05AP07,Daklatasvir,Läkemedel,ATC-koder
+J05AP08,J05AP,J05AP08,Sofosbuvir,Läkemedel,ATC-koder
+J05AP09,J05AP,J05AP09,Dasabuvir,Läkemedel,ATC-koder
+J05AP51,J05AP,J05AP51,Sofosbuvir och ledipasvir,Läkemedel,ATC-koder
+J05AP53,J05AP,J05AP53,"Ombitasvir, paritaprevir och ritonavir",Läkemedel,ATC-koder
+J05AP54,J05AP,J05AP54,Elbasvir och grazoprevir,Läkemedel,ATC-koder
+J05AP55,J05AP,J05AP55,Sofosbuvir och velpatasvir,Läkemedel,ATC-koder
+J05AP56,J05AP,J05AP56,"Sofosbuvir, velpatasvir och voxilaprevir",Läkemedel,ATC-koder
+J05AP57,J05AP,J05AP57,Glekaprevir och pibrentasvir,Läkemedel,ATC-koder
+J05AR,J05A,J05AR,"Virushämmande medel mot hivinfektioner, kombinationer",Läkemedel,ATC-koder
+J05AR01,J05AR,J05AR01,Zidovudin och lamivudin,Läkemedel,ATC-koder
+J05AR02,J05AR,J05AR02,Lamivudin och abakavir,Läkemedel,ATC-koder
+J05AR03,J05AR,J05AR03,Tenofovirdisoproxil och emtricitabin,Läkemedel,ATC-koder
+J05AR04,J05AR,J05AR04,"Zidovudin, lamivudin och abakavir",Läkemedel,ATC-koder
+J05AR06,J05AR,J05AR06,"Emtricitabin, tenofovirdisoproxil och efavirenz",Läkemedel,ATC-koder
+J05AR08,J05AR,J05AR08,"Emtricitabin, tenofovirdisoproxil och rilpivirin",Läkemedel,ATC-koder
+J05AR09,J05AR,J05AR09,"Emtricitabin, tenofovirdisoproxil, elvitegravir och kobicistat",Läkemedel,ATC-koder
+J05AR10,J05AR,J05AR10,Lopinavir och ritonavir,Läkemedel,ATC-koder
+J05AR13,J05AR,J05AR13,"Lamivudin, abakavir och dolutegravir",Läkemedel,ATC-koder
+J05AR14,J05AR,J05AR14,Darunavir och kobicistat,Läkemedel,ATC-koder
+J05AR15,J05AR,J05AR15,Atazanavir och kobicistat,Läkemedel,ATC-koder
+J05AR17,J05AR,J05AR17,Emtricitabin och tenofoviralafenamid,Läkemedel,ATC-koder
+J05AR18,J05AR,J05AR18,"Emtricitabin, tenofoviralafenamid, elvitegravir och kobicistat",Läkemedel,ATC-koder
+J05AR19,J05AR,J05AR19,"Emtricitabin, tenofoviralafenamid och rilpivirin",Läkemedel,ATC-koder
+J05AR20,J05AR,J05AR20,"Emtricitabin, tenofoviralafenamid och biktegravir",Läkemedel,ATC-koder
+J05AR21,J05AR,J05AR21,Dolutegravir och rilpivirin,Läkemedel,ATC-koder
+J05AR22,J05AR,J05AR22,"Emtricitabin, tenofoviralafenamid, darunavir och kobicistat",Läkemedel,ATC-koder
+J05AX,J05A,J05AX,Övriga virushämmande medel,Läkemedel,ATC-koder
+J05AX05,J05AX,J05AX05,Inosin pranobex,Läkemedel,ATC-koder
+J05AX07,J05AX,J05AX07,Enfuvirtid,Läkemedel,ATC-koder
+J05AX08,J05AX,J05AX08,Raltegravir,Läkemedel,ATC-koder
+J05AX09,J05AX,J05AX09,Maravirok,Läkemedel,ATC-koder
+J05AX12,J05AX,J05AX12,Dolutegravir,Läkemedel,ATC-koder
+J06,J,J06,Immunsera och immunglobuliner,Läkemedel,ATC-koder
+J06B,J06,J06B,Immunglobuliner,Läkemedel,ATC-koder
+J06BA,J06B,J06BA,"Humant, normalt immunglobulin",Läkemedel,ATC-koder
+J06BA01,J06BA,J06BA01,"Humant, normalt immunglobulin för extravaskulärt bruk",Läkemedel,ATC-koder
+J06BA02,J06BA,J06BA02,"Humant, normalt immunglobulin för intravaskulärt bruk",Läkemedel,ATC-koder
+J06BB,J06B,J06BB,Specifika immunglobuliner,Läkemedel,ATC-koder
+J06BB01,J06BB,J06BB01,Immunglobulin mot Rh-immunisering,Läkemedel,ATC-koder
+J06BB02,J06BB,J06BB02,Immunglobulin mot stelkramp,Läkemedel,ATC-koder
+J06BB04,J06BB,J06BB04,Immunglobulin mot hepatit B,Läkemedel,ATC-koder
+J06BB05,J06BB,J06BB05,Immunglobulin mot rabies,Läkemedel,ATC-koder
+J06BB16,J06BB,J06BB16,Palivizumab,Läkemedel,ATC-koder
+J07,J,J07,Vacciner,Läkemedel,ATC-koder
+J07A,J07,J07A,Vacciner mot bakteriella infektioner,Läkemedel,ATC-koder
+J07AE,J07A,J07AE,Vaccin mot kolera,Läkemedel,ATC-koder
+J07AE01,J07AE,J07AE01,"Vaccin mot kolera, inaktiverat helcellsvaccin",Läkemedel,ATC-koder
+J07AF,J07A,J07AF,Vaccin mot difteri,Läkemedel,ATC-koder
+J07AF01,J07AF,J07AF01,Difteritoxoid,Läkemedel,ATC-koder
+J07AG,J07A,J07AG,Vaccin mot haemophilus influenzae B,Läkemedel,ATC-koder
+J07AG01,J07AG,J07AG01,"Vaccin mot haemophilus influenzae B, konjugerat renat antigen",Läkemedel,ATC-koder
+J07AH,J07A,J07AH,Vaccin mot meningokockinfektioner,Läkemedel,ATC-koder
+J07AH03,J07AH,J07AH03,"Vaccin mot meningokockinfektioner A,C, bivalent renat polysackaridantigen",Läkemedel,ATC-koder
+J07AH07,J07AH,J07AH07,"Vaccin mot meningokockinfektion typ C, konjugerat renat polysackaridantigen",Läkemedel,ATC-koder
+J07AH08,J07AH,J07AH08,"Vaccin mot meningokockinfektioner A,C,Y,W-135, tetravalent konjugerat renat polysackaridantigen",Läkemedel,ATC-koder
+J07AH09,J07AH,J07AH09,"Vaccin mot meningokockinfektion typ B, multikomponent vaccin",Läkemedel,ATC-koder
+J07AJ,J07A,J07AJ,Vaccin mot kikhosta,Läkemedel,ATC-koder
+J07AJ52,J07AJ,J07AJ52,"Vaccin mot kikhosta, renat antigen, kombinationer med toxoider",Läkemedel,ATC-koder
+J07AL,J07A,J07AL,Vaccin mot pneumokockinfektioner,Läkemedel,ATC-koder
+J07AL01,J07AL,J07AL01,"Vaccin mot pneumokockinfektioner, renade polysackaridantigener",Läkemedel,ATC-koder
+J07AL02,J07AL,J07AL02,"Vaccin mot pneumokockinfektioner, konjugerat renat polysackaridantigen",Läkemedel,ATC-koder
+J07AL52,J07AL,J07AL52,"Vaccin mot pneumokockinfektioner, renade polysackaridantigener och Haemophilus influenzae, konjugerat",Läkemedel,ATC-koder
+J07AM,J07A,J07AM,Vaccin mot stelkramp,Läkemedel,ATC-koder
+J07AM01,J07AM,J07AM01,Stelkrampstoxoid,Läkemedel,ATC-koder
+J07AM51,J07AM,J07AM51,"Stelkrampstoxoid, kombinationer med difteritoxoid",Läkemedel,ATC-koder
+J07AN,J07A,J07AN,Vaccin mot tuberkulos,Läkemedel,ATC-koder
+J07AN01,J07AN,J07AN01,"Vaccin mot tuberkulos, levande försvagat",Läkemedel,ATC-koder
+J07AP,J07A,J07AP,Vaccin mot tyfoid,Läkemedel,ATC-koder
+J07AP01,J07AP,J07AP01,"Vaccin mot tyfoid, oralt, levande försvagat",Läkemedel,ATC-koder
+J07AP03,J07AP,J07AP03,"Vaccin mot tyfoid, renat polysackaridantigen",Läkemedel,ATC-koder
+J07B,J07,J07B,Vacciner mot virusinfektioner,Läkemedel,ATC-koder
+J07BA,J07B,J07BA,Vaccin mot encefalit,Läkemedel,ATC-koder
+J07BA01,J07BA,J07BA01,"Vaccin mot fästingburen encefalit, inaktiverat helvirusvaccin",Läkemedel,ATC-koder
+J07BA02,J07BA,J07BA02,"Vaccin mot japansk encefalit, inaktiverat helvirusvaccin",Läkemedel,ATC-koder
+J07BB,J07B,J07BB,Vaccin mot influensa,Läkemedel,ATC-koder
+J07BB02,J07BB,J07BB02,"Vaccin mot influensa, inaktiverat, spjälkat virus eller ytantigen",Läkemedel,ATC-koder
+J07BB03,J07BB,J07BB03,"Vaccin mot influensa, levande försvagat",Läkemedel,ATC-koder
+J07BC,J07B,J07BC,Vaccin mot hepatit,Läkemedel,ATC-koder
+J07BC01,J07BC,J07BC01,"Vaccin mot hepatit B, renat antigen",Läkemedel,ATC-koder
+J07BC02,J07BC,J07BC02,"Vaccin mot hepatit A, inaktiverat helvirusvaccin",Läkemedel,ATC-koder
+J07BC20,J07BC,J07BC20,Kombinationer,Läkemedel,ATC-koder
+J07BD,J07B,J07BD,Vaccin mot mässling,Läkemedel,ATC-koder
+J07BD52,J07BD,J07BD52,"Vaccin mot mässling, påssjuka och röda hund, levande försvagat",Läkemedel,ATC-koder
+J07BF,J07B,J07BF,Vaccin mot polio,Läkemedel,ATC-koder
+J07BF03,J07BF,J07BF03,"Vaccin mot polio, trivalent, inaktiverat helvirusvaccin",Läkemedel,ATC-koder
+J07BG,J07B,J07BG,Vaccin mot rabies,Läkemedel,ATC-koder
+J07BG01,J07BG,J07BG01,"Vaccin mot rabies, inaktiverat helvirusvaccin",Läkemedel,ATC-koder
+J07BH,J07B,J07BH,Vaccin mot rotavirusdiarré,Läkemedel,ATC-koder
+J07BH01,J07BH,J07BH01,"Vaccin mot rotavirus, levande försvagat",Läkemedel,ATC-koder
+J07BH02,J07BH,J07BH02,"Vaccin mot rotavirus, pentavalent, levande, reassortant",Läkemedel,ATC-koder
+J07BK,J07B,J07BK,Varicella zoster vacciner,Läkemedel,ATC-koder
+J07BK01,J07BK,J07BK01,"Vaccin mot vattkoppor, levande försvagat",Läkemedel,ATC-koder
+J07BK02,J07BK,J07BK02,"Vaccin mot bältros, levande försvagat",Läkemedel,ATC-koder
+J07BL,J07B,J07BL,Vaccin mot gula febern,Läkemedel,ATC-koder
+J07BL01,J07BL,J07BL01,"Vaccin mot gula febern, levande försvagat",Läkemedel,ATC-koder
+J07BM,J07B,J07BM,Papillomvirusvacciner,Läkemedel,ATC-koder
+J07BM01,J07BM,J07BM01,"Papillomvirus (humant, typ 6, 11, 16, 18)",Läkemedel,ATC-koder
+J07BM02,J07BM,J07BM02,"Papillomvirus (humant, typ 16, 18)",Läkemedel,ATC-koder
+J07BM03,J07BM,J07BM03,"Papillomvirus (humant, typ 6, 11, 16, 18, 31, 33, 45, 52, 58)",Läkemedel,ATC-koder
+J07C,J07,J07C,Vacciner mot bakteriella infektioner i kombination med vacciner mot virusinfektioner,Läkemedel,ATC-koder
+J07CA,J07C,J07CA,Vacciner mot bakteriella infektioner i kombination med vacciner mot virusinfektioner,Läkemedel,ATC-koder
+J07CA02,J07CA,J07CA02,"Vaccin mot difteri, kikhosta, polio och stelkramp",Läkemedel,ATC-koder
+J07CA09,J07CA,J07CA09,"Vaccin mot difteri, haemophilus influenzae B, kikhosta, polio, stelkramp och hepatit B",Läkemedel,ATC-koder
+L,0,L,Tumörer och rubbningar i immunsystemet,Läkemedel,ATC-koder
+L01,L,L01,Antineoplastiska medel,Läkemedel,ATC-koder
+L01A,L01,L01A,Alkylerande medel,Läkemedel,ATC-koder
+L01AA,L01A,L01AA,Kvävesenapsgasanaloger,Läkemedel,ATC-koder
+L01AA01,L01AA,L01AA01,Cyklofosfamid,Läkemedel,ATC-koder
+L01AA02,L01AA,L01AA02,Klorambucil,Läkemedel,ATC-koder
+L01AA03,L01AA,L01AA03,Melfalan,Läkemedel,ATC-koder
+L01AA06,L01AA,L01AA06,Ifosfamid,Läkemedel,ATC-koder
+L01AA07,L01AA,L01AA07,Trofosfamid,Läkemedel,ATC-koder
+L01AB,L01A,L01AB,Alkylsulfonater,Läkemedel,ATC-koder
+L01AB01,L01AB,L01AB01,Busulfan,Läkemedel,ATC-koder
+L01AB02,L01AB,L01AB02,Treosulfan,Läkemedel,ATC-koder
+L01AD,L01A,L01AD,Nitrosureaföreningar,Läkemedel,ATC-koder
+L01AD02,L01AD,L01AD02,Lomustin,Läkemedel,ATC-koder
+L01AD04,L01AD,L01AD04,Streptozocin,Läkemedel,ATC-koder
+L01AX,L01A,L01AX,Övriga alkylerande medel,Läkemedel,ATC-koder
+L01AX02,L01AX,L01AX02,Pipobroman,Läkemedel,ATC-koder
+L01AX03,L01AX,L01AX03,Temozolomid,Läkemedel,ATC-koder
+L01AX04,L01AX,L01AX04,Dakarbazin,Läkemedel,ATC-koder
+L01B,L01,L01B,Antimetaboliter,Läkemedel,ATC-koder
+L01BA,L01B,L01BA,Folsyraanaloger,Läkemedel,ATC-koder
+L01BA01,L01BA,L01BA01,Metotrexat,Läkemedel,ATC-koder
+L01BA03,L01BA,L01BA03,Raltitrexed,Läkemedel,ATC-koder
+L01BA04,L01BA,L01BA04,Pemetrexed,Läkemedel,ATC-koder
+L01BB,L01B,L01BB,Purinanaloger,Läkemedel,ATC-koder
+L01BB02,L01BB,L01BB02,Merkaptopurin,Läkemedel,ATC-koder
+L01BB03,L01BB,L01BB03,Tioguanin,Läkemedel,ATC-koder
+L01BB04,L01BB,L01BB04,Kladribin,Läkemedel,ATC-koder
+L01BB05,L01BB,L01BB05,Fludarabin,Läkemedel,ATC-koder
+L01BC,L01B,L01BC,Pyrimidinanaloger,Läkemedel,ATC-koder
+L01BC01,L01BC,L01BC01,Cytarabin,Läkemedel,ATC-koder
+L01BC02,L01BC,L01BC02,Fluorouracil,Läkemedel,ATC-koder
+L01BC05,L01BC,L01BC05,Gemcitabin,Läkemedel,ATC-koder
+L01BC06,L01BC,L01BC06,Kapecitabin,Läkemedel,ATC-koder
+L01BC07,L01BC,L01BC07,Azacitidin,Läkemedel,ATC-koder
+L01BC52,L01BC,L01BC52,"Fluorouracil, kombinationer",Läkemedel,ATC-koder
+L01BC53,L01BC,L01BC53,"Tegafur, kombinationer",Läkemedel,ATC-koder
+L01BC59,L01BC,L01BC59,"Trifluridin, kombinationer",Läkemedel,ATC-koder
+L01C,L01,L01C,Växtalkaloider och andra naturprodukter,Läkemedel,ATC-koder
+L01CA,L01C,L01CA,Vinca-alkaloider och analoger,Läkemedel,ATC-koder
+L01CA01,L01CA,L01CA01,Vinblastin,Läkemedel,ATC-koder
+L01CA02,L01CA,L01CA02,Vinkristin,Läkemedel,ATC-koder
+L01CA03,L01CA,L01CA03,Vindesin,Läkemedel,ATC-koder
+L01CA04,L01CA,L01CA04,Vinorelbin,Läkemedel,ATC-koder
+L01CA05,L01CA,L01CA05,Vinflunin,Läkemedel,ATC-koder
+L01CB,L01C,L01CB,Podofyllotoxinderivat,Läkemedel,ATC-koder
+L01CB01,L01CB,L01CB01,Etoposid,Läkemedel,ATC-koder
+L01CD,L01C,L01CD,Taxaner,Läkemedel,ATC-koder
+L01CD01,L01CD,L01CD01,Paklitaxel,Läkemedel,ATC-koder
+L01CD02,L01CD,L01CD02,Docetaxel,Läkemedel,ATC-koder
+L01CX,L01C,L01CX,Övriga växtalkaloider och naturprodukter,Läkemedel,ATC-koder
+L01CX01,L01CX,L01CX01,Trabektedin,Läkemedel,ATC-koder
+L01D,L01,L01D,Cytotoxiska antibiotika och närbesläktade substanser,Läkemedel,ATC-koder
+L01DA,L01D,L01DA,Aktinomyciner,Läkemedel,ATC-koder
+L01DA01,L01DA,L01DA01,Daktinomycin,Läkemedel,ATC-koder
+L01DB,L01D,L01DB,Antracykliner och närbesläktade substanser,Läkemedel,ATC-koder
+L01DB01,L01DB,L01DB01,Doxorubicin,Läkemedel,ATC-koder
+L01DB02,L01DB,L01DB02,Daunorubicin,Läkemedel,ATC-koder
+L01DB03,L01DB,L01DB03,Epirubicin,Läkemedel,ATC-koder
+L01DB06,L01DB,L01DB06,Idarubicin,Läkemedel,ATC-koder
+L01DB07,L01DB,L01DB07,Mitoxantron,Läkemedel,ATC-koder
+L01DC,L01D,L01DC,Övriga cytotoxiska antibiotika,Läkemedel,ATC-koder
+L01DC01,L01DC,L01DC01,Bleomycin,Läkemedel,ATC-koder
+L01DC03,L01DC,L01DC03,Mitomycin,Läkemedel,ATC-koder
+L01X,L01,L01X,Övriga antineoplastiska medel,Läkemedel,ATC-koder
+L01XA,L01X,L01XA,Platinaföreningar,Läkemedel,ATC-koder
+L01XA01,L01XA,L01XA01,Cisplatin,Läkemedel,ATC-koder
+L01XA02,L01XA,L01XA02,Karboplatin,Läkemedel,ATC-koder
+L01XA03,L01XA,L01XA03,Oxaliplatin,Läkemedel,ATC-koder
+L01XB,L01X,L01XB,Metylhydraziner,Läkemedel,ATC-koder
+L01XB01,L01XB,L01XB01,Prokarbazin,Läkemedel,ATC-koder
+L01XC,L01X,L01XC,Monoklonala antikroppar,Läkemedel,ATC-koder
+L01XC02,L01XC,L01XC02,Rituximab,Läkemedel,ATC-koder
+L01XC03,L01XC,L01XC03,Trastuzumab,Läkemedel,ATC-koder
+L01XC06,L01XC,L01XC06,Cetuximab,Läkemedel,ATC-koder
+L01XC07,L01XC,L01XC07,Bevacizumab,Läkemedel,ATC-koder
+L01XC08,L01XC,L01XC08,Panitumumab,Läkemedel,ATC-koder
+L01XC17,L01XC,L01XC17,Nivolumab,Läkemedel,ATC-koder
+L01XC18,L01XC,L01XC18,Pembrolizumab,Läkemedel,ATC-koder
+L01XD,L01X,L01XD,Sensibiliserande ämnen för strålning/fotodynamisk behandling,Läkemedel,ATC-koder
+L01XD03,L01XD,L01XD03,Metylaminolevulinat,Läkemedel,ATC-koder
+L01XD04,L01XD,L01XD04,Aminolevulinsyra,Läkemedel,ATC-koder
+L01XE,L01X,L01XE,Proteinkinashämmare,Läkemedel,ATC-koder
+L01XE01,L01XE,L01XE01,Imatinib,Läkemedel,ATC-koder
+L01XE02,L01XE,L01XE02,Gefitinib,Läkemedel,ATC-koder
+L01XE03,L01XE,L01XE03,Erlotinib,Läkemedel,ATC-koder
+L01XE04,L01XE,L01XE04,Sunitinib,Läkemedel,ATC-koder
+L01XE05,L01XE,L01XE05,Sorafenib,Läkemedel,ATC-koder
+L01XE06,L01XE,L01XE06,Dasatinib,Läkemedel,ATC-koder
+L01XE07,L01XE,L01XE07,Lapatinib,Läkemedel,ATC-koder
+L01XE08,L01XE,L01XE08,Nilotinib,Läkemedel,ATC-koder
+L01XE10,L01XE,L01XE10,Everolimus,Läkemedel,ATC-koder
+L01XE11,L01XE,L01XE11,Pazopanib,Läkemedel,ATC-koder
+L01XE12,L01XE,L01XE12,Vandetanib,Läkemedel,ATC-koder
+L01XE13,L01XE,L01XE13,Afatinib,Läkemedel,ATC-koder
+L01XE14,L01XE,L01XE14,Bosutinib,Läkemedel,ATC-koder
+L01XE15,L01XE,L01XE15,Vemurafenib,Läkemedel,ATC-koder
+L01XE16,L01XE,L01XE16,Krizotinib,Läkemedel,ATC-koder
+L01XE17,L01XE,L01XE17,Axitinib,Läkemedel,ATC-koder
+L01XE18,L01XE,L01XE18,Ruxolitinib,Läkemedel,ATC-koder
+L01XE21,L01XE,L01XE21,Regorafenib,Läkemedel,ATC-koder
+L01XE23,L01XE,L01XE23,Dabrafenib,Läkemedel,ATC-koder
+L01XE24,L01XE,L01XE24,Ponatinib,Läkemedel,ATC-koder
+L01XE25,L01XE,L01XE25,Trametinib,Läkemedel,ATC-koder
+L01XE26,L01XE,L01XE26,Kabozantinib,Läkemedel,ATC-koder
+L01XE27,L01XE,L01XE27,Ibrutinib,Läkemedel,ATC-koder
+L01XE28,L01XE,L01XE28,Ceritinib,Läkemedel,ATC-koder
+L01XE29,L01XE,L01XE29,Lenvatinib,Läkemedel,ATC-koder
+L01XE31,L01XE,L01XE31,Nintedanib,Läkemedel,ATC-koder
+L01XE33,L01XE,L01XE33,Palbociklib,Läkemedel,ATC-koder
+L01XE35,L01XE,L01XE35,Osimertinib,Läkemedel,ATC-koder
+L01XE36,L01XE,L01XE36,Alektinib,Läkemedel,ATC-koder
+L01XE37,L01XE,L01XE37,Rociletinib,Läkemedel,ATC-koder
+L01XE38,L01XE,L01XE38,Kobimetinib,Läkemedel,ATC-koder
+L01XE39,L01XE,L01XE39,Midostaurin,Läkemedel,ATC-koder
+L01XE42,L01XE,L01XE42,Ribociklib,Läkemedel,ATC-koder
+L01XE43,L01XE,L01XE43,Brigatinib,Läkemedel,ATC-koder
+L01XE44,L01XE,L01XE44,Lorlatinib,Läkemedel,ATC-koder
+L01XX,L01X,L01XX,Övriga antineoplastiska medel,Läkemedel,ATC-koder
+L01XX01,L01XX,L01XX01,Amsakrin,Läkemedel,ATC-koder
+L01XX02,L01XX,L01XX02,Asparginas,Läkemedel,ATC-koder
+L01XX05,L01XX,L01XX05,Hydroxikarbamid,Läkemedel,ATC-koder
+L01XX08,L01XX,L01XX08,Pentostatin,Läkemedel,ATC-koder
+L01XX09,L01XX,L01XX09,Miltefosin,Läkemedel,ATC-koder
+L01XX11,L01XX,L01XX11,Estramustin,Läkemedel,ATC-koder
+L01XX14,L01XX,L01XX14,Tretinoin,Läkemedel,ATC-koder
+L01XX17,L01XX,L01XX17,Topotekan,Läkemedel,ATC-koder
+L01XX19,L01XX,L01XX19,Irinotekan,Läkemedel,ATC-koder
+L01XX23,L01XX,L01XX23,Mitotan,Läkemedel,ATC-koder
+L01XX25,L01XX,L01XX25,Bexaroten,Läkemedel,ATC-koder
+L01XX32,L01XX,L01XX32,Bortezomib,Läkemedel,ATC-koder
+L01XX35,L01XX,L01XX35,Anagrelid,Läkemedel,ATC-koder
+L01XX41,L01XX,L01XX41,Eribulin,Läkemedel,ATC-koder
+L01XX42,L01XX,L01XX42,Panobinostat,Läkemedel,ATC-koder
+L01XX43,L01XX,L01XX43,Vismodegib,Läkemedel,ATC-koder
+L01XX45,L01XX,L01XX45,Karfilzomib,Läkemedel,ATC-koder
+L01XX46,L01XX,L01XX46,Olaparib,Läkemedel,ATC-koder
+L01XX47,L01XX,L01XX47,Idelalisib,Läkemedel,ATC-koder
+L01XX50,L01XX,L01XX50,Ixazomib,Läkemedel,ATC-koder
+L01XX52,L01XX,L01XX52,Venetoklax,Läkemedel,ATC-koder
+L02,L,L02,Endokrinterapi,Läkemedel,ATC-koder
+L02A,L02,L02A,Hormoner,Läkemedel,ATC-koder
+L02AA,L02A,L02AA,Östrogener,Läkemedel,ATC-koder
+L02AA02,L02AA,L02AA02,Polyöstradiolfosfat,Läkemedel,ATC-koder
+L02AB,L02A,L02AB,Gestagener,Läkemedel,ATC-koder
+L02AB01,L02AB,L02AB01,Megestrol,Läkemedel,ATC-koder
+L02AB02,L02AB,L02AB02,Medroxiprogesteron,Läkemedel,ATC-koder
+L02AE,L02A,L02AE,Gonadotropinfrisättande hormonanaloger,Läkemedel,ATC-koder
+L02AE01,L02AE,L02AE01,Buserelin,Läkemedel,ATC-koder
+L02AE02,L02AE,L02AE02,Leuprorelin,Läkemedel,ATC-koder
+L02AE03,L02AE,L02AE03,Goserelin,Läkemedel,ATC-koder
+L02AE04,L02AE,L02AE04,Triptorelin,Läkemedel,ATC-koder
+L02AE05,L02AE,L02AE05,Histrelin,Läkemedel,ATC-koder
+L02B,L02,L02B,Antihormoner och relaterade medel,Läkemedel,ATC-koder
+L02BA,L02B,L02BA,Antiöstrogener,Läkemedel,ATC-koder
+L02BA01,L02BA,L02BA01,Tamoxifen,Läkemedel,ATC-koder
+L02BA02,L02BA,L02BA02,Toremifen,Läkemedel,ATC-koder
+L02BA03,L02BA,L02BA03,Fulvestrant,Läkemedel,ATC-koder
+L02BB,L02B,L02BB,Antiandrogener,Läkemedel,ATC-koder
+L02BB01,L02BB,L02BB01,Flutamid,Läkemedel,ATC-koder
+L02BB02,L02BB,L02BB02,Nilutamid,Läkemedel,ATC-koder
+L02BB03,L02BB,L02BB03,Bikalutamid,Läkemedel,ATC-koder
+L02BB04,L02BB,L02BB04,Enzalutamid,Läkemedel,ATC-koder
+L02BG,L02B,L02BG,Aromatashämmare,Läkemedel,ATC-koder
+L02BG03,L02BG,L02BG03,Anastrozol,Läkemedel,ATC-koder
+L02BG04,L02BG,L02BG04,Letrozol,Läkemedel,ATC-koder
+L02BG06,L02BG,L02BG06,Exemestan,Läkemedel,ATC-koder
+L02BX,L02B,L02BX,Övriga antihormoner och relaterade medel,Läkemedel,ATC-koder
+L02BX02,L02BX,L02BX02,Degarelix,Läkemedel,ATC-koder
+L02BX03,L02BX,L02BX03,Abirateron,Läkemedel,ATC-koder
+L03,L,L03,Immunstimulerande medel,Läkemedel,ATC-koder
+L03A,L03,L03A,Immunstimulerande medel,Läkemedel,ATC-koder
+L03AA,L03A,L03AA,Hematopoetiska tillväxtfaktorer,Läkemedel,ATC-koder
+L03AA02,L03AA,L03AA02,Filgrastim,Läkemedel,ATC-koder
+L03AA09,L03AA,L03AA09,Sargramostim,Läkemedel,ATC-koder
+L03AA10,L03AA,L03AA10,Lenograstim,Läkemedel,ATC-koder
+L03AA13,L03AA,L03AA13,Pegfilgrastim,Läkemedel,ATC-koder
+L03AA14,L03AA,L03AA14,Lipegfilgrastim,Läkemedel,ATC-koder
+L03AB,L03A,L03AB,Interferoner,Läkemedel,ATC-koder
+L03AB01,L03AB,L03AB01,"Interferon alfa, naturlig",Läkemedel,ATC-koder
+L03AB03,L03AB,L03AB03,Interferon gamma,Läkemedel,ATC-koder
+L03AB04,L03AB,L03AB04,Interferon alfa-2a,Läkemedel,ATC-koder
+L03AB05,L03AB,L03AB05,Interferon alfa-2b,Läkemedel,ATC-koder
+L03AB07,L03AB,L03AB07,Interferon beta-1a,Läkemedel,ATC-koder
+L03AB08,L03AB,L03AB08,Interferon beta-1b,Läkemedel,ATC-koder
+L03AB10,L03AB,L03AB10,Peginterferon alfa-2b,Läkemedel,ATC-koder
+L03AB11,L03AB,L03AB11,Peginterferon alfa-2a,Läkemedel,ATC-koder
+L03AB13,L03AB,L03AB13,Peginterferon beta-1a,Läkemedel,ATC-koder
+L03AC,L03A,L03AC,Interleukiner,Läkemedel,ATC-koder
+L03AC01,L03AC,L03AC01,Aldesleukin,Läkemedel,ATC-koder
+L03AX,L03A,L03AX,Övriga immunstimulerande medel,Läkemedel,ATC-koder
+L03AX03,L03AX,L03AX03,Vaccin mot Bacillus Calmette-Guerin (BCG),Läkemedel,ATC-koder
+L03AX04,L03AX,L03AX04,Pegademas,Läkemedel,ATC-koder
+L03AX13,L03AX,L03AX13,Glatirameracetat,Läkemedel,ATC-koder
+L03AX14,L03AX,L03AX14,Histamindihydroklorid,Läkemedel,ATC-koder
+L04,L,L04,Immunsuppressiva medel,Läkemedel,ATC-koder
+L04A,L04,L04A,Immunsuppressiva medel,Läkemedel,ATC-koder
+L04AA,L04A,L04AA,Selektiva immunsuppressiva medel,Läkemedel,ATC-koder
+L04AA06,L04AA,L04AA06,Mykofenolsyra,Läkemedel,ATC-koder
+L04AA10,L04AA,L04AA10,Sirolimus,Läkemedel,ATC-koder
+L04AA13,L04AA,L04AA13,Leflunomid,Läkemedel,ATC-koder
+L04AA18,L04AA,L04AA18,Everolimus,Läkemedel,ATC-koder
+L04AA21,L04AA,L04AA21,Efalizumab,Läkemedel,ATC-koder
+L04AA23,L04AA,L04AA23,Natalizumab,Läkemedel,ATC-koder
+L04AA24,L04AA,L04AA24,Abatacept,Läkemedel,ATC-koder
+L04AA26,L04AA,L04AA26,Belimumab,Läkemedel,ATC-koder
+L04AA27,L04AA,L04AA27,Fingolimod,Läkemedel,ATC-koder
+L04AA29,L04AA,L04AA29,Tofacitinib,Läkemedel,ATC-koder
+L04AA31,L04AA,L04AA31,Teriflunomid,Läkemedel,ATC-koder
+L04AA32,L04AA,L04AA32,Apremilast,Läkemedel,ATC-koder
+L04AA33,L04AA,L04AA33,Vedolizumab,Läkemedel,ATC-koder
+L04AA34,L04AA,L04AA34,Alemtuzumab,Läkemedel,ATC-koder
+L04AA37,L04AA,L04AA37,Baricitinib,Läkemedel,ATC-koder
+L04AA40,L04AA,L04AA40,Kladribin,Läkemedel,ATC-koder
+L04AB,L04A,L04AB,Tumörnekrosfaktor alfa (TNF-) hämmare,Läkemedel,ATC-koder
+L04AB01,L04AB,L04AB01,Etanercept,Läkemedel,ATC-koder
+L04AB02,L04AB,L04AB02,Infliximab,Läkemedel,ATC-koder
+L04AB04,L04AB,L04AB04,Adalimumab,Läkemedel,ATC-koder
+L04AB05,L04AB,L04AB05,Certolizumabpegol,Läkemedel,ATC-koder
+L04AB06,L04AB,L04AB06,Golimumab,Läkemedel,ATC-koder
+L04AC,L04A,L04AC,Interleukinhämmare,Läkemedel,ATC-koder
+L04AC01,L04AC,L04AC01,Daklizumab,Läkemedel,ATC-koder
+L04AC03,L04AC,L04AC03,Anakinra,Läkemedel,ATC-koder
+L04AC05,L04AC,L04AC05,Ustekinumab,Läkemedel,ATC-koder
+L04AC07,L04AC,L04AC07,Tocilizumab,Läkemedel,ATC-koder
+L04AC08,L04AC,L04AC08,Kanakinumab,Läkemedel,ATC-koder
+L04AC10,L04AC,L04AC10,Sekukinumab,Läkemedel,ATC-koder
+L04AC12,L04AC,L04AC12,Brodalumab,Läkemedel,ATC-koder
+L04AC13,L04AC,L04AC13,Ixekizumab,Läkemedel,ATC-koder
+L04AC14,L04AC,L04AC14,Sarilumab,Läkemedel,ATC-koder
+L04AC16,L04AC,L04AC16,Guselkumab,Läkemedel,ATC-koder
+L04AD,L04A,L04AD,Kalcineurinhämmare,Läkemedel,ATC-koder
+L04AD01,L04AD,L04AD01,Ciklosporin,Läkemedel,ATC-koder
+L04AD02,L04AD,L04AD02,Takrolimus,Läkemedel,ATC-koder
+L04AX,L04A,L04AX,Övriga immunsuppressiva medel,Läkemedel,ATC-koder
+L04AX01,L04AX,L04AX01,Azatioprin,Läkemedel,ATC-koder
+L04AX02,L04AX,L04AX02,Talidomid,Läkemedel,ATC-koder
+L04AX03,L04AX,L04AX03,Metotrexat,Läkemedel,ATC-koder
+L04AX04,L04AX,L04AX04,Lenalidomid,Läkemedel,ATC-koder
+L04AX05,L04AX,L04AX05,Pirfenidon,Läkemedel,ATC-koder
+L04AX06,L04AX,L04AX06,Pomalidomid,Läkemedel,ATC-koder
+L04AX07,L04AX,L04AX07,Dimetylfumarat,Läkemedel,ATC-koder
+M,0,M,Rörelseapparaten,Läkemedel,ATC-koder
+M01,M,M01,Antiinflammatoriska och antireumatiska medel,Läkemedel,ATC-koder
+M01A,M01,M01A,"Antiinflammatoriska och antireumatiska medel, icke-steroida",Läkemedel,ATC-koder
+M01AA,M01A,M01AA,Butylpyrazolidiner,Läkemedel,ATC-koder
+M01AA01,M01AA,M01AA01,Fenylbutazon,Läkemedel,ATC-koder
+M01AB,M01A,M01AB,Ättiksyraderivat och närbesläktade substanser,Läkemedel,ATC-koder
+M01AB01,M01AB,M01AB01,Indometacin,Läkemedel,ATC-koder
+M01AB02,M01AB,M01AB02,Sulindak,Läkemedel,ATC-koder
+M01AB05,M01AB,M01AB05,Diklofenak,Läkemedel,ATC-koder
+M01AB15,M01AB,M01AB15,Ketorolak,Läkemedel,ATC-koder
+M01AB16,M01AB,M01AB16,Aceklofenak,Läkemedel,ATC-koder
+M01AB55,M01AB,M01AB55,"Diklofenak, kombinationer",Läkemedel,ATC-koder
+M01AC,M01A,M01AC,Oxikamer,Läkemedel,ATC-koder
+M01AC01,M01AC,M01AC01,Piroxikam,Läkemedel,ATC-koder
+M01AC02,M01AC,M01AC02,Tenoxikam,Läkemedel,ATC-koder
+M01AC05,M01AC,M01AC05,Lornoxikam,Läkemedel,ATC-koder
+M01AC06,M01AC,M01AC06,Meloxikam,Läkemedel,ATC-koder
+M01AE,M01A,M01AE,Propionsyraderivat,Läkemedel,ATC-koder
+M01AE01,M01AE,M01AE01,Ibuprofen,Läkemedel,ATC-koder
+M01AE02,M01AE,M01AE02,Naproxen,Läkemedel,ATC-koder
+M01AE03,M01AE,M01AE03,Ketoprofen,Läkemedel,ATC-koder
+M01AE09,M01AE,M01AE09,Flurbiprofen,Läkemedel,ATC-koder
+M01AE14,M01AE,M01AE14,Dexibuprofen,Läkemedel,ATC-koder
+M01AE52,M01AE,M01AE52,Naproxen och esomeprazol,Läkemedel,ATC-koder
+M01AH,M01A,M01AH,Coxiber,Läkemedel,ATC-koder
+M01AH01,M01AH,M01AH01,Celecoxib,Läkemedel,ATC-koder
+M01AH02,M01AH,M01AH02,Rofecoxib,Läkemedel,ATC-koder
+M01AH04,M01AH,M01AH04,Parecoxib,Läkemedel,ATC-koder
+M01AH05,M01AH,M01AH05,Etoricoxib,Läkemedel,ATC-koder
+M01AH06,M01AH,M01AH06,Lumiracoxib,Läkemedel,ATC-koder
+M01AX,M01A,M01AX,Övriga icke-steroida antiinflammatoriska och antireumatiska medel,Läkemedel,ATC-koder
+M01AX01,M01AX,M01AX01,Nabumeton,Läkemedel,ATC-koder
+M01AX05,M01AX,M01AX05,Glukosamin,Läkemedel,ATC-koder
+M01AX25,M01AX,M01AX25,Kondroitinsulfat,Läkemedel,ATC-koder
+M01B,M01,M01B,Antiinflammatoriska/antireumatiska medel i kombination,Läkemedel,ATC-koder
+M01BX,M01B,M01BX,Övriga kombinationer med antiinflammatoriska/antireumatiska medel,Läkemedel,ATC-koder
+M01C,M01,M01C,Specifika antireumatiska medel,Läkemedel,ATC-koder
+M01CB,M01C,M01CB,Guldpreparat,Läkemedel,ATC-koder
+M01CB01,M01CB,M01CB01,Natriumaurotiomalat,Läkemedel,ATC-koder
+M01CB03,M01CB,M01CB03,Auranofin,Läkemedel,ATC-koder
+M01CC,M01C,M01CC,Penicillamin och liknande medel,Läkemedel,ATC-koder
+M01CC01,M01CC,M01CC01,Penicillamin,Läkemedel,ATC-koder
+M01CX,M01C,M01CX,Övriga specifika antireumatiska medel,Läkemedel,ATC-koder
+M02,M,M02,Utvärtes medel vid led- och muskelsmärtor,Läkemedel,ATC-koder
+M02A,M02,M02A,Utvärtes medel vid led- och muskelsmärtor,Läkemedel,ATC-koder
+M02AA,M02A,M02AA,"Antiinflammatoriska medel, icke-steroider för utvärtes bruk",Läkemedel,ATC-koder
+M02AA10,M02AA,M02AA10,Ketoprofen,Läkemedel,ATC-koder
+M02AA13,M02AA,M02AA13,Ibuprofen,Läkemedel,ATC-koder
+M02AA15,M02AA,M02AA15,Diklofenak,Läkemedel,ATC-koder
+M02AB,M02A,M02AB,Kapsaicin och liknande medel,Läkemedel,ATC-koder
+M02AC,M02A,M02AC,Salicylsyraderivat,Läkemedel,ATC-koder
+M02AX,M02A,M02AX,Övriga utvärtes medel för led- och muskelsmärtor,Läkemedel,ATC-koder
+M02AX10,M02AX,M02AX10,Övrigt,Läkemedel,ATC-koder
+M03,M,M03,Muskelavslappande medel,Läkemedel,ATC-koder
+M03A,M03,M03A,"Muskelavslappande medel, perifert verkande",Läkemedel,ATC-koder
+M03AB,M03A,M03AB,Kolinderivat,Läkemedel,ATC-koder
+M03AB01,M03AB,M03AB01,Suxametonium,Läkemedel,ATC-koder
+M03AC,M03A,M03AC,Övriga kvartära ammoniumföreningar,Läkemedel,ATC-koder
+M03AC01,M03AC,M03AC01,Pankuronium,Läkemedel,ATC-koder
+M03AC03,M03AC,M03AC03,Vekuronium,Läkemedel,ATC-koder
+M03AC04,M03AC,M03AC04,Atrakurium,Läkemedel,ATC-koder
+M03AC10,M03AC,M03AC10,Mivakuriumklorid,Läkemedel,ATC-koder
+M03AX,M03A,M03AX,"Övriga muskelavslappande medel, perifert verkande",Läkemedel,ATC-koder
+M03AX01,M03AX,M03AX01,Botulinum toxin,Läkemedel,ATC-koder
+M03B,M03,M03B,"Muskelavslappande medel, centralt verkande",Läkemedel,ATC-koder
+M03BA,M03B,M03BA,Karbaminsyraestrar,Läkemedel,ATC-koder
+M03BA02,M03BA,M03BA02,Karisoprodol,Läkemedel,ATC-koder
+M03BA03,M03BA,M03BA03,Metokarbamol,Läkemedel,ATC-koder
+M03BA52,M03BA,M03BA52,"Karisoprodol, kombinationer exkl. psykoleptika",Läkemedel,ATC-koder
+M03BB,M03B,M03BB,"Oxazol-, tiazin- och triazinderivat",Läkemedel,ATC-koder
+M03BB03,M03BB,M03BB03,Klorzoxazon,Läkemedel,ATC-koder
+M03BB53,M03BB,M03BB53,"Klorzoxazon, kombinationer exkl. psykoleptika",Läkemedel,ATC-koder
+M03BC,M03B,M03BC,"Etrar, kemiskt besläktade med antihistaminer",Läkemedel,ATC-koder
+M03BC01,M03BC,M03BC01,Orfenadrin,Läkemedel,ATC-koder
+M03BC51,M03BC,M03BC51,"Orfenadrin, kombinationer",Läkemedel,ATC-koder
+M03BX,M03B,M03BX,"Övriga muskelavslappande medel, centralt verkande",Läkemedel,ATC-koder
+M03BX01,M03BX,M03BX01,Baklofen,Läkemedel,ATC-koder
+M03BX02,M03BX,M03BX02,Tizanidin,Läkemedel,ATC-koder
+M03BX04,M03BX,M03BX04,Tolperison,Läkemedel,ATC-koder
+M03C,M03,M03C,"Muskelavslappande medel, direktverkande",Läkemedel,ATC-koder
+M03CA,M03C,M03CA,Dantrolen och derivat,Läkemedel,ATC-koder
+M03CA01,M03CA,M03CA01,Dantrolen,Läkemedel,ATC-koder
+M04,M,M04,Giktmedel,Läkemedel,ATC-koder
+M04A,M04,M04A,Giktmedel,Läkemedel,ATC-koder
+M04AA,M04A,M04AA,Medel som hämmar produktionen av urinsyra,Läkemedel,ATC-koder
+M04AA01,M04AA,M04AA01,Allopurinol,Läkemedel,ATC-koder
+M04AA03,M04AA,M04AA03,Febuxostat,Läkemedel,ATC-koder
+M04AB,M04A,M04AB,Medel som ökar utsöndringen av urinsyra,Läkemedel,ATC-koder
+M04AB01,M04AB,M04AB01,Probenecid,Läkemedel,ATC-koder
+M04AB03,M04AB,M04AB03,Bensbromaron,Läkemedel,ATC-koder
+M04AC,M04A,M04AC,Medel utan effekt på urinsyrametabolismen,Läkemedel,ATC-koder
+M04AC01,M04AC,M04AC01,Kolkicin,Läkemedel,ATC-koder
+M05,M,M05,Medel för behandling av skelettsjukdomar,Läkemedel,ATC-koder
+M05B,M05,M05B,Medel som påverkar benvävnad och mineralisering,Läkemedel,ATC-koder
+M05BA,M05B,M05BA,Bisfosfonater,Läkemedel,ATC-koder
+M05BA01,M05BA,M05BA01,Etidronat,Läkemedel,ATC-koder
+M05BA02,M05BA,M05BA02,Klodronat,Läkemedel,ATC-koder
+M05BA03,M05BA,M05BA03,Pamidronat,Läkemedel,ATC-koder
+M05BA04,M05BA,M05BA04,Alendronsyra,Läkemedel,ATC-koder
+M05BA05,M05BA,M05BA05,Tiludronsyra,Läkemedel,ATC-koder
+M05BA06,M05BA,M05BA06,Ibandronsyra,Läkemedel,ATC-koder
+M05BA07,M05BA,M05BA07,Risedronsyra,Läkemedel,ATC-koder
+M05BA08,M05BA,M05BA08,Zoledronsyra,Läkemedel,ATC-koder
+M05BB,M05B,M05BB,"Bisfosfonater, kombinationer",Läkemedel,ATC-koder
+M05BB01,M05BB,M05BB01,"Etidronsyra och kalcium, sekvenspreparat",Läkemedel,ATC-koder
+M05BB02,M05BB,M05BB02,"Risedronsyra och kalcium, sekvenspreparat",Läkemedel,ATC-koder
+M05BB03,M05BB,M05BB03,Alendronsyra och kolekalciferol,Läkemedel,ATC-koder
+M05BB05,M05BB,M05BB05,"Alendronsyra, kalcium och kolekalciferol sekvenspreparat",Läkemedel,ATC-koder
+M05BC,M05B,M05BC,Benmorfogenetiska proteiner,Läkemedel,ATC-koder
+M05BC01,M05BC,M05BC01,Dibotermin alfa,Läkemedel,ATC-koder
+M05BC02,M05BC,M05BC02,Eptotermin alfa,Läkemedel,ATC-koder
+M05BX,M05B,M05BX,Övriga medel som påverkar benstruktur och mineralisering,Läkemedel,ATC-koder
+M05BX03,M05BX,M05BX03,Strontiumranelat,Läkemedel,ATC-koder
+M05BX04,M05BX,M05BX04,Denosumab,Läkemedel,ATC-koder
+M09,M,M09,Övriga medel för sjukdomar i rörelseapparaten,Läkemedel,ATC-koder
+M09A,M09,M09A,Övriga medel för sjukdomar i rörelseapparaten,Läkemedel,ATC-koder
+M09AB,M09A,M09AB,Enzymer,Läkemedel,ATC-koder
+M09AB02,M09AB,M09AB02,"Kollagenas, Clostridium histolyticum",Läkemedel,ATC-koder
+M09AX,M09A,M09AX,Övriga medel för sjukdomar i rörelseapparaten,Läkemedel,ATC-koder
+M09AX01,M09AX,M09AX01,Hyaluronsyra,Läkemedel,ATC-koder
+M09AX03,M09AX,M09AX03,Ataluren,Läkemedel,ATC-koder
+N,0,N,Nervsystemet,Läkemedel,ATC-koder
+N01,N,N01,Anestetika,Läkemedel,ATC-koder
+N01A,N01,N01A,Allmänanestetika,Läkemedel,ATC-koder
+N01AB,N01A,N01AB,Halogenerade kolväten,Läkemedel,ATC-koder
+N01AB06,N01AB,N01AB06,Isofluran,Läkemedel,ATC-koder
+N01AB08,N01AB,N01AB08,Sevofluran,Läkemedel,ATC-koder
+N01AF,N01A,N01AF,Barbiturater,Läkemedel,ATC-koder
+N01AF01,N01AF,N01AF01,Metohexital,Läkemedel,ATC-koder
+N01AF03,N01AF,N01AF03,Tiopental,Läkemedel,ATC-koder
+N01AH,N01A,N01AH,Opioidanestetika,Läkemedel,ATC-koder
+N01AH01,N01AH,N01AH01,Fentanyl,Läkemedel,ATC-koder
+N01AH02,N01AH,N01AH02,Alfentanil,Läkemedel,ATC-koder
+N01AH03,N01AH,N01AH03,Sufentanil,Läkemedel,ATC-koder
+N01AH06,N01AH,N01AH06,Remifentanil,Läkemedel,ATC-koder
+N01AH51,N01AH,N01AH51,"Fentanyl, kombinationer",Läkemedel,ATC-koder
+N01AX,N01A,N01AX,Övriga allmänanestetika,Läkemedel,ATC-koder
+N01AX03,N01AX,N01AX03,Ketamin,Läkemedel,ATC-koder
+N01AX10,N01AX,N01AX10,Propofol,Läkemedel,ATC-koder
+N01AX14,N01AX,N01AX14,Esketamin,Läkemedel,ATC-koder
+N01B,N01,N01B,Lokalanestetika,Läkemedel,ATC-koder
+N01BA,N01B,N01BA,Aminosyrabensoestrar,Läkemedel,ATC-koder
+N01BA03,N01BA,N01BA03,Tetrakain,Läkemedel,ATC-koder
+N01BB,N01B,N01BB,Amider,Läkemedel,ATC-koder
+N01BB01,N01BB,N01BB01,Bupivakain,Läkemedel,ATC-koder
+N01BB02,N01BB,N01BB02,Lidokain,Läkemedel,ATC-koder
+N01BB03,N01BB,N01BB03,Mepivakain,Läkemedel,ATC-koder
+N01BB04,N01BB,N01BB04,Prilokain,Läkemedel,ATC-koder
+N01BB09,N01BB,N01BB09,Ropivakain,Läkemedel,ATC-koder
+N01BB10,N01BB,N01BB10,Levobupivakain,Läkemedel,ATC-koder
+N01BB20,N01BB,N01BB20,Kombinationer,Läkemedel,ATC-koder
+N01BB51,N01BB,N01BB51,"Bupivakain, kombinationer",Läkemedel,ATC-koder
+N01BB52,N01BB,N01BB52,"Lidokain, kombinationer",Läkemedel,ATC-koder
+N01BB53,N01BB,N01BB53,"Mepivakain, kombinationer",Läkemedel,ATC-koder
+N01BB54,N01BB,N01BB54,"Prilokain, kombinationer",Läkemedel,ATC-koder
+N01BB58,N01BB,N01BB58,"Artikain, kombinationer",Läkemedel,ATC-koder
+N01BX,N01B,N01BX,Övriga lokalanestetika,Läkemedel,ATC-koder
+N01BX03,N01BX,N01BX03,Fenol,Läkemedel,ATC-koder
+N01BX04,N01BX,N01BX04,Kapsaicin,Läkemedel,ATC-koder
+N02,N,N02,Analgetika,Läkemedel,ATC-koder
+N02A,N02,N02A,Opioider,Läkemedel,ATC-koder
+N02AA,N02A,N02AA,"Naturliga opiumalkaloider, opiater",Läkemedel,ATC-koder
+N02AA01,N02AA,N02AA01,Morfin,Läkemedel,ATC-koder
+N02AA03,N02AA,N02AA03,Hydromorfon,Läkemedel,ATC-koder
+N02AA05,N02AA,N02AA05,Oxikodon,Läkemedel,ATC-koder
+N02AA55,N02AA,N02AA55,Oxikodon och naloxon,Läkemedel,ATC-koder
+N02AA59,N02AA,N02AA59,"Kodein, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02AB,N02A,N02AB,Fenylpiperidinderivat,Läkemedel,ATC-koder
+N02AB01,N02AB,N02AB01,Ketobemidon,Läkemedel,ATC-koder
+N02AB02,N02AB,N02AB02,Petidin,Läkemedel,ATC-koder
+N02AB03,N02AB,N02AB03,Fentanyl,Läkemedel,ATC-koder
+N02AC,N02A,N02AC,Difenylpropylaminderivat,Läkemedel,ATC-koder
+N02AC04,N02AC,N02AC04,Dextropropoxifen,Läkemedel,ATC-koder
+N02AC54,N02AC,N02AC54,"Dextropropoxifen, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02AD,N02A,N02AD,Bensomorfanderivat,Läkemedel,ATC-koder
+N02AD01,N02AD,N02AD01,Pentazocin,Läkemedel,ATC-koder
+N02AE,N02A,N02AE,Oripavinderivat,Läkemedel,ATC-koder
+N02AE01,N02AE,N02AE01,Buprenorfin,Läkemedel,ATC-koder
+N02AF,N02A,N02AF,Morfinderivat,Läkemedel,ATC-koder
+N02AF02,N02AF,N02AF02,Nalbufin,Läkemedel,ATC-koder
+N02AG,N02A,N02AG,Opiater och opioider i kombination med spasmolytika,Läkemedel,ATC-koder
+N02AG01,N02AG,N02AG01,Morfin och spasmolytika,Läkemedel,ATC-koder
+N02AG02,N02AG,N02AG02,Ketobemidon och spasmolytika,Läkemedel,ATC-koder
+N02AG04,N02AG,N02AG04,Hydromorfon och spasmolytika,Läkemedel,ATC-koder
+N02AJ,N02A,N02AJ,Opioider i kombination med icke-opioida analgetika,Läkemedel,ATC-koder
+N02AJ06,N02AJ,N02AJ06,Kodein och paracetamol,Läkemedel,ATC-koder
+N02AJ08,N02AJ,N02AJ08,Kodein och ibuprofen,Läkemedel,ATC-koder
+N02AJ09,N02AJ,N02AJ09,Kodein och övriga icke-opioida analgetika,Läkemedel,ATC-koder
+N02AJ13,N02AJ,N02AJ13,Tramadol och paracetamol,Läkemedel,ATC-koder
+N02AX,N02A,N02AX,Övriga opioider,Läkemedel,ATC-koder
+N02AX01,N02AX,N02AX01,Tilidin,Läkemedel,ATC-koder
+N02AX02,N02AX,N02AX02,Tramadol,Läkemedel,ATC-koder
+N02AX06,N02AX,N02AX06,Tapentadol,Läkemedel,ATC-koder
+N02B,N02,N02B,Övriga analgetika och antipyretika,Läkemedel,ATC-koder
+N02BA,N02B,N02BA,Salicylsyra och derivat,Läkemedel,ATC-koder
+N02BA01,N02BA,N02BA01,Acetylsalicylsyra,Läkemedel,ATC-koder
+N02BA11,N02BA,N02BA11,Diflunisal,Läkemedel,ATC-koder
+N02BA51,N02BA,N02BA51,"Acetylsalicylsyra, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02BB,N02B,N02BB,Pyrazolonderivat,Läkemedel,ATC-koder
+N02BB02,N02BB,N02BB02,Metamizolnatrium,Läkemedel,ATC-koder
+N02BB51,N02BB,N02BB51,"Fenazon, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02BE,N02B,N02BE,"Anilider, inkl kombinationer",Läkemedel,ATC-koder
+N02BE01,N02BE,N02BE01,Paracetamol,Läkemedel,ATC-koder
+N02BE51,N02BE,N02BE51,"Paracetamol, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02BE71,N02BE,N02BE71,"Paracetamol, kombinationer med neuroleptika",Läkemedel,ATC-koder
+N02BG,N02B,N02BG,Övriga analgetika och antipyretika,Läkemedel,ATC-koder
+N02BG07,N02BG,N02BG07,Flupirtin,Läkemedel,ATC-koder
+N02BG08,N02BG,N02BG08,Zikonotid,Läkemedel,ATC-koder
+N02BG10,N02BG,N02BG10,Kannabinoider,Läkemedel,ATC-koder
+N02C,N02,N02C,Medel vid migrän,Läkemedel,ATC-koder
+N02CA,N02C,N02CA,Mjöldrygealkaloider,Läkemedel,ATC-koder
+N02CA01,N02CA,N02CA01,Dihydroergotamin,Läkemedel,ATC-koder
+N02CA04,N02CA,N02CA04,Metysergid,Läkemedel,ATC-koder
+N02CA07,N02CA,N02CA07,Lisurid,Läkemedel,ATC-koder
+N02CA52,N02CA,N02CA52,"Ergotamin, kombinationer exkl. neuroleptika",Läkemedel,ATC-koder
+N02CA72,N02CA,N02CA72,"Ergotamin, kombinationer med neuroleptika",Läkemedel,ATC-koder
+N02CC,N02C,N02CC,Selektiva serotonin(5HT1)agonister,Läkemedel,ATC-koder
+N02CC01,N02CC,N02CC01,Sumatriptan,Läkemedel,ATC-koder
+N02CC02,N02CC,N02CC02,Naratriptan,Läkemedel,ATC-koder
+N02CC03,N02CC,N02CC03,Zolmitriptan,Läkemedel,ATC-koder
+N02CC04,N02CC,N02CC04,Rizatriptan,Läkemedel,ATC-koder
+N02CC05,N02CC,N02CC05,Almotriptan,Läkemedel,ATC-koder
+N02CC06,N02CC,N02CC06,Eletriptan,Läkemedel,ATC-koder
+N02CC07,N02CC,N02CC07,Frovatriptan,Läkemedel,ATC-koder
+N02CX,N02C,N02CX,Övriga migränmedel,Läkemedel,ATC-koder
+N02CX01,N02CX,N02CX01,Pizotifen,Läkemedel,ATC-koder
+N02CX02,N02CX,N02CX02,Klonidin,Läkemedel,ATC-koder
+N02CX07,N02CX,N02CX07,Erenumab,Läkemedel,ATC-koder
+N03,N,N03,Antiepileptika,Läkemedel,ATC-koder
+N03A,N03,N03A,Antiepileptika,Läkemedel,ATC-koder
+N03AA,N03A,N03AA,Barbitursyraderivat,Läkemedel,ATC-koder
+N03AA02,N03AA,N03AA02,Fenobarbital,Läkemedel,ATC-koder
+N03AA03,N03AA,N03AA03,Primidon,Läkemedel,ATC-koder
+N03AB,N03A,N03AB,Hydantoinderivat,Läkemedel,ATC-koder
+N03AB02,N03AB,N03AB02,Fenytoin,Läkemedel,ATC-koder
+N03AB05,N03AB,N03AB05,Fosfenytoin,Läkemedel,ATC-koder
+N03AD,N03A,N03AD,Succinimidderivat,Läkemedel,ATC-koder
+N03AD01,N03AD,N03AD01,Etosuximid,Läkemedel,ATC-koder
+N03AE,N03A,N03AE,Bensodiazepinderivat,Läkemedel,ATC-koder
+N03AE01,N03AE,N03AE01,Klonazepam,Läkemedel,ATC-koder
+N03AF,N03A,N03AF,Karboxamidderivat,Läkemedel,ATC-koder
+N03AF01,N03AF,N03AF01,Karbamazepin,Läkemedel,ATC-koder
+N03AF02,N03AF,N03AF02,Oxkarbazepin,Läkemedel,ATC-koder
+N03AF03,N03AF,N03AF03,Rufinamid,Läkemedel,ATC-koder
+N03AF04,N03AF,N03AF04,Eslikarbazepin,Läkemedel,ATC-koder
+N03AG,N03A,N03AG,Fettsyraderivat,Läkemedel,ATC-koder
+N03AG01,N03AG,N03AG01,Valproinsyra,Läkemedel,ATC-koder
+N03AG04,N03AG,N03AG04,Vigabatrin,Läkemedel,ATC-koder
+N03AG06,N03AG,N03AG06,Tiagabin,Läkemedel,ATC-koder
+N03AX,N03A,N03AX,Övriga antiepileptika,Läkemedel,ATC-koder
+N03AX03,N03AX,N03AX03,Sultiam,Läkemedel,ATC-koder
+N03AX09,N03AX,N03AX09,Lamotrigin,Läkemedel,ATC-koder
+N03AX10,N03AX,N03AX10,Felbamat,Läkemedel,ATC-koder
+N03AX11,N03AX,N03AX11,Topiramat,Läkemedel,ATC-koder
+N03AX12,N03AX,N03AX12,Gabapentin,Läkemedel,ATC-koder
+N03AX14,N03AX,N03AX14,Levetiracetam,Läkemedel,ATC-koder
+N03AX15,N03AX,N03AX15,Zonisamid,Läkemedel,ATC-koder
+N03AX16,N03AX,N03AX16,Pregabalin,Läkemedel,ATC-koder
+N03AX17,N03AX,N03AX17,Stiripentol,Läkemedel,ATC-koder
+N03AX18,N03AX,N03AX18,Lakosamid,Läkemedel,ATC-koder
+N03AX21,N03AX,N03AX21,Retigabin,Läkemedel,ATC-koder
+N03AX22,N03AX,N03AX22,Perampanel,Läkemedel,ATC-koder
+N03AX23,N03AX,N03AX23,Brivaracetam,Läkemedel,ATC-koder
+N03AX24,N03AX,N03AX24,Cannabidiol,Läkemedel,ATC-koder
+N04,N,N04,Medel vid parkinsonism,Läkemedel,ATC-koder
+N04A,N04,N04A,Antikolinergika,Läkemedel,ATC-koder
+N04AA,N04A,N04AA,"Antikolinergika, tertiära aminer",Läkemedel,ATC-koder
+N04AA01,N04AA,N04AA01,Trihexyfenidyl,Läkemedel,ATC-koder
+N04AA02,N04AA,N04AA02,Biperiden,Läkemedel,ATC-koder
+N04AA05,N04A,N04AA05,Profenamin,Läkemedel,ATC-koder
+N04AB,N04A,N04AB,"Antikolinergika, kemiskt närstående antihistaminer",Läkemedel,ATC-koder
+N04AB02,N04AB,N04AB02,Orfenadrin,Läkemedel,ATC-koder
+N04AC,N04A,N04AC,"Antikolinergika, etrar av tropin",Läkemedel,ATC-koder
+N04AC01,N04AC,N04AC01,Bensatropin,Läkemedel,ATC-koder
+N04B,N04,N04B,Dopaminerga medel,Läkemedel,ATC-koder
+N04BA,N04B,N04BA,Dopa och dopaderivat,Läkemedel,ATC-koder
+N04BA01,N04BA,N04BA01,Levodopa,Läkemedel,ATC-koder
+N04BA02,N04BA,N04BA02,Levodopa och dekarboxylashämmare,Läkemedel,ATC-koder
+N04BA03,N04BA,N04BA03,"Levodopa, dekarboxylashämmare och COMT-hämmare",Läkemedel,ATC-koder
+N04BB,N04B,N04BB,Adamantanderivat,Läkemedel,ATC-koder
+N04BB01,N04BB,N04BB01,Amantadin,Läkemedel,ATC-koder
+N04BC,N04B,N04BC,Dopaminagonister,Läkemedel,ATC-koder
+N04BC01,N04BC,N04BC01,Bromokriptin,Läkemedel,ATC-koder
+N04BC02,N04BC,N04BC02,Pergolid,Läkemedel,ATC-koder
+N04BC04,N04BC,N04BC04,Ropinirol,Läkemedel,ATC-koder
+N04BC05,N04BC,N04BC05,Pramipexol,Läkemedel,ATC-koder
+N04BC06,N04BC,N04BC06,Kabergolin,Läkemedel,ATC-koder
+N04BC07,N04BC,N04BC07,Apomorfin,Läkemedel,ATC-koder
+N04BC08,N04BC,N04BC08,Piribedil,Läkemedel,ATC-koder
+N04BC09,N04BC,N04BC09,Rotigotin,Läkemedel,ATC-koder
+N04BD,N04B,N04BD,MAO-B hämmare,Läkemedel,ATC-koder
+N04BD01,N04BD,N04BD01,Selegilin,Läkemedel,ATC-koder
+N04BD02,N04BD,N04BD02,Rasagilin,Läkemedel,ATC-koder
+N04BD03,N04BD,N04BD03,Safinamid,Läkemedel,ATC-koder
+N04BX,N04B,N04BX,Övriga dopaminerga medel,Läkemedel,ATC-koder
+N04BX01,N04BX,N04BX01,Tolkapon,Läkemedel,ATC-koder
+N04BX02,N04BX,N04BX02,Entakapon,Läkemedel,ATC-koder
+N05,N,N05,"Neuroleptika, lugnande medel och sömnmedel",Läkemedel,ATC-koder
+N05A,N05,N05A,Neuroleptika,Läkemedel,ATC-koder
+N05AA,N05A,N05AA,Fentiazinderivat med alifatisk sidokedja,Läkemedel,ATC-koder
+N05AA01,N05AA,N05AA01,Klorpromazin,Läkemedel,ATC-koder
+N05AA02,N05AA,N05AA02,Levomepromazin,Läkemedel,ATC-koder
+N05AA04,N05AA,N05AA04,Acepromazin,Läkemedel,ATC-koder
+N05AA06,N05AA,N05AA06,Cyamemazin,Läkemedel,ATC-koder
+N05AB,N05A,N05AB,Fentiazinderivat med piperazinring,Läkemedel,ATC-koder
+N05AB01,N05AB,N05AB01,Dixyrazin,Läkemedel,ATC-koder
+N05AB02,N05AB,N05AB02,Flufenazin,Läkemedel,ATC-koder
+N05AB03,N05AB,N05AB03,Perfenazin,Läkemedel,ATC-koder
+N05AB04,N05AB,N05AB04,Proklorperazin,Läkemedel,ATC-koder
+N05AB06,N05AB,N05AB06,Trifluoperazin,Läkemedel,ATC-koder
+N05AC,N05A,N05AC,Fentiazinderivat med piperidinring,Läkemedel,ATC-koder
+N05AC01,N05AC,N05AC01,Periciazin,Läkemedel,ATC-koder
+N05AC02,N05AC,N05AC02,Tioridazin,Läkemedel,ATC-koder
+N05AD,N05A,N05AD,Butyrofenonderivat,Läkemedel,ATC-koder
+N05AD01,N05AD,N05AD01,Haloperidol,Läkemedel,ATC-koder
+N05AD03,N05AD,N05AD03,Melperon,Läkemedel,ATC-koder
+N05AD05,N05AD,N05AD05,Pipamperon,Läkemedel,ATC-koder
+N05AD08,N05AD,N05AD08,Droperidol,Läkemedel,ATC-koder
+N05AE,N05A,N05AE,Indolderivat,Läkemedel,ATC-koder
+N05AE03,N05AE,N05AE03,Sertindol,Läkemedel,ATC-koder
+N05AE04,N05AE,N05AE04,Ziprasidon,Läkemedel,ATC-koder
+N05AE05,N05AE,N05AE05,Lurasidon,Läkemedel,ATC-koder
+N05AF,N05A,N05AF,Tioxantenderivat,Läkemedel,ATC-koder
+N05AF01,N05AF,N05AF01,Flupentixol,Läkemedel,ATC-koder
+N05AF03,N05AF,N05AF03,Klorprotixen,Läkemedel,ATC-koder
+N05AF05,N05AF,N05AF05,Zuklopentixol,Läkemedel,ATC-koder
+N05AG,N05A,N05AG,Difenylbutylpiperidinderivat,Läkemedel,ATC-koder
+N05AG01,N05AG,N05AG01,Fluspirilen,Läkemedel,ATC-koder
+N05AG02,N05AG,N05AG02,Pimozid,Läkemedel,ATC-koder
+N05AH,N05A,N05AH,"Diazepiner, oxazepiner, tiazepiner och oxepiner",Läkemedel,ATC-koder
+N05AH01,N05AH,N05AH01,Loxapin,Läkemedel,ATC-koder
+N05AH02,N05AH,N05AH02,Klozapin,Läkemedel,ATC-koder
+N05AH03,N05AH,N05AH03,Olanzapin,Läkemedel,ATC-koder
+N05AH04,N05AH,N05AH04,Kvetiapin,Läkemedel,ATC-koder
+N05AL,N05A,N05AL,Bensamider,Läkemedel,ATC-koder
+N05AL01,N05AL,N05AL01,Sulpirid,Läkemedel,ATC-koder
+N05AL03,N05AL,N05AL03,Tiaprid,Läkemedel,ATC-koder
+N05AL05,N05AL,N05AL05,Amisulprid,Läkemedel,ATC-koder
+N05AN,N05A,N05AN,Litium,Läkemedel,ATC-koder
+N05AN01,N05AN,N05AN01,Litium,Läkemedel,ATC-koder
+N05AX,N05A,N05AX,Övriga neuroleptika,Läkemedel,ATC-koder
+N05AX08,N05AX,N05AX08,Risperidon,Läkemedel,ATC-koder
+N05AX12,N05AX,N05AX12,Aripiprazol,Läkemedel,ATC-koder
+N05AX13,N05AX,N05AX13,Paliperidon,Läkemedel,ATC-koder
+N05AX15,N05AX,N05AX15,Kariprazin,Läkemedel,ATC-koder
+N05AX16,N05AX,N05AX16,Brexpiprazol,Läkemedel,ATC-koder
+N05B,N05,N05B,"Lugnande medel, ataraktika",Läkemedel,ATC-koder
+N05BA,N05B,N05BA,Bensodiazepinderivat,Läkemedel,ATC-koder
+N05BA01,N05BA,N05BA01,Diazepam,Läkemedel,ATC-koder
+N05BA02,N05BA,N05BA02,Klordiazepoxid,Läkemedel,ATC-koder
+N05BA04,N05BA,N05BA04,Oxazepam,Läkemedel,ATC-koder
+N05BA05,N05BA,N05BA05,Dikaliumklorazepat,Läkemedel,ATC-koder
+N05BA06,N05BA,N05BA06,Lorazepam,Läkemedel,ATC-koder
+N05BA08,N05BA,N05BA08,Bromazepam,Läkemedel,ATC-koder
+N05BA09,N05BA,N05BA09,Klobazam,Läkemedel,ATC-koder
+N05BA12,N05BA,N05BA12,Alprazolam,Läkemedel,ATC-koder
+N05BB,N05B,N05BB,Difenylmetylpiperazinderivat,Läkemedel,ATC-koder
+N05BB01,N05BB,N05BB01,Hydroxizin,Läkemedel,ATC-koder
+N05BC,N05B,N05BC,Propandiolderivat,Läkemedel,ATC-koder
+N05BC01,N05BC,N05BC01,Meprobamat,Läkemedel,ATC-koder
+N05BE,N05B,N05BE,Azaspironderivat,Läkemedel,ATC-koder
+N05BE01,N05BE,N05BE01,Buspiron,Läkemedel,ATC-koder
+N05C,N05,N05C,Sömnmedel och lugnande medel,Läkemedel,ATC-koder
+N05CC,N05C,N05CC,"Aldehyder, inkl derivat",Läkemedel,ATC-koder
+N05CC01,N05CC,N05CC01,Kloralhydrat,Läkemedel,ATC-koder
+N05CD,N05C,N05CD,Bensodiazepinderivat,Läkemedel,ATC-koder
+N05CD02,N05CD,N05CD02,Nitrazepam,Läkemedel,ATC-koder
+N05CD03,N05CD,N05CD03,Flunitrazepam,Läkemedel,ATC-koder
+N05CD05,N05CD,N05CD05,Triazolam,Läkemedel,ATC-koder
+N05CD08,N05CD,N05CD08,Midazolam,Läkemedel,ATC-koder
+N05CF,N05C,N05CF,Bensodiazepinbesläktade medel,Läkemedel,ATC-koder
+N05CF01,N05CF,N05CF01,Zopiklon,Läkemedel,ATC-koder
+N05CF02,N05CF,N05CF02,Zolpidem,Läkemedel,ATC-koder
+N05CF03,N05CF,N05CF03,Zaleplon,Läkemedel,ATC-koder
+N05CH,N05C,N05CH,Melatoninreceptor agonister,Läkemedel,ATC-koder
+N05CH01,N05CH,N05CH01,Melatonin,Läkemedel,ATC-koder
+N05CM,N05C,N05CM,Övriga sömnmedel och lugnande medel,Läkemedel,ATC-koder
+N05CM02,N05CM,N05CM02,Klometiazol,Läkemedel,ATC-koder
+N05CM05,N05CM,N05CM05,Skopolamin,Läkemedel,ATC-koder
+N05CM06,N05CM,N05CM06,Propiomazin,Läkemedel,ATC-koder
+N05CM09,N05CM,N05CM09,"Vänderot, rot",Läkemedel,ATC-koder
+N05CM19,N05CM,N05CM19,Suvorexant,Läkemedel,ATC-koder
+N05CX,N05C,N05CX,"Kombinationer, exkl. barbitursyraderivat",Läkemedel,ATC-koder
+N06,N,N06,Psykoanaleptika,Läkemedel,ATC-koder
+N06A,N06,N06A,Antidepressiva medel,Läkemedel,ATC-koder
+N06AA,N06A,N06AA,Icke-selektiva monoaminåterupptagshämmare,Läkemedel,ATC-koder
+N06AA01,N06AA,N06AA01,Desipramin,Läkemedel,ATC-koder
+N06AA02,N06AA,N06AA02,Imipramin,Läkemedel,ATC-koder
+N06AA04,N06AA,N06AA04,Klomipramin,Läkemedel,ATC-koder
+N06AA05,N06AA,N06AA05,Opipramol,Läkemedel,ATC-koder
+N06AA06,N06AA,N06AA06,Trimipramin,Läkemedel,ATC-koder
+N06AA07,N06AA,N06AA07,Lofepramin,Läkemedel,ATC-koder
+N06AA09,N06AA,N06AA09,Amitriptylin,Läkemedel,ATC-koder
+N06AA10,N06AA,N06AA10,Nortriptylin,Läkemedel,ATC-koder
+N06AA11,N06AA,N06AA11,Protriptylin,Läkemedel,ATC-koder
+N06AA21,N06AA,N06AA21,Maprotilin,Läkemedel,ATC-koder
+N06AB,N06A,N06AB,Selektiva serotoninåterupptagshämmare,Läkemedel,ATC-koder
+N06AB03,N06AB,N06AB03,Fluoxetin,Läkemedel,ATC-koder
+N06AB04,N06AB,N06AB04,Citalopram,Läkemedel,ATC-koder
+N06AB05,N06AB,N06AB05,Paroxetin,Läkemedel,ATC-koder
+N06AB06,N06AB,N06AB06,Sertralin,Läkemedel,ATC-koder
+N06AB08,N06AB,N06AB08,Fluvoxamin,Läkemedel,ATC-koder
+N06AB10,N06AB,N06AB10,Escitalopram,Läkemedel,ATC-koder
+N06AF,N06A,N06AF,"MAO-hämmare, ickeselektiva",Läkemedel,ATC-koder
+N06AF03,N06AF,N06AF03,Fenelzin,Läkemedel,ATC-koder
+N06AF04,N06AF,N06AF04,Tranylcypromin,Läkemedel,ATC-koder
+N06AG,N06A,N06AG,"MAO-hämmare, selektiva typ A hämmare",Läkemedel,ATC-koder
+N06AG02,N06AG,N06AG02,Moklobemid,Läkemedel,ATC-koder
+N06AX,N06A,N06AX,Övriga antidepressiva medel,Läkemedel,ATC-koder
+N06AX01,N06AX,N06AX01,Oxitriptan,Läkemedel,ATC-koder
+N06AX02,N06AX,N06AX02,Tryptofan,Läkemedel,ATC-koder
+N06AX03,N06AX,N06AX03,Mianserin,Läkemedel,ATC-koder
+N06AX05,N06AX,N06AX05,Trazodon,Läkemedel,ATC-koder
+N06AX06,N06AX,N06AX06,Nefazodon,Läkemedel,ATC-koder
+N06AX11,N06AX,N06AX11,Mirtazapin,Läkemedel,ATC-koder
+N06AX12,N06AX,N06AX12,Bupropion,Läkemedel,ATC-koder
+N06AX14,N06AX,N06AX14,Tianeptin,Läkemedel,ATC-koder
+N06AX16,N06AX,N06AX16,Venlafaxin,Läkemedel,ATC-koder
+N06AX17,N06AX,N06AX17,Milnacipran,Läkemedel,ATC-koder
+N06AX18,N06AX,N06AX18,Reboxetin,Läkemedel,ATC-koder
+N06AX21,N06AX,N06AX21,Duloxetin,Läkemedel,ATC-koder
+N06AX22,N06AX,N06AX22,Agomelatin,Läkemedel,ATC-koder
+N06AX23,N06AX,N06AX23,Desvenlafaxin,Läkemedel,ATC-koder
+N06AX24,N06AX,N06AX24,Vilazodon,Läkemedel,ATC-koder
+N06AX26,N06AX,N06AX26,Vortioxetin,Läkemedel,ATC-koder
+N06B,N06,N06B,"Psykostimulantia, medel vid ADHD och nootropika",Läkemedel,ATC-koder
+N06BA,N06B,N06BA,Centralt verkande sympatomimetika,Läkemedel,ATC-koder
+N06BA01,N06BA,N06BA01,Amfetamin,Läkemedel,ATC-koder
+N06BA02,N06BA,N06BA02,Dexamfetamin,Läkemedel,ATC-koder
+N06BA04,N06BA,N06BA04,Metylfenidat,Läkemedel,ATC-koder
+N06BA07,N06BA,N06BA07,Modafinil,Läkemedel,ATC-koder
+N06BA09,N06BA,N06BA09,Atomoxetin,Läkemedel,ATC-koder
+N06BA11,N06BA,N06BA11,Dexmetylfenidat,Läkemedel,ATC-koder
+N06BA12,N06BA,N06BA12,Lisdexamfetamin,Läkemedel,ATC-koder
+N06BC,N06B,N06BC,Xantinderivat,Läkemedel,ATC-koder
+N06BC01,N06BC,N06BC01,Koffein,Läkemedel,ATC-koder
+N06BX,N06B,N06BX,Övriga psykostimulantia och nootropika,Läkemedel,ATC-koder
+N06BX03,N06BX,N06BX03,Piracetam,Läkemedel,ATC-koder
+N06BX13,N06BX,N06BX13,Idebenon,Läkemedel,ATC-koder
+N06D,N06,N06D,Medel vid demenssjukdomar,Läkemedel,ATC-koder
+N06DA,N06D,N06DA,Kolinesterashämmare,Läkemedel,ATC-koder
+N06DA02,N06DA,N06DA02,Donepezil,Läkemedel,ATC-koder
+N06DA03,N06DA,N06DA03,Rivastigmin,Läkemedel,ATC-koder
+N06DA04,N06DA,N06DA04,Galantamin,Läkemedel,ATC-koder
+N06DX,N06D,N06DX,Övriga medel vid demenssjukdomar,Läkemedel,ATC-koder
+N06DX01,N06DX,N06DX01,Memantin,Läkemedel,ATC-koder
+N07,N,N07,Övriga medel med verkan på nervsystemet,Läkemedel,ATC-koder
+N07A,N07,N07A,Parasympatomimetika,Läkemedel,ATC-koder
+N07AA,N07A,N07AA,Kolinesterashämmare,Läkemedel,ATC-koder
+N07AA01,N07AA,N07AA01,Neostigmin,Läkemedel,ATC-koder
+N07AA02,N07AA,N07AA02,Pyridostigmin,Läkemedel,ATC-koder
+N07AA30,N07AA,N07AA30,Ambenonium,Läkemedel,ATC-koder
+N07AA51,N07AA,N07AA51,"Neostigmin, kombinationer",Läkemedel,ATC-koder
+N07AB,N07A,N07AB,Kolinestrar,Läkemedel,ATC-koder
+N07AB01,N07AB,N07AB01,Karbakol,Läkemedel,ATC-koder
+N07AB02,N07AB,N07AB02,Betanekol,Läkemedel,ATC-koder
+N07AX,N07A,N07AX,Övriga parasympatomimetika,Läkemedel,ATC-koder
+N07AX01,N07AX,N07AX01,Pilokarpin,Läkemedel,ATC-koder
+N07B,N07,N07B,Medel vid behandling av beroendetillstånd,Läkemedel,ATC-koder
+N07BA,N07B,N07BA,Medel vid nikotinberoende,Läkemedel,ATC-koder
+N07BA01,N07BA,N07BA01,Nikotin,Läkemedel,ATC-koder
+N07BA02,N07BA,N07BA02,Bupropion,Läkemedel,ATC-koder
+N07BA03,N07BA,N07BA03,Vareniklin,Läkemedel,ATC-koder
+N07BB,N07B,N07BB,Medel vid alkoholberoende,Läkemedel,ATC-koder
+N07BB01,N07BB,N07BB01,Disulfiram,Läkemedel,ATC-koder
+N07BB03,N07BB,N07BB03,Akamprosat,Läkemedel,ATC-koder
+N07BB04,N07BB,N07BB04,Naltrexon,Läkemedel,ATC-koder
+N07BB05,N07BB,N07BB05,Nalmefen,Läkemedel,ATC-koder
+N07BC,N07B,N07BC,Medel vid opioidberoende,Läkemedel,ATC-koder
+N07BC01,N07BC,N07BC01,Buprenorfin,Läkemedel,ATC-koder
+N07BC02,N07BC,N07BC02,Metadon,Läkemedel,ATC-koder
+N07BC51,N07BC,N07BC51,"Buprenorfin, kombinationer",Läkemedel,ATC-koder
+N07C,N07,N07C,Medel mot yrsel,Läkemedel,ATC-koder
+N07CA,N07C,N07CA,Medel mot yrsel,Läkemedel,ATC-koder
+N07CA01,N07CA,N07CA01,Betahistin,Läkemedel,ATC-koder
+N07CA02,N07CA,N07CA02,Cinnarizin,Läkemedel,ATC-koder
+N07CA03,N07CA,N07CA03,Flunarizin,Läkemedel,ATC-koder
+N07CA04,N07CA,N07CA04,Acetylleucin,Läkemedel,ATC-koder
+N07CA52,N07CA,N07CA52,Cinnarizin kombinationer,Läkemedel,ATC-koder
+N07X,N07,N07X,Övriga läkemedel med verkan på nervsystemet,Läkemedel,ATC-koder
+N07XX,N07X,N07XX,Övriga medel med verkan på nervsystemet,Läkemedel,ATC-koder
+N07XX02,N07XX,N07XX02,Riluzol,Läkemedel,ATC-koder
+N07XX04,N07XX,N07XX04,Natriumoxibat,Läkemedel,ATC-koder
+N07XX05,N07XX,N07XX05,Amifampridin,Läkemedel,ATC-koder
+N07XX06,N07XX,N07XX06,Tetrabenazin,Läkemedel,ATC-koder
+N07XX07,N07XX,N07XX07,Fampridin,Läkemedel,ATC-koder
+N07XX08,N07XX,N07XX08,Tafamidis,Läkemedel,ATC-koder
+N07XX09,N07XX,N07XX09,Dimetylfumarat,Läkemedel,ATC-koder
+N07XX11,N07XX,N07XX11,Pitolisant,Läkemedel,ATC-koder
+N07XX13,N07XX,N07XX13,Valbenazin,Läkemedel,ATC-koder
+N07XX59,N07XX,N07XX59,"Dextrometorfan, kombinationer",Läkemedel,ATC-koder
+P,0,P,"Antiparasitära, insektsdödande och repellerande medel",Läkemedel,ATC-koder
+P01,P,P01,Medel mot protozoer,Läkemedel,ATC-koder
+P01A,P01,P01A,Medel mot protozoer,Läkemedel,ATC-koder
+P01AB,P01A,P01AB,Nitroimidazolderivat,Läkemedel,ATC-koder
+P01AB01,P01AB,P01AB01,Metronidazol,Läkemedel,ATC-koder
+P01AB02,P01AB,P01AB02,Tinidazol,Läkemedel,ATC-koder
+P01AC,P01A,P01AC,Dikloracetamid derivat,Läkemedel,ATC-koder
+P01AC01,P01AC,P01AC01,Diloxanid,Läkemedel,ATC-koder
+P01AX,P01A,P01AX,Övriga medel mot protozoer,Läkemedel,ATC-koder
+P01AX05,P01AX,P01AX05,Mepakrin,Läkemedel,ATC-koder
+P01AX06,P01AX,P01AX06,Atovakvon,Läkemedel,ATC-koder
+P01AX11,P01AX,P01AX11,Nitazoxanid,Läkemedel,ATC-koder
+P01B,P01,P01B,Malariamedel,Läkemedel,ATC-koder
+P01BA,P01B,P01BA,Aminokinoliner,Läkemedel,ATC-koder
+P01BA01,P01BA,P01BA01,Klorokin,Läkemedel,ATC-koder
+P01BA02,P01BA,P01BA02,Hydroxiklorokin,Läkemedel,ATC-koder
+P01BA03,P01BA,P01BA03,Primakin,Läkemedel,ATC-koder
+P01BB,P01B,P01BB,Biguanider,Läkemedel,ATC-koder
+P01BB01,P01BB,P01BB01,Proguanil,Läkemedel,ATC-koder
+P01BB51,P01BB,P01BB51,"Proguanil, kombinationer",Läkemedel,ATC-koder
+P01BC,P01B,P01BC,Metanolkinoliner,Läkemedel,ATC-koder
+P01BC01,P01BC,P01BC01,Kinin,Läkemedel,ATC-koder
+P01BC02,P01BC,P01BC02,Meflokin,Läkemedel,ATC-koder
+P01BD,P01B,P01BD,Diaminopyrimidiner,Läkemedel,ATC-koder
+P01BD01,P01BD,P01BD01,Pyrimetamin,Läkemedel,ATC-koder
+P01BF,P01B,P01BF,"Artemisinin och derivat, kombinationer",Läkemedel,ATC-koder
+P01BF01,P01BF,P01BF01,Artemeter och lumefantrin,Läkemedel,ATC-koder
+P01C,P01,P01C,Medel mot leishmaniasis och trypanosomiasis,Läkemedel,ATC-koder
+P01CA,P01C,P01CA,Nitroimidazolderivat,Läkemedel,ATC-koder
+P01CA02,P01CA,P01CA02,Bensnidazol,Läkemedel,ATC-koder
+P01CB,P01C,P01CB,Antimonföreningar,Läkemedel,ATC-koder
+P01CB02,P01CB,P01CB02,Natrium stiboglukonat,Läkemedel,ATC-koder
+P01CX,P01C,P01CX,Övriga medel mot leishmaniasis och trypanosomiasis,Läkemedel,ATC-koder
+P01CX01,P01CX,P01CX01,Pentamidin,Läkemedel,ATC-koder
+P02,P,P02,Medel vid maskinfektion,Läkemedel,ATC-koder
+P02B,P02,P02B,Medel mot trematoder,Läkemedel,ATC-koder
+P02BA,P02B,P02BA,Kinolinderivat och närbesläktade substanser,Läkemedel,ATC-koder
+P02BA01,P02BA,P02BA01,Prazikvantel,Läkemedel,ATC-koder
+P02BX,P02B,P02BX,Övriga medel mot trematoder,Läkemedel,ATC-koder
+P02BX04,P02BX,P02BX04,Triklabendazol,Läkemedel,ATC-koder
+P02C,P02,P02C,Medel mot nematoder,Läkemedel,ATC-koder
+P02CA,P02C,P02CA,Bensimidazolderivat,Läkemedel,ATC-koder
+P02CA01,P02CA,P02CA01,Mebendazol,Läkemedel,ATC-koder
+P02CA03,P02CA,P02CA03,Albendazol,Läkemedel,ATC-koder
+P02CF,P02C,P02CF,Avermektiner,Läkemedel,ATC-koder
+P02CF01,P02CF,P02CF01,Ivermektin,Läkemedel,ATC-koder
+P02CX,P02C,P02CX,Övriga medel mot nematoder,Läkemedel,ATC-koder
+P02CX01,P02CX,P02CX01,Pyrvin,Läkemedel,ATC-koder
+P02D,P02,P02D,Medel mot cestoder,Läkemedel,ATC-koder
+P02DA,P02D,P02DA,Salicylsyraderivat,Läkemedel,ATC-koder
+P02DA01,P02DA,P02DA01,Niklosamid,Läkemedel,ATC-koder
+P03,P,P03,"Medel mot ektoparasiter, inkl. skabb-, insektsdödande och repellerande medel",Läkemedel,ATC-koder
+P03A,P03,P03A,"Medel mot ektoparasiter, inkl. skabbmedel",Läkemedel,ATC-koder
+P03AA,P03A,P03AA,Svavelhaltiga preparat,Läkemedel,ATC-koder
+P03AA54,P03AA,P03AA54,"Disulfiram, kombinationer",Läkemedel,ATC-koder
+P03AC,P03A,P03AC,"Pyretriner, inkl. syntetiska föreningar",Läkemedel,ATC-koder
+P03AC04,P03AC,P03AC04,Permetrin,Läkemedel,ATC-koder
+P03AX,P03A,P03AX,"Övriga medel mot ektoparasiter, inkl. skabbmedel",Läkemedel,ATC-koder
+P03AX03,P03AX,P03AX03,Malation,Läkemedel,ATC-koder
+R,0,R,Andningsorgan,Läkemedel,ATC-koder
+R01,R,R01,Medel vid nässjukdomar,Läkemedel,ATC-koder
+R01A,R01,R01A,Avsvällande och övriga medel för lokal behandling vid nässjukdomar,Läkemedel,ATC-koder
+R01AA,R01A,R01AA,Sympatomimetika,Läkemedel,ATC-koder
+R01AA05,R01AA,R01AA05,Oximetazolin,Läkemedel,ATC-koder
+R01AA07,R01AA,R01AA07,Xylometazolin,Läkemedel,ATC-koder
+R01AB,R01A,R01AB,"Sympatomimetika, kombinationer exkl. kortikosteroider",Läkemedel,ATC-koder
+R01AB06,R01AB,R01AB06,Xylometazolin,Läkemedel,ATC-koder
+R01AC,R01A,R01AC,"Antiallergika, exkl. kortikosteroider",Läkemedel,ATC-koder
+R01AC01,R01AC,R01AC01,Natriumkromoglikat,Läkemedel,ATC-koder
+R01AC02,R01AC,R01AC02,Levokabastin,Läkemedel,ATC-koder
+R01AC03,R01AC,R01AC03,Azelastin,Läkemedel,ATC-koder
+R01AD,R01A,R01AD,Kortikosteroider,Läkemedel,ATC-koder
+R01AD01,R01AD,R01AD01,Beklometason,Läkemedel,ATC-koder
+R01AD05,R01AD,R01AD05,Budesonid,Läkemedel,ATC-koder
+R01AD08,R01AD,R01AD08,Flutikason,Läkemedel,ATC-koder
+R01AD09,R01AD,R01AD09,Mometason,Läkemedel,ATC-koder
+R01AD11,R01AD,R01AD11,Triamcinolon,Läkemedel,ATC-koder
+R01AD12,R01AD,R01AD12,Flutikasonfuroat,Läkemedel,ATC-koder
+R01AD58,R01AD,R01AD58,"Flutikason, kombinationer",Läkemedel,ATC-koder
+R01AX,R01A,R01AX,Övriga medel vid nässjukdomar,Läkemedel,ATC-koder
+R01AX03,R01AX,R01AX03,Ipratropiumbromid,Läkemedel,ATC-koder
+R01AX10,R01AX,R01AX10,Övrigt,Läkemedel,ATC-koder
+R01B,R01,R01B,"Avsvällande medel, perorala",Läkemedel,ATC-koder
+R01BA,R01B,R01BA,Sympatomimetika,Läkemedel,ATC-koder
+R01BA01,R01BA,R01BA01,Fenylpropanolamin,Läkemedel,ATC-koder
+R01BA02,R01BA,R01BA02,Pseudoefedrin,Läkemedel,ATC-koder
+R01BA51,R01BA,R01BA51,"Fenylpropanolamin, kombinationer",Läkemedel,ATC-koder
+R01BA52,R01BA,R01BA52,"Pseudoefedrin, kombinationer",Läkemedel,ATC-koder
+R02,R,R02,Medel vid sjukdomar i strupe och svalg,Läkemedel,ATC-koder
+R02A,R02,R02A,Medel vid sjukdomar i strupe och svalg,Läkemedel,ATC-koder
+R02AA,R02A,R02AA,Antiseptika,Läkemedel,ATC-koder
+R02AA03,R02AA,R02AA03,"2,4-Diklorobensylalkohol",Läkemedel,ATC-koder
+R02AA15,R02AA,R02AA15,"Povidon, joderad",Läkemedel,ATC-koder
+R02AA20,R02AA,R02AA20,Övrigt,Läkemedel,ATC-koder
+R02AB,R02A,R02AB,Antibiotika,Läkemedel,ATC-koder
+R02AB30,R02AB,R02AB30,Gramicidin,Läkemedel,ATC-koder
+R02AD,R02A,R02AD,Lokalanestetika,Läkemedel,ATC-koder
+R02AD02,R02AD,R02AD02,Lidokain,Läkemedel,ATC-koder
+R02AX,R02A,R02AX,Övriga medel vid sjukdomar i strupe och svalg,Läkemedel,ATC-koder
+R02AX01,R02AX,R02AX01,Flurbiprofen,Läkemedel,ATC-koder
+R02AX03,R02AX,R02AX03,Bensydamin,Läkemedel,ATC-koder
+R03,R,R03,Medel vid obstruktiva luftvägssjukdomar,Läkemedel,ATC-koder
+R03A,R03,R03A,"Adrenergika, inhalationer",Läkemedel,ATC-koder
+R03AA,R03A,R03AA,Alfa- och beta-adrenoreceptoragonister,Läkemedel,ATC-koder
+R03AA01,R03AA,R03AA01,Adrenalin,Läkemedel,ATC-koder
+R03AB,R03A,R03AB,Icke-selektiva beta-adrenoceptor agonister,Läkemedel,ATC-koder
+R03AB03,R03AB,R03AB03,Orkiprenalin,Läkemedel,ATC-koder
+R03AC,R03A,R03AC,Selektiva beta-2-stimulerande medel,Läkemedel,ATC-koder
+R03AC02,R03AC,R03AC02,Salbutamol,Läkemedel,ATC-koder
+R03AC03,R03AC,R03AC03,Terbutalin,Läkemedel,ATC-koder
+R03AC12,R03AC,R03AC12,Salmeterol,Läkemedel,ATC-koder
+R03AC13,R03AC,R03AC13,Formoterol,Läkemedel,ATC-koder
+R03AC18,R03AC,R03AC18,Indakaterol,Läkemedel,ATC-koder
+R03AC19,R03AC,R03AC19,Olodaterol,Läkemedel,ATC-koder
+R03AK,R03A,R03AK,"Adrenergika i kombination med kortikosteroider eller övriga medel, exkl. antikolinergika",Läkemedel,ATC-koder
+R03AK06,R03AK,R03AK06,Salmeterol och flutikason,Läkemedel,ATC-koder
+R03AK07,R03AK,R03AK07,Formoterol och budesonid,Läkemedel,ATC-koder
+R03AK08,R03AK,R03AK08,Formoterol och beklometason,Läkemedel,ATC-koder
+R03AK10,R03AK,R03AK10,Vilanterol och flutikasonfuroat,Läkemedel,ATC-koder
+R03AK11,R03AK,R03AK11,Formoterol och flutikason,Läkemedel,ATC-koder
+R03AL,R03A,R03AL,Adrenergika i kombination med antikolinergika inkl. trippelkombinationer med kortikosteroider,Läkemedel,ATC-koder
+R03AL02,R03AL,R03AL02,Salbutamol och ipratropiumbromid,Läkemedel,ATC-koder
+R03AL03,R03AL,R03AL03,Vilanterol och umeklidiniumbromid,Läkemedel,ATC-koder
+R03AL04,R03AL,R03AL04,Indakaterol och glykopyrroniumbromid,Läkemedel,ATC-koder
+R03AL05,R03AL,R03AL05,Formoterol och aklidiniumbromid,Läkemedel,ATC-koder
+R03AL06,R03AL,R03AL06,Olodaterol och tiotropiumbromid,Läkemedel,ATC-koder
+R03AL08,R03AL,R03AL08,"Vilanterol, umeklidiniumbromid och flutikasonfuroat",Läkemedel,ATC-koder
+R03AL09,R03AL,R03AL09,"Formoterol, glykopyrroniumbromid och beklometason",Läkemedel,ATC-koder
+R03B,R03,R03B,"Övriga medel vid obstruktiva luftvägssjukdomar, inhalationer",Läkemedel,ATC-koder
+R03BA,R03B,R03BA,Glukokortikoider,Läkemedel,ATC-koder
+R03BA01,R03BA,R03BA01,Beklometason,Läkemedel,ATC-koder
+R03BA02,R03BA,R03BA02,Budesonid,Läkemedel,ATC-koder
+R03BA05,R03BA,R03BA05,Flutikason,Läkemedel,ATC-koder
+R03BA07,R03BA,R03BA07,Mometason,Läkemedel,ATC-koder
+R03BA08,R03BA,R03BA08,Ciklesonid,Läkemedel,ATC-koder
+R03BB,R03B,R03BB,Antikolinergika,Läkemedel,ATC-koder
+R03BB01,R03BB,R03BB01,Ipratropiumbromid,Läkemedel,ATC-koder
+R03BB04,R03BB,R03BB04,Tiotropiumbromid,Läkemedel,ATC-koder
+R03BB05,R03BB,R03BB05,Aklidiniumbromid,Läkemedel,ATC-koder
+R03BB06,R03BB,R03BB06,Glykopyrroniumbromid,Läkemedel,ATC-koder
+R03BB07,R03BB,R03BB07,Umeklidiniumbromid,Läkemedel,ATC-koder
+R03BC,R03B,R03BC,"Antiallergika, exkl. kortikosteroider",Läkemedel,ATC-koder
+R03BC01,R03BC,R03BC01,Natriumkromoglikat,Läkemedel,ATC-koder
+R03BC03,R03BC,R03BC03,Nedokromil,Läkemedel,ATC-koder
+R03C,R03,R03C,Adrenergika för systemiskt bruk,Läkemedel,ATC-koder
+R03CA,R03C,R03CA,Alfa- och beta-adrenoreceptoragonister,Läkemedel,ATC-koder
+R03CA02,R03CA,R03CA02,Efedrin,Läkemedel,ATC-koder
+R03CC,R03C,R03CC,Selektiva beta-2-stimulerande medel,Läkemedel,ATC-koder
+R03CC02,R03CC,R03CC02,Salbutamol,Läkemedel,ATC-koder
+R03CC03,R03CC,R03CC03,Terbutalin,Läkemedel,ATC-koder
+R03CC12,R03CC,R03CC12,Bambuterol,Läkemedel,ATC-koder
+R03D,R03,R03D,Övriga systemiska medel för obstruktiva lungsjukdomar,Läkemedel,ATC-koder
+R03DA,R03D,R03DA,Xantiner,Läkemedel,ATC-koder
+R03DA02,R03DA,R03DA02,Kolinteofyllinat,Läkemedel,ATC-koder
+R03DA04,R03DA,R03DA04,Teofyllin,Läkemedel,ATC-koder
+R03DA05,R03DA,R03DA05,Aminofyllin,Läkemedel,ATC-koder
+R03DC,R03D,R03DC,Leukotrienreceptorantagonister,Läkemedel,ATC-koder
+R03DC01,R03DC,R03DC01,Zafirlukast,Läkemedel,ATC-koder
+R03DC03,R03DC,R03DC03,Montelukast,Läkemedel,ATC-koder
+R03DX,R03D,R03DX,Övriga systemiska medel för obstruktiva lungsjukdomar,Läkemedel,ATC-koder
+R03DX05,R03DX,R03DX05,Omalizumab,Läkemedel,ATC-koder
+R03DX07,R03DX,R03DX07,Roflumilast,Läkemedel,ATC-koder
+R03DX09,R03DX,R03DX09,Mepolizumab,Läkemedel,ATC-koder
+R03DX10,R03DX,R03DX10,Benralizumab,Läkemedel,ATC-koder
+R05,R,R05,Medel mot hosta och förkylning,Läkemedel,ATC-koder
+R05C,R05,R05C,"Expektorantia, exkl. kombinationer med hostdämpande medel",Läkemedel,ATC-koder
+R05CA,R05C,R05CA,"Expektorantia, exkl. mukolytika",Läkemedel,ATC-koder
+R05CA03,R05CA,R05CA03,Guajfenesin,Läkemedel,ATC-koder
+R05CA10,R05CA,R05CA10,Kombinationer,Läkemedel,ATC-koder
+R05CA12,R05CA,R05CA12,"Murgröna, blad",Läkemedel,ATC-koder
+R05CB,R05C,R05CB,Mukolytika,Läkemedel,ATC-koder
+R05CB01,R05CB,R05CB01,Acetylcystein,Läkemedel,ATC-koder
+R05CB02,R05CB,R05CB02,Bromhexin,Läkemedel,ATC-koder
+R05CB05,R05CB,R05CB05,Mesna,Läkemedel,ATC-koder
+R05CB10,R05CB,R05CB10,Kombinationer,Läkemedel,ATC-koder
+R05CB13,R05CB,R05CB13,Dornas alfa (deoxiribonukleas),Läkemedel,ATC-koder
+R05CB15,R05CB,R05CB15,Erdostein,Läkemedel,ATC-koder
+R05D,R05,R05D,"Hosthämmande medel, exkl kombinationer med expektorantia",Läkemedel,ATC-koder
+R05DA,R05D,R05DA,Opiumalkaloider och derivat,Läkemedel,ATC-koder
+R05DA04,R05DA,R05DA04,Kodein,Läkemedel,ATC-koder
+R05DA07,R05DA,R05DA07,Noskapin,Läkemedel,ATC-koder
+R05DA09,R05DA,R05DA09,Dextrometorfan,Läkemedel,ATC-koder
+R05DA20,R05DA,R05DA20,Kombinationer,Läkemedel,ATC-koder
+R05DB,R05D,R05DB,Övriga hostdämpande medel,Läkemedel,ATC-koder
+R05DB05,R05DB,R05DB05,Pentoxiverin,Läkemedel,ATC-koder
+R05F,R05,R05F,Hosthämmande medel i kombination med expektorantia,Läkemedel,ATC-koder
+R05FA,R05F,R05FA,Opiumderivat och expektorantia,Läkemedel,ATC-koder
+R05FA02,R05FA,R05FA02,Opiumderivat och expektorantia,Läkemedel,ATC-koder
+R05FB,R05F,R05FB,Övriga hosthämmande medel i kombination med expektorantia,Läkemedel,ATC-koder
+R05FB02,R05FB,R05FB02,"Hosthämmande medel i kombination med expektorantia, exkl mukolytika",Läkemedel,ATC-koder
+R05X,R05,R05X,Övriga medel mot förkylning,Läkemedel,ATC-koder
+R06,R,R06,Antihistaminer för systemiskt bruk,Läkemedel,ATC-koder
+R06A,R06,R06A,Antihistaminer för systemiskt bruk,Läkemedel,ATC-koder
+R06AA,R06A,R06AA,Aminoalkyletrar,Läkemedel,ATC-koder
+R06AA02,R06AA,R06AA02,Dimenhydrinat,Läkemedel,ATC-koder
+R06AA04,R06AA,R06AA04,Klemastin,Läkemedel,ATC-koder
+R06AB,R06A,R06AB,"Alkylaminer, substituerade",Läkemedel,ATC-koder
+R06AB02,R06AB,R06AB02,Dexklorfeniramin,Läkemedel,ATC-koder
+R06AD,R06A,R06AD,Fentiazinderivat,Läkemedel,ATC-koder
+R06AD01,R06AD,R06AD01,Alimemazin,Läkemedel,ATC-koder
+R06AD02,R06AD,R06AD02,Prometazin,Läkemedel,ATC-koder
+R06AD03,R06AD,R06AD03,Tietylperazin,Läkemedel,ATC-koder
+R06AD52,R06AD,R06AD52,"Prometazin, kombinationer",Läkemedel,ATC-koder
+R06AE,R06A,R06AE,Piperazinderivat,Läkemedel,ATC-koder
+R06AE03,R06AE,R06AE03,Cyklizin,Läkemedel,ATC-koder
+R06AE05,R06AE,R06AE05,Meklozin,Läkemedel,ATC-koder
+R06AE06,R06AE,R06AE06,Oxatomid,Läkemedel,ATC-koder
+R06AE07,R06AE,R06AE07,Cetirizin,Läkemedel,ATC-koder
+R06AX,R06A,R06AX,Övriga antihistaminer för systemiskt bruk,Läkemedel,ATC-koder
+R06AX02,R06AX,R06AX02,Cyproheptadin,Läkemedel,ATC-koder
+R06AX13,R06AX,R06AX13,Loratadin,Läkemedel,ATC-koder
+R06AX17,R06AX,R06AX17,Ketotifen,Läkemedel,ATC-koder
+R06AX18,R06AX,R06AX18,Akrivastin,Läkemedel,ATC-koder
+R06AX22,R06AX,R06AX22,Ebastin,Läkemedel,ATC-koder
+R06AX25,R06AX,R06AX25,Mizolastin,Läkemedel,ATC-koder
+R06AX26,R06AX,R06AX26,Fexofenadin,Läkemedel,ATC-koder
+R06AX27,R06AX,R06AX27,Desloratadin,Läkemedel,ATC-koder
+R06AX28,R06AX,R06AX28,Rupatadin,Läkemedel,ATC-koder
+R06AX29,R06AX,R06AX29,Bilastin,Läkemedel,ATC-koder
+R07,R,R07,Övriga medel vid sjukdomar i andningsorganen,Läkemedel,ATC-koder
+R07A,R07,R07A,Övriga medel vid sjukdomar i andningsorganen,Läkemedel,ATC-koder
+R07AX,R07A,R07AX,Övriga medel vid sjukdomar i andningsorganen,Läkemedel,ATC-koder
+R07AX02,R07AX,R07AX02,Ivakaftor,Läkemedel,ATC-koder
+R07AX30,R07AX,R07AX30,Ivakaftor och lumakaftor,Läkemedel,ATC-koder
+R07AX31,R07AX,R07AX31,Ivakaftor och tezakaftor,Läkemedel,ATC-koder
+S,0,S,Ögon och öron,Läkemedel,ATC-koder
+S01,S,S01,Medel vid ögonsjukdomar,Läkemedel,ATC-koder
+S01A,S01,S01A,Antiinfektiva medel,Läkemedel,ATC-koder
+S01AA,S01A,S01AA,Antibiotika,Läkemedel,ATC-koder
+S01AA01,S01AA,S01AA01,Kloramfenikol,Läkemedel,ATC-koder
+S01AA02,S01AA,S01AA02,Klortetracyklin,Läkemedel,ATC-koder
+S01AA10,S01AA,S01AA10,Natamycin,Läkemedel,ATC-koder
+S01AA11,S01AA,S01AA11,Gentamicin,Läkemedel,ATC-koder
+S01AA12,S01AA,S01AA12,Tobramycin,Läkemedel,ATC-koder
+S01AA13,S01AA,S01AA13,Fusidinsyra,Läkemedel,ATC-koder
+S01AA20,S01AA,S01AA20,Antibiotika i kombination med andra läkemedel,Läkemedel,ATC-koder
+S01AA26,S01AA,S01AA26,Azitromycin,Läkemedel,ATC-koder
+S01AD,S01A,S01AD,Antivirala medel,Läkemedel,ATC-koder
+S01AD02,S01AD,S01AD02,Trifluridin,Läkemedel,ATC-koder
+S01AD03,S01AD,S01AD03,Aciklovir,Läkemedel,ATC-koder
+S01AD09,S01AD,S01AD09,Ganciklovir,Läkemedel,ATC-koder
+S01AE,S01A,S01AE,Fluorokinoloner,Läkemedel,ATC-koder
+S01AE03,S01AE,S01AE03,Ciprofloxacin,Läkemedel,ATC-koder
+S01AE05,S01AE,S01AE05,Levofloxacin,Läkemedel,ATC-koder
+S01AE07,S01AE,S01AE07,Moxifloxacin,Läkemedel,ATC-koder
+S01AX,S01A,S01AX,Övriga antiinfektiva medel,Läkemedel,ATC-koder
+S01AX05,S01AX,S01AX05,Bibrokatol,Läkemedel,ATC-koder
+S01AX08,S01AX,S01AX08,Hexamidin,Läkemedel,ATC-koder
+S01AX15,S01AX,S01AX15,Propamidin,Läkemedel,ATC-koder
+S01B,S01,S01B,Antiinflammatoriska medel,Läkemedel,ATC-koder
+S01BA,S01B,S01BA,Kortikosteroider,Läkemedel,ATC-koder
+S01BA01,S01BA,S01BA01,Dexametason,Läkemedel,ATC-koder
+S01BA02,S01BA,S01BA02,Hydrokortison,Läkemedel,ATC-koder
+S01BA04,S01BA,S01BA04,Prednisolon,Läkemedel,ATC-koder
+S01BA07,S01BA,S01BA07,Fluorometolon,Läkemedel,ATC-koder
+S01BA13,S01BA,S01BA13,Rimexolon,Läkemedel,ATC-koder
+S01BA14,S01BA,S01BA14,Loteprednol,Läkemedel,ATC-koder
+S01BC,S01B,S01BC,Icke-steroida antiinflammatoriska medel,Läkemedel,ATC-koder
+S01BC01,S01BC,S01BC01,Indometacin,Läkemedel,ATC-koder
+S01BC03,S01BC,S01BC03,Diklofenak,Läkemedel,ATC-koder
+S01BC10,S01BC,S01BC10,Nepafenak,Läkemedel,ATC-koder
+S01BC11,S01BC,S01BC11,Bromfenak,Läkemedel,ATC-koder
+S01C,S01,S01C,Antiinflammatoriska och antiinfektiva medel i kombination,Läkemedel,ATC-koder
+S01CA,S01C,S01CA,Kortikosteroider i kombination med antiinfektiva medel,Läkemedel,ATC-koder
+S01CA01,S01CA,S01CA01,Dexametason och antiinfektiva medel,Läkemedel,ATC-koder
+S01E,S01,S01E,Medel vid glaukom samt miotika,Läkemedel,ATC-koder
+S01EA,S01E,S01EA,Sympatomimetika vid glaukom,Läkemedel,ATC-koder
+S01EA01,S01EA,S01EA01,Adrenalin,Läkemedel,ATC-koder
+S01EA02,S01EA,S01EA02,Dipivefrin,Läkemedel,ATC-koder
+S01EA03,S01EA,S01EA03,Apraklonidin,Läkemedel,ATC-koder
+S01EA05,S01EA,S01EA05,Brimonidin,Läkemedel,ATC-koder
+S01EB,S01E,S01EB,Parasympatomimetika,Läkemedel,ATC-koder
+S01EB01,S01EB,S01EB01,Pilokarpin,Läkemedel,ATC-koder
+S01EB02,S01EB,S01EB02,Karbakol,Läkemedel,ATC-koder
+S01EB09,S01EB,S01EB09,Acetylkolin,Läkemedel,ATC-koder
+S01EB51,S01EB,S01EB51,"Pilokarpin, kombinationer",Läkemedel,ATC-koder
+S01EC,S01E,S01EC,Karbanhydrashämmare,Läkemedel,ATC-koder
+S01EC01,S01EC,S01EC01,Acetazolamid,Läkemedel,ATC-koder
+S01EC02,S01EC,S01EC02,Diklofenamid,Läkemedel,ATC-koder
+S01EC03,S01EC,S01EC03,Dorzolamid,Läkemedel,ATC-koder
+S01EC04,S01EC,S01EC04,Brinzolamid,Läkemedel,ATC-koder
+S01EC54,S01EC,S01EC54,"Brinzolamid, kombinationer",Läkemedel,ATC-koder
+S01ED,S01E,S01ED,Beta-receptorblockerande medel,Läkemedel,ATC-koder
+S01ED01,S01ED,S01ED01,Timolol,Läkemedel,ATC-koder
+S01ED02,S01ED,S01ED02,Betaxolol,Läkemedel,ATC-koder
+S01ED51,S01ED,S01ED51,"Timolol, kombinationer",Läkemedel,ATC-koder
+S01EE,S01E,S01EE,Prostaglandinanaloger,Läkemedel,ATC-koder
+S01EE01,S01EE,S01EE01,Latanoprost,Läkemedel,ATC-koder
+S01EE03,S01EE,S01EE03,Bimatoprost,Läkemedel,ATC-koder
+S01EE04,S01EE,S01EE04,Travoprost,Läkemedel,ATC-koder
+S01EE05,S01EE,S01EE05,Tafluprost,Läkemedel,ATC-koder
+S01F,S01,S01F,Mydriatika och cykloplegika,Läkemedel,ATC-koder
+S01FA,S01F,S01FA,Antikolinergika,Läkemedel,ATC-koder
+S01FA01,S01FA,S01FA01,Atropin,Läkemedel,ATC-koder
+S01FA02,S01FA,S01FA02,Skopolamin,Läkemedel,ATC-koder
+S01FA04,S01FA,S01FA04,Cyklopentolat,Läkemedel,ATC-koder
+S01FA05,S01FA,S01FA05,Homatropin,Läkemedel,ATC-koder
+S01FA06,S01FA,S01FA06,Tropikamid,Läkemedel,ATC-koder
+S01FA56,S01FA,S01FA56,"Tropikamid, kombinationer",Läkemedel,ATC-koder
+S01FB,S01F,S01FB,"Sympatomimetika, exkl. medel vid glaukom",Läkemedel,ATC-koder
+S01FB01,S01FB,S01FB01,Fenylefrin,Läkemedel,ATC-koder
+S01G,S01,S01G,Avsvällande medel och antiallergika,Läkemedel,ATC-koder
+S01GA,S01G,S01GA,Sympatomimetika som avsvällande medel,Läkemedel,ATC-koder
+S01GA01,S01GA,S01GA01,Nafazolin,Läkemedel,ATC-koder
+S01GA51,S01GA,S01GA51,"Nafazolin, kombinationer",Läkemedel,ATC-koder
+S01GA55,S01GA,S01GA55,"Fenylefrin, kombinationer",Läkemedel,ATC-koder
+S01GX,S01G,S01GX,Övriga antiallergika,Läkemedel,ATC-koder
+S01GX01,S01GX,S01GX01,Natriumkromoglikat,Läkemedel,ATC-koder
+S01GX02,S01GX,S01GX02,Levokabastin,Läkemedel,ATC-koder
+S01GX04,S01GX,S01GX04,Nedokromil,Läkemedel,ATC-koder
+S01GX06,S01GX,S01GX06,Emedastin,Läkemedel,ATC-koder
+S01GX07,S01GX,S01GX07,Azelastin,Läkemedel,ATC-koder
+S01GX08,S01GX,S01GX08,Ketotifen,Läkemedel,ATC-koder
+S01GX09,S01GX,S01GX09,Olopatadin,Läkemedel,ATC-koder
+S01GX10,S01GX,S01GX10,Epinastin,Läkemedel,ATC-koder
+S01H,S01,S01H,Lokalanestetika,Läkemedel,ATC-koder
+S01HA,S01H,S01HA,Lokalanestetika,Läkemedel,ATC-koder
+S01HA01,S01HA,S01HA01,Kokain,Läkemedel,ATC-koder
+S01HA02,S01HA,S01HA02,Oxibuprokain,Läkemedel,ATC-koder
+S01HA03,S01HA,S01HA03,Tetrakain,Läkemedel,ATC-koder
+S01HA06,S01HA,S01HA06,Cinkokain,Läkemedel,ATC-koder
+S01J,S01,S01J,Diagnostiska medel,Läkemedel,ATC-koder
+S01JA,S01J,S01JA,Färgämnen,Läkemedel,ATC-koder
+S01JA01,S01JA,S01JA01,Fluorescein,Läkemedel,ATC-koder
+S01JA51,S01JA,S01JA51,"Fluorescein, kombinationer",Läkemedel,ATC-koder
+S01L,S01,S01L,Medel vid kärlsjukdomar i ögat,Läkemedel,ATC-koder
+S01LA,S01L,S01LA,Medel mot kärlnybildning,Läkemedel,ATC-koder
+S01LA01,S01LA,S01LA01,Verteporfin,Läkemedel,ATC-koder
+S01LA04,S01LA,S01LA04,Ranibizumab,Läkemedel,ATC-koder
+S01LA05,S01LA,S01LA05,Aflibercept,Läkemedel,ATC-koder
+S01X,S01,S01X,Övriga medel vid ögonsjukdomar,Läkemedel,ATC-koder
+S01XA,S01X,S01XA,Övriga medel vid ögonsjukdomar,Läkemedel,ATC-koder
+S01XA02,S01XA,S01XA02,Retinol (vitamin A),Läkemedel,ATC-koder
+S01XA03,S01XA,S01XA03,"Natriumklorid, hyperton",Läkemedel,ATC-koder
+S01XA18,S01XA,S01XA18,Ciklosporin,Läkemedel,ATC-koder
+S01XA20,S01XA,S01XA20,Tårsubstitut och övriga indifferenta medel,Läkemedel,ATC-koder
+S01XA21,S01XA,S01XA21,Merkaptamin,Läkemedel,ATC-koder
+S02,S,S02,Medel vid öronsjukdomar,Läkemedel,ATC-koder
+S02A,S02,S02A,Antiinfektiva medel,Läkemedel,ATC-koder
+S02AA,S02A,S02AA,Antiinfektiva medel,Läkemedel,ATC-koder
+S02AA03,S02AA,S02AA03,Borsyra,Läkemedel,ATC-koder
+S02AA04,S02AA,S02AA04,Aluminiumacetotartrat,Läkemedel,ATC-koder
+S02AA06,S02AA,S02AA06,Väteperoxid,Läkemedel,ATC-koder
+S02AA10,S02AA,S02AA10,Ättiksyra,Läkemedel,ATC-koder
+S02AA15,S02AA,S02AA15,Ciprofloxacin,Läkemedel,ATC-koder
+S02B,S02,S02B,Kortikosteroider,Läkemedel,ATC-koder
+S02BA,S02B,S02BA,Kortikosteroider,Läkemedel,ATC-koder
+S02BA07,S02BA,S02BA07,Betametason,Läkemedel,ATC-koder
+S02C,S02,S02C,Kortikosteroider i kombination med antiinfektiva medel,Läkemedel,ATC-koder
+S02CA,S02C,S02CA,Kortikosteroider i kombination med antiinfektiva medel,Läkemedel,ATC-koder
+S02CA02,S02CA,S02CA02,Flumetason och antiinfektiva medel,Läkemedel,ATC-koder
+S02CA05,S02CA,S02CA05,Fluocinolonacetonid och antiinfektiva medel,Läkemedel,ATC-koder
+S02D,S02,S02D,Övriga medel vid öronsjukdomar,Läkemedel,ATC-koder
+S03,S,S03,Medel vid ögon- och öronsjukdomar,Läkemedel,ATC-koder
+S03C,S03,S03C,Kortikosteroider i kombination med antiinfektiva medel,Läkemedel,ATC-koder
+S03CA,S03C,S03CA,Kortikosteroider i kombination med antiinfektiva medel,Läkemedel,ATC-koder
+S03CA04,S03CA,S03CA04,Hydrokortison och antiinfektiva medel,Läkemedel,ATC-koder
+V,0,V,Övrigt,Läkemedel,ATC-koder
+V01,V,V01,Allergener,Läkemedel,ATC-koder
+V01A,V01,V01A,Allergener,Läkemedel,ATC-koder
+V01AA,V01A,V01AA,Allergenextrakt,Läkemedel,ATC-koder
+V01AA02,V01AA,V01AA02,Gräspollen,Läkemedel,ATC-koder
+V01AA03,V01AA,V01AA03,Husdammskvalster,Läkemedel,ATC-koder
+V01AA05,V01AA,V01AA05,Pollen från träd,Läkemedel,ATC-koder
+V01AA07,V01AA,V01AA07,Insekter,Läkemedel,ATC-koder
+V01AA10,V01AA,V01AA10,Örter,Läkemedel,ATC-koder
+V01AA11,V01AA,V01AA11,Djur,Läkemedel,ATC-koder
+V01AA20,V01AA,V01AA20,Övrigt,Läkemedel,ATC-koder
+V03,V,V03,"Medel vid förgiftningar, överdoseringar m.m.",Läkemedel,ATC-koder
+V03A,V03,V03A,"Medel vid förgiftningar, överdoseringar m.m.",Läkemedel,ATC-koder
+V03AB,V03A,V03AB,Medel vid förgiftningar,Läkemedel,ATC-koder
+V03AB01,V03AB,V03AB01,Ipekakuanharot,Läkemedel,ATC-koder
+V03AB03,V03AB,V03AB03,Edetat,Läkemedel,ATC-koder
+V03AB06,V03AB,V03AB06,Tiosulfat,Läkemedel,ATC-koder
+V03AB13,V03AB,V03AB13,Obidoxim,Läkemedel,ATC-koder
+V03AB14,V03AB,V03AB14,Protamin,Läkemedel,ATC-koder
+V03AB15,V03AB,V03AB15,Naloxon,Läkemedel,ATC-koder
+V03AB16,V03AB,V03AB16,Etanol,Läkemedel,ATC-koder
+V03AB18,V03AB,V03AB18,Kaliumpermanganat,Läkemedel,ATC-koder
+V03AB21,V03AB,V03AB21,Kaliumjodid,Läkemedel,ATC-koder
+V03AB25,V03AB,V03AB25,Flumazenil,Läkemedel,ATC-koder
+V03AB26,V03AB,V03AB26,Metionin,Läkemedel,ATC-koder
+V03AC,V03A,V03AC,Medel vid järnförgiftning,Läkemedel,ATC-koder
+V03AC01,V03AC,V03AC01,Deferoxamin,Läkemedel,ATC-koder
+V03AC02,V03AC,V03AC02,Deferipron,Läkemedel,ATC-koder
+V03AC03,V03AC,V03AC03,Deferasirox,Läkemedel,ATC-koder
+V03AE,V03A,V03AE,Medel för behandling av hyperkalemi och hyperfosfatemi,Läkemedel,ATC-koder
+V03AE01,V03AE,V03AE01,Polystyrensulfonat,Läkemedel,ATC-koder
+V03AE02,V03AE,V03AE02,Sevelamer,Läkemedel,ATC-koder
+V03AE03,V03AE,V03AE03,Lantankarbonat,Läkemedel,ATC-koder
+V03AE04,V03AE,V03AE04,Kalciumacetat och magnesiumkarbonat,Läkemedel,ATC-koder
+V03AE05,V03AE,V03AE05,Sukrojärn(III)oxihydroxid,Läkemedel,ATC-koder
+V03AE07,V03AE,V03AE07,Kalciumacetat,Läkemedel,ATC-koder
+V03AE09,V03AE,V03AE09,Patiromerkalcium,Läkemedel,ATC-koder
+V03AF,V03A,V03AF,Medel mot toxicitet vid cytostatikabehandling,Läkemedel,ATC-koder
+V03AF01,V03AF,V03AF01,Mesna,Läkemedel,ATC-koder
+V03AF02,V03AF,V03AF02,Dexrazoxan,Läkemedel,ATC-koder
+V03AF03,V03AF,V03AF03,Kalciumfolinat,Läkemedel,ATC-koder
+V03AF04,V03AF,V03AF04,Kalciumlevofolinat,Läkemedel,ATC-koder
+V03AF05,V03AF,V03AF05,Amifostin,Läkemedel,ATC-koder
+V03AF07,V03AF,V03AF07,Rasburikas,Läkemedel,ATC-koder
+V03AH,V03A,V03AH,Medel för behandling av hypoglykemi,Läkemedel,ATC-koder
+V03AH01,V03AH,V03AH01,Diazoxid,Läkemedel,ATC-koder
+V03AN,V03A,V03AN,Medicinska gaser,Läkemedel,ATC-koder
+V03AN01,V03AN,V03AN01,Syre,Läkemedel,ATC-koder
+V03AN05,V03AN,V03AN05,Medicinsk luft,Läkemedel,ATC-koder
+V03AX,V03A,V03AX,Övriga terapeutiska produkter,Läkemedel,ATC-koder
+V03AX03,V03AX,V03AX03,Kobicistat,Läkemedel,ATC-koder
+V04,V,V04,Diagnostiska medel,Läkemedel,ATC-koder
+V04C,V04,V04C,Övriga diagnostiska medel,Läkemedel,ATC-koder
+V04CA,V04C,V04CA,Medel för diabetestest,Läkemedel,ATC-koder
+V04CA02,V04CA,V04CA02,Glukos,Läkemedel,ATC-koder
+V04CD,V04C,V04CD,Medel för hypofysfunktionsprov,Läkemedel,ATC-koder
+V04CD01,V04CD,V04CD01,Metyrapon,Läkemedel,ATC-koder
+V04CF,V04C,V04CF,Tuberkulosdiagnostikum,Läkemedel,ATC-koder
+V04CF01,V04CF,V04CF01,Tuberkulin,Läkemedel,ATC-koder
+V04CJ,V04C,V04CJ,Tyreoideafunktionstest,Läkemedel,ATC-koder
+V04CJ02,V04CJ,V04CJ02,Protirelin,Läkemedel,ATC-koder
+V04CL,V04C,V04CL,Allergitest,Läkemedel,ATC-koder
+V04CM,V04C,V04CM,Tester för fertilitetsstörningar,Läkemedel,ATC-koder
+V04CM01,V04CM,V04CM01,Gonadorelin,Läkemedel,ATC-koder
+V04CX,V04C,V04CX,Övriga diagnostiska medel,Läkemedel,ATC-koder
+V06,V,V06,Näringspreparat,Läkemedel,ATC-koder
+V06C,V06,V06C,Näringspreparat för barn,Läkemedel,ATC-koder
+V06CA,V06C,V06CA,Medel vid fenylketonuri,Läkemedel,ATC-koder
+V06D,V06,V06D,Övriga näringspreparat,Läkemedel,ATC-koder
+V06DD,V06D,V06DD,"Aminosyror, inkl kombinationer med polypeptider",Läkemedel,ATC-koder
+V06DE,V06D,V06DE,"Aminosyror-, kolhydrat-, mineral och vitamintillskott, kombinationer",Läkemedel,ATC-koder
+V07,V,V07,Tekniska hjälpmedel,Läkemedel,ATC-koder
+V07A,V07,V07A,Tekniska hjälpmedel,Läkemedel,ATC-koder
+V07AB,V07A,V07AB,"Lösningar, spädningsvätskor och spolvätskor",Läkemedel,ATC-koder
+V07AB00,V07AB,V07AB00,,Läkemedel,ATC-koder
+V08,V,V08,Kontrastmedel,Läkemedel,ATC-koder
+V08A,V08,V08A,Joderade röntgenkontrastmedel,Läkemedel,ATC-koder
+V08AA,V08A,V08AA,"Vattenlösliga, högosmolära röntgenkontrastmedel med njuraffinitet",Läkemedel,ATC-koder
+V08AA01,V08AA,V08AA01,Amidotrizoinsyra,Läkemedel,ATC-koder
+V08AB,V08A,V08AB,"Vattenlösliga, lågosmolära röntgenkontrastmedel med njuraffinitet",Läkemedel,ATC-koder
+V08AB02,V08AB,V08AB02,Johexol,Läkemedel,ATC-koder
+V08AB09,V08AB,V08AB09,Jodixanol,Läkemedel,ATC-koder
+V08AB10,V08AB,V08AB10,Jomeprol,Läkemedel,ATC-koder
+V08C,V08,V08C,Kontrastmedel för magnetisk resonanstomografi,Läkemedel,ATC-koder
+V08CA,V08C,V08CA,Paramagnetiska kontrastmedel,Läkemedel,ATC-koder
+V08CA02,V08CA,V08CA02,Gadoterinsyra,Läkemedel,ATC-koder
+V08CA04,V08CA,V08CA04,Gadoteridol,Läkemedel,ATC-koder
+V08CA10,V08CA,V08CA10,Gadoxetinsyra,Läkemedel,ATC-koder
+V08D,V08,V08D,Kontrastmedel för ultraljudsundersökningar,Läkemedel,ATC-koder
+V08DA,V08D,V08DA,Kontrastmedel för ultraljudsundersökningar,Läkemedel,ATC-koder
+V08DA02,V08DA,V08DA02,Mikropartiklar av galaktos,Läkemedel,ATC-koder
+V08DA05,V08DA,V08DA05,Svavelhexafluorid,Läkemedel,ATC-koder
+V09,V,V09,Diagnostiska radiofarmaka,Läkemedel,ATC-koder
+V10,V,V10,Terapeutiska radiofarmaka,Läkemedel,ATC-koder
+V10X,V10,V10X,Övriga terapeutiska radiofarmaka,Läkemedel,ATC-koder
+V10XX,V10X,V10XX,Diverse terapeutiska radiofarmaka,Läkemedel,ATC-koder
+V10XX01,V10XX,V10XX01,Natriumfosfat(P-32),Läkemedel,ATC-koder
+V20,V,V20,Kirurgiska förband,Läkemedel,ATC-koder

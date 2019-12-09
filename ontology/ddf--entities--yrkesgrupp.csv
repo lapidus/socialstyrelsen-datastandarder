@@ -1,0 +1,126 @@
+﻿yrkesgrupp,code,name,name_english,sdb_amne,sdb_titel
+20,0001LK,Specialistläkare i kirurgi,Qualified Medical Specialist in General surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+23,0002LK,Specialistläkare i ortopedi,Qualified Medical Specialist in Orthopaedics,Hälso- och sjukvårdspersonal,yrkesgrupper
+59,0003LK,Specialistläkare i urologi,Qualified Medical Specialist in Urology,Hälso- och sjukvårdspersonal,yrkesgrupper
+66,0004LK,Specialistläkare i barn- och ungdomskirurgi,Qualified Medical Paediatric surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+72,0005LK,Specialistläkare i handkirurgi,Qualified Medical Hand surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+95,0006LK,Specialistläkare i plastikkirurgi,Qualified Medical Plastic surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+91,0007LK,Specialistläkare i neurokirurgi,Qualified Medical Neurological surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+104,0008LK,Specialistläkare i thoraxkirurgi,Qualified Medical Thoracic surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+14,0009LK,Specialistläkare i anestesi och intensivvård,Qualified Medical Specialist in Anaesthetics and/or Intensive Care,Hälso- och sjukvårdspersonal,yrkesgrupper
+22,0010LK,Specialistläkare i obstetrik och gynekologi,Qualified Medical Specialist in Obstetrics and Gynaecology,Hälso- och sjukvårdspersonal,yrkesgrupper
+71,0011LK,Specialistläkare i gynekologisk onkologi,Qualified Medical Gynaecological Oncology,Hälso- och sjukvårdspersonal,yrkesgrupper
+27,0012LK,"Specialistläkare i öron-, näs- och halssjukdomar",Qualified Medical Specialist in Oto rhino laryngology,Hälso- och sjukvårdspersonal,yrkesgrupper
+100,0013LK,Specialistläkare i röst- och talrubbningar,Qualified Medical Phoniatrics,Hälso- och sjukvårdspersonal,yrkesgrupper
+74,0014LK,Specialistläkare i hörsel- och balansrubbningar,Qualified Medical Audiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+26,0015LK,Specialistläkare i ögonsjukdomar,Qualified Medical Specialist in Ophthalmology,Hälso- och sjukvårdspersonal,yrkesgrupper
+18,0016LK,Specialistläkare i internmedicin,Qualified Medical Specialist in General medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+19,0017LK,Specialistläkare i kardiologi,Qualified Medical Specialist in Cardiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+70,0018LK,Specialistläkare i endokrinologi och diabetologi,Qualified Medical Endocrinology,Hälso- och sjukvårdspersonal,yrkesgrupper
+89,0019LK,Specialistläkare i medicinska njursjukdomar,Qualified Medical Renal diseases,Hälso- och sjukvårdspersonal,yrkesgrupper
+87,0020LK,Specialistläkare i lungsjukdomar,Qualified Medical Respiratory medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+73,0021LK,Specialistläkare i hematologi,Qualified Medical General Haematology,Hälso- och sjukvårdspersonal,yrkesgrupper
+62,0022LK,Specialistläkare i allergologi,Qualified Medical Allergology,Hälso- och sjukvårdspersonal,yrkesgrupper
+97,0023LK,Specialistläkare i reumatologi,Qualified Medical Rheumatology,Hälso- och sjukvårdspersonal,yrkesgrupper
+106,0024LK,Specialistläkare i arbets- och miljömedicin,Qualified Medical Occupational medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+17,0025LK,Specialistläkare i geriatrik,Qualified Medical Specialist in Geriatrics,Hälso- och sjukvårdspersonal,yrkesgrupper
+88,0026LK,Specialistläkare i medicinsk gastroenterologi och hepatologi,Qualified Medical Gastroenterology,Hälso- och sjukvårdspersonal,yrkesgrupper
+15,0027LK,Specialistläkare i barn- och ungdomsmedicin,Qualified Medical Specialist in Paediatrics,Hälso- och sjukvårdspersonal,yrkesgrupper
+63,0028LK,Specialistläkare i barn- och ungdomsallergologi,Qualified Medical Paediatric allergology,Hälso- och sjukvårdspersonal,yrkesgrupper
+67,0029LK,Specialistläkare i barn- och ungdomsneurologi med habilitering,Qualified Medical Paediatric Neurology with Habilitation,Hälso- och sjukvårdspersonal,yrkesgrupper
+65,0030LK,Specialistläkare i barn- och ungdomskardiologi,Qualified Medical Paediatric Cardiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+90,0031LK,Specialistläkare i neonatologi,Qualified Medical Neonatology,Hälso- och sjukvårdspersonal,yrkesgrupper
+13,0032LK,Specialistläkare i allmänmedicin,Qualified Medical Specialist in Family medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+24,0033LK,Specialistläkare i psykiatri,Qualified Medical Specialist in Psychiatry,Hälso- och sjukvårdspersonal,yrkesgrupper
+99,0034LK,Specialistläkare i rättspsykiatri,Qualified Medical Forensic Psychiatry,Hälso- och sjukvårdspersonal,yrkesgrupper
+54,0035LK,Specialistläkare i barn- och ungdomspsykiatri,Qualified Medical Specialist in Paediatric surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+21,0036LK,Specialistläkare i radiologi/bild- och funktionsmedicin,Qualified Medical Diagnostic radiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+92,0037LK,Specialistläkare i neuroradiologi,Qualified Medical Neurological surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+68,0038LK,Specialistläkare i barn- och ungdomsradiologi,Qualified Medical Paediatric radiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+85,0039LK,Specialistläkare i koagulations- och blödningsrubbningar,Qualified Medical Coagulation and bleeding disorders,Hälso- och sjukvårdspersonal,yrkesgrupper
+80,0040LK,Specialistläkare i klinisk immunologi och transfusionsmedicin,Qualified Medical Immunology,Hälso- och sjukvårdspersonal,yrkesgrupper
+75,0041LK,Specialistläkare i klinisk bakteriologi och virologi,Qualified Medical Microbiology-bacteriology,Hälso- och sjukvårdspersonal,yrkesgrupper
+78,0042LK,Specialistläkare i klinisk fysiologi,Qualified Medical Clinical Physiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+82,0043LK,Specialistläkare i klinisk neurofysiologi,Qualified Medical Clinical Neurophysiology,Hälso- och sjukvårdspersonal,yrkesgrupper
+81,0044LK,Specialistläkare i klinisk kemi,Qualified Medical Clinical Chemistry,Hälso- och sjukvårdspersonal,yrkesgrupper
+77,0045LK,Specialistläkare i klinisk farmakologi,Qualified Medical Pharmacology,Hälso- och sjukvårdspersonal,yrkesgrupper
+79,0046LK,Specialistläkare i klinisk genetik,Qualified Medical Clinical Genetics (Medical Genetics),Hälso- och sjukvårdspersonal,yrkesgrupper
+84,0047LK,Specialistläkare i klinisk patologi,Qualified Medical Pathological anatomy,Hälso- och sjukvårdspersonal,yrkesgrupper
+76,0048LK,Specialistläkare i klinisk cytologi,Qualified Medical Clinical Cytology,Hälso- och sjukvårdspersonal,yrkesgrupper
+98,0049LK,Specialistläkare i rättsmedicin,Qualified Medical Forensic Medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+103,0050LK,Specialistläkare i socialmedicin,Qualified Medical Community medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+16,0051LK,Specialistläkare i företagshälsovård,Qualified Medical Specialist in Industrial Health,Hälso- och sjukvårdspersonal,yrkesgrupper
+101,0052LK,Specialistläkare i skolhälsovård,Qualified Medical Student Health,Hälso- och sjukvårdspersonal,yrkesgrupper
+55,0053LK,Specialistläkare i hud- och könssjukdomar,Qualified Medical Specialist in Dermatology-venereology,Hälso- och sjukvårdspersonal,yrkesgrupper
+57,0054LK,Specialistläkare i neurologi,Qualified Medical Specialist in Neurology,Hälso- och sjukvårdspersonal,yrkesgrupper
+56,0055LK,Specialistläkare i infektionssjukdomar,Qualified Medical Specialist in Communicable diseases,Hälso- och sjukvårdspersonal,yrkesgrupper
+96,0056LK,Specialistläkare i rehabiliteringsmedicin,Qualified Medical Physiotherapy,Hälso- och sjukvårdspersonal,yrkesgrupper
+58,0057LK,Specialistläkare i onkologi,Qualified Medical Specialist in Radiotherapy,Hälso- och sjukvårdspersonal,yrkesgrupper
+83,0058LK,Specialistläkare i klinisk nutrition,Qualified Medical Clinical Nutrition,Hälso- och sjukvårdspersonal,yrkesgrupper
+102,0059LK,Specialistläkare i smärtlindring,Qualified Medical Pain medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+93,0060LK,Specialistläkare i nukleärmedicin,Qualified Medical Nuclear medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+61,0061LK,Specialistläkare i akutsjukvård,Qualified Medical Accident and emergency ,Hälso- och sjukvårdspersonal,yrkesgrupper
+64,0062LK,Specialistläkare i barn- och ungdomshematologi och onkologi,Qualified Medical Paediatric haematology and oncology,Hälso- och sjukvårdspersonal,yrkesgrupper
+69,0063LK,Specialistläkare i beroendemedicin,Qualified Medical Addiction medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+86,0064LK,Specialistläkare i kärlkirurgi,Qualified Medical Vascular surgery,Hälso- och sjukvårdspersonal,yrkesgrupper
+94,0065LK,Specialistläkare i palliativ medicin,Qualified Medical Palliative medicine,Hälso- och sjukvårdspersonal,yrkesgrupper
+105,0066LK,Specialistläkare i vårdhygien,Qualified Medical Infection prevention,Hälso- och sjukvårdspersonal,yrkesgrupper
+107,0067LK,Specialistläkare i äldre psykiatri,Qualified Medical Psychiatry for the elderly,Hälso- och sjukvårdspersonal,yrkesgrupper
+28,0069SJ,Specialistsjuksköterska i ambulanssjukvård,Specialist Nurse in Pre-hospital Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+29,0070SJ,Specialistsjuksköterska i anestesisjukvård och/eller intensivvård,Specialist Nurse in Anaesthetic and/or Intensice Care Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+36,0072SJ,Specialistsjuksköterska i distriktssköterska,Primary Health Care Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+30,0075SJ,Specialistsjuksköterska i hälso- och sjukvård för barn och ungdomar,Specialist Nurse in Paediatric Care Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+31,0076SJ,Specialistsjuksköterska i internmedicin och/eller kirurgi,Specialist Nurse in Surgical and/or Medical Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+32,0077SJ,Specialistsjuksköterska i onkologi,Specialist Nurse in Radiotherapy Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+33,0078SJ,Specialistsjuksköterska i operationssjukvård,Specialist Nurse in Operating Room Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+34,0079SJ,Specialistsjuksköterska i psykiatrisk vård,Specialist Nurse in Psychiatric Care Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+112,0081SJ,Specialistsjuksköterska - Annan specialisering,Specialist Nurse - Other specialist
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+35,0082SJ,Specialistsjuksköterska i vård av äldre,Specialist Nurse in Elderly Care Nursing,Hälso- och sjukvårdspersonal,yrkesgrupper
+118,0084TL,Specialisttandläkare i bettfysiologi,Qualified Dental Clinical oral physiology
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+119,0085TL,Specialisttandläkare i endodonti,Qualified Dental Endodontics
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+120,0086TL,Specialisttandläkare i odontologisk radiologi,Qualified Dental Odontological radiology
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+121,0087TL,Specialisttandläkare i oral kirurgi,Qualified Dental Maxillofacial surgery
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+122,0088TL,Specialisttandläkare i oral protetik,Qualified Dental Oral prosthetics
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+123,0090TL,Specialisttandläkare i ortodonti,Qualified Dental Orthodontics
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+124,0091TL,Specialisttandläkare i parodontologi,Qualified Dental Periodontics
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+125,0092TL,Specialisttandläkare i pedodonti,Qualified Dental Pedodontics
+,Hälso- och sjukvårdspersonal,yrkesgrupper
+1,AP,Apotekare,Pharmacist,Hälso- och sjukvårdspersonal,yrkesgrupper
+45,AT,Arbetsterapeut,Occupational Therapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+46,AU,Audionom,Audiologist,Hälso- och sjukvårdspersonal,yrkesgrupper
+38,BA,Biomedicinska analytiker,Biomedical Scientist,Hälso- och sjukvårdspersonal,yrkesgrupper
+2,BM,Barnmorska,Midwife,Hälso- och sjukvårdspersonal,yrkesgrupper
+47,DT,Dietist,Dietician,Hälso- och sjukvårdspersonal,yrkesgrupper
+3,FT,Fysioterapeut,Physiotherapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+48,KP,Kiropraktor,Chiropractor,Hälso- och sjukvårdspersonal,yrkesgrupper
+49,LG,Logoped,Speech Therapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+4,LK,Läkare,Physician,Hälso- och sjukvårdspersonal,yrkesgrupper
+130,LKEXAM,"Läkare, examinerade utan legitimation","Physician, graduated without license",Hälso- och sjukvårdspersonal,yrkesgrupper
+50,NA,Naprapat,Naprapath,Hälso- och sjukvårdspersonal,yrkesgrupper
+51,OP,Optiker,Optician,Hälso- och sjukvårdspersonal,yrkesgrupper
+52,OT,Ortopedingenjör,Orthopaedic Engineer/Technologist,Hälso- och sjukvårdspersonal,yrkesgrupper
+37,PS,Psykolog,Psychologist,Hälso- och sjukvårdspersonal,yrkesgrupper
+39,PT,Psykoterapeuter,Psychotherapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+60,PT_AT,Psykoterapeut med senast annan legitimation som arbetsterapeut,Psychotherapist with latest other License as a Occupational Therapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+43,PT_FT,Psykoterapeut med senast annan legitimation som fysioterapeut,Psychotherapist with latest other License as a Physiotherapist,Hälso- och sjukvårdspersonal,yrkesgrupper
+41,PT_LK,Psykoterapeut med senast annan legitimation som läkare,Psychotherapist with latest other License as a Physician,Hälso- och sjukvårdspersonal,yrkesgrupper
+44,PT_OVR,"Psykoterapeut med senast annan legitimation, övrig","Psychotherapist with latest other License, other",Hälso- och sjukvårdspersonal,yrkesgrupper
+40,PT_PS,Psykoterapeut med senast annan legitimation som psykolog,Psychotherapist with latest other License as a Psychologist,Hälso- och sjukvårdspersonal,yrkesgrupper
+42,PT_SJ,Psykoterapeut med senast annan legitimation som sjuksköterska,Psychotherapist with latest other License as a Nurse,Hälso- och sjukvårdspersonal,yrkesgrupper
+5,RC,Receptarie,Prescriptionist,Hälso- och sjukvårdspersonal,yrkesgrupper
+6,RS,Röntgensjuksköterska,Radiographer,Hälso- och sjukvårdspersonal,yrkesgrupper
+53,SF,Sjukhusfysiker,Medical Physicist,Hälso- och sjukvårdspersonal,yrkesgrupper
+7,SJ,Sjuksköterska,Nurse,Hälso- och sjukvårdspersonal,yrkesgrupper
+10,specLK,Alla specialistläkare,Qualified Medical Specialist,Hälso- och sjukvårdspersonal,yrkesgrupper
+11,specSJ,Alla specialistsjuksköterskor,Nurse Specialist,Hälso- och sjukvårdspersonal,yrkesgrupper
+12,specTL,Alla specialisttandläkare,Qualified Dental Specialist,Hälso- och sjukvårdspersonal,yrkesgrupper
+8,TH,Tandhygienist,Dental hygienist,Hälso- och sjukvårdspersonal,yrkesgrupper
+9,TL,Tandläkare,Dentist,Hälso- och sjukvårdspersonal,yrkesgrupper

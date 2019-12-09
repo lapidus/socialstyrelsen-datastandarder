@@ -1,0 +1,62 @@
+﻿variabel,grp,name,sdb_amne,sdb_titel
+G1,0,Graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+G11,G1,Mödrarnas BMI vid inskrivning till mödrahälsovården,"Graviditeter, förlossningar och nyfödda",Variabler
+G12,G1,Familjesituation,"Graviditeter, förlossningar och nyfödda",Variabler
+G13,G1,Tobaksvanor,"Graviditeter, förlossningar och nyfödda",Variabler
+G2,0,Förlossning,"Graviditeter, förlossningar och nyfödda",Variabler
+G21,G2,Förlossningssätt,"Graviditeter, förlossningar och nyfödda",Variabler
+G22,G2,Förlossningen startas,"Graviditeter, förlossningar och nyfödda",Variabler
+G23,G2,Smärtlindringar vid vaginal förlossning,"Graviditeter, förlossningar och nyfödda",Variabler
+G3,0,Nyfödda barn,"Graviditeter, förlossningar och nyfödda",Variabler
+G31,G3,Graviditetslängd,"Graviditeter, förlossningar och nyfödda",Variabler
+G32,G3,Födelsevikt,"Graviditeter, förlossningar och nyfödda",Variabler
+G33,G3,Dödlighet,"Graviditeter, förlossningar och nyfödda",Variabler
+V01,G1,Medelålder,"Graviditeter, förlossningar och nyfödda",Variabler
+V02,G11,BMI < 18.5,"Graviditeter, förlossningar och nyfödda",Variabler
+V03,G11,18.5 ≤ BMI < 25,"Graviditeter, förlossningar och nyfödda",Variabler
+V04,G11,25 ≤ BMI < 30,"Graviditeter, förlossningar och nyfödda",Variabler
+V05,G11,BMI ≥ 30,"Graviditeter, förlossningar och nyfödda",Variabler
+V06,G11,BMI medelvärde,"Graviditeter, förlossningar och nyfödda",Variabler
+V07,G12,Sammanbor med barnafadern,"Graviditeter, förlossningar och nyfödda",Variabler
+V08,G12,Annan familjesituation,"Graviditeter, förlossningar och nyfödda",Variabler
+V09,G13,Röker tre månader före aktuell graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V10,G13,Röker i tidig graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V12,G13,Snusar tre månader före aktuell graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V13,G13,Snusar i tidig graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V15,G1,Preeklampsi,"Graviditeter, förlossningar och nyfödda",Variabler
+V16,G1,Graviditetsdiabetes,"Graviditeter, förlossningar och nyfödda",Variabler
+V17,G2,Alla förlossningar,"Graviditeter, förlossningar och nyfödda",Variabler
+V18,G21,Kejsarsnitt (samtliga),"Graviditeter, förlossningar och nyfödda",Variabler
+V19,G21,Elektivt kejsarsnitt vid fullgången graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V20,G21,Akut kejsarsnitt vid fullgången graviditet,"Graviditeter, förlossningar och nyfödda",Variabler
+V21,G21,Instrumentell vaginal förlossning,"Graviditeter, förlossningar och nyfödda",Variabler
+V22,G22,"Vaginal förlossning, spontan start","Graviditeter, förlossningar och nyfödda",Variabler
+V23,G22,"Vaginal förlossning, inducerad start","Graviditeter, förlossningar och nyfödda",Variabler
+V24,G23,Epiduralbedövning (EDA),"Graviditeter, förlossningar och nyfödda",Variabler
+V25,G23,Pudendusblockad (PDB),"Graviditeter, förlossningar och nyfödda",Variabler
+V26,G23,Lustgas,"Graviditeter, förlossningar och nyfödda",Variabler
+V27,G23,Paracervikalblockad,"Graviditeter, förlossningar och nyfödda",Variabler
+V28,G23,Infiltration,"Graviditeter, förlossningar och nyfödda",Variabler
+V29,G23,Akupunktur,"Graviditeter, förlossningar och nyfödda",Variabler
+V30,G23,TENS,"Graviditeter, förlossningar och nyfödda",Variabler
+V31,G23,Bad,"Graviditeter, förlossningar och nyfödda",Variabler
+V32,G2,Bristningar grad III och IV,"Graviditeter, förlossningar och nyfödda",Variabler
+V33,G2,"Medelvårdtid vid vaginal förlossning, enkelbörd","Graviditeter, förlossningar och nyfödda",Variabler
+V34,G2,Flerbördsförlossningar,"Graviditeter, förlossningar och nyfödda",Variabler
+V35,G3,Födda barn,"Graviditeter, förlossningar och nyfödda",Variabler
+V36,G31,Graviditetslängd ≤ 31 veckor,"Graviditeter, förlossningar och nyfödda",Variabler
+V37,G31,Graviditetslängd 32-36 veckor,"Graviditeter, förlossningar och nyfödda",Variabler
+V38,G31,Graviditetslängd 37-41 veckor,"Graviditeter, förlossningar och nyfödda",Variabler
+V39,G31,Graviditetslängd ≥ 42 veckor,"Graviditeter, förlossningar och nyfödda",Variabler
+V40,G3,Apgar < 7 vid 5 min,"Graviditeter, förlossningar och nyfödda",Variabler
+V41,G32,Födelsevikt < 2500 g,"Graviditeter, förlossningar och nyfödda",Variabler
+V42,G32,2500-3499 g,"Graviditeter, förlossningar och nyfödda",Variabler
+V43,G32,3500-4499 g,"Graviditeter, förlossningar och nyfödda",Variabler
+V44,G32,≥ 4500 g,"Graviditeter, förlossningar och nyfödda",Variabler
+V45,G32,Medelfödelsevikt,"Graviditeter, förlossningar och nyfödda",Variabler
+V46,G32,"Födelsevikt < 1500 g hos levande fött barn, enkelbörd","Graviditeter, förlossningar och nyfödda",Variabler
+V47,G32,Lätt för tiden (SGA),"Graviditeter, förlossningar och nyfödda",Variabler
+V48,G32,Tung för tiden (LGA),"Graviditeter, förlossningar och nyfödda",Variabler
+V49,G33,Dödföddhet,"Graviditeter, förlossningar och nyfödda",Variabler
+V50,G33,Neonatal dödlighet 0-6 dygn,"Graviditeter, förlossningar och nyfödda",Variabler
+V51,G33,Neonatal dödlighet 0-27 dygn,"Graviditeter, förlossningar och nyfödda",Variabler
