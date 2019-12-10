@@ -1,0 +1,33 @@
+﻿mdc,name,sdb_amne,sdb_titel
+--,Samtliga huvudgrupper (Major Diagnostic Categories = MDC),DRG i sluten vård,MDC_2012_och_senare
+00,Pre-MDC,DRG i sluten vård,MDC_2012_och_senare
+01,Sjukdomar i nervsystemet,DRG i sluten vård,MDC_2012_och_senare
+02,Sjukdomar i öga och närliggande organ,DRG i sluten vård,MDC_2012_och_senare
+03,"Sjukdomar i öra, näsa, mun och hals",DRG i sluten vård,MDC_2012_och_senare
+04,Andningsorganens sjukdomar,DRG i sluten vård,MDC_2012_och_senare
+05,Cirkulationsorganens sjukdomar ,DRG i sluten vård,MDC_2012_och_senare
+06,Matsmältningsorganens sjukdomar,DRG i sluten vård,MDC_2012_och_senare
+07,"Sjukdomar i lever, gallvägar och bukspottkörtel",DRG i sluten vård,MDC_2012_och_senare
+08,"Sjukdomar i muskler, skelett och bindväv",DRG i sluten vård,MDC_2012_och_senare
+09,Sjukdomar i hud och underhud,DRG i sluten vård,MDC_2012_och_senare
+10,"Hormonella sjukdomar, ämnesomsättnings- och näringssjukdomar",DRG i sluten vård,MDC_2012_och_senare
+11,Sjukdomar i njure och urinvägar,DRG i sluten vård,MDC_2012_och_senare
+12,Sjukdomar i manliga könsorgan,DRG i sluten vård,MDC_2012_och_senare
+13,Sjukdomar i kvinnliga könsorgan,DRG i sluten vård,MDC_2012_och_senare
+14,"Graviditet, förlossning och barnsängstid ",DRG i sluten vård,MDC_2012_och_senare
+15,Nyfödda och vissa perinatala tillstånd ,DRG i sluten vård,MDC_2012_och_senare
+16,Blodsjukdomar och immunologiska rubbningar,DRG i sluten vård,MDC_2012_och_senare
+17,Sjukdomar i blodbildande organ och icke specificerade tumörer,DRG i sluten vård,MDC_2012_och_senare
+18,Infektions- och parasitsjukdomar inklusive HIV,DRG i sluten vård,MDC_2012_och_senare
+19,"Psykiska sjukdomar, beteendestörningar och alkohol- eller drogberoende",DRG i sluten vård,MDC_2012_och_senare
+20,Alkohol- och drogberoende samt drogframkallade organiska psykiska störningar,DRG i sluten vård,MDC_2012_och_senare
+21,"Skador, förgiftningar och toxiska effekter",DRG i sluten vård,MDC_2012_och_senare
+22,Brännskador,DRG i sluten vård,MDC_2012_och_senare
+23,Andra och ospecificerade hälsoproblem,DRG i sluten vård,MDC_2012_och_senare
+24,Multipelt trauma utom ytliga skador och sårskador,DRG i sluten vård,MDC_2012_och_senare
+25,HIV-infektion och HIV-relaterade sjukdomar,DRG i sluten vård,MDC_2012_och_senare
+30,Bröstkörtelsjukdomar,DRG i sluten vård,MDC_2012_och_senare
+40,MDC-övergripande problem i öppenvård,DRG i sluten vård,MDC_2012_och_senare
+50,Vårdgivarberoende grupper i öppenvård,DRG i sluten vård,MDC_2012_och_senare
+98,Sjukdomar i manliga/kvinnliga könsorgan,DRG i sluten vård,MDC_2012_och_senare
+99,Ospecifik eller felaktig information,DRG i sluten vård,MDC_2012_och_senare

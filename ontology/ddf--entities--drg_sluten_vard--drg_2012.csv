@@ -1,0 +1,1219 @@
+﻿drg,name,sdb_amne,sdb_titel
+A03A,"Intrakraniell kirurgi för tumör, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A03E,"Intrakraniell kirurgi för tumör, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A04N,Kirurgi för ej rupturerade intrakraniella aneurysm och kärlmissbildningar,DRG i sluten vård,DRG_2012_och_senare
+A05N,Intrakraniell kirurgi för kroniskt subduralhämatom,DRG i sluten vård,DRG_2012_och_senare
+A08A,"Annan intrakraniell kärlkirurgi, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A08E,"Annan intrakraniell kärlkirurgi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A09A,"Intrakraniell shuntkirurgi, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A09E,"Intrakraniell shuntkirurgi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A10A,"Annan kraniotomi vid traumadiagnos, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A10C,"Annan kraniotomi vid traumadiagnos, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A10E,"Annan kraniotomi vid traumadiagnos, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A11A,"Annan kraniotomi utan traumadiagnos, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A11E,"Annan kraniotomi utan traumadiagnos, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A15O,"Intrakraniella åtgärder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A16N,Intrakraniell strålbehandling,DRG i sluten vård,DRG_2012_och_senare
+A16O,"Stereotaktisk intrakraniell strålbehandling, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A20N,Implantation/byte av nervstimulator,DRG i sluten vård,DRG_2012_och_senare
+A20O,"Implantation/byte av nervstimulator, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A25N,Operationer på ryggmärg och närliggande vävnad,DRG i sluten vård,DRG_2012_och_senare
+A25O,"Operationer på ryggmärg och närliggande vävnad, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A28C,"Operationer på extrakraniella kärl, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A28E,"Operationer på extrakraniella kärl, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A28O,"Operationer på extrakraniella kärl, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A29N,Operationer på karpaltunnel,DRG i sluten vård,DRG_2012_och_senare
+A29O,"Operationer på karpaltunnel, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A35A,"Op på hjärnnerver & andra delar av nervsystemet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A35C,"Op på hjärnnerver & andra delar av nervsystemet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A35E,"Op på hjärnnerver & andra delar av nervsystemet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A35O,"Op på hjärnnerver & andra delar av nervsystemet, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A39N,Behandling/utredning under större anestesi vid neurologiska problem,DRG i sluten vård,DRG_2012_och_senare
+A40A,"Sjukdomar och skador i ryggmärgen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A40C,"Sjukdomar och skador i ryggmärgen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A40E,"Sjukdomar och skador i ryggmärgen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A43A,"Tumörer i nervsystemet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A43C,"Tumörer i nervsystemet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A43E,"Tumörer i nervsystemet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A44A,"Degenerativa sjukdomar i nervsystemet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A44E,"Degenerativa sjukdomar i nervsystemet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A45C,"Multipel scleros och cerebellär ataxi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A45E,"Multipel scleros och cerebellär ataxi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A46A,"Specifika kärlsjukdomar i hjärnan exkl TIA, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A46C,"Specifika kärlsjukdomar i hjärnan exkl TIA, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A46E,"Specifika kärlsjukdomar i hjärnan exkl TIA, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A47N,TIA och ocklusion av precerebrala artärer,DRG i sluten vård,DRG_2012_och_senare
+A50N,Ospecifika kärlsjukdomar i hjärnan,DRG i sluten vård,DRG_2012_och_senare
+A51A,"Sjukdomar i hjärnnerver och perifera nerver, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A51C,"Sjukdomar i hjärnnerver och perifera nerver, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A51E,"Sjukdomar i hjärnnerver och perifera nerver, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A52A,"Infektioner i nervsystemet exkl virusmeningit, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A52E,"Infektioner i nervsystemet exkl virusmeningit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A53C,"Virusmeningit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A53E,"Virusmeningit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A55C,"Icke-traumatisk stupor och koma, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A55E,"Icke-traumatisk stupor och koma, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A56A,"Kramper och huvudvärk, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A56C,"Kramper och huvudvärk, komplicerad",DRG i sluten vård,DRG_2012_och_senare
+A56E,"Kramper och huvudvärk, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A60A,"Allvarlig traumatisk hjärnskada, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A60E,"Allvarlig traumatisk hjärnskada, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A61C,"Traumatisk hjärnskada, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A61E,"Traumatisk hjärnskada, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A62C,"Hjärnskakning, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A62E,"Hjärnskakning, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A69A,"Andra sjukdomar i nervsystemet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A69C,"Andra sjukdomar i nervsystemet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A69E,"Andra sjukdomar i nervsystemet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+A75O,"CNS-katetrar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A76O,"Algologiska blockader, resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A77O,"Algologiska blockader, övriga, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A78O,"CNS-diagnostik, annan, besök",DRG i sluten vård,DRG_2012_och_senare
+A79O,"Läkemedelstillförsel i CNS, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+A80O,"Lumbalpunktion, besök",DRG i sluten vård,DRG_2012_och_senare
+A81O,"Elektroencefalografier, besök",DRG i sluten vård,DRG_2012_och_senare
+A82O,"Elektromyo- och neurografier, besök",DRG i sluten vård,DRG_2012_och_senare
+A83O,"Inställning av inopererade stimulatorer/shuntar, besök",DRG i sluten vård,DRG_2012_och_senare
+A99O,Övriga läkarbesök vid sjukdomar i nervsystemet,DRG i sluten vård,DRG_2012_och_senare
+A99X,Läkarbesök i team vid sjukdomar i nervsystemet,DRG i sluten vård,DRG_2012_och_senare
+A99Z,Läkarvård per tel vid sjukdomar i nervsystemet,DRG i sluten vård,DRG_2012_och_senare
+B01N,Större operationer på ögat,DRG i sluten vård,DRG_2012_och_senare
+B02N,Operationer vid retinaavlossning,DRG i sluten vård,DRG_2012_och_senare
+B03N,Andra operationer på retina,DRG i sluten vård,DRG_2012_och_senare
+B04N,Operationer på näthinna,DRG i sluten vård,DRG_2012_och_senare
+B04O,"Operationer på retina, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B09C,"Operationer i orbita, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B09E,"Operationer i orbita, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B09O,"Operationer i orbita, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B11N,Primära operationer på iris,DRG i sluten vård,DRG_2012_och_senare
+B11O,"Primära operationer på iris, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B12N,Linsoperationer utom discission av sekundär katarakt,DRG i sluten vård,DRG_2012_och_senare
+B12O,"Linsoperationer utom discission av sekundär katarakt, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B15C,"Extraokulära operationer exkl ögonhåla, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B15E,"Extraokulära operationer exkl ögonhåla, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B15O,"Extraokulära operationer exkl ögonhåla, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B20C,"Intraokulära operationer utom på retina, iris och lins, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B20E,"Intraokulära operationer utom på retina, iris och lins, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B20O,"Intraokulära operationer utom på retina, iris och lins, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B29N,Lokal strålbehandling av ögat,DRG i sluten vård,DRG_2012_och_senare
+B30N,Hyphema,DRG i sluten vård,DRG_2012_och_senare
+B31N,Allvarliga akuta ögoninfektioner,DRG i sluten vård,DRG_2012_och_senare
+B35N,Neurologiska ögonsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+B39C,"Andra ögonsjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B39E,"Andra ögonsjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+B75O,"Ögondiagnostik med större undersökning, besök",DRG i sluten vård,DRG_2012_och_senare
+B76O,"Ögondiagnostik med biopsi, besök",DRG i sluten vård,DRG_2012_och_senare
+B77O,"Ögondiagnostik med annan undersökning, besök",DRG i sluten vård,DRG_2012_och_senare
+B78O,"Läkemedelstillförsel i ögonregionen, besök",DRG i sluten vård,DRG_2012_och_senare
+B79O,"Fotodynamisk behandling vid makuladegeneration, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+B80O,"Ögonåtgärder, terapeutiska, besök",DRG i sluten vård,DRG_2012_och_senare
+B81O,"Ögonfotografering, besök",DRG i sluten vård,DRG_2012_och_senare
+B99O,Övriga läkarbesök vid sjukdomar i ögonregionen,DRG i sluten vård,DRG_2012_och_senare
+B99X,Läkarbesök i team vid sjukdomar i ögonregionen,DRG i sluten vård,DRG_2012_och_senare
+B99Z,Läkarvård per tel vid sjukdomar i ögonregionen,DRG i sluten vård,DRG_2012_och_senare
+C01C,"Trakeostomi vid öron-, näs- och halssjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C01E,"Trakeostomi vid öron-, näs- och halssjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C01O,"Trakeostomi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C02N,Insättning av kokleaimplantat,DRG i sluten vård,DRG_2012_och_senare
+C05N,Andra större operationer på huvud eller hals,DRG i sluten vård,DRG_2012_och_senare
+C06N,Avlägsnande av parotisspottkörtel,DRG i sluten vård,DRG_2012_och_senare
+C07N,Andra spottkörteloperationer,DRG i sluten vård,DRG_2012_och_senare
+C08O,"Operationer på spottkörtel exkl avlägsnande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C09N,Operation av kluven läpp och gom,DRG i sluten vård,DRG_2012_och_senare
+C10N,Operationer på bihålor,DRG i sluten vård,DRG_2012_och_senare
+C10O,"Operationer på bihålor, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C13N,Operationer på hörselben och andra benstrukturer i örat,DRG i sluten vård,DRG_2012_och_senare
+C13O,"Operationer på hörselben och andra benstrukturer i örat, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C15N,"Diverse operationer på öron, näsa, mun och hals",DRG i sluten vård,DRG_2012_och_senare
+C15O,"Diverse operationer på öron, näsa, mun och hals, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C16O,"Diverse små operationer på öron, näsa, mun och hals, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C17N,Operation för sömnapnésyndrom,DRG i sluten vård,DRG_2012_och_senare
+C17O,"Operation för sömnapnésyndrom, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C18N,Näsplastiker,DRG i sluten vård,DRG_2012_och_senare
+C18O,"Näsplastiker, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C20N,"Operation på tonsiller och adenoid, utom enbart tonsill- och adenoidektomi",DRG i sluten vård,DRG_2012_och_senare
+C21N,Tonsillektomi och adenoidektomi enbart,DRG i sluten vård,DRG_2012_och_senare
+C22N,Operation på tonsiller och adenoid,DRG i sluten vård,DRG_2012_och_senare
+C22O,"Operationer på tonsiller och adenoid, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C29N,"Andra operationer i öron, näsa, mun och hals",DRG i sluten vård,DRG_2012_och_senare
+C29O,"Andra operationer i öron, näsa, mun och hals, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C30A,"Maligna och oklara tumörer i öron, näsa, mun och hals, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C30C,"Maligna och oklara tumörer i öron, näsa, mun och hals, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C30E,"Maligna och oklara tumörer i öron, näsa, mun och hals, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C31C,"Balansproblem, yrsel, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C31E,"Balansproblem, yrsel, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C32N,Näsblödning,DRG i sluten vård,DRG_2012_och_senare
+C33N,Epiglottit,DRG i sluten vård,DRG_2012_och_senare
+C35C,"Infektioner i övre luftvägar och öron, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C35E,"Infektioner i övre luftvägar och öron, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C36N,Krupp och laryngotrakeit,DRG i sluten vård,DRG_2012_och_senare
+C37C,"Obstruktivt sömnapnésyndrom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C37E,"Obstruktivt sömnapnésyndrom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C40C,"Nästrauma och näsdeformitet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C40E,"Nästrauma och näsdeformitet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C48C,"Andra sjukdomar i öra, näsa, mun & hals, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C48E,"Andra sjukdomar i öra, näsa, mun & hals, >17 år",DRG i sluten vård,DRG_2012_och_senare
+C49N,"Andra sjukdomar i öra, näsa, mun & hals, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+C50N,Operationer i munhålan,DRG i sluten vård,DRG_2012_och_senare
+C50O,"Operationer i munhålan, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C55A,"Tand- & munhålesjukdomar utom tandextrakt & restaurering, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C55C,"Tand- & munhålesjukdomar utom tandextrakt & restaurering, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C55E,"Tand- & munhålesjukdomar utom tandextrakt & restaurering, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+C56N,Tandextraktion eller restaurering,DRG i sluten vård,DRG_2012_och_senare
+C56O,"Tandextraktion eller restaurering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C70O,"Endoskopi av övre luftvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C75O,"ÖNH-åtgärder, större, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C76O,"Sömnapnéutredning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C77O,"Undersökning av dysfagi och icke-språklig oralmotorik, besök",DRG i sluten vård,DRG_2012_och_senare
+C78O,"ÖNH-biopsier, besök",DRG i sluten vård,DRG_2012_och_senare
+C79O,"ÖNH-incisioner och suturer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+C80O,"ÖNH-åtgärder, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+C81O,"Hörselförbättrande åtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+C82O,"Icke-operativa åtgärder vid kokleaimplantat, besök",DRG i sluten vård,DRG_2012_och_senare
+C83O,"Audiometri, resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+C84O,"Audiometri, övrig, besök",DRG i sluten vård,DRG_2012_och_senare
+C99O,Övriga läkarbesök vid sjukdomar i ÖNH-regionen,DRG i sluten vård,DRG_2012_och_senare
+C99X,Läkarbesök i team vid sjukdomar i ÖNH-regionen,DRG i sluten vård,DRG_2012_och_senare
+C99Z,Läkarvård per tel vid sjukdomar i ÖNH-regionen,DRG i sluten vård,DRG_2012_och_senare
+D01N,Lungtransplantation,DRG i sluten vård,DRG_2012_och_senare
+D01O,"Lungtransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D10A,"Större toraxoperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D10E,"Större toraxoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D10O,"Större toraxoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D19A,"Andra operationer på andningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D19C,"Andra operationer på andningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D19E,"Andra operationer på andningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D19O,"Andra operationer på andningsorganen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D20N,Respiratorbehandling för sjukdomar i andningsorganen,DRG i sluten vård,DRG_2012_och_senare
+D21N,Behandling med CPAP/BiPAP,DRG i sluten vård,DRG_2012_och_senare
+D22O,"Respiratorbehandling för sjukdomar i andningsorganen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D30A,"Lungemboli, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D30C,"Lungemboli, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D30E,"Lungemboli, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D31A,"Infektioner & inflammationer i andningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D31C,"Infektioner & inflammationer i andningsorganen, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D31E,"Infektioner & inflammationer i andningsorganen, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D32C,"Infektioner & inflammationer i andningsorganen, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D32E,"Infektioner & inflammationer i andningsorganen, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D35A,"Tumörer i andningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D35C,"Tumörer i andningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D35E,"Tumörer i andningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D40A,"Allvarliga toraxskador, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D40C,"Allvarliga toraxskador, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D40E,"Allvarliga toraxskador, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D41A,"Pleurautgjutning, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D41C,"Pleurautgjutning, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D41E,"Pleurautgjutning, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D42A,"Pneumotorax, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D42C,"Pneumotorax, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D42E,"Pneumotorax, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D45A,"Lungödem och respirationssvikt, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D45C,"Lungödem och respirationssvikt, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D45E,"Lungödem och respirationssvikt, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D46A,"Kroniska obstruktiva lungsjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D46C,"Kroniska obstruktiva lungsjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D46E,"Kroniska obstruktiva lungsjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D47A,"Lunginflammation, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D47C,"Lunginflammation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D47E,"Lunginflammation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D48A,"Interstitiella lungsjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D48E,"Interstitiella lungsjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D49A,"Bronkit och astma, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D49C,"Bronkit och astma, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D49E,"Bronkit och astma, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D50A,"Onormala fynd och symtom i andningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D50C,"Onormala fynd och symtom i andningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D50E,"Onormala fynd och symtom i andningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D69A,"Andra sjukdomar i andningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D69C,"Andra sjukdomar i andningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D69E,"Andra sjukdomar i andningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+D70O,"Endoskopi av nedre luftvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D75O,"Lungfunktionsundersökningar, besök",DRG i sluten vård,DRG_2012_och_senare
+D76O,"Toraxpunktion, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+D77O,"Lungmedicinska åtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+D99O,Övriga läkarbesök vid sjukdomar i andningsorganen,DRG i sluten vård,DRG_2012_och_senare
+D99X,Läkarbesök i team vid sjukdomar i andningsorganen,DRG i sluten vård,DRG_2012_och_senare
+D99Z,Läkarvård per tel vid sjukdomar i andningsorganen,DRG i sluten vård,DRG_2012_och_senare
+E01N,Hjärttransplantation och assisterad cirkulation,DRG i sluten vård,DRG_2012_och_senare
+E01O,"Hjärttransplantation och assisterad cirkulation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E02N,Operation av torakalt aortaaneurysm,DRG i sluten vård,DRG_2012_och_senare
+E03N,Perkutan implantation av hjärtklaff,DRG i sluten vård,DRG_2012_och_senare
+E04A,"Operation av hjärtklaffar, mycket komplicerat eller flera kompliserade",DRG i sluten vård,DRG_2012_och_senare
+E04C,"Operation av hjärtklaffar, flera eller, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E04E,"Operation av enstaka hjärtklaffar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E05O,"Operation av hjärtklaffar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E06N,Koronar bypass-operation med kateterisering,DRG i sluten vård,DRG_2012_och_senare
+E07A,"Koronar bypass-operation, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E07E,"Koronar bypass-operation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E07O,"Koronar bypass-operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E10A,"Större kardiovaskulära operationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E10E,"Större kardiovaskulära operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E10O,"Större kardiovaskulära operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E15A,"Andra kardiotorakala operationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E15C,"Andra kardiotorakala operationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E15E,"Andra kardiotorakala operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E15O,"Andra kardiotorakala operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E16N,Andra perkutana kardiovaskulära åtgärder,DRG i sluten vård,DRG_2012_och_senare
+E17N,Perkutan ablation för hjärtarytmi,DRG i sluten vård,DRG_2012_och_senare
+E18C,"Perkutan vidgning av kranskärl vid hjärtinfarkt, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E18E,"Perkutan vidgning av kranskärl vid hjärtinfarkt, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E19N,"Perkutan vidgning av kranskärl, ej hjärtinfarkt",DRG i sluten vård,DRG_2012_och_senare
+E19O,"Perkutana kardiovaskulära åtgärder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E20A,"Amputationer pga cirkulationssjukdomar, andra delar än övre extremitet eller tå, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E20C,"Amputationer pga cirkulationssjukdomar, andra delar än övre extremitet eller tå, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E20E,"Amputationer pga cirkulationssjukdomar, andra delar än övre extremitet eller tå, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E20O,"Amputationer pga cirkulationssjukdomar, andra delar än övre extremitet eller tå, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E21C,"Amputationer av övre extremitet eller tå pga cirkulationssjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E21E,"Amputationer av övre extremitet eller tå pga cirkulationssjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E21O,"Amputationer av övre extremitet eller tå pga cirkulationssjukdomar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E25N,Insättning eller byte av defibrillator,DRG i sluten vård,DRG_2012_och_senare
+E26A,"Insättning eller byte av permanent pacemaker, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E26C,"Insättning eller byte av permanent pacemaker, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E26E,"Insättning eller byte av permanent pacemaker, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E27A,"Borttagande av permanent pacemaker eller defibrillator, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E27E,"Borttagande av permanent pacemaker eller defibrillator, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E28O,"Insättning, byte eller borttagande av permanent pacemaker eller defibrillator, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E30N,Underbindning & stripping av ven,DRG i sluten vård,DRG_2012_och_senare
+E30O,"Underbindning & stripping av ven, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E35C,"Övriga kärloperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E35E,"Övriga kärloperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E35O,"Övriga kärloperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E39C,"Andra operationer vid sjukdomar i cirkulationsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E39E,"Andra operationer vid sjukdomar i cirkulationsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E39O,"Andra operationer vid sjukdomar i cirkulationsorganen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E40A,"Cirkulationssjukdomar med hjärtinfarkt, med kardiovaskulär komplikation, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E40C,"Cirkulationssjukdomar med hjärtinfarkt, med kardiovaskulär komplikation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E40E,"Cirkulationssjukdomar med hjärtinfarkt, med kardiovaskulär komplikation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E41A,"Cirkulationssjukdomar med hjärtinfarkt, utan kardiovaskulär komplikation, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E41C,"Cirkulationssjukdomar med hjärtinfarkt, utan kardiovaskulär komplikation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E41E,"Cirkulationssjukdomar med hjärtinfarkt, utan kardiovaskulär komplikation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E42N,"Cirkulationssjukdomar med hjärtinfarkt, avliden inom 3 dygn",DRG i sluten vård,DRG_2012_och_senare
+E43A,"Cirkulationssjukdomar med hjärtkateterisering, med komplicerande diagnos, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E43C,"Cirkulationssjukdomar med hjärtkateterisering, med komplicerande diagnos, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E43E,"Cirkulationssjukdomar med hjärtkateterisering, med komplicerande diagnos, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E44A,"Cirkulationssjukdomar med hjärtkateterisering, utan komplicerande diagnos, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E44C,"Cirkulationssjukdomar med hjärtkateterisering, utan komplicerande diagnos, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E44E,"Cirkulationssjukdomar med hjärtkateterisering, utan komplicerande diagnos, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E45O,"Cirkulationssjukdomar med hjärtkateterisering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E46A,"Akut och subakut endokardit, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E46C,"Akut och subakut endokardit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E46E,"Akut och subakut endokardit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E47A,"Hjärtsvikt och chock, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E47C,"Hjärtsvikt och chock, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E47E,"Hjärtsvikt och chock, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E48A,"Hjärtstillestånd, oförklarat, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E48E,"Hjärtstillestånd, oförklarat, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E50C,"Tromboflebit i djupa vener, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E50E,"Tromboflebit i djupa vener, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E51A,"Sjukdomar i perifera kärl, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E51C,"Sjukdomar i perifera kärl, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E51E,"Sjukdomar i perifera kärl, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E52A,"Hjärtsjukdomar pga ateroskleros, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E52C,"Hjärtsjukdomar pga ateroskleros, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E52E,"Hjärtsjukdomar pga ateroskleros, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E53A,"Hypertoni, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E53C,"Hypertoni, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E53E,"Hypertoni, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E60A,"Sjukdomar i hjärtklaffar och medfödda hjärtsjukdomar, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E60C,"Sjukdomar i hjärtklaffar och medfödda hjärtsjukdomar, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E60E,"Sjukdomar i hjärtklaffar och medfödda hjärtsjukdomar, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E61C,"Sjukdomar i hjärtklaffar och medfödda hjärtsjukdomar, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E61E,"Sjukdomar i hjärtklaffar och medfödda hjärtsjukdomar, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E65C,"Hjärtarytmier och överledningsstörningar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E65E,"Hjärtarytmier och överledningsstörningar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E66C,"Angina pectoris, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E66E,"Angina pectoris, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E67A,"Synkope och kollaps, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E67C,"Synkope och kollaps, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E67E,"Synkope och kollaps, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E68N,"Bröstsmärtor, ej angina pectoris",DRG i sluten vård,DRG_2012_och_senare
+E69A,"Andra cirkulationssjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E69C,"Andra cirkulationssjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E69E,"Andra cirkulationssjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+E75O,"Cirkulationsundersökning, invasiv, besök",DRG i sluten vård,DRG_2012_och_senare
+E76O,"Elkonvertering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E77O,"Sklerosering/embolisering av andra mindre kärl, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E78O,"Kardiell stimulering transesofagealt, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+E79O,"Kombinerade hjärtundersökningar, besök",DRG i sluten vård,DRG_2012_och_senare
+E80O,"Långtidsmonitorering av EKG eller blodtryck, besök",DRG i sluten vård,DRG_2012_och_senare
+E81O,"Sklerosering av ytliga varicer, besök",DRG i sluten vård,DRG_2012_och_senare
+E82O,"Arbetsprov, besök",DRG i sluten vård,DRG_2012_och_senare
+E83O,"Ekokardiografi, besök",DRG i sluten vård,DRG_2012_och_senare
+E84O,"Kärlfysiologiska undersökningar, besök",DRG i sluten vård,DRG_2012_och_senare
+E85O,"Elektrokardiogram (EKG), besök",DRG i sluten vård,DRG_2012_och_senare
+E86O,"Kärlbiopsier, besök",DRG i sluten vård,DRG_2012_och_senare
+E87O,"Ultraljud av kärl, besök",DRG i sluten vård,DRG_2012_och_senare
+E99O,Övriga läkarbesök vid sjukdomar i cirkulationsorganen,DRG i sluten vård,DRG_2012_och_senare
+E99X,Läkarbesök i team vid sjukdomar i cirkulationsorganen,DRG i sluten vård,DRG_2012_och_senare
+E99Z,Läkarvård per tel vid sjukdomar i cirkulationsorganen,DRG i sluten vård,DRG_2012_och_senare
+F01A,"Rektal resektion och exstirpation, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F01C,"Rektal resektion och exstirpation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F01E,"Rektal resektion och exstirpation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F01O,"Rektal resektion och exstirpation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F05A,"Större tunn- och tjocktarmsoperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F05C,"Större tunn- och tjocktarmsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F05E,"Större tunn- och tjocktarmsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F05O,"Större tunn- och tjocktarmsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F07A,"Adherenslösning och delning av brid, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F07C,"Adherenslösning och delning av brid, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F07E,"Adherenslösning och delning av brid, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F07O,"Adherenslösning och delning av brid, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F09A,"Mindre tunn- och tjocktarmsoperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F09C,"Mindre tunn- och tjocktarmsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F09E,"Mindre tunn- och tjocktarmsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F09O,"Mindre tunn- och tjocktarmsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F11A,"Större operationer på magsäck, matstrupe och tolvfingertarm, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F11E,"Större operationer på magsäck, matstrupe och tolvfingertarm, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F12C,"Andra operationer på magsäck, matstrupe och tolvfingertarm, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F12E,"Andra operationer på magsäck, matstrupe och tolvfingertarm, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F13O,"Operationer på magsäck, matstrupe och tolvfingertarm, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F15A,"Operationer i analregionen, stomirevisioner och andra mindre tarmingrepp, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F15C,"Operationer i analregionen, stomirevisioner och andra mindre tarmingrepp, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F15E,"Operationer i analregionen, stomirevisioner och andra mindre tarmingrepp, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F15O,"Operationer i analregionen, stomirevisioner och andra mindre tarmingrepp, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F20C,"Operationer av andra bråck än inguinala och femorala, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F20E,"Operationer av andra bråck än inguinala och femorala, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F20O,"Operationer av andra bråck än inguinala och femorala, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F23C,"Operationer av inguinala och femorala bråck, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F23E,"Operationer av inguinala och femorala bråck, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F24O,"Operationer av unilaterala inguinala och femorala bråck, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F25O,"Operationer av bilaterala inguinala och femorala bråck, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F26C,"Bråckoperationer, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F26E,"Bråckoperationer, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F30C,"Appendektomi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F30E,"Appendektomi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F30O,"Appendektomi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F35A,"Andra operationer i mage och tarm, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F35C,"Andra operationer i mage och tarm, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F35E,"Andra operationer i mage och tarm, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F35O,"Andra operationer i mage och tarm, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F39A,"Maligna tumörer i matsmältningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F39C,"Maligna tumörer i matsmältningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F39E,"Maligna tumörer i matsmältningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F40A,"Magsår och gastrointestinal blödning, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F40C,"Magsår och gastrointestinal blödning, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F40E,"Magsår och gastrointestinal blödning, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F43A,"Inflammatorisk tarmsjukdom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F43C,"Inflammatorisk tarmsjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F43E,"Inflammatorisk tarmsjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F45C,"Passagehinder i mag-tarmkanalen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F45E,"Passagehinder i mag-tarmkanalen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F47A,"Buksmärtor och gastroenteriter, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F47C,"Buksmärtor och gastroenteriter, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F47E,"Buksmärtor och gastroenteriter, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F49C,"Buksmärtor och gastroenteriter, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F49E,"Buksmärtor och gastroenteriter, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F59A,"Andra diagnoser i matsmältningsorganen, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F59C,"Andra diagnoser i matsmältningsorganen, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F59E,"Andra diagnoser i matsmältningsorganen, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+F65O,"Endoskopisk inläggning av gastrointestinal stent, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F66O,"Terapeutisk enteroskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F67O,"Terapeutisk endoskopi av övre gastrointestinalkanalen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F68O,"Endoskopisk hemorrojdbehandling, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F69O,"Annan terapeutisk rektoskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F70O,"Enteroskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F71O,"Koloskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F72O,"Endoskopi av övre gastrointestinalkanalen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F73O,"Rektosigmoideoskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F74O,"Kombinerad gastrointestinal endoskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F75O,"Mindre tarm- och bukåtgärder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F76O,"Gastrointestinala funktionstester, besök",DRG i sluten vård,DRG_2012_och_senare
+F77O,"Punktion/biopsi andra bukorgan, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F78O,"Punktion/biopsi lever/gallvägar/pankreas, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F79O,"Gastrointestinala sonder och katetrar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+F99O,Övriga läkarbesök vid sjukdomar i matsmältningsorganen,DRG i sluten vård,DRG_2012_och_senare
+F99X,Läkarbesök i team vid sjukdomar i matsmältningsorganen,DRG i sluten vård,DRG_2012_och_senare
+F99Z,Läkarvård per tel vid sjukdomar i matsmältningsorganen,DRG i sluten vård,DRG_2012_och_senare
+G01C,"Levertransplantation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G01E,"Levertransplantation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G01N,Levertransplantation,DRG i sluten vård,DRG_2012_och_senare
+G01O,"Levertransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G02N,Pankreastransplantation med eller utan njurtransplantation,DRG i sluten vård,DRG_2012_och_senare
+G02O,"Pankreastransplantation med eller utan njurtransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G05A,"Pankreas-, lever- eller shuntoperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G05C,"Pankreas-, lever- eller shuntoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G05E,"Pankreas-, lever- eller shuntoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G05O,"Pankreas-, lever- eller shuntoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G06A,"Gallvägsoperationer utom kolecystektomi, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G06C,"Gallvägsoperationer utom kolecystektomi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G06E,"Gallvägsoperationer utom kolecystektomi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G10C,"Kolecystektomi med exploration av koledokus, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G10E,"Kolecystektomi med exploration av koledokus, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G11A,"Kolecystektomi, öppen, utan exploration av koledokus, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G11C,"Kolecystektomi, öppen, utan exploration av koledokus, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G11E,"Kolecystektomi, öppen, utan exploration av koledokus, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G12A,"Laparo-/endoskopiska galloperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G12C,"Laparo-/endoskopiska galloperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G12E,"Laparo-/endoskopiska galloperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G13O,"Kolecystektomi och gallvägsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G20A,"Diagnostiska operationer på lever och gallvägar vid malign sjukdom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G20E,"Diagnostiska operationer på lever och gallvägar vid malign sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G21A,"Diagnostiska operationer på lever och gallvägar vid benign sjukdom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G21C,"Diagnostiska operationer på lever och gallvägar vid benign sjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G21E,"Diagnostiska operationer på lever och gallvägar vid benign sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G22O,"Diagnostiska operationer på lever och gallvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G29C,"Andra operationer på lever, gallvägar och pankreas, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G29E,"Andra operationer på lever, gallvägar och pankreas, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G29O,"Andra operationer på lever, gallvägar och pankreas, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G30A,"Cirros och alkoholhepatit, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G30C,"Cirros och alkoholhepatit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G30E,"Cirros och alkoholhepatit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G33A,"Maligna tumörer i pancreas, lever och gallvägar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G33C,"Maligna tumörer i pancreas, lever och gallvägar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G33E,"Maligna tumörer i pancreas, lever och gallvägar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G35A,"Sjukdomar i pankreas utom malignitet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G35C,"Sjukdomar i pankreas utom malignitet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G35E,"Sjukdomar i pankreas utom malignitet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G38A,"Sjukdomar i lever utom malign tumör, cirros och alkoholhepatit, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G38C,"Sjukdomar i lever utom malign tumör, cirros och alkoholhepatit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G38E,"Sjukdomar i lever utom malign tumör, cirros och alkoholhepatit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G40A,"Gallvägssjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G40C,"Gallvägssjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G40E,"Gallvägssjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+G70O,"Endoskopisk inläggning av stent i gallvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G71O,"Terapeutisk endoskopisk gallvägsundersökning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G72O,"Endoskopisk gallvägsundersökning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G75O,"Extrakorporeal stötvågslitotripsi gallvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+G99O,"Övriga läkarbesök vid sjukdomar i lever, gallvägar och bukspottkörtel",DRG i sluten vård,DRG_2012_och_senare
+G99X,"Läkarbesök i team vid sjukdomar i lever, gallvägar och bukspottkörtel",DRG i sluten vård,DRG_2012_och_senare
+G99Z,"Läkarvård per tel vid sjukdomar i lever, gallvägar och bukspottkörtel",DRG i sluten vård,DRG_2012_och_senare
+H00N,Dubbelsidiga eller multipla ledoperationer på extremiteter,DRG i sluten vård,DRG_2012_och_senare
+H01N,Sekundära ledproteser samt replantationer i höftet,DRG i sluten vård,DRG_2012_och_senare
+H02C,"Primära ledproteser i höft, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H02E,"Primära ledproteser i höft, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H03N,Sekundära ledproteser samt replantationer i knä/fotled,DRG i sluten vård,DRG_2012_och_senare
+H04N,Primära ledproteser i knä/fotled,DRG i sluten vård,DRG_2012_och_senare
+H06O,"Ledproteser på nedre extremitet, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H07C,"Operationer på höft och femur utom på större led, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H07E,"Operationer på höft och femur utom på större led, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H08C,"Operationer på höft och femur utom på större led, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H08E,"Operationer på höft och femur utom på större led, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H08O,"Operationer på höft och femur utom på större led, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H09N,"Amputation för sjukdomar i  muskler, ben eller bindväv",DRG i sluten vård,DRG_2012_och_senare
+H09O,"Amputation för sjukdomar i  muskler, ben eller bindväv, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H10O,"Större knäoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H12O,"Andra knäoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H13A,"Knäoperationer utom diagnostiska artroskopier, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H13C,"Knäoperationer utom diagnostiska artroskopier, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H13E,"Knäoperationer utom diagnostiska artroskopier, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H14N,Fotoperationer,DRG i sluten vård,DRG_2012_och_senare
+H14O,"Fotoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H16C,"Lokal excision och avlägsnande av internt fixationsmtrl i höft och lår, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H16E,"Lokal excision och avlägsnande av internt fixationsmtrl i höft och lår, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H16O,"Lokal excision och avlägsnande av internt fixationsmtrl i höft och lår, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H17C,Stor op höft/lår ej prot >17 K,DRG i sluten vård,DRG_2012_och_senare
+H17E,Stor op höft/lår ej prot >17 U,DRG i sluten vård,DRG_2012_och_senare
+H18C,Annan op höft/lår ej prot >17 K,DRG i sluten vård,DRG_2012_och_senare
+H18E,Annan op höft/lår ej prot >17 U,DRG i sluten vård,DRG_2012_och_senare
+H20C,"Spinal korrektion eller kombinerad ryggradsfusion, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H20E,"Spinal korrektion eller kombinerad ryggradsfusion, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H21C,"Annan ryggradsfusion, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H21E,"Annan ryggradsfusion, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H24C,"Andra rygg- och halsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H24E,"Andra rygg- och halsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H25O,"Rygg- och halsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H26A,"Större reimplantationer eller ledprotesoperationer på övre extremitet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H26E,"Större reimplantationer eller ledprotesoperationer på övre extremitet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H26O,"Större reimplantationer eller ledprotesoperationer på övre extremitet, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H27N,Större operationer på skuldra/armbåge eller andra armoperationer med komplicerande bidiagnos,DRG i sluten vård,DRG_2012_och_senare
+H27O,"Större operationer på skuldra/armbåge, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H28N,Andra operationer på skuldra/armbåge,DRG i sluten vård,DRG_2012_och_senare
+H28O,"Andra armoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H29N,Större tum- & ledoperationer eller andra hand- & handledsoperationer med komplicerande bidiagnos,DRG i sluten vård,DRG_2012_och_senare
+H29O,"Större tum- & ledoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H30N,Hand- och handledsoperationer utom på större leder,DRG i sluten vård,DRG_2012_och_senare
+H30O,"Hand- och handledsoperationer utom på större leder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H36A,"Operationer på fotled, underben eller överarm, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H36C,"Operationer på fotled, underben eller överarm, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H36E,"Operationer på fotled, underben eller överarm, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H37C,"Operationer på fotled, underben eller överarm, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H37E,"Operationer på fotled, underben eller överarm, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H38O,"Operationer på fotled, underben eller överarm, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H41N,Lokal excision och avlägsnande av internt fixationsmtrl utom i höft och lår,DRG i sluten vård,DRG_2012_och_senare
+H41O,"Lokal excision och avlägsnande av internt fixationsmtrl utom i höft och lår, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H42C,"Biopsier från muskel, ben och bindväv, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H42E,"Biopsier från muskel, ben och bindväv, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H42O,"Biopsier från muskel, ben och bindväv, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H43A,"Sårrevision och hudtransplantation för sjukdomar i muskler, ben och bindväv utom hand, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H43C,"Sårrevision och hudtransplantation för sjukdomar i muskler, ben och bindväv utom hand, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H43E,"Sårrevision och hudtransplantation för sjukdomar i muskler, ben och bindväv utom hand, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H43O,"Sårrevision och hudtransplantation för sjukdomar i muskler, ben och bindväv utom hand, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H44C,"Bindvävsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H44E,"Bindvävsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H44O,"Bindvävsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H45C,"Diagnostisk artroskopi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H45E,"Diagnostisk artroskopi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H45O,"Diagnostisk artroskopi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H49C,"Andra operationer på muskler, ben & bindväv, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H49E,"Andra operationer på muskler, ben & bindväv, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H49O,"Andra operationer på muskler, ben & bindväv",DRG i sluten vård,DRG_2012_och_senare
+H50N,Lårbensfrakturer,DRG i sluten vård,DRG_2012_och_senare
+H51A,"Höft- och bäckenfrakturer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H51C,"Höft- och bäckenfrakturer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H51E,"Höft- och bäckenfrakturer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H52C,"Höftledsluxation och distortion av höft, bäcken eller lår, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H52E,"Höftledsluxation och distortion av höft, bäcken eller lår, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H53A,"Osteomyelit, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H53C,"Osteomyelit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H53E,"Osteomyelit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H54A,"Maligna tumörer i muskel, bindväv och skelett samt patologiska frakturer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H54C,"Maligna tumörer i muskel, bindväv och skelett samt patologiska frakturer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H54E,"Maligna tumörer i muskel, bindväv och skelett samt patologiska frakturer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H55C,"Bindvävssjukdomar och vaskuliter, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H55E,"Bindvävssjukdomar och vaskuliter, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H56A,"Infektiösa artriter och bursiter, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H56C,"Infektiösa artriter och bursiter, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H56E,"Infektiösa artriter och bursiter, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H57A,"Specifika inflammatoriska artropatier, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H57C,"Specifika inflammatoriska artropatier, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H57E,"Specifika inflammatoriska artropatier, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H58C,"Andra artriter, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H58E,"Andra artriter, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H59C,"Artroser, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H59E,"Artroser, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H60A,"Medicinska ryggsjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H60C,"Medicinska ryggsjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H60E,"Medicinska ryggsjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H61C,"Andra bensjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H61E,"Andra bensjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H62N,"Symtom från muskulatur, ben och bindväv",DRG i sluten vård,DRG_2012_och_senare
+H63C,"Bursit, tendinit och myosit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H63E,"Bursit, tendinit och myosit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H64C,"Eftervård vid sjukdomar i muskler, ben & bindväv, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H64E,"Eftervård vid sjukdomar i muskler, ben & bindväv, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H65C,"Fraktur, stukning el luxation i underarm, hand el fot, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H65E,"Fraktur, stukning el luxation i underarm, hand el fot, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H66C,"Fraktur, stukning el luxation i överarm eller underben exkl fot, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H66E,"Fraktur, stukning el luxation i överarm eller underben exkl fot, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H67C,"Fraktur, stukning el luxation i överarm eller underben exkl fot, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H67E,"Fraktur, stukning el luxation i överarm eller underben exkl fot, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H69C,"Andra sjukdomar i muskler, ben & bindväv, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H69E,"Andra sjukdomar i muskler, ben & bindväv, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+H75O,"Sluten ledoperation eller frakturreposition, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H76O,"Externt sträck, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H77O,"Ledpunktion av djupare leder eller ledspolning, besök",DRG i sluten vård,DRG_2012_och_senare
+H78O,"Punktionsbiopsi rörelseapparatens mjukdelar, besök",DRG i sluten vård,DRG_2012_och_senare
+H79O,"Mjukdelsincisioner, mindre resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H80O,"Läkemedelstillförsel intraartikulärt, besök",DRG i sluten vård,DRG_2012_och_senare
+H81O,"Ortopedisk bandagering med cirkulärgips, besök",DRG i sluten vård,DRG_2012_och_senare
+H82O,"Extraktion av externt fixationsmaterial, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H83O,"Ortopedisk bandagering med gipsskena, besök",DRG i sluten vård,DRG_2012_och_senare
+H84O,"Implantation av skelettmarkör, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+H85O,"Ledpunktion, övriga leder, besök",DRG i sluten vård,DRG_2012_och_senare
+H86O,"Ortos för större leder, besök",DRG i sluten vård,DRG_2012_och_senare
+H87O,"Ortopedisk bandagering, ej gips, besök",DRG i sluten vård,DRG_2012_och_senare
+H88O,"Ortos för övriga leder, besök",DRG i sluten vård,DRG_2012_och_senare
+H99O,"Övriga läkarbesök vid sjukdomar i muskler, skelett och bindväv",DRG i sluten vård,DRG_2012_och_senare
+H99X,"Läkarbesök i team vid sjukdomar i muskler, skelett och bindväv",DRG i sluten vård,DRG_2012_och_senare
+H99Z,"Läkarvård per tel vid sjukdomar i muskler, skelett och bindväv",DRG i sluten vård,DRG_2012_och_senare
+J01C,"Hudtranspl & revision för hudulcus el cellulit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J01E,"Hudtranspl & revision för hudulcus el cellulit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J03C,"Hudtranspl & revision utom för hudulcus el cellulit, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J03E,"Hudtranspl & revision utom för hudulcus el cellulit, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J04O,"Hudtranspl & revision, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J10N,Perianala & pilonidala operationer,DRG i sluten vård,DRG_2012_och_senare
+J10O,"Perianala & pilonidala operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J20C,"Plastikkirurgiska operationer i hud och underhud, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J20E,"Plastikkirurgiska operationer i hud och underhud, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J20O,"Plastikkirurgiska operationer i hud och underhud, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J39A,"Andra operationer i hud och underhud, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J39C,"Andra operationer i hud och underhud, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J39E,"Andra operationer i hud och underhud, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J39O,"Andra operationer i hud och underhud, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J40C,"Kroniska hudsår, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J40E,"Kroniska hudsår, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J45A,"Svåra hudsjukdomar inkl malignt melanom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J45C,"Svåra hudsjukdomar inkl malignt melanom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J45E,"Svåra hudsjukdomar inkl malignt melanom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J50A,"Inflammation i hud & underhud, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J50C,"Inflammation i hud & underhud, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J50E,"Inflammation i hud & underhud, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J55A,"Trauma utan djupare skador, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J55C,"Trauma utan djupare skador, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J55E,"Trauma utan djupare skador, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J56N,"Trauma utan djupare skador, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+J60A,"Lättare hudsjukdomar, hudtumörer inkl skivepitelcancer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J60C,"Lättare hudsjukdomar, hudtumörer inkl skivepitelcancer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J60E,"Lättare hudsjukdomar, hudtumörer inkl skivepitelcancer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+J75O,"Diagnostik och behandling med ljus, resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+J76O,"Hudingrepp, större utom excision/biopsi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J77O,"Hudexcisioner i huvud-halsregionen & andra större, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J78O,"Övriga hudexcisioner och biopsier, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J79O,"Hudingrepp, övriga, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+J80O,"Medicinsk badbehandling och smörjning, besök",DRG i sluten vård,DRG_2012_och_senare
+J81O,"Hudsår, omläggning eller annan behandling, besök",DRG i sluten vård,DRG_2012_och_senare
+J99O,Övriga läkarbesök vid sjukdomar i hud och underhud,DRG i sluten vård,DRG_2012_och_senare
+J99X,Läkarbesök i team vid sjukdomar i hud och underhud,DRG i sluten vård,DRG_2012_och_senare
+J99Z,Läkarvård per tel vid sjukdomar i hud och underhud,DRG i sluten vård,DRG_2012_och_senare
+K01N,Mastektomi med rekonstruktion eller annan plastik,DRG i sluten vård,DRG_2012_och_senare
+K02N,Total mastektomi för malign tumör,DRG i sluten vård,DRG_2012_och_senare
+K02O,"Total mastektomi för malign tumör, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K03C,"Rekonstruktion eller annan plastik av bröst, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+K03E,"Rekonstruktion eller annan plastik av bröst, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+K03O,"Rekonstruktion eller annan plastik av bröst, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K04N,Subtotal mastektomi för malign tumör,DRG i sluten vård,DRG_2012_och_senare
+K04O,"Subtotal mastektomi för malign tumör, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K10N,Bröstoperationer för benignt tillstånd utom biopsi & lokal excision,DRG i sluten vård,DRG_2012_och_senare
+K10O,"Bröstoperationer för benignt tillstånd utom biopsi & lokal excision, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K11N,Bröstbiopsi & lokal excision för benignt tillstånd,DRG i sluten vård,DRG_2012_och_senare
+K11O,"Bröstbiopsi & lokal excision för benignt tillstånd, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K19N,Andra operationer vid bröstkörtelsjukdom,DRG i sluten vård,DRG_2012_och_senare
+K19O,"Andra operationer vid bröstkörtelsjukdom, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+K20C,"Maligna bröstsjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+K20E,"Maligna bröstsjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+K30N,Benigna bröstsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+K75O,"Incision/punktion bröst, besök",DRG i sluten vård,DRG_2012_och_senare
+K99O,Övriga läkarbesök vid bröstkörtelsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+K99X,Läkarbesök i team vid bröstkörtelsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+K99Z,Läkarvård per tel vid bröstkörtelsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+L01C,"Amputation av nedre extrem för endokrina, nutritiva & metabola sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L01E,"Amputation av nedre extrem för endokrina, nutritiva & metabola sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L01O,"Amputation av nedre extrem för endokrina, nutritiva & metabola sjukdomar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L05N,Hypofys- och binjureoperationer,DRG i sluten vård,DRG_2012_och_senare
+L05O,"Hypofys- och binjureoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L08A,"Mag-tarmoperationer mot fetma, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L08C,"Mag-tarmoperationer mot fetma, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L08E,"Mag-tarmoperationer mot fetma, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L08O,"Mag-tarmoperationer mot fetma, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L10N,Andra fetmaoperationer,DRG i sluten vård,DRG_2012_och_senare
+L10O,"Andra fetmaoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L20C,"Bisköldkörteloperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L20E,"Bisköldkörteloperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L20O,"Bisköldkörteloperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L25C,"Sköldkörteloperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L25E,"Sköldkörteloperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L25O,"Sköldkörteloperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L26N,Thyroglossusoperationer,DRG i sluten vård,DRG_2012_och_senare
+L26O,"Thyroglossusoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L39C,"Andra operationer för endokrin, nutrit & metab sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L39E,"Andra operationer för endokrin, nutrit & metab sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L39O,"Andra operationer för endokrin, nutrit & metab sjukdomar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L40A,"Diabetes, >35 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L40C,"Diabetes, >35 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L40E,"Diabetes, >35 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L45N,"Diabetes, 0-35 år",DRG i sluten vård,DRG_2012_och_senare
+L50A,"Nutritionssjukdomar och diverse metabola sjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L50C,"Nutritionssjukdomar och diverse metabola sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L50E,"Nutritionssjukdomar och diverse metabola sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L55N,Medfödda ämnesomsättningsrubbingar,DRG i sluten vård,DRG_2012_och_senare
+L60A,"Endokrina sjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L60C,"Endokrina sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L60E,"Endokrina sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+L75O,"Fettsugning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L76O,"Hormonprofiler, besök",DRG i sluten vård,DRG_2012_och_senare
+L77O,"Punktion av endokrina organ, besök",DRG i sluten vård,DRG_2012_och_senare
+L78O,"Metabola undersökningar, besök",DRG i sluten vård,DRG_2012_och_senare
+L79O,"Endokrintest, resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+L80O,"Endokrintest, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+L81O,"Nutritionsåtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+L99O,Övriga läkarbesök vid endokrina och metabola sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+L99X,Läkarbesök i team vid endokrina och metabola sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+L99Z,Läkarvård per tel vid endokrina och metabola sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+M01C,"Njurtransplantation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M01E,"Njurtransplantation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M01O,"Njurtransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M05A,"Njur-, urinledar- & större blåsoperation för maligna tumörer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M05C,"Njur-, urinledar- & större blåsoperation för maligna tumörer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M05E,"Njur-, urinledar- & större blåsoperation för maligna tumörer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M06C,"Njur-, urinledar- & större blåsoperation för benign sjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M06E,"Njur-, urinledar- & större blåsoperation för benign sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M07O,"Njur-, urinledar- & större blåsoperation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M08N,Insättning/revision/uttag av artificiell uretrasfinkter,DRG i sluten vård,DRG_2012_och_senare
+M10C,"Mindre urinblåsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M10E,"Mindre urinblåsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M10O,"Mindre urinblåsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M15C,"Transuretrala operationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M15E,"Transuretrala operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M15O,"Transuretrala operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M20N,Uretrala operationer,DRG i sluten vård,DRG_2012_och_senare
+M20O,"Uretrala operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M29A,"Andra njur & urinvägsoperationer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M29C,"Andra njur & urinvägsoperationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M29E,"Andra njur & urinvägsoperationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M29O,"Andra njur & urinvägsoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M31A,"Njursvikt, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M31C,"Njursvikt, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M31E,"Njursvikt, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M32N,Dialysbehandling,DRG i sluten vård,DRG_2012_och_senare
+M32P,"Dialysbehandling, öppenvård, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M32Q,"Dialysbehandling, öppenvård, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M35A,"Njur- och urinvägstumörer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M35C,"Njur- och urinvägstumörer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M35E,"Njur- och urinvägstumörer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M40A,"Njur- och urinvägsinfektioner, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M40C,"Njur- och urinvägsinfektioner, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M40E,"Njur- och urinvägsinfektioner, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M45C,"Litotripsi och/eller urinvägssten, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M45E,"Urinvägssten, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M46O,"Litotripsi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M50C,"Symtom från njurar och urinvägar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M50E,"Symtom från njurar och urinvägar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M55N,Uretrastriktur,DRG i sluten vård,DRG_2012_och_senare
+M68A,"Andra njur- och  urinvägssjukdomar, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M68C,"Andra njur- och  urinvägssjukdomar, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M68E,"Andra njur- och  urinvägssjukdomar, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+M69N,"Andra njur- och urinvägssjukdomar, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+M70O,"Terapeutisk endoskopi av urinvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M71O,"Endoskopi av övre urinvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M72O,"Endoskopi av nedre urinvägar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M75O,"Punktion av njure och retroperitoneum, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M76O,"Funktionsundersökningar av njurar och urinvägar, besök",DRG i sluten vård,DRG_2012_och_senare
+M77O,"Urogenitala åtgärder, resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+M78O,"Urogenitala åtgärder, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+M99O,Övriga läkarbesök vid sjukdomar i njure och urinvägar,DRG i sluten vård,DRG_2012_och_senare
+M99X,Läkarbesök i team vid sjukdomar i njure och urinvägar,DRG i sluten vård,DRG_2012_och_senare
+M99Z,Läkarvård per tel vid sjukdomar i njure och urinvägar,DRG i sluten vård,DRG_2012_och_senare
+N01N,Stor bäckenoperation på man,DRG i sluten vård,DRG_2012_och_senare
+N01O,"Stor bäckenoperation på man, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N05N,Transuretral prostatektomi,DRG i sluten vård,DRG_2012_och_senare
+N05O,"Transuretral prostatektomi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N10C,"Testikeloperationer för malign tumör, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N10E,"Testikeloperationer för malign tumör, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N11C,"Testikeloperationer för benigna sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N11E,"Testikeloperationer för benigna sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N12O,"Testikeloperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N15N,Penisoperationer,DRG i sluten vård,DRG_2012_och_senare
+N15O,"Penisoperationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N20N,"Omskärelse, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+N20O,"Omskärelse, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N21N,"Sterilisering, manlig",DRG i sluten vård,DRG_2012_och_senare
+N21O,"Sterilisering, manlig, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N30C,"Andra operationer på manliga genitalia för maligna tumörer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N30E,"Andra operationer på manliga genitalia för maligna tumörer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N31N,Andra operationer på manliga genitalia vid benign sjukdom,DRG i sluten vård,DRG_2012_och_senare
+N32O,"Andra operationer på manliga genitalia, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+N40C,"Maligna tumörer i manliga genitalia, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N40E,"Maligna tumörer i manliga genitalia, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N45N,Benign prostatahypertrofi,DRG i sluten vård,DRG_2012_och_senare
+N50C,"Inflammation i manliga genitalia, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N50E,"Inflammation i manliga genitalia, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+N59N,Andra sjukdomar i manliga genitalia,DRG i sluten vård,DRG_2012_och_senare
+N75O,"Manliga genitalia, biopsi, besök",DRG i sluten vård,DRG_2012_och_senare
+N99O,Övriga läkarbesök vid sjukdomar i manliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+N99X,Läkarbesök i team vid sjukdomar i manliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+N99Z,Läkarvård per tel vid sjukdomar i manliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+O01N,"Radikal hysterektomi, vulvektomi och bäckenutrymning",DRG i sluten vård,DRG_2012_och_senare
+O01O,"Radikal hysterektomi, vulvektomi och bäckenutrymning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O02A,"Operationer på uterus och adnex för malignitet utanför ovarier/adnex, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O02C,"Operationer på uterus och adnex för malignitet utanför ovarier/adnex, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O02E,"Operationer på uterus och adnex för malignitet utanför ovarier/adnex, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O02O,"Operationer på uterus och adnex för malignitet utanför ovarier/adnex, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O05N,Rekonstruktiva operationer på kvinnliga genitalia,DRG i sluten vård,DRG_2012_och_senare
+O05O,"Rekonstruktiva operationer på kvinnliga genitalia, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O10A,"Operationer på uterus och adenex för malignitet i ovarier/adnex, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O10C,"Operationer på uterus och adenex för malignitet i ovarier/adnex, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O10E,"Operationer på uterus och adenex för malignitet i ovarier/adnex, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O10O,"Operationer på uterus och adenex för malignitet i ovarier/adnex, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O15C,"Operationer på uterus och adenex för benign sjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O15E,"Operationer på uterus och adenex för benign sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O15O,"Operationer på uterus och adenex för benign sjukdom, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O20C,"Operationer på cervix, vagina och vulva, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O20E,"Operationer på cervix, vagina och vulva, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O20O,"Operationer på cervix, vagina och vulva, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O25N,Gynekologisk laparoskopi eller öppen sterilisering,DRG i sluten vård,DRG_2012_och_senare
+O25O,"Gynekologisk laparoskopi eller öppen sterilisering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O27N,Laparoskopisk eller endoskopisk sterilisering,DRG i sluten vård,DRG_2012_och_senare
+O27O,"Laparoskopisk eller endoskopisk sterilisering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O28C,"Skrapning, konisering och radioaktiva inlägg, för maligna tumörer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O28E,"Skrapning, konisering och radioaktiva inlägg, för maligna tumörer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O28N,"Skrapning och konisering, för benign sjukdom",DRG i sluten vård,DRG_2012_och_senare
+O29N,Skrapning/konis benign sjd,DRG i sluten vård,DRG_2012_och_senare
+O29O,"Skrapning, konisering och radioaktiva inlägg, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O39C,"Andra gynekologiska operationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O39E,"Andra gynekologiska operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O39O,"Andra gynekologiska operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O40A,"Maligna tumörer i kvinnliga genitalia, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O40C,"Maligna tumörer i kvinnliga genitalia, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O40E,"Maligna tumörer i kvinnliga genitalia, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O45C,"Infektioner i kvinnliga genitalia, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O45E,"Infektioner i kvinnliga genitalia, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O50C,"Menstruella störningar & andra problem i kvinnliga genitalia, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O50E,"Menstruella störningar & andra problem i kvinnliga genitalia, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+O70O,"Endoskopi av kvinnliga genitalia, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+O75O,"Reproduktionsmedicinska åtgärder, resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+O76O,"Reproduktionsmedicinska åtgärder, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+O77O,"Gynekologiska biopsier, besök",DRG i sluten vård,DRG_2012_och_senare
+O78O,"Gynekologiska övriga åtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+O99O,Övriga läkarbesök vid sjukdomar i kvinnliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+O99X,Läkarbesök i team vid sjukdomar i kvinnliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+O99Z,Läkarvård per tel vid sjukdomar i kvinnliga könsorgan,DRG i sluten vård,DRG_2012_och_senare
+P01A,"Kejsarsnitt, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P01C,"Kejsarsnitt, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P01E,"Kejsarsnitt, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P01O,"Kejsarsnitt, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P05A,"Vaginal förlossning, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P05C,"Vaginal förlossning, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P05E,"Vaginal förlossning, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P05O,"Vaginal förlossning, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P06N,"Vaginal förlossning, med sterilisering och/eller skrapning",DRG i sluten vård,DRG_2012_och_senare
+P06O,"Vaginal förlossning med relaterad operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P10N,Operation av extrauterin graviditet,DRG i sluten vård,DRG_2012_och_senare
+P10O,"Operation av extrauterin graviditet, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P11N,Sjukdomar i puerperiet med operationer,DRG i sluten vård,DRG_2012_och_senare
+P11O,Obstetriska problem med andra operationer i öppenvård,DRG i sluten vård,DRG_2012_och_senare
+P15C,"Sjukdomar i puerperiet utan operationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P15E,"Sjukdomar i puerperiet utan operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P19C,"Hotande abort eller prematur födsel, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P19E,"Hotande abort eller prematur födsel, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P20C,"Abort utan evakuering, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P20E,"Abort utan evakuering, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P21C,"Abort med evakuering eller hysterotomi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P21E,"Abort med evakuering eller hysterotomi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P22O,"Kirurgisk abort, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P23O,"Farmakologisk eller spontan abort, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P30N,Avstannat värkarbete,DRG i sluten vård,DRG_2012_och_senare
+P40N,Komplicerade antepartumdiagnoser,DRG i sluten vård,DRG_2012_och_senare
+P49C,"Andra antepartumdiagnoser, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P49E,"Andra antepartumdiagnoser, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+P75O,"Punktion foster/placenta, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+P76O,"Obstetriskt ultraljud, besök",DRG i sluten vård,DRG_2012_och_senare
+P99O,"Övriga läkarbesök vid graviditet, förlossning och barnsängstid",DRG i sluten vård,DRG_2012_och_senare
+P99X,"Läkarbesök i team vid graviditet, förlossning och barnsängstid",DRG i sluten vård,DRG_2012_och_senare
+P99Z,"Läkarvård per tel vid graviditet, förlossning och barnsängstid",DRG i sluten vård,DRG_2012_och_senare
+Q05N,"Nyfödd, död inom 2 dygn eller överförd till annan enhet inom 5 dygn",DRG i sluten vård,DRG_2012_och_senare
+Q10N,"Eftervård för neonatala problem, sent inträffande neonatala problem",DRG i sluten vård,DRG_2012_och_senare
+Q12N,Eftervård vid födselvikt < 1000g,DRG i sluten vård,DRG_2012_och_senare
+Q15N,"Nyfödd, födelsevikt under 1000 g",DRG i sluten vård,DRG_2012_och_senare
+Q20N,"Nyfödd, födelsevikt 1000-1499 g",DRG i sluten vård,DRG_2012_och_senare
+Q25N,"Nyfödd, födelsevikt 1500-2499 g, med multipla problem",DRG i sluten vård,DRG_2012_och_senare
+Q30N,"Nyfödd, födelsevikt 1500-2499 g, utan multipla problem",DRG i sluten vård,DRG_2012_och_senare
+Q35N,Respiratory distress syndrome hos prematur nyfödd,DRG i sluten vård,DRG_2012_och_senare
+Q40N,"Nyfödd, födelsevikt 1500 g eller mer, med större operation",DRG i sluten vård,DRG_2012_och_senare
+Q45N,"Nyfödd, födelsevikt 2500 g eller mer, med multipla problem",DRG i sluten vård,DRG_2012_och_senare
+Q50N,Respiratory distress syndrome hos annan nyfödd,DRG i sluten vård,DRG_2012_och_senare
+Q55N,"Nyfödd, födelsevikt 2500 g eller mer, med annat signifikant problem",DRG i sluten vård,DRG_2012_och_senare
+Q60N,Normal nyfödd,DRG i sluten vård,DRG_2012_och_senare
+Q99O,Övriga läkarbesök vid sjukdomar hos nyfödda,DRG i sluten vård,DRG_2012_och_senare
+Q99X,Läkarbesök i team vid sjukdomar hos nyfödda,DRG i sluten vård,DRG_2012_och_senare
+Q99Z,Läkarvård per tel vid sjukdomar hos nyfödda,DRG i sluten vård,DRG_2012_och_senare
+R01N,Mjältextirpation,DRG i sluten vård,DRG_2012_och_senare
+R01O,"Mjältextirpation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R05N,Annan åtgärd för sjukdom i blod eller blodbildande organ,DRG i sluten vård,DRG_2012_och_senare
+R05O,"Annan åtgärd för sjukdom i blod eller blodbildande organ, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R06A,"Anemi och andra sjukdomar i röda blodkroppar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R06C,"Anemi och andra sjukdomar i röda blodkroppar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R06E,"Anemi och andra sjukdomar i röda blodkroppar, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R07N,"Anemi och andra sjukdomar i röda blodkroppar, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+R08C,"Koagulationsstörningar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R08E,"Koagulationsstörningar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R09A,"Retikuloendoteliala- & immunologiska sjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R09C,"Retikuloendoteliala- & immunologiska sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R09E,"Retikuloendoteliala- & immunologiska sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R20N,"Allogen stamcellstransplantation, >17 år",DRG i sluten vård,DRG_2012_och_senare
+R21N,"Allogen stamcellstransplantation, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+R22O,"Allogen stamcellstransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R23C,"Annan stamcellstransplantation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R23E,"Annan stamcellstransplantation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R23O,"Annan stamcellstransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R26C,"Lymfom och leukemi med större operation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R26E,"Lymfom och leukemi med större operation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R27C,"Lymfom och icke-akut leukemi med andra operationer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R27E,"Lymfom och icke-akut leukemi med andra operationer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R28O,"Lymfom och leukemi med operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R29A,"Lymfom och icke-akut leukemi, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R29C,"Lymfom och icke-akut leukemi, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R29E,"Lymfom och icke-akut leukemi, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R30A,"Akut leukemi utan större operation, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R30C,"Akut leukemi utan större operation, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R30E,"Akut leukemi utan större operation, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R31C,"Akut leukemi utan större operation, 0-17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R31E,"Akut leukemi utan större operation, 0-17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R35N,"Myeloproliferativa sjukdomar, ospecificerade tumörer, med stor operation",DRG i sluten vård,DRG_2012_och_senare
+R35O,"Myeloproliferativa sjukdomar, ospecificerade tumörer, med stor operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R36C,"Myeloproliferativa sjukdomar, ospecificerade tumörer, med annan operation, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R36E,"Myeloproliferativa sjukdomar, ospecificerade tumörer, med annan operation, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R36O,"Myeloproliferativa sjukdomar, ospecificerade tumörer, med annan operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R40C,"Strålbehandling, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R40E,"Strålbehandling, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R50N,Kemoterapi vid akut leukemi som bidiagnos,DRG i sluten vård,DRG_2012_och_senare
+R50O,"Kemoterapi vid akut leukemi som bidiagnos, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R51N,Kemoterapi utan akut leukemi som bidiagnos,DRG i sluten vård,DRG_2012_och_senare
+R51O,"Kemoterapi utan akut leukemi som bidiagnos, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R60N,Malignitetsutredning,DRG i sluten vård,DRG_2012_och_senare
+R65A,"Myeloproliferativa sjukdomar och ospecificerade tumörer, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R65C,"Myeloproliferativa sjukdomar och ospecificerade tumörer, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R65E,"Myeloproliferativa sjukdomar och ospecificerade tumörer, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+R75O,"Transfusion med annan behandling, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R77O,"Koagulationstester, besök",DRG i sluten vård,DRG_2012_och_senare
+R78O,"Transfusion av erytrocyter eller helblod, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R79O,"Transfusion av andra blodkroppar, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+R85O,"Afereser och blodcellseparationer, större, besök",DRG i sluten vård,DRG_2012_och_senare
+R86O,"Afereser och blodcellseparationer, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+R87O,"Punktionsbiopsi ben och benmärg, besök",DRG i sluten vård,DRG_2012_och_senare
+R98O,Övriga läkarbesök vid blodsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+R98X,Läkarbesök i team vid blodsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+R98Z,Läkarvård per tel vid blodsjukdomar,DRG i sluten vård,DRG_2012_och_senare
+R99O,Övriga läkarbesök vid myeloproliferativa sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+R99X,Läkarbesök i team vid myeloproliferativa sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+R99Z,Läkarvård per tel vid myeloproliferativa sjukdomar,DRG i sluten vård,DRG_2012_och_senare
+S01A,"Operationer vid infektionssjukdomar, inklusive HIV, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S01C,"Operationer vid infektionssjukdomar, inklusive HIV, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S01E,"Operationer vid infektionssjukdomar, inklusive HIV, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S01O,"Operationer vid infektionssjukdomar, inklusive HIV, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+S05N,HIV med allvarlig HIV-relaterad sjukdom,DRG i sluten vård,DRG_2012_och_senare
+S06N,HIV utan allvarlig HIV-relaterad sjukdom,DRG i sluten vård,DRG_2012_och_senare
+S10A,"Sepsis, >17 år, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S10C,"Sepsis, >17 år, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S10E,"Sepsis, >17 år, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S11N,"Sepsis, 0-17 år",DRG i sluten vård,DRG_2012_och_senare
+S20A,"Postoperativa & posttraumatiska infektioner, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S20C,"Postoperativa & posttraumatiska infektioner, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S20E,"Postoperativa & posttraumatiska infektioner, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S30A,"Feber av okänd orsak, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S30C,"Feber av okänd orsak, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S30E,"Feber av okänd orsak, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S40A,"Virusinfektioner, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S40C,"Virusinfektioner, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S40E,"Virusinfektioner, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S59A,"Andra infektioner och parasitära sjukdomar, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S59C,"Andra infektioner och parasitära sjukdomar, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S59E,"Andra infektioner och parasitära sjukdomar, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+S99O,Övriga läkarbesök vid infektionssjukdomar och HIV,DRG i sluten vård,DRG_2012_och_senare
+S99X,Läkarbesök i team vid infektionssjukdomar och HIV,DRG i sluten vård,DRG_2012_och_senare
+S99Z,Läkarvård per tel vid infektionssjukdomar och HIV,DRG i sluten vård,DRG_2012_och_senare
+T01N,"Operationer vid psykiska sjukdomar, beteendestörningar och alkohol- eller drogberoende",DRG i sluten vård,DRG_2012_och_senare
+T01O,"Operationer vid psykiska sjukdomar, beteendestörningar och alkohol- eller drogberoende, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+T10N,"Bipolära syndrom, < 60 år",DRG i sluten vård,DRG_2012_och_senare
+T11N,"Bipolära syndrom, > 59 år",DRG i sluten vård,DRG_2012_och_senare
+T12N,"Övriga förstämningssyndrom,  < 60 år",DRG i sluten vård,DRG_2012_och_senare
+T13N,"Övriga förstämningssyndrom, > 59 år",DRG i sluten vård,DRG_2012_och_senare
+T15N,Ångestsyndrom,DRG i sluten vård,DRG_2012_och_senare
+T16N,"Maladaptiva stressreaktioner, icke akuta tillstånd",DRG i sluten vård,DRG_2012_och_senare
+T17N,"Maladaptiva stressreaktioner, akuta tillstånd",DRG i sluten vård,DRG_2012_och_senare
+T18N,Somatoforma och dissociativa syndrom,DRG i sluten vård,DRG_2012_och_senare
+T20N,Personlighetsstörningar,DRG i sluten vård,DRG_2012_och_senare
+T25C,"Organiska psykosyndrom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+T25E,"Organiska psykosyndrom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+T30N,"Schizofreni, < 30 år",DRG i sluten vård,DRG_2012_och_senare
+T31N,"Schizofreni, 30-59 år",DRG i sluten vård,DRG_2012_och_senare
+T32N,"Schizofreni, >59 år",DRG i sluten vård,DRG_2012_och_senare
+T35N,"Långvariga psykoser, ej schizofreni",DRG i sluten vård,DRG_2012_och_senare
+T36N,"Kortvariga psykoser, ej schizofreni",DRG i sluten vård,DRG_2012_och_senare
+T39N,Övriga psykotiska syndrom,DRG i sluten vård,DRG_2012_och_senare
+T40N,Mental retardation,DRG i sluten vård,DRG_2012_och_senare
+T41N,Neuropsykiatriska tillstånd,DRG i sluten vård,DRG_2012_och_senare
+T42N,Övriga psykiatriska tillstånd som debuterar hos barn och ungdom,DRG i sluten vård,DRG_2012_och_senare
+T47N,Ätstörningar,DRG i sluten vård,DRG_2012_och_senare
+T48N,Övriga specificerade psykiska störningar,DRG i sluten vård,DRG_2012_och_senare
+T49N,Ospecificerade psykiska störningar,DRG i sluten vård,DRG_2012_och_senare
+T58N,Psykiatrisk vård 29-90 dagar,DRG i sluten vård,DRG_2012_och_senare
+T59N,Psykiatrisk vård mer än 90 dagar,DRG i sluten vård,DRG_2012_och_senare
+T60N,Missbruk eller beroende av alkohol/droger med psykos eller personlighetsstörning,DRG i sluten vård,DRG_2012_och_senare
+T61A,"Missbruk eller beroende av alkohol/droger utan psykos, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+T61E,"Missbruk eller beroende av alkohol/droger utan psykos, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+T76O,"Elektrokonvulsiv terapi, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+T77O,"Psykosocial funktionsträning, besök",DRG i sluten vård,DRG_2012_och_senare
+T78O,"Systematisk psykologisk behandling, besök",DRG i sluten vård,DRG_2012_och_senare
+T79O,"Psykiatrisk ljusterapi, besök",DRG i sluten vård,DRG_2012_och_senare
+T99O,Övriga läkarbesök vid psykiska sjukdomar och drogberoende,DRG i sluten vård,DRG_2012_och_senare
+T99X,Läkarbesök i team vid psykiska sjukdomar och drogberoende,DRG i sluten vård,DRG_2012_och_senare
+T99Z,Läkarvård per tel vid psykiska sjukdomar och drogberoende,DRG i sluten vård,DRG_2012_och_senare
+U01N,Hudtransplantation efter skada,DRG i sluten vård,DRG_2012_och_senare
+U01O,"Hudtransplantation efter skada, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+U05N,Handkirurgiska ingrepp efter skada,DRG i sluten vård,DRG_2012_och_senare
+U05O,"Handkirurgiska ingrepp efter skada, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+U09O,"Andra större operationer efter skada, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+U19A,"Andra operationer efter skada, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U19C,"Andra operationer efter skada, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U19E,"Andra operationer efter skada, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U19O,"Andra operationer efter skada, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+U29A,"Skador, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U29C,"Skador, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U29E,"Skador, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U30C,"Allergiska reaktioner, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U30E,"Allergiska reaktioner, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U35A,"Förgiftningar, toxiska effekter av mediciner, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U35C,"Förgiftningar, toxiska effekter av mediciner, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U35E,"Förgiftningar, toxiska effekter av mediciner, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U41A,"Behandlingskomplikationer med kirurgisk åtgärd, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U41C,"Behandlingskomplikationer med kirurgisk åtgärd, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U41E,"Behandlingskomplikationer med kirurgisk åtgärd, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U42A,"Behandlingskomplikationer utan kirurgisk åtgärd, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U42C,"Behandlingskomplikationer utan kirurgisk åtgärd, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U42E,"Behandlingskomplikationer utan kirurgisk åtgärd, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U49A,"Andra sjukdomar efter skador, förgiftningar & toxiska effekter, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U49C,"Andra sjukdomar efter skador, förgiftningar & toxiska effekter, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U49E,"Andra sjukdomar efter skador, förgiftningar & toxiska effekter, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+U50N,Kraniotomi vid multipelt trauma,DRG i sluten vård,DRG_2012_och_senare
+U51N,"Reimplantation av extremitet, höft- och femurop, vid multipelt trauma",DRG i sluten vård,DRG_2012_och_senare
+U51O,"Reimplantation och andra op vid multipelt trauma, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+U59N,Övriga operationer vid multipelt trauma,DRG i sluten vård,DRG_2012_och_senare
+U64N,Konservativ behandling av multipelt trauma,DRG i sluten vård,DRG_2012_och_senare
+U75O,"Rättsmedicinsk undersökning, besök",DRG i sluten vård,DRG_2012_och_senare
+U98O,Övriga läkarbesök vid skador och förgiftningar,DRG i sluten vård,DRG_2012_och_senare
+U98X,Läkarbesök i team vid skador och förgiftningar,DRG i sluten vård,DRG_2012_och_senare
+U98Z,Läkarvård per tel vid skador och förgiftningar,DRG i sluten vård,DRG_2012_och_senare
+U99O,Övriga läkarbesök vid multitrauma,DRG i sluten vård,DRG_2012_och_senare
+U99X,Läkarbesök i team vid multitrauma,DRG i sluten vård,DRG_2012_och_senare
+U99Z,Läkarvård per tel vid multitrauma,DRG i sluten vård,DRG_2012_och_senare
+W01A,"Trakeostomi ej pga öron-, näs- och halssjukdom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W01E,"Trakeostomi ej pga öron-, näs- och halssjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+V01N,"Omfattande brännskador, med operation",DRG i sluten vård,DRG_2012_och_senare
+V01O,"Omfattande brännskador, med operation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+W02N,Extrakorp/assist cirkulation,DRG i sluten vård,DRG_2012_och_senare
+W09A,"Operationer utförda i samband med andra kontakter med sjukvården, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W09C,"Operationer utförda i samband med andra kontakter med sjukvården, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W09E,"Operationer utförda i samband med andra kontakter med sjukvården, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W09O,"Operationer utförda i samband med andra kontakter med sjukvården, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+W19A,"Kliniska fynd & symtom, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W19C,"Kliniska fynd & symtom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W19E,"Kliniska fynd & symtom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W20C,"Eftervård vid malign sjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W20E,"Eftervård vid malign sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+V20N,"Mindre omfattande brännskador, med hudtransplantation",DRG i sluten vård,DRG_2012_och_senare
+V20O,"Mindre omfattande brännskador, med hudtransplantation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+V21N,"Mindre omfattande brännskador, med sårrevision el andra operationer",DRG i sluten vård,DRG_2012_och_senare
+V21O,"Mindre omfattande brännskador, med sårrevision el andra operationer, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+W22C,"Eftervård vid annan sjukdom, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W22E,"Eftervård vid annan sjukdom, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W29A,"Andra faktorer med påverkan på hälsotillståndet, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W29C,"Andra faktorer med påverkan på hälsotillståndet, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+W29E,"Andra faktorer med påverkan på hälsotillståndet, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+V30N,"Omfattande brännskador, utan operation",DRG i sluten vård,DRG_2012_och_senare
+W30N,Rehab vid stroke UNS,DRG i sluten vård,DRG_2012_och_senare
+W31N,Rehab vid stroke. Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W32N,"Rehab vid stroke,  problem med personlig hygien",DRG i sluten vård,DRG_2012_och_senare
+W33N,Rehab vid stroke. Beroende av förflyttningshjälpmedel och hjälp med personlig hygien,DRG i sluten vård,DRG_2012_och_senare
+W34N,Rehab vid stroke. Totalt beroende av hjälp vid förflyttning,DRG i sluten vård,DRG_2012_och_senare
+W35N,Rehab vid demyeliniserande sjd UNS,DRG i sluten vård,DRG_2012_och_senare
+W36N,Rehab vid demyeliniserande sjd. Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W37N,Rehab vid ryggmärgsproblem UNS,DRG i sluten vård,DRG_2012_och_senare
+W38N,Rehab vid ryggmärgsproblem. Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W39N,"Rehab vid ryggmärgsproblem, förflytta sig med hjälpmedel, äta och dricka",DRG i sluten vård,DRG_2012_och_senare
+V40N,"Mindre omfattande brännskador, utan operation",DRG i sluten vård,DRG_2012_och_senare
+W40N,Rehab vid hjärnskada UNS,DRG i sluten vård,DRG_2012_och_senare
+W41N,Rehab vid hjärnskada. Beroende av hjälp vid förflyttning,DRG i sluten vård,DRG_2012_och_senare
+W42N,Rehab vid hjärntumör UNS,DRG i sluten vård,DRG_2012_och_senare
+W43N,Rehab vid hjärntumör.  Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W44N,Rehab vid annat neurologiskt problem UNS,DRG i sluten vård,DRG_2012_och_senare
+W45N,Rehab vid annat neurologiskt problem.  Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W46N,Rehab vid hjärt-lungproblem UNS,DRG i sluten vård,DRG_2012_och_senare
+W47N,Rehab vid hjärt-lungproblem.  Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W48N,Rehab vid bindvävssjd UNS,DRG i sluten vård,DRG_2012_och_senare
+W49N,Rehab vid bindvävssjd.  Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+V50N,"Brännskador, remitterad till annan akutenhet inom 5 dygn",DRG i sluten vård,DRG_2012_och_senare
+W50N,"Rehab vid bindvävssjd, med avföringsproblem",DRG i sluten vård,DRG_2012_och_senare
+W51N,"Rehab vid bindvävssjd, med urineringsproblem.",DRG i sluten vård,DRG_2012_och_senare
+W52N,"Rehab vid bindvävssjd, med avförings- och urineringsproblem.",DRG i sluten vård,DRG_2012_och_senare
+W53N,Rehab vid annat trauma UNS,DRG i sluten vård,DRG_2012_och_senare
+W54N,Rehab vid annat trauma. Gångproblem,DRG i sluten vård,DRG_2012_och_senare
+W55N,"Rehab vid annat trauma, med urineringsproblem.",DRG i sluten vård,DRG_2012_och_senare
+W56N,Rehab vid amputation UNS,DRG i sluten vård,DRG_2012_och_senare
+W57N,Rehab vid amputation. Beroende av förflyttningshjälpmedel,DRG i sluten vård,DRG_2012_och_senare
+W58N,Rehab av annat skäl UNS,DRG i sluten vård,DRG_2012_och_senare
+W59N,Rehab av annat skäl. Gångproblem,DRG i sluten vård,DRG_2012_och_senare
+W60N,Rehab av annat skäl. Interaktionsproblem,DRG i sluten vård,DRG_2012_och_senare
+W61N,"Rehab av annat skäl, med urineringsproblem",DRG i sluten vård,DRG_2012_och_senare
+W62N,"Rehab av annat skäl, med interaktions- och urineringsproblem",DRG i sluten vård,DRG_2012_och_senare
+W63N,Inpassning av annan yttre protes,DRG i sluten vård,DRG_2012_och_senare
+W63O,"Rehabilitering, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+V99O,Övriga läkarbesök vid brännskador,DRG i sluten vård,DRG_2012_och_senare
+W99O,Övriga läkarbesök vid andra problem,DRG i sluten vård,DRG_2012_och_senare
+V99X,Läkarbesök i team vid brännskador,DRG i sluten vård,DRG_2012_och_senare
+W99X,Läkarbesök i team vid andra problem,DRG i sluten vård,DRG_2012_och_senare
+V99Z,Läkarvård per tel vid brännskador,DRG i sluten vård,DRG_2012_och_senare
+W99Z,Läkarvård per tel vid andra problem,DRG i sluten vård,DRG_2012_och_senare
+X01O,"Intensivvårdsåtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+X02O,"Övervakning inom anestesiologi och intensivvård, besök",DRG i sluten vård,DRG_2012_och_senare
+X03O,"Arteriella nålar och katetrar, besök",DRG i sluten vård,DRG_2012_och_senare
+X05O,"Implantation av pump el injektionsport, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X06O,"Underhåll av läkemedelspump eller injektionsport, besök",DRG i sluten vård,DRG_2012_och_senare
+X10O,"Strålbehandling, resurskrävande i narkos, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X11O,"Strålbehandling, resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X12O,"Strålbehandling inklusive förberedande åtgärder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X13O,"Brakyterapi och isotopbehandling, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X14O,"Strålbehandling, mindre resurskrävande, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X15O,"Strålbehandlingsförberedelser, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X20O,"Farmakologiska smärttester, besök",DRG i sluten vård,DRG_2012_och_senare
+X21O,"Sensoriska smärttester, besök",DRG i sluten vård,DRG_2012_och_senare
+X22O,"Fördjupad smärtanalys, besök",DRG i sluten vård,DRG_2012_och_senare
+X23O,"Smärtbehandling med sensorisk stimulering, besök",DRG i sluten vård,DRG_2012_och_senare
+X24O,"Biofeedback och suggetionsterapi, besök",DRG i sluten vård,DRG_2012_och_senare
+X30O,"Dialyskontroll, besök",DRG i sluten vård,DRG_2012_och_senare
+X31O,"Pacemaker-/ICD-kontroll, besök",DRG i sluten vård,DRG_2012_och_senare
+X32O,"Stomier, kontroll och underhåll, besök",DRG i sluten vård,DRG_2012_och_senare
+X33O,"Kontroll av patient med pågående behandling, resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+X35O,"Allergi- eller immunbristutredning med provokation, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X36O,"Allergi- eller immunbristutredning, besök",DRG i sluten vård,DRG_2012_och_senare
+X40O,"Diagnostik och behandling med ljus, övrig, besök",DRG i sluten vård,DRG_2012_och_senare
+X41O,"Nuklearmedicinsk diagnostik, besök",DRG i sluten vård,DRG_2012_och_senare
+X42O,"Bestämning av kroppssammansättning, besök",DRG i sluten vård,DRG_2012_och_senare
+X43O,"Ultraljud, övrigt, besök",DRG i sluten vård,DRG_2012_och_senare
+X44O,"Neuromuskulär diagnostik och terapi, övrig, besök",DRG i sluten vård,DRG_2012_och_senare
+X45O,"Fysiologiska/funktionella undersökningar, övriga, besök",DRG i sluten vård,DRG_2012_och_senare
+X46O,"Yrkes- och miljömedicinska utredningar, besök",DRG i sluten vård,DRG_2012_och_senare
+X47O,"Yrkes- och miljömedicinska mätningar, besök",DRG i sluten vård,DRG_2012_och_senare
+X51O,"Venkatetrar, besök",DRG i sluten vård,DRG_2012_och_senare
+X53O,"Spolning eller avlägsnande av dränage, besök",DRG i sluten vård,DRG_2012_och_senare
+X54O,"Ödembehandling, besök",DRG i sluten vård,DRG_2012_och_senare
+X55O,"Hjälpmedelsåtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+X56O,"Protesutprovning eller kontroll, besök",DRG i sluten vård,DRG_2012_och_senare
+X57O,"Motorisk funktionsträning, besök",DRG i sluten vård,DRG_2012_och_senare
+X58O,"Övriga mindre åtgärder, besök",DRG i sluten vård,DRG_2012_och_senare
+X60O,"Undersökning av kommunikation, språk, tal och röst, besök",DRG i sluten vård,DRG_2012_och_senare
+X61O,"Bild- eller ljuddokumentation, ej röntgen, besök",DRG i sluten vård,DRG_2012_och_senare
+X62O,"Information och utbildning, besök",DRG i sluten vård,DRG_2012_och_senare
+X63O,"Vårdadministrativa åtgärder, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X70O,"Läkemedelstillförsel intravasalt, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+X71O,"Läkemedelstillförsel, övrig resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+X72O,"Läkemedelstillförsel, övrig mindre resurskrävande, besök",DRG i sluten vård,DRG_2012_och_senare
+X75O,"Funktionsutredningar, besök",DRG i sluten vård,DRG_2012_och_senare
+X90Z,"Annan vård per telefon, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Y75O,Övriga psykologbesök,DRG i sluten vård,DRG_2012_och_senare
+Y75X,Psykologbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y75Y,Psykologbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y76O,Övriga logopedbesök,DRG i sluten vård,DRG_2012_och_senare
+Y76X,Logopedbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y76Y,Logopedbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y77O,Övriga kuratorbesök,DRG i sluten vård,DRG_2012_och_senare
+Y77X,Kuratorbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y77Y,Kuratorbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y78O,Övriga ortoptistbesök,DRG i sluten vård,DRG_2012_och_senare
+Y78X,Ortoptistbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y78Y,Ortoptistbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y79O,Övriga arbetsterapeutbesök,DRG i sluten vård,DRG_2012_och_senare
+Y79X,Arbetsterapeutbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y79Y,Arbetsterapeutbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y80O,Övriga dietistbesök,DRG i sluten vård,DRG_2012_och_senare
+Y80X,Dietistbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y80Y,Dietistbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y81O,Övriga audionombesök,DRG i sluten vård,DRG_2012_och_senare
+Y81X,Audionombesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y81Y,Audionombesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y82O,Övriga sjukgymnastbesök,DRG i sluten vård,DRG_2012_och_senare
+Y82X,Sjukgymnastbesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y82Y,Sjukgymnastbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y83O,Övriga sjuksköterskebesök,DRG i sluten vård,DRG_2012_och_senare
+Y83X,Sjuksköterskebesök med team,DRG i sluten vård,DRG_2012_och_senare
+Y83Y,Sjuksköterskebesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Y84O,Övriga skötarebesök,DRG i sluten vård,DRG_2012_och_senare
+Y85O,Övriga undersköterskebesök,DRG i sluten vård,DRG_2012_och_senare
+Y90O,Övriga besök annan vårdgivarekategori,DRG i sluten vård,DRG_2012_och_senare
+Y99Y,Läkarbesök i grupp el gruppteam,DRG i sluten vård,DRG_2012_och_senare
+Z50A,"Tyngre sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd, mycket komplicerat",DRG i sluten vård,DRG_2012_och_senare
+Z50C,"Tyngre sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd, komplicerat",DRG i sluten vård,DRG_2012_och_senare
+Z50E,"Tyngre sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd, ej komplicerat",DRG i sluten vård,DRG_2012_och_senare
+Z50O,"Tyngre sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z60N,"Annan sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd",DRG i sluten vård,DRG_2012_och_senare
+Z60O,"Annan sällsynt, eller felaktig, kombination av huvuddiagnos och åtgärd, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z70N,Huvuddiagnos fattas,DRG i sluten vård,DRG_2012_och_senare
+Z70O,"Huvuddiagnos fattas, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z71N,Huvuddiagnos ogiltig,DRG i sluten vård,DRG_2012_och_senare
+Z71O,"Huvuddiagnos ogiltig, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z72N,Huvuddiagnos och patientens kön passar inte ihop,DRG i sluten vård,DRG_2012_och_senare
+Z72O,"Huvuddiagnos och patientens kön passar inte ihop, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z73N,Patientens kön fattas,DRG i sluten vård,DRG_2012_och_senare
+Z73O,"Patientens kön fattas, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z74N,Omöjlig eller alltför ospecificerad åtgärd,DRG i sluten vård,DRG_2012_och_senare
+Z74O,"Omöjlig eller alltför ospecificerad åtgärd, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z75N,Patienten är för ung för diagnosen,DRG i sluten vård,DRG_2012_och_senare
+Z75O,"Patienten är för ung för diagnosen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z76N,Patienten är för gammal för diagnosen,DRG i sluten vård,DRG_2012_och_senare
+Z76O,"Patienten är för gammal för diagnosen, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z77N,Patientens ålder är felaktig (> 125 år),DRG i sluten vård,DRG_2012_och_senare
+Z77O,"Patientens ålder är felaktig (> 125 år), öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z78N,Felaktig kombination av diagnos och åtgärd,DRG i sluten vård,DRG_2012_och_senare
+Z78O,"Felaktig kombination av diagnos och åtgärd, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z79N,Felaktig diagnoskombination,DRG i sluten vård,DRG_2012_och_senare
+Z79O,"Felaktig diagnoskombination, öppenvård",DRG i sluten vård,DRG_2012_och_senare
+Z80O,"Besökstyp el yrkeskategori saknas, öppenvård",DRG i sluten vård,DRG_2012_och_senare

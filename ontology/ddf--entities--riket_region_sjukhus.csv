@@ -1,0 +1,86 @@
+region,grp,code,name,name_english,sdb_kod
+0,-1,00,Riket,Entire Sweden,0
+1,0,01,Stockholm,Stockholm,1|10|110
+3,0,03,Uppsala,Uppsala,3|12|112
+4,0,04,Södermanland,Södermanland,4|13|113
+5,0,05,Östergötland,Östergötland,5|21|121
+6,0,06,Jönköping,Jönköping,6|22122
+7,0,07,Kronoberg,Kronoberg,7|23|123
+8,0,08,Kalmar,Kalmar,8|24|124
+9,0,09,Gotland,Gotland,9|26|126
+10,0,10,Blekinge,Blekinge,10|27|127
+10011,1,10011,Capio Sankt Görans sjukhus,Capio Sankt Görans sjukhus,105
+10013,1,10013,Södersjukhuset,Södersjukhuset,106
+11001,1,11001,Karolinska universitetssjukhuset Solna,Karolinska universitetssjukhuset Solna,103
+11002,1,11002,Karolinska universitetssjukhuset Huddinge,Karolinska universitetssjukhuset Huddinge,102
+11003,1,11003,Nya Karolinska Solna,Nya Karolinska Solna,108
+11010,1,11010,Danderyds sjukhus,Danderyds sjukhus,101
+11011,1,11011,Södertälje sjukhus,Södertälje sjukhus,107
+11012,1,11012,Norrtälje sjukhus,Norrtälje sjukhus,104
+12,0,12,Skåne,Skåne,12|30|128
+12001,3,12001,Akademiska sjukhuset,Akademiska sjukhuset,301
+12010,3,12010,Lasarettet i Enköping,Lasarettet i Enköping,302
+13,0,13,Halland,Halland,13|42|142
+13010,4,13010,Mälarsjukhuset,Mälarsjukhuset,402
+13011,4,13011,Nyköpings lasarett,Nyköpings lasarett,403
+13012,4,13012,Kullbergska sjukhuset,Kullbergska sjukhuset,401
+14,0,14,Västra Götaland,Västra Götaland,14|50|150
+17,0,17,Värmland,Värmland,17|54|154
+18,0,18,Örebro,Örebro,18|55|155
+19,0,19,Västmanland,Västmanland,19|56|156
+20,0,20,Dalarna,Dalarna,20|57|157
+21,0,21,Gävleborg,Gävleborg,21|61|161
+21001,5,21001,Universitetssjukhuset i Linköping,Universitetssjukhuset i Linköping,502
+21013,5,21013,Vrinnevisjukhuset i Norrköping,Vrinnevisjukhuset i Norrköping,503
+21014,5,21014,Lasarettet i Motala,Lasarettet i Motala,501
+22,0,22,Västernorrland,Västernorrland,22|62|162
+22010,6,22010,Länssjukhuset Ryhov,Länssjukhuset Ryhov,602
+22011,6,22011,Höglandssjukhuset,Höglandssjukhuset,601
+22012,6,22012,Värnamo sjukhus,Värnamo sjukhus,603
+23,0,23,Jämtland,Jämtland,23|63|163
+23010,7,23010,Centrallasarettet i Växjö,Centrallasarettet i Växjö,702
+23011,7,23011,Ljungby lasarett,Ljungby lasarett,701
+24,0,24,Västerbotten,Västerbotten,24|64|164
+24010,8,24010,Västerviks sjukhus,Västerviks sjukhus,803
+25,0,25,Norrbotten,Norrbotten,25|65|165
+25010,8,25010,Länssjukhuset i Kalmar,Länssjukhuset i Kalmar,801
+25011,8,25011,Oskarshamns sjukhus,Oskarshamns sjukhus,802
+26010,9,26010,Visby lasarett,Visby lasarett,901
+27012,10,27012,Blekingesjukhuset,Blekingesjukhuset,1001
+28010,12,28010,Centralsjukhuset i Kristianstad,Centralsjukhuset i Kristianstad,1202
+28011,12,28011,Ängelholms sjukhus,Ängelholms sjukhus,1207
+30001,12,30001,Skånes universitetssjukhus Malmö,Skånes universitetssjukhus Malmö,1205
+41001,12,41001,Skånes universitetssjukhus Lund,Skånes universitetssjukhus Lund,1204
+41012,12,41012,Helsingborgs lasarett,Helsingborgs lasarett,1201
+41013,12,41013,Lasarettet i Ystad,Lasarettet i Ystad,1206
+42020,13,42020,Hallands sjukhus,Hallands sjukhus,1301
+51001,14,51001,Sahlgrenska universitetssjukhuset,Sahlgrenska universitetssjukhuset,1404
+51012,14,51012,Kungälvs sjukhus,Kungälvs sjukhus,1402
+51013,14,51013,Norra Älvsborgs Länssjukhus och Uddevalla sjukhus,Norra Älvsborgs Länssjukhus och Uddevalla sjukhus,1403
+51014,14,51014,Södra Älvsborgs sjukhus,Södra Älvsborgs sjukhus,1406
+52012,14,52012,Alingsås lasarett,Alingsås lasarett,1401
+53014,14,53014,Skaraborgs sjukhus,Skaraborgs sjukhus,1405
+54010,17,54010,Centralsjukhuset i Karlstad,Centralsjukhuset i Karlstad,1702
+54012,17,54012,Sjukhuset i Arvika,Sjukhuset i Arvika,1701
+54014,17,54014,Sjukhuset i Torsby,Sjukhuset i Torsby,1703
+55010,18,55010,Universitetssjukhuset Örebro,Universitetssjukhuset Örebro,1801
+55011,18,55011,Karlskoga lasarett,Karlskoga lasarett,1802
+55012,18,55012,Lindesbergs lasarett,Lindesbergs lasarett,1803
+56010,19,56010,Västmanlands sjukhus Västerås,Västmanlands sjukhus Västerås,1902
+56012,19,56012,Västmanlands sjukhus Köping,Västmanlands sjukhus Köping,1901
+57010,20,57010,Falu lasarett,Falu lasarett,2002
+57011,20,57011,Mora lasarett,Mora lasarett,2003
+61012,21,61012,Hudiksvalls sjukhus,Hudiksvalls sjukhus,2102
+62010,22,62010,Länssjukhuset i Sundsvall - Härnösand,Länssjukhuset i Sundsvall - Härnösand,2202
+62011,22,62011,Örnsköldsviks sjukhus,Örnsköldsviks sjukhus,2203
+62013,22,62013,Sollefteå sjukhus,Sollefteå sjukhus,2201
+63010,23,63010,Östersunds sjukhus,Östersunds sjukhus,2301
+64001,24,64001,Norrlands Universitetssjukhus,Norrlands Universitetssjukhus,2402
+64010,24,64010,Skellefteå lasarett,Skellefteå lasarett,2403
+64011,24,64011,Lycksele lasarett,Lycksele lasarett,2401
+65012,25,65012,Gällivare sjukhus,Gällivare sjukhus,2501
+65013,25,65013,Piteå Älvdals sjukhus,Piteå Älvdals sjukhus,2504
+65014,25,65014,Kalix sjukhus,Kalix sjukhus,2502
+65015,25,65015,Kiruna sjukhus,Kiruna sjukhus,2503
+65016,25,65016,Sunderby sjukhus,Sunderby sjukhus,2505
+70001,21,70001,Länssjukhuset Gävle-Sandviken,Länssjukhuset Gävle-Sandviken,2101

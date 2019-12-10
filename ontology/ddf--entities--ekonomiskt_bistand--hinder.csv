@@ -1,0 +1,43 @@
+﻿hinder,vad,name,sdb_amne,sdb_titel
+10,grupp,Arbetslös (-2016),Ekonomiskt bistånd - månadsstatistik,Hinder
+11,enskild,"011 Arbetslös, otillräcklig ersättning (-2016)",Ekonomiskt bistånd - månadsstatistik,Hinder
+12,enskild,"012 Arbetslös, väntar på ersättning (-2016)",Ekonomiskt bistånd - månadsstatistik,Hinder
+13,enskild,"013 Arbetslös, ingen ersättning (-2016)",Ekonomiskt bistånd - månadsstatistik,Hinder
+14,enskild,"014 Arbetslös, flykting alt. anhörig i introduktion (-2016)",Ekonomiskt bistånd - månadsstatistik,Hinder
+20,grupp,Sjukskriven med läkarintyg,Ekonomiskt bistånd - månadsstatistik,Hinder
+21,enskild,"021 Sjukskriven med läkarintyg, otillräcklig ersättning",Ekonomiskt bistånd - månadsstatistik,Hinder
+22,enskild,"022 Sjukskriven med läkarintyg, väntar på ersättning",Ekonomiskt bistånd - månadsstatistik,Hinder
+23,enskild,"023 Sjukskriven med läkarintyg, ingen ersättning",Ekonomiskt bistånd - månadsstatistik,Hinder
+30,grupp,Sjuk- eller aktivitetsersättning (-2016),Ekonomiskt bistånd - månadsstatistik,Hinder
+31,enskild,"031 Sjuk- eller aktivitetsersättning, otillräcklig ersättning",Ekonomiskt bistånd - månadsstatistik,Hinder
+32,enskild,"032 Sjuk- eller aktivitetsersättning, väntar på ersättning",Ekonomiskt bistånd - månadsstatistik,Hinder
+33,enskild,033 Ingen etableringsersättning (prestationsförmåga <25%) (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+35,enskild,035 Otillräcklig pension/äldreförsörjningsstöd (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+36,enskild,036 Väntar på pension/äldreförsörjningsstöd (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+40,enskild,"040 Arbetshinder, sociala skäl",Ekonomiskt bistånd - månadsstatistik,Hinder
+41,enskild,"041 Ensamkommande ungdom (18–20 år, gymnasiestuderande) (2017-)",Ekonomiskt bistånd - månadsstatistik,Hinder
+49,grupp,"Arbetshinder, sociala skäl (-2016)",Ekonomiskt bistånd - månadsstatistik,Hinder
+50,grupp,Föräldraledig (-2016),Ekonomiskt bistånd - månadsstatistik,Hinder
+51,enskild,"051 Föräldraledig, otillräcklig föräldrapenning",Ekonomiskt bistånd - månadsstatistik,Hinder
+52,enskild,"052 Föräldraledig, väntar på föräldrapenning",Ekonomiskt bistånd - månadsstatistik,Hinder
+53,enskild,053 Saknar barnomsorg (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+60,grupp,Arbetar deltid,Ekonomiskt bistånd - månadsstatistik,Hinder
+61,enskild,"061 Arbetar deltid ofrivilligt, otillräcklig inkomst",Ekonomiskt bistånd - månadsstatistik,Hinder
+62,enskild,"062 Arbetar deltid ofrivilligt, väntar på inkomst",Ekonomiskt bistånd - månadsstatistik,Hinder
+70,grupp,Arbetar heltid,Ekonomiskt bistånd - månadsstatistik,Hinder
+71,enskild,"071 Arbetar heltid, otillräcklig inkomst",Ekonomiskt bistånd - månadsstatistik,Hinder
+72,enskild,"072 Arbetar heltid, väntar på inkomst",Ekonomiskt bistånd - månadsstatistik,Hinder
+80,enskild,080 Språkhinder (avser de flyktingar som avslutat sin introduktionsperiod) (-2016),Ekonomiskt bistånd - månadsstatistik,Hinder
+90,enskild,090 Utan försörjningshinder,Ekonomiskt bistånd - månadsstatistik,Hinder
+110,grupp,Arbetslös / saknar etableringsersättning (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+111,enskild,"111 Arbetslös, otillräcklig ersättning/stöd (2017-)",Ekonomiskt bistånd - månadsstatistik,Hinder
+112,enskild,"112 Arbetslös, väntar på ersättning/stöd (2017-)",Ekonomiskt bistånd - månadsstatistik,Hinder
+113,enskild,"113 Arbetslös, ingen ersättning/stöd (2017-)",Ekonomiskt bistånd - månadsstatistik,Hinder
+114,enskild,114 Otillräcklig etableringsersättning (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+115,enskild,115 Väntar på etableringsersättning (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+130,grupp,Sjuk- eller aktivitetsersättning / ingen etabl. ers. (prest. <25%) (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+135,grupp,Otillräcklig / väntar på pension (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+140,grupp,Sociala skäl / ensamkommande (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+150,grupp,Föräldraledig / saknar barnomsorg (2017-),Ekonomiskt bistånd - månadsstatistik,Hinder
+990,grupp,Annat försörjningshinder (-2016),Ekonomiskt bistånd - månadsstatistik,Hinder
+999,enskild,999 hinder saknas,Ekonomiskt bistånd - månadsstatistik,Hinder

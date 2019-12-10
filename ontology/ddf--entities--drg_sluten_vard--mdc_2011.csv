@@ -1,0 +1,30 @@
+﻿mdc,name,sdb_amne,sdb_titel
+--,Samtliga huvudgrupper (Major Diagnostic Categories = MDC),DRG i sluten vård,MDC_2011_och_tidigare
+00,Pre-MDC,DRG i sluten vård,MDC_2011_och_tidigare
+01,Sjukdomar i nervsystemet,DRG i sluten vård,MDC_2011_och_tidigare
+02,Sjukdomar i ögat och närliggande organ,DRG i sluten vård,MDC_2011_och_tidigare
+03,"Sjukdomar i öra, näsa, mun och hals",DRG i sluten vård,MDC_2011_och_tidigare
+04,Andningsorganens sjukdomar,DRG i sluten vård,MDC_2011_och_tidigare
+05,Cirkulationsorganens sjukdomar ,DRG i sluten vård,MDC_2011_och_tidigare
+06,Matsmältningsorganens sjukdomar,DRG i sluten vård,MDC_2011_och_tidigare
+07,"Sjukdomar i lever, gallvägar och bukspottkörtel",DRG i sluten vård,MDC_2011_och_tidigare
+08,Sjukdomar i muskuloskeletala systemet och bindväven ,DRG i sluten vård,MDC_2011_och_tidigare
+09,"Sjukdomar i hud, underhud och bröstkörtel",DRG i sluten vård,MDC_2011_och_tidigare
+10,"Endokrina sjukdomar, nutritionsrubbningar och ämnesomsättningssjukdomar ",DRG i sluten vård,MDC_2011_och_tidigare
+11,Sjukdomar i njure och urinvägar,DRG i sluten vård,MDC_2011_och_tidigare
+12,Sjukdomar i manliga könsorgan,DRG i sluten vård,MDC_2011_och_tidigare
+13,Sjukdomar i kvinnliga könsorgan,DRG i sluten vård,MDC_2011_och_tidigare
+14,"Graviditet, förlossning och barnsängstid ",DRG i sluten vård,MDC_2011_och_tidigare
+15,Nyfödda och vissa perinatala tillstånd ,DRG i sluten vård,MDC_2011_och_tidigare
+16,Sjukdomar i blod och blodbildande organ samt vissa rubbningar i immunsystemet ,DRG i sluten vård,MDC_2011_och_tidigare
+17,Myeloproliferativa sjukdomar och icke specificerade tumörer,DRG i sluten vård,MDC_2011_och_tidigare
+18,Infektions- och parasitsjukdomar,DRG i sluten vård,MDC_2011_och_tidigare
+19,Psykiska sjukdomar och beteendestörningar,DRG i sluten vård,MDC_2011_och_tidigare
+20,Alkohol- och drogberoende samt drogframkallade organiska psykiska störningar,DRG i sluten vård,MDC_2011_och_tidigare
+21,"Skador, förgiftningar och toxiska effekter",DRG i sluten vård,MDC_2011_och_tidigare
+22,Brännskador,DRG i sluten vård,MDC_2011_och_tidigare
+23,Faktorer av betydelse för hälsotillståndet och för kontakter med hälso- och sjukvården ,DRG i sluten vård,MDC_2011_och_tidigare
+24,Multipelt trauma utom ytliga skador och sårskador,DRG i sluten vård,MDC_2011_och_tidigare
+25,HIV-infektion och HIV-relaterade sjukdomar,DRG i sluten vård,MDC_2011_och_tidigare
+30,Bröstkörtelsjukdomar,DRG i sluten vård,MDC_2011_och_tidigare
+99,Ej meningsfull gruppering,DRG i sluten vård,MDC_2011_och_tidigare

@@ -1,0 +1,642 @@
+﻿drg,name,sdb_amne,sdb_titel
+001,Kraniotomi >17 ej trauma,DRG i sluten vård,DRG_2011_och_tidigare
+001A,Intrakraniell kirurgi för tumör,DRG i sluten vård,DRG_2011_och_tidigare
+001B,Annan intrakraniell kärlkirurgi,DRG i sluten vård,DRG_2011_och_tidigare
+001C,Kirurgi för ej rupturerade intrakraniella aneurysm och kärlmissbildningar,DRG i sluten vård,DRG_2011_och_tidigare
+001D,Intrakraniell shuntkirurgi,DRG i sluten vård,DRG_2011_och_tidigare
+001E,Annan kraniotomi utan traumadiagnos,DRG i sluten vård,DRG_2011_och_tidigare
+002,Kraniotomi >17 med trauma,DRG i sluten vård,DRG_2011_och_tidigare
+002A,Annan kraniotomi vid traumadiagnos,DRG i sluten vård,DRG_2011_och_tidigare
+002B,Intrakraniell kirurgi för kroniskt subduralhämatom,DRG i sluten vård,DRG_2011_och_tidigare
+003,Kraniotomi <18,DRG i sluten vård,DRG_2011_och_tidigare
+004,Op ryggmärg & närligg vävnad,DRG i sluten vård,DRG_2011_och_tidigare
+005,Op extrakraniella kärl,DRG i sluten vård,DRG_2011_och_tidigare
+006,Op karpaltunnel,DRG i sluten vård,DRG_2011_och_tidigare
+007,Op hjärnnerv & andra nerver K,DRG i sluten vård,DRG_2011_och_tidigare
+008,Op hjärnnerv & andra nerver U,DRG i sluten vård,DRG_2011_och_tidigare
+009,Sjd & skador ryggmärg,DRG i sluten vård,DRG_2011_och_tidigare
+010,Tumörer i nervsyst K,DRG i sluten vård,DRG_2011_och_tidigare
+011,Tumörer i nervsyst U,DRG i sluten vård,DRG_2011_och_tidigare
+012,Degenerativ sjd nervsyst,DRG i sluten vård,DRG_2011_och_tidigare
+013,MS & cerebellär ataxi,DRG i sluten vård,DRG_2011_och_tidigare
+014,Spec kärlsjd hjärna exkl TIA,DRG i sluten vård,DRG_2011_och_tidigare
+014A,Spec kärlsjd hjärna exkl TIA K,DRG i sluten vård,DRG_2011_och_tidigare
+014B,Spec kärlsjd hjärna exkl TIA U,DRG i sluten vård,DRG_2011_och_tidigare
+015,TIA & occl precerebr artärer,DRG i sluten vård,DRG_2011_och_tidigare
+016,Ospec kärlsjd hjärna K,DRG i sluten vård,DRG_2011_och_tidigare
+017,Ospec kärlsjd hjärnan U,DRG i sluten vård,DRG_2011_och_tidigare
+018,Sjd hjärnnerv & perif nerv K,DRG i sluten vård,DRG_2011_och_tidigare
+019,Sjd hjärnnerv & perif nerv U,DRG i sluten vård,DRG_2011_och_tidigare
+020,Inf nervsyst ej virusmeningit,DRG i sluten vård,DRG_2011_och_tidigare
+021,Virusmeningit,DRG i sluten vård,DRG_2011_och_tidigare
+022,Hypertensiv encefalopati,DRG i sluten vård,DRG_2011_och_tidigare
+023,Nontraum stupor & koma,DRG i sluten vård,DRG_2011_och_tidigare
+024,Kramper & huvudvärk >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+025,Kramper & huvudvärk >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+026,Kramper & huvudvärk <18,DRG i sluten vård,DRG_2011_och_tidigare
+027,Traum stupor & koma >1t,DRG i sluten vård,DRG_2011_och_tidigare
+028,Traum stupor & koma <1t >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+029,Traum stupor & koma <1t >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+030,Traum stupor & koma <1t <18,DRG i sluten vård,DRG_2011_och_tidigare
+031,Hjärnskakning >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+032,Hjärnskakning >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+033,Hjärnskakning <18,DRG i sluten vård,DRG_2011_och_tidigare
+034,Andra sjd i nervsyst K,DRG i sluten vård,DRG_2011_och_tidigare
+035,Andra sjd i nervsyst U,DRG i sluten vård,DRG_2011_och_tidigare
+036,Op retina,DRG i sluten vård,DRG_2011_och_tidigare
+036A,Andra operationer på retina,DRG i sluten vård,DRG_2011_och_tidigare
+036B,Operationer vid retinaavlossning,DRG i sluten vård,DRG_2011_och_tidigare
+036C,Lokal strålbehandling av ögat,DRG i sluten vård,DRG_2011_och_tidigare
+036D,Större operationer på ögat,DRG i sluten vård,DRG_2011_och_tidigare
+037,Op orbita,DRG i sluten vård,DRG_2011_och_tidigare
+038,Primära op iris,DRG i sluten vård,DRG_2011_och_tidigare
+039,Linsoperationer,DRG i sluten vård,DRG_2011_och_tidigare
+040,Extraokul op exkl orbita >17,DRG i sluten vård,DRG_2011_och_tidigare
+040N,"Extraokulära operationer exkl ögonhåla, >17 år",DRG i sluten vård,DRG_2011_och_tidigare
+041,Extraokul op exkl orbita <18,DRG i sluten vård,DRG_2011_och_tidigare
+042,Intraokul op ej ret iris lins,DRG i sluten vård,DRG_2011_och_tidigare
+043,Hyphema,DRG i sluten vård,DRG_2011_och_tidigare
+044,Allvarlig akut ögoninf,DRG i sluten vård,DRG_2011_och_tidigare
+045,Neurologisk ögonsjd,DRG i sluten vård,DRG_2011_och_tidigare
+046,Andra ögonsjd >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+047,Andra ögonsjd >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+048,Andra ögonsjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+049,Större op huvud & hals,DRG i sluten vård,DRG_2011_och_tidigare
+049A,Andra större operationer på huvud eller hals,DRG i sluten vård,DRG_2011_och_tidigare
+049B,Insättning av kokleaimplantat,DRG i sluten vård,DRG_2011_och_tidigare
+050,Avlägsnande av spottkörtel,DRG i sluten vård,DRG_2011_och_tidigare
+050N,Avlägsnande av parotisspottkörtel,DRG i sluten vård,DRG_2011_och_tidigare
+051,Op spottkörtel exkl avlägsnande,DRG i sluten vård,DRG_2011_och_tidigare
+051N,Andra spottkörteloperationer,DRG i sluten vård,DRG_2011_och_tidigare
+052,Op läpp- & gomspalt,DRG i sluten vård,DRG_2011_och_tidigare
+053,Op bihål & proc mast >17,DRG i sluten vård,DRG_2011_och_tidigare
+053A,Operationer på bihålor,DRG i sluten vård,DRG_2011_och_tidigare
+053B,Operationer på hörselben och andra benstrukturer i örat,DRG i sluten vård,DRG_2011_och_tidigare
+054,Op bihål proc mast <18,DRG i sluten vård,DRG_2011_och_tidigare
+055,Div op öron näsa mun hals,DRG i sluten vård,DRG_2011_och_tidigare
+056,Näsplastik,DRG i sluten vård,DRG_2011_och_tidigare
+057,Op tons/adenoid ej avlägsn >17,DRG i sluten vård,DRG_2011_och_tidigare
+058,Op tons/adenoid ej avlägsn <18,DRG i sluten vård,DRG_2011_och_tidigare
+059,Avlägsn tons & adenoid >17,DRG i sluten vård,DRG_2011_och_tidigare
+060,Avlägsn tons- & adenoid <18,DRG i sluten vård,DRG_2011_och_tidigare
+061,Paracentes m rör >17,DRG i sluten vård,DRG_2011_och_tidigare
+062,Paracentes m rör <18,DRG i sluten vård,DRG_2011_och_tidigare
+063,Andra op öra näsa mun hals,DRG i sluten vård,DRG_2011_och_tidigare
+064,Malign tum öra näsa mun hals,DRG i sluten vård,DRG_2011_och_tidigare
+065,"Balansproblem, yrsel",DRG i sluten vård,DRG_2011_och_tidigare
+066,Näsblödning,DRG i sluten vård,DRG_2011_och_tidigare
+067,Epiglottit,DRG i sluten vård,DRG_2011_och_tidigare
+068,Otitis media & ÖLI >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+069,Otitis media & ÖLI  >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+070,Otitis media & ÖLI <18,DRG i sluten vård,DRG_2011_och_tidigare
+070A,ÖLI & otitis media <18 K,DRG i sluten vård,DRG_2011_och_tidigare
+070B,ÖLI & otitis media <18 U,DRG i sluten vård,DRG_2011_och_tidigare
+071,Laryngotrakeit och krupp,DRG i sluten vård,DRG_2011_och_tidigare
+072,Nästrauma & näsdeformitet,DRG i sluten vård,DRG_2011_och_tidigare
+073,Andra sjd öra näs mun hals >17,DRG i sluten vård,DRG_2011_och_tidigare
+074,Andra sjd öra näs mun hals <18,DRG i sluten vård,DRG_2011_och_tidigare
+075,Större toraxoperation,DRG i sluten vård,DRG_2011_och_tidigare
+076,Andra op andningsorg K,DRG i sluten vård,DRG_2011_och_tidigare
+077,Andra op andningsorg U,DRG i sluten vård,DRG_2011_och_tidigare
+078,Lungemboli,DRG i sluten vård,DRG_2011_och_tidigare
+079,Inf & inflam andningsorg >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+080,Inf & inflam andningsorg >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+081,Inf & inflam andningsorg <18,DRG i sluten vård,DRG_2011_och_tidigare
+082,Tumörer i andningsorganen,DRG i sluten vård,DRG_2011_och_tidigare
+083,Allvarliga toraxskador K,DRG i sluten vård,DRG_2011_och_tidigare
+084,Allvarliga toraxskador U,DRG i sluten vård,DRG_2011_och_tidigare
+085,Pleuritis exudativa K,DRG i sluten vård,DRG_2011_och_tidigare
+086,Pleuritis exudativa U,DRG i sluten vård,DRG_2011_och_tidigare
+087,Lungödem & respirationssvikt,DRG i sluten vård,DRG_2011_och_tidigare
+088,Kron obstrukt lungsjd,DRG i sluten vård,DRG_2011_och_tidigare
+089,Lunginflam >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+090,Lunginflam >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+091,Lunginflam <18,DRG i sluten vård,DRG_2011_och_tidigare
+091A,Lunginflammation <18 K,DRG i sluten vård,DRG_2011_och_tidigare
+091B,Lunginflammation <18 U,DRG i sluten vård,DRG_2011_och_tidigare
+092,Interstitiella lungsjd K,DRG i sluten vård,DRG_2011_och_tidigare
+093,Interstitiella lungsjd U,DRG i sluten vård,DRG_2011_och_tidigare
+094,Pneumotorax K,DRG i sluten vård,DRG_2011_och_tidigare
+095,Pneumotorax U,DRG i sluten vård,DRG_2011_och_tidigare
+096,Bronkit & astma >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+097,Bronkit & astma >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+098,Bronkit & astma <18,DRG i sluten vård,DRG_2011_och_tidigare
+098A,Bronkit & astma <18 K,DRG i sluten vård,DRG_2011_och_tidigare
+098B,Bronkit & astma <18 U,DRG i sluten vård,DRG_2011_och_tidigare
+099,Fynd/symptom andningsorgan K,DRG i sluten vård,DRG_2011_och_tidigare
+100,Fynd/symptom andningsorgan U,DRG i sluten vård,DRG_2011_och_tidigare
+101,Andra sjd andningsorgan K,DRG i sluten vård,DRG_2011_och_tidigare
+102,Andra sjd andningsorgan U,DRG i sluten vård,DRG_2011_och_tidigare
+103,Hjärttransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+104,Op hjärtklaff med hjärtkat,DRG i sluten vård,DRG_2011_och_tidigare
+104A,"Operation av enstaka hjärtklaffar, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+104B,"Operation av hjärtklaffar, flera eller komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+104C,Perkutan implantation av hjärtklaff,DRG i sluten vård,DRG_2011_och_tidigare
+105,Op hjärtklaff utan hjärtkat,DRG i sluten vård,DRG_2011_och_tidigare
+106,Koronar bypass med hjärtkat,DRG i sluten vård,DRG_2011_och_tidigare
+107,Koronar bypass utan hjärtkat,DRG i sluten vård,DRG_2011_och_tidigare
+107A,"Koronar bypass-operation, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+107B,Koronar bypass-operation med kateterisering,DRG i sluten vård,DRG_2011_och_tidigare
+107C,Koronar bypass-operation med annan komplicerande åtgärd/diagnos,DRG i sluten vård,DRG_2011_och_tidigare
+108,Andra kardiotorakala op,DRG i sluten vård,DRG_2011_och_tidigare
+109N,Operation av torakalt aortaaneurysm,DRG i sluten vård,DRG_2011_och_tidigare
+110,Större kardiovask op K,DRG i sluten vård,DRG_2011_och_tidigare
+111,Större kardiovask op U,DRG i sluten vård,DRG_2011_och_tidigare
+112,Perkutan kardiovask op,DRG i sluten vård,DRG_2011_och_tidigare
+112A,Andra perkutana kardiovaskulära åtgärder,DRG i sluten vård,DRG_2011_och_tidigare
+112B,Perkutan ablation för hjärtarytmi,DRG i sluten vård,DRG_2011_och_tidigare
+112C,"Perkutan vidgning av kranskärl, ej hjärtinfarkt, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+112D,"Perkutan vidgning av kranskärl, ej hjärtinfarkt, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+112E,"Perkutan vidgning av kranskärl vid hjärtinfarkt, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+112F,"Perkutan vidgning av kranskärl vid hjärtinfarkt, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+113,Amputation cirksjd ej arm/tå,DRG i sluten vård,DRG_2011_och_tidigare
+114,Amputation cirksjd arm/tå,DRG i sluten vård,DRG_2011_och_tidigare
+115,Pacem vid infarkt/svikt/shock,DRG i sluten vård,DRG_2011_och_tidigare
+115A,Revision eller borttagande av permanent pacemaker eller defibrillator,DRG i sluten vård,DRG_2011_och_tidigare
+115B,Insättning eller byte av permanent pacemaker,DRG i sluten vård,DRG_2011_och_tidigare
+115C,Insättning eller byte av defibrillator,DRG i sluten vård,DRG_2011_och_tidigare
+116,Pacem ej infarkt/svikt/shock,DRG i sluten vård,DRG_2011_och_tidigare
+117,Byte pacem ej pulsgenerator,DRG i sluten vård,DRG_2011_och_tidigare
+118,Byte pulsgenerator,DRG i sluten vård,DRG_2011_och_tidigare
+119,Underbindning & stripping,DRG i sluten vård,DRG_2011_och_tidigare
+120,Andra op cirksystemet,DRG i sluten vård,DRG_2011_och_tidigare
+121,Hjärtinfarkt m kompl ej död,DRG i sluten vård,DRG_2011_och_tidigare
+122,Hjärtinfarkt u kompl ej död,DRG i sluten vård,DRG_2011_och_tidigare
+123,Hjärtinfarkt död,DRG i sluten vård,DRG_2011_och_tidigare
+124,Cirksjd u infarkt m hjärtkat K,DRG i sluten vård,DRG_2011_och_tidigare
+125,Cirksjd u infarkt m hjärtkat U,DRG i sluten vård,DRG_2011_och_tidigare
+126,Akut & subakut endokardit,DRG i sluten vård,DRG_2011_och_tidigare
+127,Hjärtsvikt & shock,DRG i sluten vård,DRG_2011_och_tidigare
+128,Tromboflebit djup ven,DRG i sluten vård,DRG_2011_och_tidigare
+129,Hjärtstillestånd oförklarat,DRG i sluten vård,DRG_2011_och_tidigare
+130,Sjd perifera kärl K,DRG i sluten vård,DRG_2011_och_tidigare
+131,Sjd perifera kärl U,DRG i sluten vård,DRG_2011_och_tidigare
+132,Ateroskleros K,DRG i sluten vård,DRG_2011_och_tidigare
+133,Ateroskleros U,DRG i sluten vård,DRG_2011_och_tidigare
+134,Hypertoni,DRG i sluten vård,DRG_2011_och_tidigare
+135,Medfödd hjärt & klaffsjd >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+136,Medfödd hjärt & klaffsjd >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+137,Medfödd hjärt & klaffsjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+138,Arrytmi & överlednstörn K,DRG i sluten vård,DRG_2011_och_tidigare
+139,Arrytmi & överlednstörn U,DRG i sluten vård,DRG_2011_och_tidigare
+140,Angina pectoris,DRG i sluten vård,DRG_2011_och_tidigare
+141,Synkope & kollaps K,DRG i sluten vård,DRG_2011_och_tidigare
+142,Synkope & kollaps U,DRG i sluten vård,DRG_2011_och_tidigare
+143,Bröstsmärtor,DRG i sluten vård,DRG_2011_och_tidigare
+144,Andra cirkulationssjd K,DRG i sluten vård,DRG_2011_och_tidigare
+145,Andra cirkulationssjd U,DRG i sluten vård,DRG_2011_och_tidigare
+146,Rektal resektion K,DRG i sluten vård,DRG_2011_och_tidigare
+147,Rektal resektion U,DRG i sluten vård,DRG_2011_och_tidigare
+148,Större tarmoperation K,DRG i sluten vård,DRG_2011_och_tidigare
+149,Större tarmoperation U,DRG i sluten vård,DRG_2011_och_tidigare
+150,Adherenslösning K,DRG i sluten vård,DRG_2011_och_tidigare
+151,Adherenslösning U,DRG i sluten vård,DRG_2011_och_tidigare
+152,Mindre tarmoperation K,DRG i sluten vård,DRG_2011_och_tidigare
+153,Mindre tarmoperation U,DRG i sluten vård,DRG_2011_och_tidigare
+154,Op mage matstrupe duod >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+154A,Stor op mage matstr duod >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+154B,Andra op mag matstr duod >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+155,Op mage matstrupe duod >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+155A,Stor op mage matstr duod >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+155B,Andra op mag matstr duod >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+156,Op mage matstrupe duod <18,DRG i sluten vård,DRG_2011_och_tidigare
+157,Stomi & op analregion K,DRG i sluten vård,DRG_2011_och_tidigare
+158,Stomi & op analregion U,DRG i sluten vård,DRG_2011_och_tidigare
+159,Bråckop ej fem & ing >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+160,Bråckop ej fem & ing >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+161,Op fem & ing bråck >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+162,Op fem & ing bråck >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+163,Bråckoperation <18,DRG i sluten vård,DRG_2011_och_tidigare
+164,Appendekt kompl appendicit K,DRG i sluten vård,DRG_2011_och_tidigare
+165,Appendekt kompl appendicit U,DRG i sluten vård,DRG_2011_och_tidigare
+166,Appendekt okompl appendicit K,DRG i sluten vård,DRG_2011_och_tidigare
+166N,Appendektomi K,DRG i sluten vård,DRG_2011_och_tidigare
+167,Appendekt okompl appendicit U,DRG i sluten vård,DRG_2011_och_tidigare
+168,Op munhåla K,DRG i sluten vård,DRG_2011_och_tidigare
+169,Op munhåla U,DRG i sluten vård,DRG_2011_och_tidigare
+170,Andra op mage tarm K,DRG i sluten vård,DRG_2011_och_tidigare
+171,Andra op mage tarm U,DRG i sluten vård,DRG_2011_och_tidigare
+172,Malign tumör mage tarm K,DRG i sluten vård,DRG_2011_och_tidigare
+173,Malign tumör mage tarm U,DRG i sluten vård,DRG_2011_och_tidigare
+174,Blödning mage tarm K,DRG i sluten vård,DRG_2011_och_tidigare
+174N,"Magsår och gastrointestinal blödning, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+175,Blödning mage tarm U,DRG i sluten vård,DRG_2011_och_tidigare
+175N,"Magsår och gastrointestinal blödning, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+176,Komplicerat magsår,DRG i sluten vård,DRG_2011_och_tidigare
+177,Okomplicerat magsår K,DRG i sluten vård,DRG_2011_och_tidigare
+178,Okomplicerat magsår U,DRG i sluten vård,DRG_2011_och_tidigare
+179,Inflammatorisk tarmsjd,DRG i sluten vård,DRG_2011_och_tidigare
+180,Passagehinder mage tarm K,DRG i sluten vård,DRG_2011_och_tidigare
+181,Passagehinder mage tarm U,DRG i sluten vård,DRG_2011_och_tidigare
+182,Katarr & div magtarmsjd >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+183,Katarr & div magtarmsjd >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+184,Katarr & div magtarmsjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+184A,Buksmärta/gastroenterit <18 K,DRG i sluten vård,DRG_2011_och_tidigare
+184B,Buksmärta/gastroenterit <18 U,DRG i sluten vård,DRG_2011_och_tidigare
+185,Oral sjd ej tandkir >17,DRG i sluten vård,DRG_2011_och_tidigare
+186,Oral sjd ej tandkir <18,DRG i sluten vård,DRG_2011_och_tidigare
+187,Tandkirurgi,DRG i sluten vård,DRG_2011_och_tidigare
+188,Andra sjd matsmältorg >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+189,Andra sjd matsmältorg >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+190,Andra sjd matsmältorg <18,DRG i sluten vård,DRG_2011_och_tidigare
+191,Pankreas lever shunt op K,DRG i sluten vård,DRG_2011_och_tidigare
+191A,Pankreastransplantation med eller utan njurtransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+191B,"Pankreas-, lever- eller shuntoperationer, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+192,Pankreas lever shunt op U,DRG i sluten vård,DRG_2011_och_tidigare
+193,Gallvägsop ej kolecystect K,DRG i sluten vård,DRG_2011_och_tidigare
+194,Gallvägsop ej kolecystect U,DRG i sluten vård,DRG_2011_och_tidigare
+195,Kolecystekt m expl koledok K,DRG i sluten vård,DRG_2011_och_tidigare
+196,Kolecystekt m expl koledok U,DRG i sluten vård,DRG_2011_och_tidigare
+197,Kolecystektomi öppen K,DRG i sluten vård,DRG_2011_och_tidigare
+198,Kolecystektomi öppen U,DRG i sluten vård,DRG_2011_och_tidigare
+199,Diagn op lever gallv malign,DRG i sluten vård,DRG_2011_och_tidigare
+200,Diagn op lever gallv benign,DRG i sluten vård,DRG_2011_och_tidigare
+201,Andra op lever gallv pankreas,DRG i sluten vård,DRG_2011_och_tidigare
+202,Cirros & alkoholhepatit,DRG i sluten vård,DRG_2011_och_tidigare
+203,Malign tumör lever gallv pankr,DRG i sluten vård,DRG_2011_och_tidigare
+204,Sjd i pankreas ej malign,DRG i sluten vård,DRG_2011_och_tidigare
+205,Leversjd ej mal/cirr/alkhep K,DRG i sluten vård,DRG_2011_och_tidigare
+206,Leversjd ej mal/cirr/alkhep U,DRG i sluten vård,DRG_2011_och_tidigare
+207,Gallvägssjukdom K,DRG i sluten vård,DRG_2011_och_tidigare
+208,Gallvägssjukdom U,DRG i sluten vård,DRG_2011_och_tidigare
+209,Stor ledop Implant nedre extr,DRG i sluten vård,DRG_2011_och_tidigare
+209A,Prim ledprot nedre extr,DRG i sluten vård,DRG_2011_och_tidigare
+209B,Sek ledprot replant nedre extr,DRG i sluten vård,DRG_2011_och_tidigare
+210,Op höft/lår ej stor led >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+211,Op höft/lår ej stor led >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+212,Op höft/lår ej stor led <18,DRG i sluten vård,DRG_2011_och_tidigare
+213,Amput för sjd musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+214,Rygg- & halsoperation K,DRG i sluten vård,DRG_2011_och_tidigare
+214A,Kombinerad ryggradsfusion,DRG i sluten vård,DRG_2011_och_tidigare
+214B,Annan ryggradsfusion K,DRG i sluten vård,DRG_2011_och_tidigare
+214C,Annan rygg- & halsoperation K,DRG i sluten vård,DRG_2011_och_tidigare
+215,Rygg- & halsoperation U,DRG i sluten vård,DRG_2011_och_tidigare
+215B,Annan ryggradsfusion U,DRG i sluten vård,DRG_2011_och_tidigare
+215C,Annan rygg- & halsoperation U,DRG i sluten vård,DRG_2011_och_tidigare
+216,Biopsi från musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+217,Rev/htrpl musk-skelsjd ej hand,DRG i sluten vård,DRG_2011_och_tidigare
+218,Op öarm/ben ej femur/fot >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+219,Op öarm/ben ej femur/fot >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+220,Op öarm/ben ej femur/fot <18,DRG i sluten vård,DRG_2011_och_tidigare
+221,Knäoperation K,DRG i sluten vård,DRG_2011_och_tidigare
+222,Knäoperation U,DRG i sluten vård,DRG_2011_och_tidigare
+223,Stor op skuldra/arm K,DRG i sluten vård,DRG_2011_och_tidigare
+224,Op skuldra/arm ej stor led U,DRG i sluten vård,DRG_2011_och_tidigare
+225,Fotoperationer,DRG i sluten vård,DRG_2011_och_tidigare
+226,Bindvävsoperationer K,DRG i sluten vård,DRG_2011_och_tidigare
+227,Bindvävsoperationer U,DRG i sluten vård,DRG_2011_och_tidigare
+228,Stor handop Hand-handledsop K,DRG i sluten vård,DRG_2011_och_tidigare
+229,Hand-handledsop ej stor led U,DRG i sluten vård,DRG_2011_och_tidigare
+230,Extr int fixmtrl höft/lår,DRG i sluten vård,DRG_2011_och_tidigare
+231,Extr int fixmtrl ej höft/lår,DRG i sluten vård,DRG_2011_och_tidigare
+232,Artroskopi,DRG i sluten vård,DRG_2011_och_tidigare
+233,Andra op musk/ben/bindväv K,DRG i sluten vård,DRG_2011_och_tidigare
+234,Andra op musk/ben/bindväv U,DRG i sluten vård,DRG_2011_och_tidigare
+235,Lårbensfrakturer,DRG i sluten vård,DRG_2011_och_tidigare
+236,Höft- och bäckenfrakturer,DRG i sluten vård,DRG_2011_och_tidigare
+237,Stukning/lux höft/bäcken/lår,DRG i sluten vård,DRG_2011_och_tidigare
+238,Osteomyelit,DRG i sluten vård,DRG_2011_och_tidigare
+239,Pat fr Malign musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+240,Sjukdomar i bindväv K,DRG i sluten vård,DRG_2011_och_tidigare
+240N,"Bindvävssjukdomar och vaskuliter, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+241,Sjukdomar i bindväv U,DRG i sluten vård,DRG_2011_och_tidigare
+241N,"Bindvävssjukdomar och vaskuliter, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+242,Septisk artrit,DRG i sluten vård,DRG_2011_och_tidigare
+242A,Infektiösa artriter och bursiter,DRG i sluten vård,DRG_2011_och_tidigare
+242B,"Specifika inflammatoriska artropatier, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+242C,"Specifika inflammatoriska artropatier, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+242D,Andra artriter,DRG i sluten vård,DRG_2011_och_tidigare
+242E,"Artroser, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+242F,"Artroser, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+243,Medicinska ryggsjukdomar,DRG i sluten vård,DRG_2011_och_tidigare
+244,Bensjd & specifik artropati K,DRG i sluten vård,DRG_2011_och_tidigare
+245,Bensjd & specifik artropati U,DRG i sluten vård,DRG_2011_och_tidigare
+246,Ospecifika artropatier,DRG i sluten vård,DRG_2011_och_tidigare
+247,Fynd/symtom musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+248,Tendinit myosit bursit,DRG i sluten vård,DRG_2011_och_tidigare
+249,Eftervård sjd musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+250,Fr/stu/lux uarm/hand/fot >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+251,Fr/stu/lux uarm/hand/fot >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+252,Fr/stu/lux uarm/hand/fot <18,DRG i sluten vård,DRG_2011_och_tidigare
+253,Fr/stu/lux öarm/uben >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+254,Fr/stu/lux öarm/uben >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+255,Fr/stu/lux öarm/uben <18,DRG i sluten vård,DRG_2011_och_tidigare
+256,Andra sjd musk/ben/bindväv,DRG i sluten vård,DRG_2011_och_tidigare
+257,Tot mastekt malign tumör K,DRG i sluten vård,DRG_2011_och_tidigare
+258,Tot mastekt malign tumör U,DRG i sluten vård,DRG_2011_och_tidigare
+259,Subtot mastekt malign tumör K,DRG i sluten vård,DRG_2011_och_tidigare
+260,Subtot mastekt malign tumör U,DRG i sluten vård,DRG_2011_och_tidigare
+261,Subtot mastekt benign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+262,Px & lokal exc benign bröstsjd,DRG i sluten vård,DRG_2011_och_tidigare
+263,Rev/hudtrpl sår/cellulit K,DRG i sluten vård,DRG_2011_och_tidigare
+264,Rev/hudtrpl sår/cellulit U,DRG i sluten vård,DRG_2011_och_tidigare
+265,Rev/hudtrpl ej sår/cellulit K,DRG i sluten vård,DRG_2011_och_tidigare
+266,Rev/hudtrpl ej sår/cellulit U,DRG i sluten vård,DRG_2011_och_tidigare
+267,Perianal/pilonidal operation,DRG i sluten vård,DRG_2011_och_tidigare
+268,Plastikkir hud/underhud/bröst,DRG i sluten vård,DRG_2011_och_tidigare
+269,Andra op hud/underhud/bröst K,DRG i sluten vård,DRG_2011_och_tidigare
+270,Andra op hud/underhud/bröst U,DRG i sluten vård,DRG_2011_och_tidigare
+271,Kroniska hudsår,DRG i sluten vård,DRG_2011_och_tidigare
+272,Allvarliga hudsjukdomar K,DRG i sluten vård,DRG_2011_och_tidigare
+273,Allvarliga hudsjukdomar U,DRG i sluten vård,DRG_2011_och_tidigare
+274,Maligna bröstsjukdomar K,DRG i sluten vård,DRG_2011_och_tidigare
+275,Maligna bröstsjukdomar U,DRG i sluten vård,DRG_2011_och_tidigare
+276,Benigna bröstsjukdomar,DRG i sluten vård,DRG_2011_och_tidigare
+277,Cellulit >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+278,Cellulit >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+279,Cellulit <18,DRG i sluten vård,DRG_2011_och_tidigare
+280,Traum hud/underhud/bröst >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+281,Traum hud/underhud/bröst >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+282,Trauma hud/underhud/bröst <18,DRG i sluten vård,DRG_2011_och_tidigare
+283,Lättare hudsjukdom K,DRG i sluten vård,DRG_2011_och_tidigare
+284,Lättare hudsjukdom U,DRG i sluten vård,DRG_2011_och_tidigare
+285,Benamput endokrin/metabol sjd,DRG i sluten vård,DRG_2011_och_tidigare
+286,Binjure- & hypofysoperation,DRG i sluten vård,DRG_2011_och_tidigare
+287,Rev/hudtrpl endokr/metabol sjd,DRG i sluten vård,DRG_2011_och_tidigare
+288,Fetmaoperationer,DRG i sluten vård,DRG_2011_och_tidigare
+288A,Mag-tarmoperationer mot fetma,DRG i sluten vård,DRG_2011_och_tidigare
+288B,Andra fetmaoperationer,DRG i sluten vård,DRG_2011_och_tidigare
+289,Bisköldkörteloperationer,DRG i sluten vård,DRG_2011_och_tidigare
+290,Sköldkörteloperationer,DRG i sluten vård,DRG_2011_och_tidigare
+291,Op ductus thyreoglossus,DRG i sluten vård,DRG_2011_och_tidigare
+292,Andra op endokr/metabol sjd K,DRG i sluten vård,DRG_2011_och_tidigare
+293,Andra op endokr/metabol sjd U,DRG i sluten vård,DRG_2011_och_tidigare
+294,Diabetes >35,DRG i sluten vård,DRG_2011_och_tidigare
+295,Diabetes <36,DRG i sluten vård,DRG_2011_och_tidigare
+296,Nutritiv/metabol sjd >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+297,Nutritiv/metabol sjd >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+298,Nutritiv/metabol sjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+299,Medfödd metabol sjukdom,DRG i sluten vård,DRG_2011_och_tidigare
+300,Endokrin sjukdom K,DRG i sluten vård,DRG_2011_och_tidigare
+301,Endokrin sjukdom U,DRG i sluten vård,DRG_2011_och_tidigare
+302,Njurtransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+303,Njur/uretär/blåsop malign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+304,Njur/uretär/blåsop ej malign K,DRG i sluten vård,DRG_2011_och_tidigare
+305,Njur/uretär/blåsop ej malign U,DRG i sluten vård,DRG_2011_och_tidigare
+306,Prostatektomi K,DRG i sluten vård,DRG_2011_och_tidigare
+307,Prostatektomi U,DRG i sluten vård,DRG_2011_och_tidigare
+308,Mindre blåsoperationer K,DRG i sluten vård,DRG_2011_och_tidigare
+309,Mindre blåsoperationer U,DRG i sluten vård,DRG_2011_och_tidigare
+310,Transuretrala op K,DRG i sluten vård,DRG_2011_och_tidigare
+311,Transuretrala op U,DRG i sluten vård,DRG_2011_och_tidigare
+312,Uretrala op >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+313,Uretrala op >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+314,Uretrala op <18,DRG i sluten vård,DRG_2011_och_tidigare
+315,Andra njur- & urinvägsop,DRG i sluten vård,DRG_2011_och_tidigare
+316,Njursvikt,DRG i sluten vård,DRG_2011_och_tidigare
+317,Dialysbehandling,DRG i sluten vård,DRG_2011_och_tidigare
+318,Njur- & urinvägstumörer K,DRG i sluten vård,DRG_2011_och_tidigare
+319,Njur- & urinvägstumörer U,DRG i sluten vård,DRG_2011_och_tidigare
+320,Njur- & urinvägsinf >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+321,Njur- & urinvägsinf >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+322,Njur- & urinvägsinf <18,DRG i sluten vård,DRG_2011_och_tidigare
+323,Urinvägssten K el litotripsi,DRG i sluten vård,DRG_2011_och_tidigare
+324,Urinvägssten U,DRG i sluten vård,DRG_2011_och_tidigare
+325,Njur- & urinvägssymtom >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+326,Njur- & urinvägssymtom >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+327,Njur- & urinvägssymtom <18,DRG i sluten vård,DRG_2011_och_tidigare
+328,Uretrastriktur >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+329,Uretrastriktur >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+329N,Uretrastriktur,DRG i sluten vård,DRG_2011_och_tidigare
+330,Uretrastrictur <18,DRG i sluten vård,DRG_2011_och_tidigare
+331,Andra njur-/urinvägssjd >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+332,Andra njur-/urinvägssjd >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+333,Andra njur-/urinvägssjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+334,Stor bäckenoperation på man K,DRG i sluten vård,DRG_2011_och_tidigare
+335,Stor bäckenoperation på man U,DRG i sluten vård,DRG_2011_och_tidigare
+336,TUR-P K,DRG i sluten vård,DRG_2011_och_tidigare
+337,TUR-P U,DRG i sluten vård,DRG_2011_och_tidigare
+338,Testikelop malign tumör,DRG i sluten vård,DRG_2011_och_tidigare
+339,Testikelop benign sjd >17,DRG i sluten vård,DRG_2011_och_tidigare
+340,Testikelop benign sjd <18,DRG i sluten vård,DRG_2011_och_tidigare
+341,Penisoperationer,DRG i sluten vård,DRG_2011_och_tidigare
+342,Omskärelse >17,DRG i sluten vård,DRG_2011_och_tidigare
+343,Omskärelse <18,DRG i sluten vård,DRG_2011_och_tidigare
+344,Andra op manl genit malign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+345,Andra op manl genit benign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+346,Malign sjd manliga genitalia K,DRG i sluten vård,DRG_2011_och_tidigare
+347,Malign sjd manliga genitalia U,DRG i sluten vård,DRG_2011_och_tidigare
+348,Benign prostatahypertrofi K,DRG i sluten vård,DRG_2011_och_tidigare
+349,Benign prostatahypertrofi U,DRG i sluten vård,DRG_2011_och_tidigare
+350,Inflammation manliga genitalia,DRG i sluten vård,DRG_2011_och_tidigare
+351,Manlig sterilisering,DRG i sluten vård,DRG_2011_och_tidigare
+352,Andra sjd manliga genitalia,DRG i sluten vård,DRG_2011_och_tidigare
+353,Bäckenutrymn Hyst-/vulvektomi,DRG i sluten vård,DRG_2011_och_tidigare
+354,Op uter/adn mal sjd ej ovar K,DRG i sluten vård,DRG_2011_och_tidigare
+355,Op uter/adn mal sjd ej ovar U,DRG i sluten vård,DRG_2011_och_tidigare
+356,Rekonstr op kvinnl genitalia,DRG i sluten vård,DRG_2011_och_tidigare
+357,Op uter/adn vid ovarialcancer,DRG i sluten vård,DRG_2011_och_tidigare
+358,Op uter/adn vid benign sjd K,DRG i sluten vård,DRG_2011_och_tidigare
+359,Op uter/adn vid benign sjd U,DRG i sluten vård,DRG_2011_och_tidigare
+360,Op vagina cervix vulva,DRG i sluten vård,DRG_2011_och_tidigare
+361,Gyn lapskopi Öppen steriliser,DRG i sluten vård,DRG_2011_och_tidigare
+362,Sterilisering via skopi,DRG i sluten vård,DRG_2011_och_tidigare
+363,Skrap/kon/radioimpl malign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+364,Skrapning/konis benign sjd,DRG i sluten vård,DRG_2011_och_tidigare
+365,Andra op kvinnl genitalia,DRG i sluten vård,DRG_2011_och_tidigare
+366,Malign sjd kvinnl genitalia K,DRG i sluten vård,DRG_2011_och_tidigare
+367,Malign sjd kvinnl genitalia U,DRG i sluten vård,DRG_2011_och_tidigare
+368,Infektion kvinnl genitalia,DRG i sluten vård,DRG_2011_och_tidigare
+369,Mensstörning & andra problem,DRG i sluten vård,DRG_2011_och_tidigare
+370,Kejsarsnitt K,DRG i sluten vård,DRG_2011_och_tidigare
+371,Kejsarsnitt U,DRG i sluten vård,DRG_2011_och_tidigare
+372,Vaginal förlossning K,DRG i sluten vård,DRG_2011_och_tidigare
+373,Vaginal förlossning U,DRG i sluten vård,DRG_2011_och_tidigare
+374,Vaginal förlossn m steril/evak,DRG i sluten vård,DRG_2011_och_tidigare
+375,Vag förlos m op ej steril/evak,DRG i sluten vård,DRG_2011_och_tidigare
+376,Sjd puerperiet utan op,DRG i sluten vård,DRG_2011_och_tidigare
+377,Sjd puerperium med op,DRG i sluten vård,DRG_2011_och_tidigare
+377N,Obstetriska problem med andra operationer,DRG i sluten vård,DRG_2011_och_tidigare
+378,Extrauterin graviditet,DRG i sluten vård,DRG_2011_och_tidigare
+378N,Operation av extrauterin graviditet,DRG i sluten vård,DRG_2011_och_tidigare
+379,Hotande abort,DRG i sluten vård,DRG_2011_och_tidigare
+380,Abort utan evakuering,DRG i sluten vård,DRG_2011_och_tidigare
+381,Abort med evak el hysterekt,DRG i sluten vård,DRG_2011_och_tidigare
+382,Falskt värkarbete,DRG i sluten vård,DRG_2011_och_tidigare
+383,Andra sjd gravid m medic kompl,DRG i sluten vård,DRG_2011_och_tidigare
+384,Andra sjd gravid u medic kompl,DRG i sluten vård,DRG_2011_och_tidigare
+385,Nyfödd död/till annan akutenh,DRG i sluten vård,DRG_2011_och_tidigare
+385A,Nyfödd död 2d el annan enh 5d,DRG i sluten vård,DRG_2011_och_tidigare
+385B,Sent neonat probl el eftervård,DRG i sluten vård,DRG_2011_och_tidigare
+386,Extrem prematuritet & IRDS,DRG i sluten vård,DRG_2011_och_tidigare
+386N,Nyfödd under 1000g,DRG i sluten vård,DRG_2011_och_tidigare
+387,Prematur med allvarlig kompl,DRG i sluten vård,DRG_2011_och_tidigare
+387N,Nyfödd 1000-1499g,DRG i sluten vård,DRG_2011_och_tidigare
+388,Prematur utan allvarlig kompl,DRG i sluten vård,DRG_2011_och_tidigare
+388A,Nyfödd 1500-2499g multiprobl,DRG i sluten vård,DRG_2011_och_tidigare
+388B,Nyfödd 1500-2499g u multiprobl,DRG i sluten vård,DRG_2011_och_tidigare
+388C,Respiratory distress syndrome hos prematur nyfödd,DRG i sluten vård,DRG_2011_och_tidigare
+389,Fullburen nyfödd m allv kompl,DRG i sluten vård,DRG_2011_och_tidigare
+389A,Nyfödd >2499g med stor op,DRG i sluten vård,DRG_2011_och_tidigare
+389B,Nyfödd >2499g med multiprobl,DRG i sluten vård,DRG_2011_och_tidigare
+389C,Respiratory distress syndrome hos annan nyfödd,DRG i sluten vård,DRG_2011_och_tidigare
+390,Nyfödd m andra perinatala sjd,DRG i sluten vård,DRG_2011_och_tidigare
+391,Friskt nyfött barn,DRG i sluten vård,DRG_2011_och_tidigare
+392,Mjältextirpation >17,DRG i sluten vård,DRG_2011_och_tidigare
+393,Mjältextirpation <18,DRG i sluten vård,DRG_2011_och_tidigare
+394,Andra op blodbildande organ,DRG i sluten vård,DRG_2011_och_tidigare
+395,Sjd i röda blodkroppar >17,DRG i sluten vård,DRG_2011_och_tidigare
+396,Sjd i röda blodkroppar <18,DRG i sluten vård,DRG_2011_och_tidigare
+397,Koagulationsstörningar,DRG i sluten vård,DRG_2011_och_tidigare
+398,Sjd i RES & immunologisk sjd K,DRG i sluten vård,DRG_2011_och_tidigare
+399,Sjd i RES & immunologisk sjd U,DRG i sluten vård,DRG_2011_och_tidigare
+400,Lymfom/leukemi med stor op,DRG i sluten vård,DRG_2011_och_tidigare
+401,Lymfom/leukemi med andra op K,DRG i sluten vård,DRG_2011_och_tidigare
+402,Lymfom/leukemi med andra op U,DRG i sluten vård,DRG_2011_och_tidigare
+403,Lymfom & leukemi K,DRG i sluten vård,DRG_2011_och_tidigare
+404,Lymfom & leukemi U,DRG i sluten vård,DRG_2011_och_tidigare
+405,Akut leukemi utan stor op <18,DRG i sluten vård,DRG_2011_och_tidigare
+406,Mprf sjd Ospec tum m stor op K,DRG i sluten vård,DRG_2011_och_tidigare
+407,Mprf sjd Ospec tum m stor op U,DRG i sluten vård,DRG_2011_och_tidigare
+408,Mprf sjd Ospec tum m andra op,DRG i sluten vård,DRG_2011_och_tidigare
+409,Strålbehandling,DRG i sluten vård,DRG_2011_och_tidigare
+410,Kemoterapi ej akut leukemi,DRG i sluten vård,DRG_2011_och_tidigare
+411,Utredn malign sjd u endoskopi,DRG i sluten vård,DRG_2011_och_tidigare
+412,Utredn malign sjd m endoskopi,DRG i sluten vård,DRG_2011_och_tidigare
+413,Andra mprf sjd/ospec tumörer K,DRG i sluten vård,DRG_2011_och_tidigare
+414,Andra mprf sjd/ospec tumörer U,DRG i sluten vård,DRG_2011_och_tidigare
+415,Op infektions- & parasitsjd,DRG i sluten vård,DRG_2011_och_tidigare
+416,Sepsis >17,DRG i sluten vård,DRG_2011_och_tidigare
+416N,"Sepsis, >17 år",DRG i sluten vård,DRG_2011_och_tidigare
+417,Sepsis <18,DRG i sluten vård,DRG_2011_och_tidigare
+417N,"Sepsis, 0-17 år",DRG i sluten vård,DRG_2011_och_tidigare
+418,Postop & posttraum infektion,DRG i sluten vård,DRG_2011_och_tidigare
+419,Feber av okänd orsak >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+420,Feber av okänd orsak >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+421,Virusinfektion >17,DRG i sluten vård,DRG_2011_och_tidigare
+422,Virusinf Feber okänd orsak <18,DRG i sluten vård,DRG_2011_och_tidigare
+423,Andra infektions- & parasitsjd,DRG i sluten vård,DRG_2011_och_tidigare
+424,Op pga psykisk sjd,DRG i sluten vård,DRG_2011_och_tidigare
+424N,Op psyk sjd eller beroende,DRG i sluten vård,DRG_2011_och_tidigare
+425,Akut anpassn & psyksoc störn,DRG i sluten vård,DRG_2011_och_tidigare
+426,Depressiva neuroser,DRG i sluten vård,DRG_2011_och_tidigare
+426A,Bipolära syndrom <60,DRG i sluten vård,DRG_2011_och_tidigare
+426B,Bipolära syndrom >59,DRG i sluten vård,DRG_2011_och_tidigare
+426C,Övriga förstämningssyndrom <60,DRG i sluten vård,DRG_2011_och_tidigare
+426D,Övriga förstämningssyndrom >59,DRG i sluten vård,DRG_2011_och_tidigare
+427,Icke-depressiva neuroser,DRG i sluten vård,DRG_2011_och_tidigare
+427A,Ångestsyndrom,DRG i sluten vård,DRG_2011_och_tidigare
+427B,Maladaptiv stressreakt ej akut,DRG i sluten vård,DRG_2011_och_tidigare
+427C,Maladaptiv stressreakt akut,DRG i sluten vård,DRG_2011_och_tidigare
+427D,Somatoforma/dissociativa syndr,DRG i sluten vård,DRG_2011_och_tidigare
+428,Persstörn & dålig impulskontr,DRG i sluten vård,DRG_2011_och_tidigare
+428N,Personlighetsstörningar,DRG i sluten vård,DRG_2011_och_tidigare
+429,Org psyk störn & retardation,DRG i sluten vård,DRG_2011_och_tidigare
+429A,Organiska psykosyndrom K,DRG i sluten vård,DRG_2011_och_tidigare
+429B,Organiska psykosyndrom U,DRG i sluten vård,DRG_2011_och_tidigare
+430,Psykoser,DRG i sluten vård,DRG_2011_och_tidigare
+430A,Schizofreni <31,DRG i sluten vård,DRG_2011_och_tidigare
+430B,Schizofreni 31-59,DRG i sluten vård,DRG_2011_och_tidigare
+430C,Schizofreni >59,DRG i sluten vård,DRG_2011_och_tidigare
+430D,Långvarig psykos ej schiz,DRG i sluten vård,DRG_2011_och_tidigare
+430E,Kortvarig psykos ej schiz,DRG i sluten vård,DRG_2011_och_tidigare
+430F,Övriga psykotiska syndrom,DRG i sluten vård,DRG_2011_och_tidigare
+431,Psyk störn i barndomen,DRG i sluten vård,DRG_2011_och_tidigare
+431A,Mental retardation,DRG i sluten vård,DRG_2011_och_tidigare
+431B,Neuropsykiatriska tillstånd,DRG i sluten vård,DRG_2011_och_tidigare
+431C,Övrigt psyk med ung debut,DRG i sluten vård,DRG_2011_och_tidigare
+432,Andra psyk sjd & störningar,DRG i sluten vård,DRG_2011_och_tidigare
+432A,Ätstörningar,DRG i sluten vård,DRG_2011_och_tidigare
+432B,Övrig specific psyk störning,DRG i sluten vård,DRG_2011_och_tidigare
+432C,Ospecific psyk störning,DRG i sluten vård,DRG_2011_och_tidigare
+432M,Psykiatrisk vård 29-90 dagar,DRG i sluten vård,DRG_2011_och_tidigare
+432N,Psykiatrisk vård mer än 90 dagar,DRG i sluten vård,DRG_2011_och_tidigare
+433,Drogmissbruk nekar behandling,DRG i sluten vård,DRG_2011_och_tidigare
+434,Drogmissbruk avgiftning K,DRG i sluten vård,DRG_2011_och_tidigare
+435,Drogmissbruk avgiftning U,DRG i sluten vård,DRG_2011_och_tidigare
+436,Drogberoende rehabilitering ,DRG i sluten vård,DRG_2011_och_tidigare
+436A,Missbruk/beroende ej psykos K,DRG i sluten vård,DRG_2011_och_tidigare
+436B,Missbruk/beroende ej psykos U,DRG i sluten vård,DRG_2011_och_tidigare
+436C,Missbruk/beroende med psykos,DRG i sluten vård,DRG_2011_och_tidigare
+437,Drogberoende rehab med avgiftn,DRG i sluten vård,DRG_2011_och_tidigare
+439,Hudtranspl efter skada,DRG i sluten vård,DRG_2011_och_tidigare
+440,Sårrevision efter skada,DRG i sluten vård,DRG_2011_och_tidigare
+441,Handkir op efter skada,DRG i sluten vård,DRG_2011_och_tidigare
+442,Andra op efter skada K,DRG i sluten vård,DRG_2011_och_tidigare
+443,Andra op efter skada U,DRG i sluten vård,DRG_2011_och_tidigare
+444,Trauma >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+445,Trauma >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+446,Trauma <18,DRG i sluten vård,DRG_2011_och_tidigare
+447,Allergiska reaktioner >17,DRG i sluten vård,DRG_2011_och_tidigare
+448,Allergiska reaktioner <18,DRG i sluten vård,DRG_2011_och_tidigare
+449,Förgiftn & tox medicin >17 K,DRG i sluten vård,DRG_2011_och_tidigare
+450,Förgiftn & tox medicin >17 U,DRG i sluten vård,DRG_2011_och_tidigare
+451,Förgiftn & tox medicin <18,DRG i sluten vård,DRG_2011_och_tidigare
+452,Behandlingskomplikation K,DRG i sluten vård,DRG_2011_och_tidigare
+452A,"Behandlingskomplikationer med kirurgisk åtgärd, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+452B,"Behandlingskomplikationer utan kirurgisk åtgärd, komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+453,Behandlingskomplikation U,DRG i sluten vård,DRG_2011_och_tidigare
+453A,"Behandlingskomplikationer med kirurgisk åtgärd, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+453B,"Behandlingskomplikationer utan kirurgisk åtgärd, ej komplicerat",DRG i sluten vård,DRG_2011_och_tidigare
+454,Andra skador & förgiftningar K,DRG i sluten vård,DRG_2011_och_tidigare
+455,Andra skador & förgiftningar U,DRG i sluten vård,DRG_2011_och_tidigare
+456,Brännskada t annan akutenhet,DRG i sluten vård,DRG_2011_och_tidigare
+457,Omfattande brännskada ej op,DRG i sluten vård,DRG_2011_och_tidigare
+458,Mindre brännskada med hudtrpl,DRG i sluten vård,DRG_2011_och_tidigare
+459,Mindre brännskada annan op,DRG i sluten vård,DRG_2011_och_tidigare
+460,Mindre brännskada utan op,DRG i sluten vård,DRG_2011_och_tidigare
+461,Op pga annan sjukvårdskontakt,DRG i sluten vård,DRG_2011_och_tidigare
+462,Rehabilitering,DRG i sluten vård,DRG_2011_och_tidigare
+463,Kliniska fynd & symtom K,DRG i sluten vård,DRG_2011_och_tidigare
+464,Kliniska fynd & symtom U,DRG i sluten vård,DRG_2011_och_tidigare
+465,Efterbehandl m malign bidiagn,DRG i sluten vård,DRG_2011_och_tidigare
+466,Efterbehandl m benign bidiagn,DRG i sluten vård,DRG_2011_och_tidigare
+467,Annan påverkan på hälsotillst,DRG i sluten vård,DRG_2011_och_tidigare
+468,Stor op u rel t huvuddiagnos,DRG i sluten vård,DRG_2011_och_tidigare
+469,Huvuddiagnos ogiltig,DRG i sluten vård,DRG_2011_och_tidigare
+470,Ej gruppbar pga saknad inform,DRG i sluten vård,DRG_2011_och_tidigare
+471,Bilat el multipel ledop ben,DRG i sluten vård,DRG_2011_och_tidigare
+471N,Dubbelsidiga eller multipla ledoperationer på extremiteter,DRG i sluten vård,DRG_2011_och_tidigare
+472,Större brännskada med op,DRG i sluten vård,DRG_2011_och_tidigare
+473,Akut leukemi utan stor op >17,DRG i sluten vård,DRG_2011_och_tidigare
+475,Luftvägssjd m ventilatorstöd,DRG i sluten vård,DRG_2011_och_tidigare
+475A,Resp.beh. för sjd i andningsorg,DRG i sluten vård,DRG_2011_och_tidigare
+475B,Behandling med CPAP/BiPAP,DRG i sluten vård,DRG_2011_och_tidigare
+476,Prostatop u rel t huvuddiagnos,DRG i sluten vård,DRG_2011_och_tidigare
+477,Mindre op u rel t huvuddiagnos,DRG i sluten vård,DRG_2011_och_tidigare
+478,Övriga kärlop K,DRG i sluten vård,DRG_2011_och_tidigare
+479,Övriga kärlop U,DRG i sluten vård,DRG_2011_och_tidigare
+480,Levertransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+481,Benmärgstransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+481A,Annan stamcellstranspl,DRG i sluten vård,DRG_2011_och_tidigare
+481B,Allogen stamcellstranspl >17,DRG i sluten vård,DRG_2011_och_tidigare
+481C,Allogen stamcellstranspl <18,DRG i sluten vård,DRG_2011_och_tidigare
+482,Trakeostomi ÖNH-sjd,DRG i sluten vård,DRG_2011_och_tidigare
+483,Trakeostomi ej ÖNH-sjd,DRG i sluten vård,DRG_2011_och_tidigare
+484,Kraniotomi vid multitrauma,DRG i sluten vård,DRG_2011_och_tidigare
+485,Reimpl/höft-lårop multitrauma,DRG i sluten vård,DRG_2011_och_tidigare
+486,Andra op multitrauma,DRG i sluten vård,DRG_2011_och_tidigare
+487,Multitrauma ej op,DRG i sluten vård,DRG_2011_och_tidigare
+488,HIV med större op,DRG i sluten vård,DRG_2011_och_tidigare
+489,HIV m allvarlig relaterad sjd,DRG i sluten vård,DRG_2011_och_tidigare
+490,HIV u allvarlig relaterad sjd,DRG i sluten vård,DRG_2011_och_tidigare
+491,Stor reimpl/ledprotesop på arm,DRG i sluten vård,DRG_2011_och_tidigare
+492,Kemoterapi akut leukemi bidiag,DRG i sluten vård,DRG_2011_och_tidigare
+493,Laparoskopisk kolecystektomi K,DRG i sluten vård,DRG_2011_och_tidigare
+494,Laparoskopisk kolecystektomi U,DRG i sluten vård,DRG_2011_och_tidigare
+495,Lungtransplantation,DRG i sluten vård,DRG_2011_och_tidigare
+501A,Rekonstruktion av bröst K,DRG i sluten vård,DRG_2011_och_tidigare
+501B,Rekonstruktion av bröst U,DRG i sluten vård,DRG_2011_och_tidigare
+502,Mastektomi med rekonstruktion,DRG i sluten vård,DRG_2011_och_tidigare
+509,Andra op vid bröstkörtelsjd,DRG i sluten vård,DRG_2011_och_tidigare
+520,Sömnapnésyndrom,DRG i sluten vård,DRG_2011_och_tidigare
+521,Op för sömnapnésyndrom,DRG i sluten vård,DRG_2011_och_tidigare
+530,Behandling/utredning under större anestesi vid andra problem,DRG i sluten vård,DRG_2011_och_tidigare
+531,Behandling/utredning under större anestesi vid neurologiska problem,DRG i sluten vård,DRG_2011_och_tidigare
+534,Behandling/utredning under större anestesi vid respirationsproblem,DRG i sluten vård,DRG_2011_och_tidigare
+535,Behandling/utredning under större anestesi vid cirkulationsproblem,DRG i sluten vård,DRG_2011_och_tidigare
+537,Behandling/utredning under större anestesi vid lever-pankreasproblem,DRG i sluten vård,DRG_2011_och_tidigare
+538,Behandling/utredning under större anestesi vid ortopediska problem,DRG i sluten vård,DRG_2011_och_tidigare
+541,Behandling/utredning under större anestesi vid urologiska problem,DRG i sluten vård,DRG_2011_och_tidigare
+550A,Rehab vid stroke UNS,DRG i sluten vård,DRG_2011_och_tidigare
+551A,Rehab vid demyeliniserande sjd UNS,DRG i sluten vård,DRG_2011_och_tidigare
+552A,Rehab vid ryggmärgsproblem UNS,DRG i sluten vård,DRG_2011_och_tidigare
+553A,Rehab vid hjärnskada UNS,DRG i sluten vård,DRG_2011_och_tidigare
+554A,Rehab vid hjärntumör UNS,DRG i sluten vård,DRG_2011_och_tidigare
+555A,Rehab vid annat neurologiskt problem UNS,DRG i sluten vård,DRG_2011_och_tidigare
+556A,Rehab vid hjärt-lungproblem UNS,DRG i sluten vård,DRG_2011_och_tidigare
+557A,Rehab vid bindvävssjd UNS,DRG i sluten vård,DRG_2011_och_tidigare
+558A,Rehab vid annat trauma UNS,DRG i sluten vård,DRG_2011_och_tidigare
+559A,Rehab vid amputation UNS,DRG i sluten vård,DRG_2011_och_tidigare
+560A,Rehab av annat skäl UNS,DRG i sluten vård,DRG_2011_och_tidigare
+570,Implantation/byte av nervstimulator,DRG i sluten vård,DRG_2011_och_tidigare
